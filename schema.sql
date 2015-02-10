@@ -83,6 +83,7 @@ CREATE TABLE "info" (
   "key" TEXT NOT NULL,
   "value" TEXT DEFAULT "" NOT NULL
 );
+CREATE UNIQUE INDEX info_key ON info(key);
 
 CREATE TABLE major_module_requirements (
   course TEXT NOT NULL,
