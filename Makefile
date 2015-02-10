@@ -67,15 +67,15 @@ very_clean: clean
 dist-setup:
 	mkdir -p dist
 
-philfak-dist: data.sqlite3
+philfak-dist: data.sqlite3 | dist-setup
 	cp data.sqlite3 dist/data.sqlite3
 
-wiwi-dist: wiwi_data.sqlite3
+wiwi-dist: wiwi_data.sqlite3 | dist-setup
 	cp wiwi_data.sqlite3 dist/data.sqlite3
 	cp WiWiSolver.mch dist/
 
 flavor=philfak
-dist: $(join $(flavor),-dist) | dist-setup
+dist: $(join $(flavor),-dist)
 
 .PHONY: clean very_clean dist-setup philfak-dist wiwi-dist dist
 .INTERMEDIATE: data.sql wiwi_data.sql data.sqlite3 wiwi_data.sqlite3
