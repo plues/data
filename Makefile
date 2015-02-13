@@ -72,7 +72,6 @@ philfak-dist: data.sqlite3 | dist-setup
 
 wiwi-dist: wiwi_data.sqlite3 | dist-setup
 	cp wiwi_data.sqlite3 dist/data.sqlite3
-	cp WiWiSolver.mch dist/
 
 flavor=philfak
 dist: $(join $(flavor),-dist)
