@@ -242,7 +242,7 @@ def main():
 
     args = parser.parse_args()
     rcprint("Loading input from " + args.input.name)
-    csv = pandas.read_csv(args.input, header=None, names=['course','department', 'semester','slot', 'module', 'group', 'title'])
+    csv = pandas.read_csv(args.input, encoding='utf-8', header=None, names=['course','department', 'semester','slot', 'module', 'group', 'title'])
     csv = csv.rename(columns=dict(enumerate(['course', 'semester', 'slot', 'module', 'group', 'title'])))
     csv['kf'] = csv['course'].str.lower().map(lambda x: x[-2:] == 'kf')
     csv['ef'] = csv['course'].str.lower().map(lambda x: x[-2:] == 'ef')
