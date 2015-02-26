@@ -84,7 +84,7 @@ CREATE TABLE "info" (
   "value" TEXT DEFAULT "" NOT NULL
 );
 CREATE UNIQUE INDEX info_key ON info(key);
-INSERT INTO info (key, value) VALUES ("schema_version", "1.0");
+INSERT INTO info (key, value) VALUES ("schema_version", "1.1");
 
 CREATE TABLE major_module_requirements (
   course TEXT NOT NULL,
