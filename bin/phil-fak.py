@@ -208,13 +208,12 @@ def gen_sql(courses, departments, units, sessions, mapping):
 
     for u_id, unit in enumerate(units, 1):
         formatted_units.append(f['UNIT'].format(id=u_id,
-            title=unit['title'].encode('ascii', errors='replace').decode('utf8'),
+            title=unit['title'],
             department=unit['department']))
         for _, group in unit['groups'].items():
             group_id = len(formatted_groups)+1
             formatted_group = f['GROUP'].format(id=group_id, unit_id=u_id,
-                    title=group['title'].encode('ascii',
-                        errors='replace').decode('utf8'))
+                    title=group['title'])
             formatted_groups.append(formatted_group)
             for i in group['sessions']:
                 formatted_group_sessions.append(f['GROUP_SESSION'].format(group_id=group_id, session_id=i+1))
