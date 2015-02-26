@@ -57,6 +57,7 @@ clean:
 	rm -f wiwi_data.sqlite3
 	rm -f requirements.inst
 	rm -f *.mch
+	rm -f *.prob
 	rm -f *.pl
 
 very_clean: clean
