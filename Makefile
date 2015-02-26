@@ -77,5 +77,5 @@ wiwi-dist: wiwi_data.sqlite3 | dist-setup
 flavor=philfak
 dist: $(join $(flavor),-dist)
 
-.PHONY: clean very_clean dist-setup philfak-dist wiwi-dist dist
+.PHONY: clean very_clean dist-setup philfak-dist wiwi-dist dist $(modelgenerator)
 .INTERMEDIATE: data.sql wiwi_data.sql data.sqlite3 wiwi_data.sqlite3
