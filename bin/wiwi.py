@@ -207,13 +207,11 @@ def gen_sql(mods, units, mapping, sessions, machine_name, table):
     formatted_group_sessions = []
     for u_id, unit in enumerate(units, 1):
         formatted_units.append(f['UNIT'].format(id=u_id,
-            duration=unit['duration'], title=unit['title'].encode('ascii',
-                errors='replace').decode('utf8')))
+            duration=unit['duration'], title=unit['title']))
         for group in unit['groups']:
             group_id = len(formatted_groups) + 1
             formatted_group = f['GROUP'].format(id=group_id, unit_id=u_id,
-                    title=group['title'].encode('ascii',
-                        errors='replace').decode('utf8'))
+                    title=group['title'])
             formatted_groups.append(formatted_group)
             for i in group['sessions']:
                 formatted_group_sessions.append(f['GROUP_SESSION'].format(group_id=group_id, session_id=i+1))
@@ -240,7 +238,7 @@ def main(argv):
 
     rcprint("Loading input from " + args.input.name)
 
-    table = pandas.read_excel(args.input.name, 0, verbose=True, skiprows=2)
+    table = pandas.read_excel(args.input.name, 0, verbose=True, skiprows=2, encoding='utf8')
 
     # rename columns
     col_names = list(reversed(['Slot', 'Slot2', 'Valt'] + ['Alternative']*7 + ['Schwerpunkt', 'Schwerpunkt', 'Rhythmus']))
