@@ -72,10 +72,10 @@ version: data.sqlite3
 	$(eval VERSION:=$(shell sqlite3 $^ "select value from info where key='schema_version';"))
 
 philfak-dist: data.sqlite3 | dist-setup
-	cp data.sqlite3 dist/data.sqlite3
+	cp $^ dist/data.sqlite3
 
 wiwi-dist: wiwi_data.sqlite3 | dist-setup
-	cp wiwi_data.sqlite3 dist/data.sqlite3
+	cp $^ dist/data.sqlite3
 
 flavor=philfak
 dist: $(join $(flavor),-dist)
