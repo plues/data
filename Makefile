@@ -68,6 +68,9 @@ very_clean: clean
 dist-setup:
 	mkdir -p dist
 
+version: data.sqlite3
+	$(eval VERSION:=$(shell sqlite3 $^ "select value from info where key='schema_version';"))
+
 philfak-dist: data.sqlite3 | dist-setup
 	cp data.sqlite3 dist/data.sqlite3
 
@@ -77,5 +80,5 @@ wiwi-dist: wiwi_data.sqlite3 | dist-setup
 flavor=philfak
 dist: $(join $(flavor),-dist)
 
-.PHONY: clean very_clean dist-setup philfak-dist wiwi-dist dist $(modelgenerator)
+.PHONY: clean very_clean dist-setup philfak-dist wiwi-dist dist $(modelgenerator) version
 .INTERMEDIATE: data.sql wiwi_data.sql data.sqlite3 wiwi_data.sqlite3
