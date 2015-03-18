@@ -262,6 +262,10 @@ def main(argv):
     table['Schwerpunkt'] = table['Schwerpunkt'].fillna(0).applymap(int)
     table['Rhythmus'] = table['Rhythmus'].fillna(0)
     table['Veranstaltungstitel'] = table['Veranstaltungstitel'].fillna('Title Missing!')
+
+    # propagate module information before dropping rows
+    table['Modul'] = table['Modul'].fillna(method='ffill')
+
     # drop block seminars
     table = table[table.Rhythmus < 3]
     table['Alternative'] = table['Alternative'].replace(0, numpy.nan).replace(3, numpy.nan)
