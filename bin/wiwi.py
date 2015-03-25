@@ -16,6 +16,7 @@ SQL = u"""
 
 INSERT INTO "info" values("generated", "{generated:%Y-%m-%d %H:%M:%S}");
 INSERT INTO "info" values("hashseed", "{seed}");
+INSERT INTO "info" values("generator", "wiwi");
 
 INSERT INTO "departments" VALUES ("wiwi", "Wirtschaftswissenschaften", datetime('now'), datetime('now'));
 
