@@ -69,7 +69,7 @@ class Unit(object):
 class NamedThing(object):
 
     def __repr__(self):
-        return """{cls.__name__}({fields})""".format(cls=self.__class__, self.__dict__)
+        return """{cls.__name__}({fields})""".format(cls=self.__class__, fields=self.__dict__)
 
     def __sql__(self):
         raise NotImplementedError
@@ -106,11 +106,16 @@ class Course(NamedThing):
         self.table_name = self.table_name  # because reasons
 
     def __sql__(self):
-        return """INSERT INTO {table_name} (name, long_name, created_at, updated_at) VALUES ("{name}", "{long_name}", datetime("now"), datetime("now"));""".format(**self.__dict__)
+        return """
+INSERT INTO {table_name} (name, long_name, created_at, updated_at) VALUES ("{name}", "{long_name}", datetime("now"), datetime("now"));
+INSERT INTO major_module_requirements (course, requirement) VALUES ("{name}", 3);""".format(**self.__dict__)
 
 
 class Department(Course):
     table_name = "departments"
+    def __sql__(self):
+        return """
+INSERT INTO {table_name} (name, long_name, created_at, updated_at) VALUES ("{name}", "{long_name}", datetime("now"), datetime("now"));""".format(**self.__dict__)
 
 
 class Mapping(object):
