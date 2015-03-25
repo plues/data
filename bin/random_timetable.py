@@ -63,29 +63,54 @@ class Unit(object):
         return """Unit(idx={idx}, title='{title}', department='{department}', duration={duration}, groups={groups})""".format(**self.__dict__)
 
     def __sql__(self):
-        return '\n'.join(["""INSERT INTO units (id, title, department, duration, created_at, updated_at) VALUES ({idx}, "{title}", "{department}", {duration}, datetime("now"), datetime("now"));""".format(**self.__dict__), sql(*self.groups)])
+        return '\n'.join(["""INSERT INTO units (id, title, department, duration, created_at, updated_at) VALUES ({idx}, "{title}", "{department.name}", {duration}, datetime("now"), datetime("now"));""".format(**self.__dict__), sql(*self.groups)])
 
 
 class NamedThing(object):
+
+    def __repr__(self):
+        return """{cls.__name__}({fields})""".format(cls=self.__class__, self.__dict__)
+
+    def __sql__(self):
+        raise NotImplementedError
+
+
+class Module(NamedThing):
+    table_name = "modules"
+    def __init__(self, idx, name):
+        self.name = name
+        self.table_name = self.table_name  # because reasons
+
+    def __sql__(self):
+        return """INSERT INTO {table_name} (name, created_at, updated_at) VALUES ("{name}", datetime("now"), datetime("now"));""".format(**self.__dict__)
+
+
+class FocusArea(NamedThing):
+    table_name = "focus_areas"
 
     def __init__(self, idx, name):
         self.idx = idx
         self.name = name
         self.table_name = self.table_name  # because reasons
 
-    def __repr__(self):
-        return """{__class__.__name__}({idx}, "{name}")""".format(**self.__dict__)
+    def __sql__(self):
+        return """INSERT INTO {table_name} (id, name, created_at, updated_at) VALUES ({idx}, "{name}", datetime("now"), datetime("now"));""".format(**self.__dict__)
+
+
+class Course(NamedThing):
+    table_name = "courses"
+
+    def __init__(self, name, long_name):
+        self.name = name
+        self.long_name = long_name
+        self.table_name = self.table_name  # because reasons
 
     def __sql__(self):
-        return """INSERT INTO {table_name} (name, created_at, updated_at) VALUES ("{name}", datetime("now"), datetime("now"));""".format(**self.__dict__)
+        return """INSERT INTO {table_name} (name, long_name, created_at, updated_at) VALUES ("{name}", "{long_name}", datetime("now"), datetime("now"));""".format(**self.__dict__)
 
 
-class Module(NamedThing):
-    table_name = "modules"
-
-
-class FocusArea(NamedThing):
-    table_name = "focus_areas"
+class Department(Course):
+    table_name = "departments"
 
 
 class Mapping(object):
@@ -101,7 +126,7 @@ class Mapping(object):
     def __repr__(self):
         return """Mapping({module}, {klass}, "{course}", "{typ}", {focus_area}, {semester}, {unit})""".format(**self.__dict__)
     def __sql__(self):
-        return """insert into mapping ("module", "class", "course", "type", "focus_area_id", "semester", "unit_id") VALUES ({module.idx}, {klass}, "{course}", "{typ}", {focus_area.idx}, {semester}, {unit.idx});""".format(**self.__dict__)
+        return """insert into mapping ("module", "class", "course", "type", "focus_area_id", "semester", "unit_id") VALUES ("{module.name}", {klass}, "{course.name}", "{typ}", {focus_area.idx}, {semester}, {unit.idx});""".format(**self.__dict__)
 
 
 
@@ -125,25 +150,25 @@ def group_generator(sg):
         yield Group(idx, title, sessions)
 
 
-def unit_generator(gg):
+def unit_generator(gg, departments):
     idx = 0
     while True:
         idx += 1
         title = "Unit "+str(idx)
-        department = "Dep"
+        department = random.choice(departments)
         groups = [next(gg) for _ in range(1,8)]
         yield Unit(idx, title, department, groups=groups)
 
 
-def name_generator(name, start, cls):
-    idx = start
+def name_generator(name, cls):
+    idx = 0
     while True:
-        yield cls(idx, name + " " + str(idx))
         idx += 1
+        yield cls(idx, name + "_" + str(idx))
 
 
-def mapping_generator(ug, modules, focus_areas):
-    course = "Course"
+def mapping_generator(ug, courses, modules, focus_areas):
+    course = random.choice(courses)
     while True:
         typ = random.choice(('P', 'W'))
         semesters = random.sample(
@@ -184,20 +209,24 @@ def main():
     random.seed(args.seed)
     print("Random seed:", args.seed)
 
+    courses = [Course("Course", "This is for testing")]
+    departments = [Department("Dep", "This is for testing")]
+    #
     sg = session_generator()
     gg = group_generator(sg)
-    ug = unit_generator(gg)
+    ug = unit_generator(gg, departments)
 
-    mg = name_generator("Module", 1, Module)
-    fg = name_generator("Focus Area", 0, FocusArea)
+    mg = name_generator("Module", Module)
+    fg = name_generator("Focus Area", FocusArea)
 
+    #
     modules = [next(mg) for _ in range(random.randint(1, 100))]
     print("created {n} modules".format(n=len(modules)))
 
     focus_areas = [next(fg) for _ in range(random.randint(1, 15))]
     print("created {n} focus_areas".format(n=len(focus_areas)))
     #
-    mapping = mapping_generator(ug, modules, focus_areas)
+    mapping = mapping_generator(ug, courses, modules, focus_areas)
     mappings = [next(mapping) for _ in range(100)]
     #
     units = {m.unit for m in mappings}
@@ -207,6 +236,9 @@ def main():
     print('INSERT INTO "info" values("generated", "{generated:%Y-%m-%d %H:%M:%S}");'.format(generated=datetime.now()), file=args.output)
     print('INSERT INTO "info" values("hashseed", "{seed}");'.format(seed=args.seed), file=args.output)
     print('INSERT INTO "info" values("generator", "random");', file=args.output)
+    #
+    print(sql(*courses), file=args.output)
+    print(sql(*departments), file=args.output)
     print(sql(*modules), file=args.output)
     print(sql(*focus_areas), file=args.output)
     print(sql(*list(units)), file=args.output)
