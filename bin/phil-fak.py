@@ -13,6 +13,7 @@ SQL = u"""
 
 INSERT INTO "info" values("generated", "{generated:%Y-%m-%d %H:%M:%S}");
 INSERT INTO "info" values("hashseed", "{seed}");
+INSERT INTO "info" values("generator", "phil-fak");
 
 INSERT INTO "departments" (name, long_name, created_at, updated_at) VALUES
         {departments};

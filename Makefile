@@ -21,7 +21,15 @@ wiwi_data_file=raw/wiwi.xlsx
 wiwi_data.sql: bin/wiwi.py $(wiwi_data_file)
 	PYTHONHASHSEED=$(HASHSEED) $(VENV)/bin/python3 $^ $@
 
-DATABASES=data.sqlite3 wiwi_data.sqlite3
+random.sql: bin/random_timetable.py
+ifndef RANDOMSEED
+	$(VENV)/bin/python $^ --output=$@
+else
+	$(VENV)/bin/python $^ --output=$@ --seed=$(RANDOMSEED)
+endif
+
+
+DATABASES=data.sqlite3 wiwi_data.sqlite3 random.sqlite3
 $(DATABASES): %.sqlite3: %.sql schema.sql
 	rm -f $@
 	sqlite3 $@ < $<
@@ -55,6 +63,8 @@ clean:
 	rm -f data.sqlite3
 	rm -f wiwi_data.sql
 	rm -f wiwi_data.sqlite3
+	rm -f random.sql
+	rm -f random.sqlite3
 	rm -f requirements.inst
 	rm -f *.mch
 	rm -f *.prob
