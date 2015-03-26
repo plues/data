@@ -18,6 +18,18 @@ Humanities.
 Call `make wiwi_data.sql` or `make wiwi_data.sqlite3` to generate the
 data for the facutlty of Economics.
 
+Note: The previous calls use python dictionaries wich are subject to python's
+hash randomization which affects the order of the elements in the generated
+database. The used seed for the randomization is stored in the genrated database.
+To override this behaviour or to re-generate a specific
+order in the generated data pass the `HASHSEED` variable to the `Makefile`
+targets, e.g.: `make wiwi_data.sqlite3 HASHSEED=x`.
+
+Call `make random.sql` or `make random.sqlite3` to generate a database seed
+with random values, the hashseed is printed and stored in the generated file.
+The `RANDOMSEED` variable can be passed to the makefile to regenerated a
+certain dataset, e.g. `make random.slite3 RANDOMSEED=x`.
+
 ## Dependencies
 
 * python3
