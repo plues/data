@@ -239,7 +239,7 @@ def main():
 
     print('.read "schema.sql"', file=args.output)
     print('INSERT INTO "info" values("generated", "{generated:%Y-%m-%d %H:%M:%S}");'.format(generated=datetime.now()), file=args.output)
-    print('INSERT INTO "info" values("hashseed", "{seed}");'.format(seed=args.seed), file=args.output)
+    print('INSERT INTO "info" values("random seed", "{seed}");'.format(seed=args.seed), file=args.output)
     print('INSERT INTO "info" values("generator", "random");', file=args.output)
     #
     print(sql(*courses), file=args.output)
