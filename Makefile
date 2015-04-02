@@ -9,17 +9,20 @@ ifdef VIRTUAL_ENV
 	VENV=$(VIRTUAL_ENV)
 endif
 
-bin/wiwi.py bin/phil-fak.py: requirements.inst
-
 HASHSEED:=$(shell awk 'BEGIN{srand();printf("%d", 4294967295*rand())}')
+# export for sub-processes
+export PYTHONHASHSEED=$(HASHSEED)
+
+
+bin/wiwi.py bin/phil-fak.py: requirements.inst
 
 data_file=raw/phil-fak.csv
 data.sql: bin/phil-fak.py $(data_file)
-	PYTHONHASHSEED=$(HASHSEED) $(VENV)/bin/python3 $^ $@
+	$(VENV)/bin/python3 $^ $@
 
 wiwi_data_file=raw/wiwi.xlsx
 wiwi_data.sql: bin/wiwi.py $(wiwi_data_file)
-	PYTHONHASHSEED=$(HASHSEED) $(VENV)/bin/python3 $^ $@
+	$(VENV)/bin/python3 $^ $@
 
 random.sql: bin/random_timetable.py
 ifndef RANDOMSEED
