@@ -49,8 +49,6 @@ wiwi_data.mch: wiwi_data.sqlite3 $(modelgenerator)
 wiwi_data.pl: wiwi_data.sqlite3 $(modelgenerator)
 	java -jar $(modelgenerator) --database=$< --format=prolog --faculty=wiwi --output=$@
 
-$(VIRTUAL_ENV):
-
 $(LOCAL_VIRTUAL_ENV):
 	if [ ! -d "$(VENV)" ]; then virtualenv -p `which python3` $(VENV); fi
 
