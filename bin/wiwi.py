@@ -11,7 +11,6 @@ from util import rcprint, cprint
 
 seed = os.environ.get('PYTHONHASHSEED', 'not specified')
 
-COURSES=["bwl_bachelor", "bwl_master", "vwl_bachelor", "vwl_master", "wichem_bachelor", "wichem_master",]
 
 SQL = u"""
 .read "schema.sql"
@@ -87,17 +86,30 @@ def normalized_title(row):
 
 
 def extract_modules(data):
-    courses = {}
     modules = {}
     for i, row in data.iterrows():
         name = row['Modul']
         if name not in modules:
             modules[name] = {}
         module = modules[name]
+
+        if 'courses' not in module:
+            module['courses'] = set()
+
         module['name'] = name
         module['frequency'] = row['Angebot']
+        module['type'] = 'm' if row['Modultyp'] == 'P' else 'e'
+        module['courses'].add(course_map[row['verwenbar']])
     return modules
 
+course_map = {
+    'BWL (B.Sc.)':"bwl_bachelor",
+    'BWL (M.Sc.)':"bwl_master",
+    'VWL (B.Sc.)':"vwl_bachelor",
+    'VWL (M.Sc.)':"vwl_master",
+    'WiChem (B.Sc.)':"wichem_bachelor",
+    'WiChem (M.Sc.)':"wichem_master",
+}
 
 def merge_groups(groups):
     seen = set()
@@ -218,22 +230,10 @@ def gen_sql(mods, units, mapping, machine_name, table):
     formatted_modules = f['SEPARATOR'].join(f['MODULE'].format(**module) for
             name, module in mods.items())
 
-    for m in mods:
-        if m.startswith('M'):
-            course = 'master'
-        else:
-            assert m.startswith('B')
-            course = 'bachelor'
-
-        if m[1] == 'W':
-            typ = 'e'  # elective
-        else:
-            typ = 'm'  # mandatory
-        for c in COURSES:
-            if not c.endswith(course):
-                continue
-            formatted_courses_modules.append(f['COURSES_MODULES'].format(course=c, module=m, type=typ))
-            formatted_courses_modules_number_of_elective_units.append(f['COURSES_MODULES_UNITS'].format(course=c, module=m))
+    for name, m in mods.items():
+        for c in m['courses']:
+            formatted_courses_modules.append(f['COURSES_MODULES'].format(course=c, module=name, type=m['type']))
+            formatted_courses_modules_number_of_elective_units.append(f['COURSES_MODULES_UNITS'].format(course=c, module=name))
 
     #
     formatted_modules_focus_areas = (f['MODULES_FOCUS_AREAS'].format(module=name, focus_area_id=i) for
@@ -353,7 +353,7 @@ def main(argv):
     table['N:Title'] = table.apply(normalized_title, axis=1)
     rcprint("Normalized input")
     #
-    modules = extract_modules(table[['Modul', 'Angebot']].drop_duplicates())
+    modules = extract_modules(table[['Modul', 'Modultyp', 'Angebot', 'verwenbar']].drop_duplicates())
     rcprint("Extracted module information")
     #
     units, map = extract_units(table.groupby('N:Title', axis=0))
