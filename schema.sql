@@ -110,6 +110,7 @@ CREATE TABLE "courses_modules_units" (
   "course_id" INTEGER NOT NULL,
   "module_id" INTEGER NOT NULL,
   "unit_id" INTEGER NOT NULL,
+  "semester" INTEGER NOT NULL,
   "type" TEXT NOT NULL, --- e (elective) or m (mandatory)
   FOREIGN KEY(course_id) REFERENCES courses(id),
   FOREIGN KEY(module_id) REFERENCES modules(id),
