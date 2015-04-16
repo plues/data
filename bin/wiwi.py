@@ -44,13 +44,13 @@ INSERT INTO "focus_areas" (id, name, created_at, updated_at) VALUES
         (13,     "Wettbewerb und Regulierung", datetime('now'), datetime('now')),
         (14,                   "Econometrics", datetime('now'), datetime('now'));
 
-INSERT INTO "major_module_requirements" (course, requirement) VALUES
-           ("bwl_bachelor", 3),
-             ("bwl_master", 2),
-           ("vwl_bachelor", 3),
-             ("vwl_master", 2),
-        ("wichem_bachelor", 3),
-          ("wichem_master", 2);
+INSERT INTO "courses_number_of_elective_modules" (course_id, amount) VALUES
+           ((SELECT id FROM courses WHERE name LIKE "bwl_bachelor"), 3),
+             ((SELECT id FROM courses WHERE name LIKE "bwl_master"), 2),
+           ((SELECT id FROM courses WHERE name LIKE "vwl_bachelor"), 3),
+             ((SELECT id FROM courses WHERE name LIKE "vwl_master"), 2),
+        ((SELECT id FROM courses WHERE name LIKE "wichem_bachelor"), 3),
+          ((SELECT id FROM courses WHERE name LIKE "wichem_master"), 2);
 
 INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
         {modules};
