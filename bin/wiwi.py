@@ -18,7 +18,7 @@ INSERT INTO "info" values("generated", "{generated:%Y-%m-%d %H:%M:%S}");
 INSERT INTO "info" values("hashseed", "{seed}");
 INSERT INTO "info" values("generator", "wiwi");
 
-INSERT INTO "departments" VALUES ("wiwi", "Wirtschaftswissenschaften", datetime('now'), datetime('now'));
+INSERT INTO "departments"(name, long_name, created_at, updated_at) VALUES ("wiwi", "Wirtschaftswissenschaften", datetime('now'), datetime('now'));
 
 INSERT INTO "courses" (name, long_name, created_at, updated_at) VALUES
        ("bwl_bachelor",               "BWL Bachelor", datetime('now'),  datetime('now')),
