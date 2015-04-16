@@ -197,7 +197,7 @@ FORMATS={
 }
 
 
-def gen_sql(mods, units, mapping, sessions, machine_name, table):
+def gen_sql(mods, units, mapping, machine_name, table):
     f = FORMATS['sql']
 
     formatted_modules = f['SEPARATOR'].join(f['MODULE'].format(**module) for name, module in mods.items())
@@ -319,16 +319,13 @@ def main(argv):
     units, map = extract_units(table.groupby('N:Title', axis=0))
     rcprint("Extracted unit information")
     #
-    sessions = extract_sessions(units)
-    rcprint("Extracted unit information")
-    #
     mapping = extract_mapping(modules, units, map, table)
     rcprint("Extracted mapping information")
     #
     machine_name = os.path.split(args.output.name)[-1].split('.')[0]
 
     rcprint("Generating sql file")
-    print(gen_sql(modules, units, mapping, sessions, machine_name, table), file=args.output)
+    print(gen_sql(modules, units, mapping, machine_name, table), file=args.output)
     #
     print()
     cprint("Done: Output written to " + args.output.name, 'green')
