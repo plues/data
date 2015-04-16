@@ -70,6 +70,9 @@ INSERT INTO "groups" (id, unit_id, title, created_at, updated_at) VALUES
 INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
         {courses_modules};
 
+INSERT INTO courses_modules_number_of_elective_units (course_id, module_id, amount) VALUES
+        {courses_modules_number_of_elective_units};
+
 -- generates too many records for a single insert statement
 {modules_focus_areas}
 """
@@ -198,6 +201,7 @@ FORMATS={
         'MODULES_FOCUS_AREAS': 'INSERT INTO "modules_focus_areas" (module_id, focus_area_id) VALUES ((SELECT id FROM modules WHERE name LIKE "{module}"), {focus_area_id});',
         'MAPPING': 'INSERT INTO "mapping" (module, class, course, type, focus_area_id, semester, unit_id) VALUES ("{0}", {1}, "{2}", "{3}", {4},  {5}, {6});',
         'COURSES_MODULES': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), "{type}")',
+        'COURSES_MODULES_UNITS': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), 3)',
     }
 }
 
@@ -210,7 +214,7 @@ def gen_sql(mods, units, mapping, machine_name, table):
     formatted_sessions = []
     formatted_modules_focus_areas = []
     formatted_courses_modules = []
-
+    formatted_courses_modules_number_of_elective_units = []
     formatted_modules = f['SEPARATOR'].join(f['MODULE'].format(**module) for
             name, module in mods.items())
 
@@ -229,6 +233,7 @@ def gen_sql(mods, units, mapping, machine_name, table):
             if not c.endswith(course):
                 continue
             formatted_courses_modules.append(f['COURSES_MODULES'].format(course=c, module=m, type=typ))
+            formatted_courses_modules_number_of_elective_units.append(f['COURSES_MODULES_UNITS'].format(course=c, module=m))
 
     #
     formatted_modules_focus_areas = (f['MODULES_FOCUS_AREAS'].format(module=name, focus_area_id=i) for
@@ -252,7 +257,7 @@ def gen_sql(mods, units, mapping, machine_name, table):
     formatted_units = f['SEPARATOR'].join(formatted_units)
 
     formatted_courses_modules = f['SEPARATOR'].join(formatted_courses_modules)
-
+    formatted_courses_modules_number_of_elective_units = f['SEPARATOR'].join(formatted_courses_modules_number_of_elective_units)
 
     formatted_modules_focus_areas = '\n'.join(formatted_modules_focus_areas)
 
@@ -260,6 +265,7 @@ def gen_sql(mods, units, mapping, machine_name, table):
             modules=formatted_modules, sessions=formatted_sessions,
             units=formatted_units, groups=formatted_groups,
             modules_focus_areas=formatted_modules_focus_areas,
+            courses_modules_number_of_elective_units=formatted_courses_modules_number_of_elective_units,
             courses_modules=formatted_courses_modules)
 
 def main(argv):
