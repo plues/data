@@ -143,18 +143,6 @@ def extract_units(data):
     return units, map
 
 
-def extract_sessions(units):
-    """Extract a global list of sessions from units and map each session in a
-    module/group to the index in the list of sessions"""
-    sessions = []
-    for m in units:
-        for i in m['groups']:
-            start = len(sessions)
-            for s in m['groups'][i]['sessions'].values():
-                sessions.append(s)
-            m['groups'][i]['sessions'] = list(range(start, len(sessions)))
-    return sessions
-
 
 def extract_mapping(rows, map):
     mapping = set()
@@ -263,8 +251,6 @@ def main():
     rcprint("Extracted department information")
     units, map = extract_units(csv.groupby('key', axis=0))
     rcprint("Extracted module/unit information")
-    # sessions = extract_sessions(units)
-    rcprint("Extracted session information")
     mapping = extract_mapping(csv, map)
     rcprint("Extracted mapping information")
 
