@@ -38,6 +38,7 @@ INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
         {courses_modules};
 
 -- generates too many records for a single insert statement
+{courses_modules_units}
 """;
 
 def extract_key(row):
@@ -143,8 +144,7 @@ def extract_units(data):
     return units, map
 
 
-
-def extract_mapping(rows, map):
+def extract_course_module_unit_mapping(rows, map):
     mapping = set()
     semesters = rows['semester'].unique()
     kfs   = rows[rows.kf]['course'].unique()
@@ -178,7 +178,7 @@ FORMATS={
         'SEPARATOR': ',\n'+' '*8,
         'UNIT': '({id}, "{title}", (SELECT id from departments WHERE name LIKE "{department}"), datetime("now"), datetime("now"))',
         'GROUP': '({id}, {unit_id}, "{title}", datetime("now"), datetime("now"))',
-        'MAPPING': 'INSERT INTO "mapping" (module, course, semester, unit_id) VALUES ((SELECT name FROM modules LIMIT 1), "{course}", {semester}, {unit});',
+        'COURSES_MODULES_UNITS': 'INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES ((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules LIMIT 1), {semester}, {unit}, "m");',
         'COURSES_MODULES': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules LIMIT 1), "m")'
     },
 }
@@ -211,7 +211,7 @@ def gen_sql(courses, departments, units, mapping):
     formatted_groups = f['SEPARATOR'].join(formatted_groups)
     formatted_sessions = f['SEPARATOR'].join(formatted_sessions)
     formatted_units = f['SEPARATOR'].join(formatted_units)
-    formatted_mapping = '\n'.join(f['MAPPING'].format(course=m[0],
+    formatted_mapping = '\n'.join(f['COURSES_MODULES_UNITS'].format(course=m[0],
         department=m[1], semester=m[2], unit=m[3]+1) for m in mapping)
 
     return SQL.format(generated=datetime.now(), seed=seed,
@@ -219,7 +219,7 @@ def gen_sql(courses, departments, units, mapping):
             units=formatted_units, groups=formatted_groups,
             departments=formatted_departments,
             courses_modules=formatted_courses_modules,
-            mapping=formatted_mapping)
+            courses_modules_units=formatted_mapping)
 
 
 def main():
@@ -251,8 +251,8 @@ def main():
     rcprint("Extracted department information")
     units, map = extract_units(csv.groupby('key', axis=0))
     rcprint("Extracted module/unit information")
-    mapping = extract_mapping(csv, map)
-    rcprint("Extracted mapping information")
+    mapping = extract_course_module_unit_mapping(csv, map)
+    rcprint("Extracted course_module_unit mapping information")
 
     rcprint("Generating sql file")
     print(gen_sql(courses, departments, units, mapping), file=args.output)
