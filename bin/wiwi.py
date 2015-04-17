@@ -74,6 +74,8 @@ INSERT INTO courses_modules_number_of_elective_units (course_id, module_id, amou
 
 -- generates too many records for a single insert statement
 {modules_focus_areas}
+
+{courses_modules_units}
 """
 
 
@@ -188,18 +190,17 @@ def extract_mapping(modules, units, map, table):
             unit = map[row['N:Title']]
             for name in ['bwl', 'vwl', 'wichem']:
                 major_name = name + '_' +row['Grad'].lower()
+
                 typ = row[name+'_priority']
                 if typ == '0':
                     continue
+                typ = 'm' if typ == 'P' else 'e'
+
                 semesters = [row[name+'_semester'], row[name+'_alt_semester']]
                 for s in semesters:
                     if s == 0:
                         continue
-                    focus = row['Schwerpunkte']
-                    if len(focus) == 0:
-                        focus = [0]
-                    for f in focus:
-                        mapping.append((m, course, major_name, typ, f, s, unit))
+                    mapping.append((m, course, major_name, typ, s, unit))
     return mapping
 
 
@@ -211,9 +212,9 @@ FORMATS={
         'UNIT': '({id}, "{title}", {duration}, (SELECT id FROM departments WHERE name LIKE "wiwi"), datetime("now"), datetime("now"))',
         'GROUP': '({id}, {unit_id}, "{title}", datetime("now"), datetime("now"))',
         'MODULES_FOCUS_AREAS': 'INSERT INTO "modules_focus_areas" (module_id, focus_area_id) VALUES ((SELECT id FROM modules WHERE name LIKE "{module}"), {focus_area_id});',
-        'MAPPING': 'INSERT INTO "mapping" (module, class, course, type, focus_area_id, semester, unit_id) VALUES ("{0}", {1}, "{2}", "{3}", {4},  {5}, {6});',
+        'COURSES_MODULES_UNITS': 'INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES ((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), {semester}, {unit}, "{type}");',
         'COURSES_MODULES': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), "{type}")',
-        'COURSES_MODULES_UNITS': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), 3)',
+        'COURSES_MODULES_N_UNITS': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), 3)',
     }
 }
 
@@ -227,18 +228,18 @@ def gen_sql(mods, units, mapping, machine_name, table):
     formatted_modules_focus_areas = []
     formatted_courses_modules = []
     formatted_courses_modules_number_of_elective_units = []
+    formatted_courses_modules_units = []
+    #
     formatted_modules = f['SEPARATOR'].join(f['MODULE'].format(**module) for
             name, module in mods.items())
-
+    #
     for name, m in mods.items():
         for c in m['courses']:
             formatted_courses_modules.append(f['COURSES_MODULES'].format(course=c, module=name, type=m['type']))
-            formatted_courses_modules_number_of_elective_units.append(f['COURSES_MODULES_UNITS'].format(course=c, module=name))
-
+            formatted_courses_modules_number_of_elective_units.append(f['COURSES_MODULES_N_UNITS'].format(course=c, module=name))
     #
     formatted_modules_focus_areas = (f['MODULES_FOCUS_AREAS'].format(module=name, focus_area_id=i) for
             name in mods for i in range(1, 15))
-
     #
     for u_id, unit in enumerate(units, 1):
         formatted_units.append(f['UNIT'].format(id=u_id,
@@ -251,7 +252,13 @@ def gen_sql(mods, units, mapping, machine_name, table):
             for i in group['sessions']:
                 session_id = len(formatted_sessions)+1
                 formatted_sessions.append(f['SESSION'].format(group_id=group_id, id=session_id, **i))
-
+    #
+    formatted_courses_modules_units = \
+        (f['COURSES_MODULES_UNITS'].format(course=major, module=module,
+            semester=semester, type=typ, unit=unit_id) for (module, klass,
+                major, typ, semester, unit_id) in mapping)
+    formatted_courses_modules_units = '\n'.join(formatted_courses_modules_units)
+    #
     formatted_groups = f['SEPARATOR'].join(formatted_groups)
     formatted_sessions = f['SEPARATOR'].join(formatted_sessions)
     formatted_units = f['SEPARATOR'].join(formatted_units)
@@ -266,7 +273,9 @@ def gen_sql(mods, units, mapping, machine_name, table):
             units=formatted_units, groups=formatted_groups,
             modules_focus_areas=formatted_modules_focus_areas,
             courses_modules_number_of_elective_units=formatted_courses_modules_number_of_elective_units,
-            courses_modules=formatted_courses_modules)
+            courses_modules=formatted_courses_modules,
+            courses_modules_units=formatted_courses_modules_units)
+
 
 def main(argv):
     parser = argparse.ArgumentParser()
@@ -369,7 +378,6 @@ def main(argv):
     #
     print()
     cprint("Done: Output written to " + args.output.name, 'green')
-
 
 
 if __name__ == '__main__':
