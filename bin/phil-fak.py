@@ -179,7 +179,7 @@ FORMATS={
         'UNIT': '({id}, "{title}", (SELECT id from departments WHERE name LIKE "{department}"), datetime("now"), datetime("now"))',
         'GROUP': '({id}, {unit_id}, "{title}", datetime("now"), datetime("now"))',
         'COURSES_MODULES_UNITS': 'INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES ((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules LIMIT 1), {semester}, {unit}, "m");',
-        'COURSES_MODULES': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules LIMIT 1), "m")'
+        'COURSES_MODULES': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules LIMIT 1), "m")',
     },
 }
 
