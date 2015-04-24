@@ -21,13 +21,13 @@ INSERT INTO "info" values("generator", "wiwi");
 
 INSERT INTO "departments"(name, long_name, created_at, updated_at) VALUES ("wiwi", "Wirtschaftswissenschaften", datetime('now'), datetime('now'));
 
-INSERT INTO "courses" (name, long_name, created_at, updated_at) VALUES
-       ("bwl_bachelor",               "BWL Bachelor", datetime('now'),  datetime('now')),
-         ("bwl_master",                 "BWL Master", datetime('now'),  datetime('now')),
-       ("vwl_bachelor",               "VWL Bachelor", datetime('now'),  datetime('now')),
-         ("vwl_master",                 "VWL Master", datetime('now'),  datetime('now')),
-    ("wichem_bachelor", "Wirtschaftschemie Bachelor", datetime('now'),  datetime('now')),
-      ("wichem_master",   "Wirtschaftschemie Master", datetime('now'), datetime('now'));
+INSERT INTO "courses" (name, long_name, elective_modules,  created_at, updated_at) VALUES
+       ("bwl_bachelor",               "BWL Bachelor", 3, datetime('now'),  datetime('now')),
+         ("bwl_master",                 "BWL Master", 2, datetime('now'),  datetime('now')),
+       ("vwl_bachelor",               "VWL Bachelor", 3, datetime('now'),  datetime('now')),
+         ("vwl_master",                 "VWL Master", 2, datetime('now'),  datetime('now')),
+    ("wichem_bachelor", "Wirtschaftschemie Bachelor", 3, datetime('now'),  datetime('now')),
+      ("wichem_master",   "Wirtschaftschemie Master", 2, datetime('now'), datetime('now'));
 
 INSERT INTO "focus_areas" (id, name, created_at, updated_at) VALUES
          (1,        "Accounting and Taxation", datetime('now'), datetime('now')),
@@ -45,14 +45,6 @@ INSERT INTO "focus_areas" (id, name, created_at, updated_at) VALUES
         (13,     "Wettbewerb und Regulierung", datetime('now'), datetime('now')),
         (14,                   "Econometrics", datetime('now'), datetime('now'));
 
-INSERT INTO "courses_number_of_elective_modules" (course_id, amount) VALUES
-           ((SELECT id FROM courses WHERE name LIKE "bwl_bachelor"), 3),
-             ((SELECT id FROM courses WHERE name LIKE "bwl_master"), 2),
-           ((SELECT id FROM courses WHERE name LIKE "vwl_bachelor"), 3),
-             ((SELECT id FROM courses WHERE name LIKE "vwl_master"), 2),
-        ((SELECT id FROM courses WHERE name LIKE "wichem_bachelor"), 3),
-          ((SELECT id FROM courses WHERE name LIKE "wichem_master"), 2);
-
 INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
         {modules};
 
@@ -68,9 +60,6 @@ INSERT INTO "groups" (id, unit_id, title, created_at, updated_at) VALUES
 
 INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
         {courses_modules};
-
-INSERT INTO courses_modules_number_of_elective_units (course_id, module_id, amount) VALUES
-        {courses_modules_number_of_elective_units};
 
 -- generates too many records for a single insert statement
 {modules_focus_areas}
@@ -214,7 +203,6 @@ FORMATS={
         'MODULES_FOCUS_AREAS': 'INSERT INTO "modules_focus_areas" (module_id, focus_area_id) VALUES ((SELECT id FROM modules WHERE name LIKE "{module}"), {focus_area_id});',
         'COURSES_MODULES_UNITS': 'INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES ((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), {semester}, {unit}, "{type}");',
         'COURSES_MODULES': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), "{type}")',
-        'COURSES_MODULES_N_UNITS': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), 3)',
     }
 }
 
@@ -227,7 +215,6 @@ def gen_sql(mods, units, mapping, machine_name, table):
     formatted_sessions = []
     formatted_modules_focus_areas = []
     formatted_courses_modules = []
-    formatted_courses_modules_number_of_elective_units = []
     formatted_courses_modules_units = []
     #
     formatted_modules = f['SEPARATOR'].join(f['MODULE'].format(**module) for
@@ -236,7 +223,6 @@ def gen_sql(mods, units, mapping, machine_name, table):
     for name, m in mods.items():
         for c in m['courses']:
             formatted_courses_modules.append(f['COURSES_MODULES'].format(course=c, module=name, type=m['type']))
-            formatted_courses_modules_number_of_elective_units.append(f['COURSES_MODULES_N_UNITS'].format(course=c, module=name))
     #
     formatted_modules_focus_areas = (f['MODULES_FOCUS_AREAS'].format(module=name, focus_area_id=i) for
             name in mods for i in range(1, 15))
@@ -264,7 +250,6 @@ def gen_sql(mods, units, mapping, machine_name, table):
     formatted_units = f['SEPARATOR'].join(formatted_units)
 
     formatted_courses_modules = f['SEPARATOR'].join(formatted_courses_modules)
-    formatted_courses_modules_number_of_elective_units = f['SEPARATOR'].join(formatted_courses_modules_number_of_elective_units)
 
     formatted_modules_focus_areas = '\n'.join(formatted_modules_focus_areas)
 
@@ -272,7 +257,6 @@ def gen_sql(mods, units, mapping, machine_name, table):
             modules=formatted_modules, sessions=formatted_sessions,
             units=formatted_units, groups=formatted_groups,
             modules_focus_areas=formatted_modules_focus_areas,
-            courses_modules_number_of_elective_units=formatted_courses_modules_number_of_elective_units,
             courses_modules=formatted_courses_modules,
             courses_modules_units=formatted_courses_modules_units)
 

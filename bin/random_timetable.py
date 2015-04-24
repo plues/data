@@ -93,8 +93,7 @@ class Module(NamedThing):
         _sql = [
             """INSERT INTO {table_name} (id, name, created_at, updated_at) VALUES ({idx}, "{name}", datetime("now"), datetime("now"));
 --- NOTE: each module is assigned to one course for now
-INSERT INTO courses_modules(module_id, course_id, type) VALUES ({idx}, {course.idx}, "{typ}");
-INSERT INTO courses_modules_number_of_elective_units(course_id, module_id, amount) VALUES ({course.idx}, {idx}, 3);
+INSERT INTO courses_modules(module_id, course_id, elective_units, type) VALUES ({idx}, {course.idx}, 3, "{typ}");
 """.format(**self.__dict__)
         ] + ["""INSERT INTO modules_focus_areas (module_id, focus_area_id)
                 VALUES({module_id}, {focus_area_id});""".format(module_id=self.idx,
@@ -118,8 +117,7 @@ class Course(NamedThing):
 
     def __sql__(self):
         return """
-INSERT INTO {table_name} (id, name, long_name, created_at, updated_at) VALUES ({idx}, "{name}", "{long_name}", datetime("now"), datetime("now"));
-INSERT INTO courses_number_of_elective_modules (course_id, amount) VALUES ({idx}, 3);""".format(**self.__dict__)
+INSERT INTO {table_name} (id, name, long_name, elective_modules, created_at, updated_at) VALUES ({idx}, "{name}", "{long_name}", 3, datetime("now"), datetime("now"));""".format(**self.__dict__)
 
 
 class Department(NamedThing):

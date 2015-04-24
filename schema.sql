@@ -19,6 +19,7 @@ CREATE TABLE "courses" (
   "name" TEXT NOT NULL,
   "long_name" TEXT,
   "PO" TEXT,
+  "elective_modules" INTEGER NOT NULL DEFAULT 3,
   "created_at" TEXT NOT NULL,
   "updated_at" TEXT NOT NULL
 );
@@ -88,20 +89,7 @@ CREATE TABLE "courses_modules" (
   "course_id" INTEGER NOT NULL,
   "module_id" INTEGER NOT NULL,
   "type" TEXT NOT NULL, --- e (elective) or m (mandatory)
-  FOREIGN KEY(course_id) REFERENCES courses(id),
-  FOREIGN KEY(module_id) REFERENCES modules(id)
-);
-
-CREATE TABLE "courses_number_of_elective_modules" (
-  "course_id" INTEGER NOT NULL,
-  "amount" INTEGER NOT NULL DEFAULT "3",
-  FOREIGN KEY(course_id) REFERENCES courses(id)
-);
-
-CREATE TABLE "courses_modules_number_of_elective_units" (
-  "course_id" INTEGER NOT NULL,
-  "module_id" INTEGER NOT NULL,
-  "amount" INTEGER NOT NULL DEFAULT "3",
+  "elective_units" INTEGER NOT NULL DEFAULT "3",
   FOREIGN KEY(course_id) REFERENCES courses(id),
   FOREIGN KEY(module_id) REFERENCES modules(id)
 );
