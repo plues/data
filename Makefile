@@ -35,6 +35,9 @@ DATABASE:=$(join $(flavor),-data.sqlite3)
 SQL:=$(join $(flavor),-data.sql)
 MACHINE:=$(join $(flavor),-data.mch)
 PROLOG:=$(join $(flavor),-data.pl)
+# flavored dist action
+DIST:=$(join $(flavor),-dist)
+
 
 bin/wiwi.py bin/phil-fak.py: requirements.inst
 
@@ -64,6 +67,14 @@ $(PROLOG): data.sqlite3 $(modelgenerator)
 $(MACHINE): %.mch: %.sqlite3 $(modelgenerator)
 	java -jar $(modelgenerator) --database=$< --format=b --output=$@
 
+# distribution rules
+dist-setup:
+	mkdir -p dist
+
+$(DIST): %-dist: %-data.sqlite3 | dist-setup
+	cp $^ dist/data.sqlite3
+
+
 $(LOCAL_VIRTUAL_ENV):
 	if [ ! -d "$(VENV)" ]; then virtualenv -p `which python3` $(VENV); fi
 
@@ -83,13 +94,6 @@ clean:
 very_clean: clean
 	rm -rf $(LOCAL_VIRTUAL_ENV)
 	rm -f $(modelgenerator)
-
-# distribution rules
-dist-setup:
-	mkdir -p dist
-
-random-dist philfak-dist wiwi-dist: %-dist: %-data.sqlite3 | dist-setup
-	cp $^ dist/data.sqlite3
 
 .PHONY: clean very_clean dist-setup $(ACTIONS) $(modelgenerator)
 .INTERMEDIATE: $(TARGETS)
