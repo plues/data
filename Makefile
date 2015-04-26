@@ -13,18 +13,40 @@ HASHSEED:=$(shell awk 'BEGIN{srand();printf("%d", 4294967295*rand())}')
 # export for sub-processes
 export PYTHONHASHSEED=$(HASHSEED)
 
+# Available flavors for data
+FLAVORS := philfak wiwi random
+# Default flavor
+flavor=philfak
+# Available actions
+ACTIONS := dist data.mch data.sql data.sqlite3 data.pl
+TARGETS :=$(foreach i,$(FLAVORS),$(foreach j,$(ACTIONS),$(join $i,-$j)))
+
+# Default targets
+dist: $(join $(flavor),-dist)
+data.mch: $(join $(flavor),-data.mch)
+	cp $(MACHINE) $@
+data.sql: $(join $(flavor),-data.sql)
+	cp $(SQL) $@
+data.sqlite3: $(join $(flavor),-data.sqlite3)
+	cp $(DATABASE) $@
+
+# Files produced by $(flavor)
+DATABASE:=$(join $(flavor),-data.sqlite3)
+SQL:=$(join $(flavor),-data.sql)
+MACHINE:=$(join $(flavor),-data.mch)
+PROLOG:=$(join $(flavor),-data.pl)
 
 bin/wiwi.py bin/phil-fak.py: requirements.inst
 
 data_file=raw/phil-fak.csv
-data.sql: bin/phil-fak.py $(data_file)
+philfak-data.sql: bin/phil-fak.py $(data_file)
 	$(VENV)/bin/python3 $^ $@
 
 wiwi_data_file=raw/wiwi.xlsx
-wiwi_data.sql: bin/wiwi.py $(wiwi_data_file)
+wiwi-data.sql: bin/wiwi.py $(wiwi_data_file)
 	$(VENV)/bin/python3 $^ $@
 
-random.sql: bin/random_timetable.py
+random-data.sql: bin/random_timetable.py
 ifndef RANDOMSEED
 	$(VENV)/bin/python $^ --output=$@
 else
@@ -32,44 +54,31 @@ else
 endif
 
 
-DATABASES=data.sqlite3 wiwi_data.sqlite3 random.sqlite3
-$(DATABASES): %.sqlite3: %.sql schema.sql
+$(DATABASE): %-data.sqlite3: %-data.sql schema.sql
 	rm -f $@
 	sqlite3 $@ < $<
 
-$(modelgenerator):
-	curl http://nightly.cobra.cs.uni-duesseldorf.de/slottool/model-generator-standalone-$(MODEL_GENERATOR_VERSION).jar -z $(modelgenerator) -o $(modelgenerator) --silent --location
+$(PROLOG): data.sqlite3 $(modelgenerator)
+	java -jar $(modelgenerator) --database=$< --format=prolog --output=$@
 
-data.mch: data.sqlite3 $(modelgenerator)
-	java -jar $(modelgenerator) --database=$< --format=b --faculty=philfak --output=$@
-
-data.pl: data.sqlite3 $(modelgenerator)
-	java -jar $(modelgenerator) --database=$< --format=prolog --faculty=philfak --output=$@
-
-wiwi_data.mch: wiwi_data.sqlite3 $(modelgenerator)
-	java -jar $(modelgenerator) --database=$< --format=b --faculty=wiwi --output=$@
-
-wiwi_data.pl: wiwi_data.sqlite3 $(modelgenerator)
-	java -jar $(modelgenerator) --database=$< --format=prolog --faculty=wiwi --output=$@
+$(MACHINE): %.mch: %.sqlite3 $(modelgenerator)
+	java -jar $(modelgenerator) --database=$< --format=b --output=$@
 
 $(LOCAL_VIRTUAL_ENV):
 	if [ ! -d "$(VENV)" ]; then virtualenv -p `which python3` $(VENV); fi
+
+$(modelgenerator):
+	curl http://nightly.cobra.cs.uni-duesseldorf.de/slottool/model-generator-standalone-$(MODEL_GENERATOR_VERSION).jar -z $(modelgenerator) -o $(modelgenerator) --silent --location
 
 requirements.inst: requirements.txt $(VENV)
 	$(VENV)/bin/pip install -r requirements.txt
 	touch requirements.inst
 
 clean:
-	rm -f data.sql
+	rm -f $(TARGETS)
 	rm -f data.sqlite3
-	rm -f wiwi_data.sql
-	rm -f wiwi_data.sqlite3
-	rm -f random.sql
-	rm -f random.sqlite3
 	rm -f requirements.inst
-	rm -f *.mch
 	rm -f *.prob
-	rm -f *.pl
 
 very_clean: clean
 	rm -rf $(LOCAL_VIRTUAL_ENV)
@@ -79,17 +88,8 @@ very_clean: clean
 dist-setup:
 	mkdir -p dist
 
-version: data.sqlite3
-	$(eval VERSION:=$(shell sqlite3 $^ "select value from info where key='schema_version';"))
-
-philfak-dist: data.sqlite3 | dist-setup
+random-dist philfak-dist wiwi-dist: %-dist: %-data.sqlite3 | dist-setup
 	cp $^ dist/data.sqlite3
 
-wiwi-dist: wiwi_data.sqlite3 | dist-setup
-	cp $^ dist/data.sqlite3
-
-flavor=philfak
-dist: $(join $(flavor),-dist)
-
-.PHONY: clean very_clean dist-setup philfak-dist wiwi-dist dist $(modelgenerator) version
-.INTERMEDIATE: data.sql wiwi_data.sql data.sqlite3 wiwi_data.sqlite3
+.PHONY: clean very_clean dist-setup $(ACTIONS) $(modelgenerator)
+.INTERMEDIATE: $(TARGETS)
