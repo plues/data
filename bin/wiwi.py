@@ -156,7 +156,7 @@ def extract_units(data):
         unit = {'duration': duration, 'groups': groups, 'title':title, 'id':ntitle}
         units.append(unit)
     # XXX check that title is the same for all rows
-    return units, {u['id']: i for i,u in enumerate(units)}
+    return units, {u['id']: i for i,u in enumerate(units, 1)}
 
 
 def extract_sessions(units):
