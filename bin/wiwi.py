@@ -276,7 +276,7 @@ def main(argv):
 
     # rename columns
     col_names = list(reversed(['Slot', 'Slot2', 'Valt'] + ['Alternative']*7 + ['Schwerpunkt', 'Schwerpunkt', 'Rhythmus']))
-    new_names = {col: col_names.pop() if col.startswith('Unnamed') else col for i, col in enumerate(table.columns)}
+    new_names = {col: col_names.pop() if col.startswith('Unnamed') else col for col in table.columns}
     new_names.update({
                 "Priorität":'bwl_priority',
                 "MS": 'bwl_semester',
