@@ -24,11 +24,11 @@ TARGETS :=$(foreach i,$(FLAVORS),$(foreach j,$(ACTIONS),$(join $i,-$j)))
 # Default targets
 dist: $(join $(flavor),-dist)
 data.mch: $(join $(flavor),-data.mch)
-	cp $(MACHINE) $@
+	cp $< $@
 data.sql: $(join $(flavor),-data.sql)
-	cp $(SQL) $@
+	cp $< $@
 data.sqlite3: $(join $(flavor),-data.sqlite3)
-	cp $(DATABASE) $@
+	cp $< $@
 
 # Files produced by $(flavor)
 DATABASE:=$(join $(flavor),-data.sqlite3)
