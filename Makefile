@@ -31,12 +31,12 @@ data.sqlite3: $(join $(flavor),-data.sqlite3)
 	cp $< $@
 
 # Files produced by $(flavor)
-DATABASE:=$(join $(flavor),-data.sqlite3)
-SQL:=$(join $(flavor),-data.sql)
-MACHINE:=$(join $(flavor),-data.mch)
-PROLOG:=$(join $(flavor),-data.pl)
+DATABASES:=$(foreach f,$(FLAVORS),$(join $(f),-data.sqlite3))
+SQL:=$(foreach f,$(FLAVORS),$(join $(f),-data.sql))
+MACHINES:=$(foreach f,$(FLAVORS),$(join $(f),-data.mch))
+PROLOG:=$(foreach f,$(FLAVORS),$(join $(f),-data.pl))
 # flavored dist action
-DIST:=$(join $(flavor),-dist)
+DIST:=$(foreach f,$(FLAVORS),$(join $(f),-dist))
 
 
 bin/wiwi.py bin/phil-fak.py: requirements.inst
@@ -57,14 +57,14 @@ else
 endif
 
 
-$(DATABASE): %-data.sqlite3: %-data.sql schema.sql
+$(DATABASES): %-data.sqlite3: %-data.sql schema.sql
 	rm -f $@
 	sqlite3 $@ < $<
 
 $(PROLOG): data.sqlite3 $(modelgenerator)
 	java -jar $(modelgenerator) --database=$< --format=prolog --output=$@
 
-$(MACHINE): %.mch: %.sqlite3 $(modelgenerator)
+$(MACHINES): %.mch: %.sqlite3 $(modelgenerator)
 	java -jar $(modelgenerator) --database=$< --format=b --output=$@
 
 # distribution rules
