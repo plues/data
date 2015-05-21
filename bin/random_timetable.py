@@ -203,10 +203,13 @@ def mapping_generator(ug, courses, modules, focus_areas):
     course = random.choice(courses)
     while True:
         typ = random.choice(('e', 'm'))
-        semesters = random.sample(
-                range(random.choice((1,2)), 7, 2), # list of or odd semesters
-                random.randint(1,3) # number of elements to sample 1..3
-                ) # select n odd or even semesters
+        if typ == 'm':
+            semesters = [random.choice(range(1, 7))]
+        else:
+            semesters = random.sample(
+                    range(random.choice((1,2)), 7, 2), # list of or odd semesters
+                    random.randint(1,3) # number of elements to sample 1..3
+                    ) # select n odd or even semesters
         unit = next(ug)
         module = random.choice(modules)
         yield Mapping(course, module, unit, typ, semesters)
