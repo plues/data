@@ -11,6 +11,7 @@ MAX_GROUPS = 4
 MAX_FOCUS_AREAS = 10
 MAX_MODULES = 10
 MAPPINGS = 50
+MAX_SESSIONS = 5
 
 class Session(object):
     def __init__(self, idx, slot, rhythm, duration):
@@ -169,7 +170,7 @@ def group_generator(sg):
     while True:
         idx += 1
         title = "Group "+str(idx)
-        sessions = [next(sg) for _ in range(random.randint(1, 5))]
+        sessions = [next(sg) for _ in range(random.randint(1, MAX_SESSIONS))]
         yield Group(idx, title, sessions)
 
 
