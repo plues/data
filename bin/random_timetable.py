@@ -7,6 +7,12 @@ import sys
 
 SLOTS = [l+n for n in "12345" for l in "abcdefg"]
 
+MAX_GROUPS = 4
+MAX_FOCUS_AREAS = 10
+MAX_MODULES = 10
+MAPPINGS = 50
+MAX_SESSIONS = 5
+
 class Session(object):
     def __init__(self, idx, slot, rhythm, duration):
         self.slot = slot
@@ -164,7 +170,7 @@ def group_generator(sg):
     while True:
         idx += 1
         title = "Group "+str(idx)
-        sessions = [next(sg) for _ in range(random.randint(1, 5))]
+        sessions = [next(sg) for _ in range(random.randint(1, MAX_SESSIONS))]
         yield Group(idx, title, sessions)
 
 
@@ -174,7 +180,7 @@ def unit_generator(gg, departments):
         idx += 1
         title = "Unit "+str(idx)
         department = random.choice(departments)
-        groups = [next(gg) for _ in range(1,8)]
+        groups = [next(gg) for _ in range(1, MAX_GROUPS)]
         yield Unit(idx, title, department, groups=groups)
 
 
@@ -198,10 +204,13 @@ def mapping_generator(ug, courses, modules, focus_areas):
     course = random.choice(courses)
     while True:
         typ = random.choice(('e', 'm'))
-        semesters = random.sample(
-                range(random.choice((1,2)), 7, 2), # list of or odd semesters
-                random.randint(1,3) # number of elements to sample 1..3
-                ) # select n odd or even semesters
+        if typ == 'm':
+            semesters = [random.choice(range(1, 7))]
+        else:
+            semesters = random.sample(
+                    range(random.choice((1,2)), 7, 2), # list of or odd semesters
+                    random.randint(1,3) # number of elements to sample 1..3
+                    ) # select n odd or even semesters
         unit = next(ug)
         module = random.choice(modules)
         yield Mapping(course, module, unit, typ, semesters)
@@ -243,17 +252,17 @@ def main():
 
     #
     fg = name_generator("Focus_Area", FocusArea)
-    focus_areas = [next(fg) for _ in range(random.randint(1, 15))]
+    focus_areas = [next(fg) for _ in range(random.randint(1, MAX_FOCUS_AREAS))]
     print("created {n} focus_areas".format(n=len(focus_areas)))
     #
     mg = module_generator("Module", courses, focus_areas)
-    modules = [next(mg) for _ in range(random.randint(1, 100))]
+    modules = [next(mg) for _ in range(random.randint(1, MAX_MODULES))]
     print("created {n} modules".format(n=len(modules)))
     #
 
     # mappings
     mapping = mapping_generator(ug, courses, modules, focus_areas)
-    mappings = [next(mapping) for _ in range(100)]
+    mappings = [next(mapping) for _ in range(MAPPINGS)]
     #
     units = {m.unit for m in mappings}
     print("created {n} units".format(n=len(units)))
