@@ -20,5 +20,5 @@ requirements.inst
 
 # Gradle
 .gradle/
-bin/modelgenerator.jar
+bin/modelgenerator*.jar
 __pycache__

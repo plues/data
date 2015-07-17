@@ -1,5 +1,5 @@
-modelgenerator=bin/modelgenerator.jar
 MODEL_GENERATOR_VERSION=1.0.0-SNAPSHOT
+modelgenerator=bin/modelgenerator-$(MODEL_GENERATOR_VERSION).jar
 
 # path to put the virtualenv in case we create a new one
 LOCAL_VIRTUAL_ENV=slottool_env
