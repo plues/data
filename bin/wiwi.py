@@ -11,6 +11,7 @@ from util import rcprint, cprint
 
 seed = os.environ.get('PYTHONHASHSEED', 'not specified')
 
+
 SQL = u"""
 .read "schema.sql"
 
@@ -18,15 +19,15 @@ INSERT INTO "info" values("generated", "{generated:%Y-%m-%d %H:%M:%S}");
 INSERT INTO "info" values("hashseed", "{seed}");
 INSERT INTO "info" values("generator", "wiwi");
 
-INSERT INTO "departments" VALUES ("wiwi", "Wirtschaftswissenschaften", datetime('now'), datetime('now'));
+INSERT INTO "departments"(name, long_name, created_at, updated_at) VALUES ("wiwi", "Wirtschaftswissenschaften", datetime('now'), datetime('now'));
 
-INSERT INTO "courses" (name, long_name, created_at, updated_at) VALUES
-       ("bwl_bachelor",               "BWL Bachelor", datetime('now'),  datetime('now')),
-         ("bwl_master",                 "BWL Master", datetime('now'),  datetime('now')),
-       ("vwl_bachelor",               "VWL Bachelor", datetime('now'),  datetime('now')),
-         ("vwl_master",                 "VWL Master", datetime('now'),  datetime('now')),
-    ("wichem_bachelor", "Wirtschaftschemie Bachelor", datetime('now'),  datetime('now')),
-      ("wichem_master",   "Wirtschaftschemie Master", datetime('now'), datetime('now'));
+INSERT INTO "courses" (name, long_name, elective_modules,  created_at, updated_at) VALUES
+       ("bwl_bachelor",               "BWL Bachelor", 3, datetime('now'),  datetime('now')),
+         ("bwl_master",                 "BWL Master", 2, datetime('now'),  datetime('now')),
+       ("vwl_bachelor",               "VWL Bachelor", 3, datetime('now'),  datetime('now')),
+         ("vwl_master",                 "VWL Master", 2, datetime('now'),  datetime('now')),
+    ("wichem_bachelor", "Wirtschaftschemie Bachelor", 3, datetime('now'),  datetime('now')),
+      ("wichem_master",   "Wirtschaftschemie Master", 2, datetime('now'), datetime('now'));
 
 INSERT INTO "focus_areas" (id, name, created_at, updated_at) VALUES
          (1,        "Accounting and Taxation", datetime('now'), datetime('now')),
@@ -44,30 +45,26 @@ INSERT INTO "focus_areas" (id, name, created_at, updated_at) VALUES
         (13,     "Wettbewerb und Regulierung", datetime('now'), datetime('now')),
         (14,                   "Econometrics", datetime('now'), datetime('now'));
 
-INSERT INTO "major_module_requirements" (course, requirement) VALUES
-           ("bwl_bachelor", 3),
-             ("bwl_master", 2),
-           ("vwl_bachelor", 3),
-             ("vwl_master", 2),
-        ("wichem_bachelor", 3),
-          ("wichem_master", 2);
-
 INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
         {modules};
 
-INSERT INTO "sessions" (id, slot, rhythm, duration, created_at, updated_at) VALUES
+INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
         {sessions};
 
-INSERT INTO "units" (id, title, duration, department, created_at, updated_at) VALUES
+INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
         {units};
 
 INSERT INTO "groups" (id, unit_id, title, created_at, updated_at) VALUES
         {groups};
 
-INSERT INTO "group_sessions" (group_id, session_id) VALUES
-        {group_sessions};
+
+INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
+        {courses_modules};
+
 -- generates too many records for a single insert statement
-{mapping}
+{modules_focus_areas}
+
+{courses_modules_units}
 """
 
 
@@ -80,17 +77,30 @@ def normalized_title(row):
 
 
 def extract_modules(data):
-    courses = {}
     modules = {}
     for i, row in data.iterrows():
         name = row['Modul']
         if name not in modules:
             modules[name] = {}
         module = modules[name]
+
+        if 'courses' not in module:
+            module['courses'] = set()
+
         module['name'] = name
         module['frequency'] = row['Angebot']
+        module['type'] = 'm' if row['Modultyp'] == 'P' else 'e'
+        module['courses'].add(course_map[row['verwenbar']])
     return modules
 
+course_map = {
+    'BWL (B.Sc.)':"bwl_bachelor",
+    'BWL (M.Sc.)':"bwl_master",
+    'VWL (B.Sc.)':"vwl_bachelor",
+    'VWL (M.Sc.)':"vwl_master",
+    'WiChem (B.Sc.)':"wichem_bachelor",
+    'WiChem (M.Sc.)':"wichem_master",
+}
 
 def merge_groups(groups):
     seen = set()
@@ -146,7 +156,7 @@ def extract_units(data):
         unit = {'duration': duration, 'groups': groups, 'title':title, 'id':ntitle}
         units.append(unit)
     # XXX check that title is the same for all rows
-    return units, {u['id']: i for i,u in enumerate(units)}
+    return units, {u['id']: i for i,u in enumerate(units, 1)}
 
 
 def extract_sessions(units):
@@ -169,18 +179,17 @@ def extract_mapping(modules, units, map, table):
             unit = map[row['N:Title']]
             for name in ['bwl', 'vwl', 'wichem']:
                 major_name = name + '_' +row['Grad'].lower()
+
                 typ = row[name+'_priority']
                 if typ == '0':
                     continue
+                typ = 'm' if typ == 'P' else 'e'
+
                 semesters = [row[name+'_semester'], row[name+'_alt_semester']]
                 for s in semesters:
                     if s == 0:
                         continue
-                    focus = row['Schwerpunkte']
-                    if len(focus) == 0:
-                        focus = [0]
-                    for f in focus:
-                        mapping.append((m, course, major_name, typ, f, s, unit))
+                    mapping.append((m, course, major_name, typ, s, unit))
     return mapping
 
 
@@ -188,24 +197,36 @@ FORMATS={
     'sql': {
         'SEPARATOR': ',\n' + ' ' * 8,
         'MODULE': '("{name}", "{frequency}", datetime("now"), datetime("now"))',
-        'SESSION': '({id}, "{slot}", {rhythm}, {duration}, datetime("now"), datetime("now"))',
-        'UNIT': '({id}, "{title}", {duration}, "wiwi", datetime("now"), datetime("now"))',
+        'SESSION': '({id}, {group_id}, "{slot}", 0, 2, datetime("now"), datetime("now"))',
+        'UNIT': '({id}, "{title}", {duration}, (SELECT id FROM departments WHERE name LIKE "wiwi"), datetime("now"), datetime("now"))',
         'GROUP': '({id}, {unit_id}, "{title}", datetime("now"), datetime("now"))',
-        'GROUP_SESSION': "({group_id}, {session_id})",
-        'MAPPING': 'INSERT INTO "mapping" (module, class, course, type, focus_area_id, semester, unit_id) VALUES ("{0}", {1}, "{2}", "{3}", {4},  {5}, {6});',
+        'MODULES_FOCUS_AREAS': 'INSERT INTO "modules_focus_areas" (module_id, focus_area_id) VALUES ((SELECT id FROM modules WHERE name LIKE "{module}"), {focus_area_id});',
+        'COURSES_MODULES_UNITS': 'INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES ((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), {semester}, {unit}, "{type}");',
+        'COURSES_MODULES': '((SELECT id FROM courses WHERE name LIKE "{course}"), (SELECT id FROM modules WHERE name LIKE "{module}"), "{type}")',
     }
 }
 
 
-def gen_sql(mods, units, mapping, sessions, machine_name, table):
+def gen_sql(mods, units, mapping, machine_name, table):
     f = FORMATS['sql']
-
-    formatted_modules = f['SEPARATOR'].join(f['MODULE'].format(**module) for name, module in mods.items())
-    formatted_sessions = f['SEPARATOR'].join(f['SESSION'].format(id=sid, **session) for sid, session in enumerate(sessions,1))
 
     formatted_units = []
     formatted_groups = []
-    formatted_group_sessions = []
+    formatted_sessions = []
+    formatted_modules_focus_areas = []
+    formatted_courses_modules = []
+    formatted_courses_modules_units = []
+    #
+    formatted_modules = f['SEPARATOR'].join(f['MODULE'].format(**module) for
+            name, module in mods.items())
+    #
+    for name, m in mods.items():
+        for c in m['courses']:
+            formatted_courses_modules.append(f['COURSES_MODULES'].format(course=c, module=name, type=m['type']))
+    #
+    formatted_modules_focus_areas = (f['MODULES_FOCUS_AREAS'].format(module=name, focus_area_id=i) for
+            name in mods for i in range(1, 15))
+    #
     for u_id, unit in enumerate(units, 1):
         formatted_units.append(f['UNIT'].format(id=u_id,
             duration=unit['duration'], title=unit['title']))
@@ -215,18 +236,30 @@ def gen_sql(mods, units, mapping, sessions, machine_name, table):
                     title=group['title'])
             formatted_groups.append(formatted_group)
             for i in group['sessions']:
-                formatted_group_sessions.append(f['GROUP_SESSION'].format(group_id=group_id, session_id=i+1))
-
+                session_id = len(formatted_sessions)+1
+                formatted_sessions.append(f['SESSION'].format(group_id=group_id, id=session_id, **i))
+    #
+    formatted_courses_modules_units = \
+        (f['COURSES_MODULES_UNITS'].format(course=major, module=module,
+            semester=semester, type=typ, unit=unit_id) for (module, klass,
+                major, typ, semester, unit_id) in mapping)
+    formatted_courses_modules_units = '\n'.join(formatted_courses_modules_units)
+    #
     formatted_groups = f['SEPARATOR'].join(formatted_groups)
-    formatted_group_sessions = f['SEPARATOR'].join(formatted_group_sessions)
+    formatted_sessions = f['SEPARATOR'].join(formatted_sessions)
     formatted_units = f['SEPARATOR'].join(formatted_units)
 
-    formatted_mapping = '\n'.join(f['MAPPING'].format(*(c[0:6]+(c[6]+1, ))) for c in mapping)
+    formatted_courses_modules = f['SEPARATOR'].join(formatted_courses_modules)
+
+    formatted_modules_focus_areas = '\n'.join(formatted_modules_focus_areas)
+
     return SQL.format(generated=datetime.now(), seed=seed,
             modules=formatted_modules, sessions=formatted_sessions,
             units=formatted_units, groups=formatted_groups,
-            group_sessions=formatted_group_sessions,
-            mapping=formatted_mapping)
+            modules_focus_areas=formatted_modules_focus_areas,
+            courses_modules=formatted_courses_modules,
+            courses_modules_units=formatted_courses_modules_units)
+
 
 def main(argv):
     parser = argparse.ArgumentParser()
@@ -243,7 +276,7 @@ def main(argv):
 
     # rename columns
     col_names = list(reversed(['Slot', 'Slot2', 'Valt'] + ['Alternative']*7 + ['Schwerpunkt', 'Schwerpunkt', 'Rhythmus']))
-    new_names = {col: col_names.pop() if col.startswith('Unnamed') else col for i, col in enumerate(table.columns)}
+    new_names = {col: col_names.pop() if col.startswith('Unnamed') else col for col in table.columns}
     new_names.update({
                 "Priorität":'bwl_priority',
                 "MS": 'bwl_semester',
@@ -313,13 +346,10 @@ def main(argv):
     table['N:Title'] = table.apply(normalized_title, axis=1)
     rcprint("Normalized input")
     #
-    modules = extract_modules(table[['Modul', 'Angebot']].drop_duplicates())
+    modules = extract_modules(table[['Modul', 'Modultyp', 'Angebot', 'verwenbar']].drop_duplicates())
     rcprint("Extracted module information")
     #
     units, map = extract_units(table.groupby('N:Title', axis=0))
-    rcprint("Extracted unit information")
-    #
-    sessions = extract_sessions(units)
     rcprint("Extracted unit information")
     #
     mapping = extract_mapping(modules, units, map, table)
@@ -328,11 +358,10 @@ def main(argv):
     machine_name = os.path.split(args.output.name)[-1].split('.')[0]
 
     rcprint("Generating sql file")
-    print(gen_sql(modules, units, mapping, sessions, machine_name, table), file=args.output)
+    print(gen_sql(modules, units, mapping, machine_name, table), file=args.output)
     #
     print()
     cprint("Done: Output written to " + args.output.name, 'green')
-
 
 
 if __name__ == '__main__':
