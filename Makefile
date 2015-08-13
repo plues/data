@@ -61,10 +61,10 @@ $(DATABASES): %-data.sqlite3: %-data.sql schema.sql
 	rm -f $@
 	sqlite3 $@ < $<
 
-$(PROLOG): data.sqlite3 $(modelgenerator)
+$(PROLOG): data.sqlite3 | $(modelgenerator)
 	java -jar $(modelgenerator) --database=$< --format=prolog --output=$@
 
-$(MACHINES): %.mch: %.sqlite3 $(modelgenerator)
+$(MACHINES): %.mch: %.sqlite3 | $(modelgenerator)
 	java -jar $(modelgenerator) --database=$< --format=b --output=$@
 
 # distribution rules
