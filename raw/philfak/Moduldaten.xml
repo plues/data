@@ -1,0 +1,2298 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<data>
+<course-module-units>
+  <course id="ba-aua-KF-2013" title="Bachelor Anglistik und Amerikanistik Kernfach PO 2013">
+    <modules>
+      <module id="P-IAA-M-BMLS1" title="Module Language Skills 1" type="m" elective-units="4">
+        <abstract-unit id="P-IAA-L-BMLS1a" title="Grammar 1 (Übung)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BMLS1b" title="Grammar 2 (Übung)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BMLS1c" title="Vocabulary and Translation (Übung)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BMLS1d" title="Translation for Beginners (Übung)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-IAA-M-BBM1" title="Basic Module 1 – Ältere Anglistik" type="m" elective-units="2">
+        <abstract-unit id="P-IAA-L-BBM1a" title="Part 1: Elementary (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BBM1b" title="Part 2: Advanced (Basisseminar)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-IAA-M-BBM2" title="Basic Module 2 – Sprachwissenschaft" type="m" elective-units="2">
+        <abstract-unit id="P-IAA-L-BBM2a" title="Part 1: Structure (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BBM2b" title="Part 2: Use (Basisseminar)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-IAA-M-BBM3" title="Basic Module 3 – Literaturwissenschaft" type="m" elective-units="4">
+        <abstract-unit id="P-IAA-L-BBM3a" title="Overview English Literature (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BBM3b" title="Literary and Cultural Theory (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BBM3c" title="Overview American Literature (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-IAA-L-BBM3d" title="Methods of Literary Analysis (Basisseminar)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-IAA-M-BMM" title="Methodenmodul" type="e" elective-units="4">
+        <abstract-unit id="P-IAA-L-BMMa" title="Seminar zur synchronen oder diachronen Sprachwissenschaft des Englischen (Seminar)" type="e" semester="2,3,4" />
+        <abstract-unit id="P-IAA-L-BMMb" title="Seminar zur englischen / amerikanischen / anglophonen Literaturwissenschaft (Seminar)" type="e" semester="2,3,4" />
+        <abstract-unit id="P-IAA-L-BMMc" title="Seminar zur Informations- und Recherchekompetenz (Seminar)" type="e" semester="2,3,4" />
+        <abstract-unit id="P-IAA-L-BMMd" title="Seminar „Wissenschaftliches Schreiben – Literaturwissenschaft“ oder Seminar „Wissenschaftliches Schreiben – Sprachwissenschaft“ (Seminar)" type="e" semester="2,3,4" />
+      </module>
+
+      <module id="P-IAA-M-BIMSS1" title="Intermediate Module – Sprachwissenschaft Struktur 1" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BIMSa" title="Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e" semester="2,3,4,5,6" />
+        <abstract-unit id="P-IAA-L-BIMSS" title="Seminar zur synchronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+      </module>
+
+      <module id="P-IAA-M-BIMSS1" title="Intermediate Module – Sprachwissenschaft Entwicklung 1" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BIMSa" title="Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e" semester="2,3,4,5,6" />
+        <abstract-unit id="P-IAA-L-BIMSD" title="Seminar zur diachronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+      </module>
+
+      <module id="P-IAA-M-BIML1" title="Intermediate Module – Literaturwissenschaft 1" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BIMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="2,3,4,5,6" />
+        <abstract-unit id="P-IAA-L-BIMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="2,3,4,5,6" />
+      </module>
+
+      <module id="P-IAA-M-BPM" title="Praxismodul" type="e" elective-units="3">
+        <abstract-unit id="P-IAA-L-BPMa" title="Praxisforum (Kolloquium)" type="e" semester="1,2,3,4,5" />
+        <abstract-unit id="P-IAA-L-BPMb" title="Thematische Lehrveranstaltung mit Praxisbezug (Seminar)" type="e" semester="1,2,3,4,5" />
+        <abstract-unit id="P-IAA-L-BPMc" title="Exkursion als Blockveranstaltung (Exkursion)" type="e" semester="1,2,3,4,5" />
+      </module>
+
+      <module id="P-IAA-M-BMLS2" title="Module Language Skills 2" type="m" elective-units="4">
+        <abstract-unit id="P-IAA-L-BMLS2a" title="Essay Writing (Übung)" type="m" semester="2,3,4" />
+        <abstract-unit id="P-IAA-L-BMLS2b" title="Essay Writing (Übung)" type="m" semester="2,3,4" />
+        <abstract-unit id="P-IAA-L-BMLS2c" title="Oral Skills Presentation (Übung)" type="m" semester="2,3,4" />
+        <abstract-unit id="P-IAA-L-BMLS2d" title="Oral Skills Podcast (Übung)" type="m" semester="2,3,4" />
+      </module>
+
+      <module id="P-IAA-M-BAMS1" title="Advanced Module – Sprachwissenschaft 1" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BAMSa" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="4,5,6" />
+        <abstract-unit id="P-IAA-L-BAMSb" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="4,5,6" />
+      </module>
+
+      <module id="P-IAA-M-BAMS2" title="Advanced Module – Sprachwissenschaft 2" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BAMSa" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="4,5,6" />
+        <abstract-unit id="P-IAA-L-BAMSb" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="4,5,6" />
+      </module>
+
+      <module id="P-IAA-M-BAML1" title="Advanced Module – Literaturwissenschaft 1" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BAMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="4,5,6" />
+        <abstract-unit id="P-IAA-L-BAMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="4,5,6" />
+      </module>
+
+      <module id="P-IAA-M-BAML2" title="Advanced Module – Literaturwissenschaft 2" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BAMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="4,5,6" />
+        <abstract-unit id="P-IAA-L-BAMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="4,5,6" />
+      </module>
+
+      <module id="P-IAA-M-BAMS3" title="Advanced Module – Sprachwissenschaft 3" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BAMSa" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="5,6" />
+        <abstract-unit id="P-IAA-L-BAMSb" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="5,6" />
+      </module>
+
+      <module id="P-IAA-M-BAML3" title="Advanced Module – Literaturwissenschaft 3" type="e" elective-units="2">
+        <abstract-unit id="P-IAA-L-BAMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="5,6" />
+        <abstract-unit id="P-IAA-L-BAMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="5,6" />
+      </module>
+    </modules>
+  </course>
+
+  <course id="ba-ger-KF-2013" title="Bachelor Germanistik Kernfach PO 2013">
+      <modules>
+        <module id="P-GERM-M-BBM1" title="Basismodul 1: Germanistische Sprachwissenschaft" type="m" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM1a" title="Einführungsvorlesung (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM1b" title="Einführungsseminar (Seminar)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM1c" title="Grundseminar (Seminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM1d" title="Proseminar (Seminar)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-GERM-M-BBM2" title="Basismodul 2: Neuere Deutsche Literaturwissenschaft" type="m" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM2a" title="Einführungsvorlesung (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM2b" title="Einführungsseminar (Seminar)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM2c" title="Grundseminar (Seminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM2d" title="Proseminar (Seminar)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-GERM-M-BBM3" title="Basismodul 3: Germanistische Mediävistik" type="m" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM3a" title="Einführungsvorlesung (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM3b" title="Einführungsseminar (Seminar)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM3c" title="Grundseminar (Seminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM3d" title="Proseminar (Seminar)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-GERM-M-BBM4" title="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" type="m" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM4a" title="Einführungsvorlesung (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM4b" title="Einführungsseminar (Seminar)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM4c" title="Grundseminar (Seminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM4d" title="Proseminar (Seminar)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-GERM-M-BFM1" title="Fachmodul: Germanistische Sprachwissenschaft" type="e" elective-units="2">
+          <abstract-unit id="P-GERM-L-BFM1a" title="Vorlesung oder Seminar Germanistische Sprachwissenschaft (Vorlesung oder Seminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-GERM-L-BFM1b" title="Seminar Germanistische Sprachwissenschaft (Seminar)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-GERM-M-BFM2" title="Fachmodul: Neuere Deutsche Literaturwissenschaft" type="e" elective-units="2">
+          <abstract-unit id="P-GERM-L-BFM2a" title="Vorlesung oder Seminar Neuere Deutsche Literaturwissenschaft (Vorlesung oder Seminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-GERM-L-BFM2b" title="Seminar Neuere Deutsche Literaturwissenschaft (Seminar)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-GERM-M-BFM3" title="Fachmodul: Germanistische Mediävistik" type="e" elective-units="2">
+          <abstract-unit id="P-GERM-L-BFM3a" title="Vorlesung oder Seminar Germanistische Mediävistik (Vorlesung oder Seminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-GERM-L-BFM3b" title="Seminar Germanistische Mediävistik (Seminar)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-GERM-M-BFM4" title="Fachmodul: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" type="e" elective-units="2">
+          <abstract-unit id="P-GERM-L-BFM4a" title="Vorlesung oder Seminar Theorie und Geschichte mündlicher und schriftlicher Kommunikation (Vorlesung oder Seminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-GERM-L-BFM4b" title="Seminar Theorie und Geschichte mündlicher und schriftlicher Kommunikation (Seminar)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-GERM-M-BBAM" title="Bachelorarbeit-Modul" type="m" elective-units="1">
+          <abstract-unit id="P-GERM-L-BBAMa" title="Kolloquium (Kolloquium)" type="m" semester="6" />
+        </module>
+    </modules>
+  </course>
+
+  <course id="ba-ges-KF-2013" title="Bachelor Geschichte Kernfach PO 2013">
+      <modules>
+        <module id="P-HIST-M-BBMAM" title="Basismodul Antike und Mittelalter" type="m" elective-units="3">
+          <abstract-unit id="P-HIST-L-BBMAMa" title="Einführungsvorlesung Antike (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-HIST-L-BBMAMb" title="Einführungsvorlesung Mittelalter (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-HIST-L-BBMAMc" title="Basisseminar Antike oder Mittelalter (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-HIST-M-BBMNO" title="Basismodul Neuzeit und Osteuropa" type="m" elective-units="4">
+          <abstract-unit id="P-HIST-L-BBMNOa" title="Einführungsvorlesung Neuzeit (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-HIST-L-BBMNOb" title="Basisseminar Neuzeit (Basisseminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-HIST-L-BBMNOc" title="Basisseminar Osteuropa (Basisseminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-HIST-L-BBMNOd" title="Neuzeit oder Osteuropa (Übung)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-HIST-M-BMM" title="Methodenmodul" type="m" elective-units="2">
+          <abstract-unit id="P-HIST-L-BMMa" title="Einführungsvorlesung Geschichtswissenschaft (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-HIST-L-BMMb" title="Mentorat (Seminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-HIST-M-BAM1" title="Aufbaumodul 1 Antike und Mittelalter" type="m" elective-units="3">
+          <abstract-unit id="P-HIST-L-BAM1a" title="Aufbauseminar Antike oder Mittelalter (Aufbauseminar)" type="m" semester="3,4" />
+          <abstract-unit id="P-HIST-L-BAM1b" title="Vorlesung Antike oder Mittelalter (Vorlesung)" type="m" semester="3,4" />
+      <abstract-unit id="P-HIST-L-BAM1c" title="Übung Antike oder Mittelalter (Übung)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-HIST-M-BAM2" title="Aufbaumodul 2 Neuzeit und Osteuropa" type="m" elective-units="4">
+          <abstract-unit id="P-HIST-L-BAM2a" title="Aufbauseminar Neuzeit oder Osteuropa (Aufbauseminar)" type="m" semester="3,4" />
+          <abstract-unit id="P-HIST-L-BAM2b" title="Vorlesung oder Übung Neuzeit oder Osteuropa (Vorlesung oder Übung)" type="m" semester="3,4" />
+      <abstract-unit id="P-HIST-L-BAM2c" title="Übung Neuzeit oder Osteuropa (Übung)" type="m" semester="3,4" />
+      <abstract-unit id="P-HIST-L-BAM2d" title="Übung Neuzeit oder Osteuropa (Übung)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-HIST-M-BPM" title="Praxismodul" type="m" elective-units="2">
+          <abstract-unit id="P-HIST-L-BPMa" title="Praxisseminar (Seminar)" type="m" semester="3,4" />
+          <abstract-unit id="P-HIST-L-BPMb" title="Übung Praxismodul (Übung)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-HIST-M-BVM1" title="Vertiefungsmodul 1" type="m" elective-units="4">
+          <abstract-unit id="P-HIST-L-BVM1a" title="Vertiefungsseminar (Vertiefungsseminar)" type="m" semester="5,6" />
+          <abstract-unit id="P-HIST-L-BVM1b" title="Vorlesung oder Übung oder Exkursion (Vorlesung oder Übung oder Exkursion)" type="m" semester="5,6" />
+      <abstract-unit id="P-HIST-L-BVM1c" title="Übung oder Exkursion (Übung oder Exkursion)" type="m" semester="5,6" />
+      <abstract-unit id="P-HIST-L-BVM1d" title="Übung oder Exkursion (Übung oder Exkursion)" type="m" semester="5,6" />
+    </module>
+
+    <module id="P-HIST-M-BVM2" title="Vertiefungsmodul 1" type="m" elective-units="4">
+          <abstract-unit id="P-HIST-L-BVM2a" title="Vorlesung (Vorlesung)" type="m" semester="5,6" />
+          <abstract-unit id="P-HIST-L-BVM2b" title="Vertiefungsseminar oder Übung oder Exkursion (Vertiefungsseminar oder Übung oder Exkursion)" type="m" semester="5,6" />
+      <abstract-unit id="P-HIST-L-BVM2c" title="Übung oder Exkursion (Übung oder Exkursion)" type="m" semester="5,6" />
+      <abstract-unit id="P-HIST-L-BVM2d" title="Übung oder Exkursion (Übung oder Exkursion)" type="m" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-jüd-KF-2013" title="Bachelor Jüdische Studien Kernfach PO 2013">
+      <modules>
+        <module id="P-IJS-M-BA01" title="Basismodul A: Grundlagen der Wissenschaft vom Judentum" type="m" elective-units="4">
+          <abstract-unit id="P-IJS-L-BA0101" title="Einführung in die Judaistik I (Basisseminar oder Übung)" type="m" semester="1,2" />
+          <abstract-unit id="P-IJS-L-BA0102" title="Einführung in die Judaistik II (Basisseminar oder Übung)" type="m" semester="1,2" />
+      <abstract-unit id="P-IJS-L-BA0103" title="Methodik I (Basisseminar oder Übung)" type="m" semester="1,2" />
+      <abstract-unit id="P-IJS-L-BA0104" title="Methodik II (Basisseminar oder Übung)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-IJS-M-BA02" title="Basismodul B: Bibelhebräisch" type="m" elective-units="2">
+          <abstract-unit id="P-IJS-L-BA0201" title="Bibelhebräisch I (Sprachkurs)" type="m" semester="1,2" />
+          <abstract-unit id="P-IJS-L-BA0202" title="Bibelhebräisch II (Sprachkurs)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-IJS-M-BA03" title="Basismodul C: Modernhebräisch" type="m" elective-units="2">
+          <abstract-unit id="P-IJS-L-BA0301" title="Modernhebräisch I (Sprachkurs)" type="m" semester="1,2" />
+          <abstract-unit id="P-IJS-L-BA0302" title="Modernhebräisch II (Sprachkurs)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-IJS-M-BA04" title="Aufbaumodul 0: Mischna-Hebräisch - mittelalterliches Hebräisch" type="m" elective-units="4">
+          <abstract-unit id="P-IJS-L-BA0401" title="Mischna (Sprachkurs)" type="m" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0402" title="Midrasch (Sprachkurs)" type="m" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0403" title="Mittelalterliche Literatur I (Sprachkurs)" type="m" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0404" title="Mittelalterliche Literatur II (Sprachkurs)" type="m" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA05" title="Aufbaumodul A: Hebräische Sprache und Literatur der Gegenwart" type="m" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0501" title="Hebräische Sprache und Literatur der Gegenwart I (Aufbauseminar)" type="m" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0502" title="Modernhebräische Sprachpraxis (Sprachkurs oder Übung)" type="m" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0503" title="Hebräische Sprache und Literatur der Gegenwart II (Aufbauseminar)" type="m" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA06" title="Aufbaumodul B: Mehrheitskultur, Minderheitskultur" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0601" title="BA0601 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0602" title="BA0602 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0603" title="BA0603 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA07" title="Aufbaumodul C: Tradition und Wandel im Judentum" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0701" title="BA0701 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0702" title="BA0702 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0703" title="BA0703 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA08" title="Aufbaumodul D: Jüdische Identität – Einheit und Vielfalt" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0801" title="BA0801 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0802" title="BA0802 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0803" title="BA0803 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA09" title="Aufbaumodul E: Israel – Staat und Gesellschaft" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0901" title="BA0901 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0902" title="BA0902 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0903" title="BA0903 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-kun-KF-2013" title="Bachelor Kunstgeschichte Kernfach PO 2013">
+      <modules>
+        <module id="P-KUGE-M-BBM1" title="Basismodul 1: Einführung in die spätantike und mittelalterliche Kunstgeschichte" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BBM1a" title="Methoden- und Formenlehre der spätantiken und mittelalterlichen Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BBM1b" title="Vorlesung aus der spätantiken und/oder mittelalterlichen Kunstgeschichte (Vorlesung)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BBM2" title="Basismodul 2: Einführung in die neuere und neueste Kunstgeschichte" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BBM2a" title="Methoden- und Formenlehre der neueren und neuesten Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BBM2b" title="Vorlesung zur neueren und/oder neuesten Kunstgeschichte (Vorlesung)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BBM3" title="Basismodul 3: Themenmodul zur spätantiken und mittelalterlichen Kunstgeschichte" type="m" elective-units="3">
+          <abstract-unit id="P-KUGE-L-BBM3a" title="Vorlesung zur spätantiken und/oder mittelalterlichen Kunstgeschichte (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BBM3b" title="Basisseminar zur spätantiken und/oder mittelalterlichen Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-KUGE-L-BBM3c" title="Basisseminar zur spätantiken und/oder mittelalterlichen Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BBM4" title="Basismodul 4: Themenmodul zur neueren und neuesten Kunstgeschichte" type="m" elective-units="3">
+          <abstract-unit id="P-KUGE-L-BBM4a" title="Vorlesung zur neueren und/oder neuesten Kunstgeschichte (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BBM4b" title="Basisseminar zur neueren und/oder neuesten Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-KUGE-L-BBM4c" title="Basisseminar zur neueren und/oder neuesten Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BBM5" title="Basismodul 5: Regionalwissenschaftliche und praxisbezogene Studien" type="m" elective-units="3">
+          <abstract-unit id="P-KUGE-L-BBM5a" title="Kunst im Rheinland (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BBM5b" title="Übung(en) vor Originalen mit Exkursion (Übung)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-KUGE-L-BBM5c" title="Übung vor Originalen / Praxisbezogene Übungen (Übung)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BAM1" title="Aufbaumodul 1: Wissenschaftlich vertiefte kunstgeschichtliche Studien 1" type="m" elective-units="3">
+          <abstract-unit id="P-KUGE-L-BAM1a" title="Vorlesung aus der spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Vorlesung)" type="m" semester="5,6" />
+          <abstract-unit id="P-KUGE-L-BAM1b" title="Aufbauseminar (Modulabschlussprüfung zu dem Aufbauseminar, zu dem nicht die Bachelorarbeit verfasst wird) (Aufbauseminar mit Abschlussprüfung)" type="m" semester="5,6" />
+      <abstract-unit id="P-KUGE-L-BAM1c" title="Aufbauseminar (innerhalb des thematischen Rahmens dieses Aufbauseminars kann das Thema der Bachelorarbeit gewählt werden) (Aufbauseminar ohne Abschlussprüfung)" type="m" semester="5,6" />
+    </module>
+
+    <module id="P-KUGE-M-BAM2" title="Aufbaumodul 2: Wissenschaftlich vertiefte kunstgeschichtliche Studien 2" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BAM2a" title="Vorlesung aus der spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Vorlesung mit Abschlussprüfung)" type="m" semester="5,6" />
+          <abstract-unit id="P-KUGE-L-BAM2b" title="Aufbauseminar (innerhalb des thematischen Rahmens dieses Aufbauseminars kann das Thema der Bachelorarbeit gewählt werden) (Aufbauseminar ohne Abschlussprüfung)" type="m" semester="5,6" />
+    </module>
+
+    <module id="P-KUGE-M-BAM3" title="Aufbaumodul 3: Regionalwissenschaftliche und praxisbezogene Studien" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BAM3a" title="Übung(en) vor Originalen mit Exkursion (Übung)" type="m" semester="5,6" />
+          <abstract-unit id="P-KUGE-L-BAM3b" title="Übung vor Originalen / Praxisbezogene Übung (Übung)" type="m" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-mod-KF-2013" title="Bachelor Modernes Japan Kernfach PO 2013">
+      <modules>
+        <module id="P-MOJA-M-BSM1" title="Sprachmodul 1 (SM1)" type="m" elective-units="3">
+          <abstract-unit id="P-MOJA-L-BSM1a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)" type="m" semester="1" />
+          <abstract-unit id="P-MOJA-L-BSM1b" title="Schreib- und Leseübungen (Sprachkurs)" type="m" semester="1" />
+      <abstract-unit id="P-MOJA-L-BSM1c" title="Grammatik und leichte Textlektüre (Sprachkurs)" type="m" semester="1" />
+    </module>
+
+    <module id="P-MOJA-M-BSM2" title="Sprachmodul 2 (SM2)" type="m" elective-units="3">
+          <abstract-unit id="P-MOJA-L-BSM2a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)" type="m" semester="2" />
+          <abstract-unit id="P-MOJA-L-BSM2b" title="Schreib- und Leseübungen (Sprachkurs)" type="m" semester="2" />
+      <abstract-unit id="P-MOJA-L-BSM2c" title="Grammatik und Lektüre leichter Texte (Sprachkurs)" type="m" semester="2" />
+    </module>
+
+    <module id="P-MOJA-M-BSM3" title="Sprachmodul 3 (SM3)" type="m" elective-units="3">
+          <abstract-unit id="P-MOJA-L-BSM3a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)" type="m" semester="3" />
+          <abstract-unit id="P-MOJA-L-BSM3b" title="Schreib- und Leseübungen (Sprachkurs)" type="m" semester="3" />
+      <abstract-unit id="P-MOJA-L-BSM3c" title="Grammatik und Lektüre leichter Texte (Sprachkurs)" type="m" semester="3" />
+    </module>
+
+    <module id="P-MOJA-M-BSM4" title="Sprachmodul 4 (SM4)" type="m" elective-units="3">
+          <abstract-unit id="P-MOJA-L-BSM4a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)" type="m" semester="4" />
+          <abstract-unit id="P-MOJA-L-BSM4b" title="Kanji und Schreibübungen (Sprachkurs)" type="m" semester="4" />
+      <abstract-unit id="P-MOJA-L-BSM4c" title="Grammatik und Lektüre leichter Texte (Sprachkurs)" type="m" semester="4" />
+    </module>
+
+    <module id="P-MOJA-M-BMRG" title="Modul Regionalwissenschaftliche Grundlagen (MRG)" type="m" elective-units="5">
+          <abstract-unit id="P-MOJA-L-BMRGa" title="Einführung in die japanische Geschichte (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-MOJA-L-BMRGb" title="Einführung in die japanische Kultur (Basisseminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-MOJA-L-BMRGc" title="Einführung in die japanische Gesellschaft (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-MOJA-L-BMRGd" title="Orientierungstutorium (Tutorium)" type="m" semester="1,2" />
+      <abstract-unit id="P-MOJA-L-BMRGe" title="Semesterbegleitendes Tutorium (Tutorium)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-MOJA-M-BKTM" title="Kulturwissenschaftliches Themenmodul (KTM)" type="m" elective-units="4">
+          <abstract-unit id="P-MOJA-L-BKTMa" title="Aufbauseminar Kulturwissenschaften (Aufbauseminar)" type="m" semester="3" />
+          <abstract-unit id="P-MOJA-L-BKTMb" title="Aufbauseminar oder Vorlesung Kulturwissenschaften (Aufbauseminar oder Vorlesung)" type="m" semester="3" />
+      <abstract-unit id="P-MOJA-L-BTMcA" title="Blockveranstaltung A: Techniken des wissenschaftlichen Schreibens (Übung)" type="e" semester="3" />
+      <abstract-unit id="P-MOJA-L-BTMcB" title="Blockveranstaltung B: Recherchemethoden und mündliche Präsentationstechniken (Übung)" type="e" semester="3" />
+    </module>
+
+    <module id="P-MOJA-M-BSTM" title="Sozialwissenschaftliches Themenmodul (STM)" type="m" elective-units="4">
+          <abstract-unit id="P-MOJA-L-BSTMa" title="Aufbauseminar Sozialwissenschaften (Aufbauseminar)" type="m" semester="4" />
+          <abstract-unit id="P-MOJA-L-BSTMb" title="Aufbauseminar oder Vorlesung Sozialwissenschaften (Aufbauseminar oder Vorlesung)" type="m" semester="4" />
+      <abstract-unit id="P-MOJA-L-BTMcA" title="Blockveranstaltung A: Techniken des wissenschaftlichen Schreibens (Übung)" type="e" semester="4" />
+      <abstract-unit id="P-MOJA-L-BTMcB" title="Blockveranstaltung B: Recherchemethoden und mündliche Präsentationstechniken (Übung)" type="e" semester="4" />
+    </module>
+
+    <module id="P-MOJA-M-BPM" title="Projektmodul (PM)" type="m" elective-units="2">
+          <abstract-unit id="P-MOJA-L-BPMa" title="Lektürekurs für Fortgeschrittene (Seminar)" type="m" semester="5,7" />
+          <abstract-unit id="P-MOJA-L-BPMb" title="Projektkolloquium (Kolloquium)" type="m" semester="5,7" />
+    </module>
+
+    <module id="P-MOJA-M-BES1" title="Bachelor Plus: Modul Erweiterte Sprachpraxis 1 (ES1)" type="m" elective-units="1">
+          <abstract-unit id="P-MOJA-L-BES1a" title="Sprachkurse für Fortgeschrittene an einer der japanischen Partneruniversitäten (Sprachkurs)" type="m" semester="5" />
+    </module>
+
+    <module id="P-MOJA-M-BES2" title="Bachelor Plus: Modul Erweiterte Sprachpraxis 2 (ES2)" type="m" elective-units="1">
+          <abstract-unit id="P-MOJA-L-BES2a" title="Sprachkurse für Fortgeschrittene an einer der japanischen Partneruniversitäten (Sprachkurs)" type="m" semester="6" />
+    </module>
+
+    <module id="P-MOJA-M-BEJ1" title="Bachelor Plus: Modul Empirische Japanforschung 1 – eLearning (EJ1)" type="m" elective-units="1">
+          <abstract-unit id="P-MOJA-L-BEJ1a" title="Projektkolloquium (Kolloquium)" type="m" semester="5" />
+    </module>
+
+    <module id="P-MOJA-M-BEJ2" title="Bachelor Plus: Modul Empirische Japanforschung 2 – eLearning (EJ2)" type="m" elective-units="1">
+          <abstract-unit id="P-MOJA-L-BEJ2a" title="Projektkolloquium (Kolloquium)" type="m" semester="6" />
+    </module>
+
+    <module id="P-MOJA-M-BIJ" title="Bachelor Plus: Modul Interdisziplinäre Japanstudien (IJ)" type="m" elective-units="2">
+          <abstract-unit id="P-MOJA-L-BIJa" title="5. Fachsemester: Thematische Lehrveranstaltungen an einer der japanischen Partneruniversitäten (Seminar)" type="m" semester="5,6" />
+          <abstract-unit id="P-MOJA-L-BIJb" title="6. Fachsemester: Thematische Lehrveranstaltungen an einer der japanischen Partneruniversitäten (Seminar)" type="m" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-phil-KF-2013" title="Bachelor Philosophie Kernfach PO 2013">
+    <modules>
+      <module id="P-PHIL-M-BPPG" title="Philosophische Propädeutik: Basismodul Grundlagen" pordnr="34509">
+        <abstract-unit id="P-PHIL-L-BPPGa" title="Grundprobleme und Methoden der Philosophie (Basisseminar)" type="m" semester="1,2,3,4" />
+        <abstract-unit id="P-PHIL-L-BPPGb" title="Wissenschaftliche Arbeitstechniken (Übung)" type="m" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BPPL1" title="Philosophische Propädeutik: Basismodul Logik 1" pordnr="34510">
+        <abstract-unit id="P-Phil-L-BPPL1a" title="Logik I (Basisseminar)" type="m" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BPPL1b" title="Logik I (Übung)" type="m" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BPPL2" title="Philosophische Propädeutik: Basismodul Logik 2" pordnr="34511">
+        <abstract-unit id="P-Phil-L-BPPL2a" title="Logik II (Basisseminar)" type="m" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BPPL2b" title="Logik II (Übung)" type="m" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BPPAR" title="Philosophische Propädeutik: Basismodul Argumentation" pordnr="34512">
+        <abstract-unit id="P-Phil-L-BPPARa" title="Theorie des Argumentierens (Basisseminar)" type="m" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BPPARb" title="Praxis des Argumentierens (Übung)" type="m" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BTPE" title="Theoretische Philosophie: Basismodul Erkenntnistheorie" pordnr="34513">
+        <abstract-unit id="P-PHIL-L-BTPEa" title="Erkenntnistheorie (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BTPEb" title="Erkenntnistheorie (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BTPOM" title="Theoretische Philosophie: Basismodul Ontologie/Metaphysik" pordnr="34514">
+        <abstract-unit id="P-PHIL-L-BTPOMa" title="Ontologie/Metaphysik (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BTPOMb" title="Ontologie/Metaphysik (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BTPW" title="Theoretische Philosophie: Basismodul Wissenschaftstheorie" pordnr="34515">
+        <abstract-unit id="P-PHIL-L-BTPWa" title="Wissenschaftstheorie (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BTPWb" title="Wissenschaftstheorie (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BTPS" title="Theoretische Philosophie: Basismodul Sprachphilosophie" pordnr="34516">
+        <abstract-unit id="P-PHIL-L-BTPSa" title="Sprachphilosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BTPSb" title="Sprachphilosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BPPBE" title="Praktische Philosophie: Basismodul Ethik" pordnr="34517">
+        <abstract-unit id="P-PHIL-L-BPPBEa" title="Ethik (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BPPBEb" title="Ethik (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BPPAN" title="Praktische Philosophie: Basismodul Politische Philosophie" pordnr="34518">
+        <abstract-unit id="P-PHIL-L-BPPANa" title="Politische Philosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BPPANb" title="Politische Philosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BPPK" title="Praktische Philosophie: Basismodul Anthropologie/Kulturphilosophie" pordnr="34519">
+        <abstract-unit id="P-PHIL-L-BPPKa" title="Anthropologie/Kulturphilosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BPPKb" title="Anthropologie/Kulturphilosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BPPS" title="Praktische Philosophie: Basismodul Sozialphilosophie/Rechtsphilosophie" pordnr="34520">
+        <abstract-unit id="P-PHIL-L-BPPSa" title="Sozialphilosophie/Rechtsphilosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BPPSb" title="Sozialphilosophie/Rechtsphilosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BGPA" title="Geschichte der Philosophie: Basismodul Antike" pordnr="34521">
+        <abstract-unit id="P-PHIL-L-BGPAa" title="Antike (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BGPAb" title="Antike (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BGPM" title="Geschichte der Philosophie: Basismodul Mittelalter" pordnr="34522">
+        <abstract-unit id="P-PHIL-L-BGPMa" title="Mittelalter (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BGPMb" title="Mittelalter (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BGPN" title="Geschichte der Philosophie: Basismodul Neuzeit" pordnr="34523">
+        <abstract-unit id="P-PHIL-L-BGPNa" title="Neuzeit (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BGPNb" title="Neuzeit (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BGPG" title="Geschichte der Philosophie: Basismodul Gegenwart" pordnr="34524">
+        <abstract-unit id="P-PHIL-L-BGPGa" title="Gegenwart (Vorlesung)" type="e" semester="1,2,3,4" />
+        <abstract-unit id="P-Phil-L-BGPGb" title="Gegenwart (Basisseminar)" type="e" semester="1,2,3,4" />
+      </module>
+
+      <module id="P-PHIL-M-BALM" title="Aufbaumodul Logik/Metalogik" pordnr="34525">
+        <abstract-unit id="P-PHIL-L-BALMa" title="Logik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        <abstract-unit id="P-Phil-L-BALMb" title="Metalogik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      </module>
+
+      <module id="P-PHIL-M-BAOMS" title="Aufbaumodul Ontologie/Metaphysik/Sprachphilosophie" pordnr="34526">
+        <abstract-unit id="P-PHIL-L-BAOMSa" title="Ontologie/Metaphysik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        <abstract-unit id="P-Phil-L-BAOMSb" title="Sprachphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      </module>
+
+      <module id="P-PHIL-M-BAEW" title="Aufbaumodul Erkenntnistheorie/Wissenschaftstheorie" pordnr="34527">
+        <abstract-unit id="P-PHIL-L-BAEWa" title="Erkenntnistheorie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        <abstract-unit id="P-Phil-L-BAEWb" title="Wissenschaftstheorie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      </module>
+
+      <module id="P-PHIL-M-BAAPG" title="Aufbaumodul Anthropologie/Philosophie des Geistes" pordnr="34528">
+        <abstract-unit id="P-PHIL-L-BAAPGa" title="Anthropologie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        <abstract-unit id="P-Phil-L-BAAPGb" title="Philosophie des Geistes (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      </module>
+
+      <module id="P-PHIL-M-BAEP" title="Aufbaumodul Ethik" pordnr="34529">
+        <abstract-unit id="P-PHIL-L-BAEPa" title="Ethik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        <abstract-unit id="P-Phil-L-BAEPb" title="Ethik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      </module>
+
+      <module id="P-PHIL-M-BAKS" title="Aufbaumodul Kulturphilosophie/Sozialphilosophie" pordnr="34530">
+        <abstract-unit id="P-PHIL-L-BAKSa" title="Kulturphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        <abstract-unit id="P-Phil-L-BAKSb" title="Sozialphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      </module>
+
+      <module id="P-PHIL-M-BATP" title="Aufbaumodul Politische Philosophie/Rechtsphilosophie" pordnr="34531">
+        <abstract-unit id="P-PHIL-L-BATPa" title="Politische Philosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        <abstract-unit id="P-Phil-L-BATPb" title="Rechtsphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      </module>
+    </modules>
+  </course>
+
+  <course id="ba-rom-KF-2013" title="Bachelor Romanistik Kernfach PO 2013">
+    <modules>
+    <module id="P-ROM-M-BSPF" title="Basismodul Sprachpraxis Französisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPFa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPFc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BSPI" title="Basismodul Sprachpraxis Italienisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPIa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPIb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPIc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPId" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BSPS" title="Basismodul Sprachpraxis Spanisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPSa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPSc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BVSF" title="Vertiefungsmodul Sprachpraxis Französisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSFa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSFb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BVSI" title="Vertiefungsmodul Sprachpraxis Italienisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSIa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSIb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BVSS" title="Vertiefungsmodul Sprachpraxis Spanisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSSa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSSb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BASF" title="Aufbaumodul Sprachpraxis Französisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASFa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASFb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BASI" title="Aufbaumodul Sprachpraxis Italienisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASIa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASIb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BASS" title="Aufbaumodul Sprachpraxis Spanisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASSa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASSb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft" type="m" elective-units="4">
+          <abstract-unit id="P-ROM-L-BRSWa" title="Einführung in die romanistische Sprachwissenschaft (Vorlesung)" type="m" semester="1" />
+          <abstract-unit id="P-ROM-L-BRSWbF" title="Einführung in das Studium der französischen Sprachwissenschaft (Seminar)" type="e" semester="1" />
+      <abstract-unit id="P-ROM-L-BRSWbI" title="Einführung in das Studium der italienischen Sprachwissenschaft (Seminar)" type="e" semester="1" />
+          <abstract-unit id="P-ROM-L-BRSWbS" title="Einführung in das Studium der spanischen Sprachwissenschaft (Seminar)" type="e" semester="1" />
+        </module>
+
+    <module id="P-ROM-M-BVSW" title="Vertiefungsmodul romanistische Sprachwissenschaft" type="m" elective-units="3">
+          <abstract-unit id="P-ROM-L-BVSWa" title="Basisseminar (Basisseminar)" type="m" semester="2" />
+          <abstract-unit id="P-ROM-L-BVSWb" title="Projektseminar (Seminar)" type="m" semester="2" />
+      <abstract-unit id="P-ROM-L-BVSWc" title="Tutorium zum Projektseminar (Tutorium)" type="m" semester="2" />
+        </module>
+
+    <module id="P-ROM-M-BARS1" title="Aufbaumodul romanistische Sprachwissenschaft (ohne Bachelorarbeit)" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BARS1a" title="Vorlesung oder Aufbauseminar BARS1a (Vorlesung oder Aufbauseminar)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BARS1b" title="Aufbauseminar BARS1b (Aufbauseminar)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BARS2" title="Aufbaumodul romanistische Sprachwissenschaft (mit Bachelorarbeit)" type="e" elective-units="3">
+          <abstract-unit id="P-ROM-L-BARS1a" title="Vorlesung oder Aufbauseminar BASR1a (Vorlesung oder Aufbauseminar)" type="e" semester="4,5,6" />
+          <abstract-unit id="P-ROM-L-BARS1b" title="Aufbauseminar BARS1b (Aufbauseminar)" type="e" semester="4,5,6" />
+      <abstract-unit id="P-ROM-L-BARS1c" title="Trainingsseminar BARS2c (Seminar)" type="e" semester="4,5,6" />
+        </module>
+
+    <module id="P-ROM-M-BRLW" title="Basismodul romanistische Literaturwissenschaft" type="m" elective-units="2">
+          <abstract-unit id="P-ROM-L-BRLWa" title="Vorlesung BRLWa (Vorlesung)" type="m" semester="1" />
+          <abstract-unit id="P-ROM-L-BRLWb" title="Einführungsseminar BRLWb (Seminar)" type="m" semester="1" />
+        </module>
+
+    <module id="P-ROM-M-BVLW" title="Vertiefungsmodul romanistische Literaturwissenschaft" type="m" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVLWa" title="Projektseminar BVLWa (Seminar)" type="m" semester="2,3" />
+          <abstract-unit id="P-ROM-L-BVLWb" title="Basisseminar BVLWb (Basisseminar)" type="m" semester="2,3" />
+        </module>
+
+    <module id="P-ROM-M-BALW1" title="Aufbaumodul romanistische Literaturwissenschaft (ohne Bachelorarbeit)" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BALW1a" title="Vorlesung oder Aufbauseminar BALW1a (Vorlesung oder Aufbauseminar)" type="m" semester="3,4" />
+          <abstract-unit id="P-ROM-L-BALW1b" title="Aufbauseminar BALW1b (Aufbauseminar)" type="m" semester="3,4" />
+        </module>
+
+    <module id="P-ROM-M-BALWB" title="Aufbaumodul romanistische Literaturwissenschaft (mit Bachelorarbeit)" type="e" elective-units="3">
+          <abstract-unit id="P-ROM-L-BALW1a" title="Vorlesung oder Aufbauseminar BALW1a (Vorlesung oder Aufbauseminar)" type="e" semester="4,5,6" />
+          <abstract-unit id="P-ROM-L-BALW1b" title="Aufbauseminar BALW1b (Aufbauseminar)" type="e" semester="4,5,6" />
+      <abstract-unit id="P-ROM-L-BALW1c" title="Trainingsseminar BALWBc (Seminar)" type="e" semester="4,5,6" />
+        </module>
+
+    <module id="P-ROM-M-BOF1" title="Optionsmodul: Sprache Französisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BOF1a" title="Grundkurs Französisch (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BOF1b" title="Aufbaukurs Französisch (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BOI1" title="Optionsmodul: Sprache Italienisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BOI1a" title="Grundkurs Italienisch (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BOI1b" title="Aufbaukurs Italienisch (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BOS1" title="Optionsmodul: Sprache Spanisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BOS1a" title="Grundkurs Spanisch (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BOS1b" title="Aufbaukurs Spanisch (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BOF2" title="Optionsmodul: Basismodul Sprachpraxis Französisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPFa" title="Sprachbasisseminar A (Sprachkurs)" type="m" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPFc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BOI2" title="Optionsmodul: Basismodul Sprachpraxis Italienisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPIa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPIb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPIc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPId" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BOS2" title="Optionsmodul: Basismodul Sprachpraxis Spanisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPSa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPSc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BOKR3" title="Optionsmodul: Kultur- und Regionalwissenschaft" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BOKR3a" title="Einführung BOKR3a (Basis- oder Aufbauseminar)" type="e" semester="3,4" />
+          <abstract-unit id="P-ROM-L-BOKR3b" title="Aufbauseminar BOKR3b (Aufbauseminar)" type="e" semester="3,4" />
+        </module>
+
+    <module id="P-ROM-M-BOAS4" title="Optionsmodul: Einführung in die Anwendungsfelder der Sprachwissenschaft" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BOAS4a" title="Einführung BOAS4a (Basis- oder Aufbauseminar)" type="e" semester="3,4" />
+          <abstract-unit id="P-ROM-L-BOAS4b" title="Aufbauseminar BOAS4b (Aufbauseminar)" type="e" semester="3,4" />
+        </module>
+
+    <module id="P-ROM-M-BOMK5" title="Optionsmodul: Mediale Kommunikation" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BOMK5a" title="Einführung BOMK5a (Basis- oder Aufbauseminar)" type="e" semester="2,3,4,5" />
+          <abstract-unit id="P-ROM-L-BOMK5b" title="Basis- oder Aufbauseminar BOMK5b (Basis- oder Aufbauseminar)" type="e" semester="2,3,4,5" />
+        </module>
+
+    <module id="P-ROM-M-BOT6" title="Optionsmodul: Translation" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BOT6a" title="Einführung BOT6a (Basis- oder Aufbauseminar)" type="e" semester="2,3" />
+          <abstract-unit id="P-ROM-L-BOT6b" title="Basis- oder Aufbauseminar BOT6b (Basis- oder Aufbauseminar)" type="e" semester="2,3" />
+        </module>
+    </modules>
+  </course>
+
+  <course id="ba-aua-EF-2013" title="Bachelor Anglistik und Amerikanistik Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-IAA-M-BMLS1" title="Module Language Skills 1" type="m" elective-units="4">
+          <abstract-unit id="P-IAA-L-BMLS1a" title="Grammar 1 (Übung)" type="m" semester="1,2" />
+          <abstract-unit id="P-IAA-L-BMLS1b" title="Grammar 2 (Übung)" type="m" semester="1,2" />
+      <abstract-unit id="P-IAA-L-BMLS1c" title="Vocabulary and Translation (Übung)" type="m" semester="1,2" />
+          <abstract-unit id="P-IAA-L-BMLS1d" title="Translation for Beginners (Übung)" type="m" semester="1,2" />
+        </module>
+
+    <module id="P-IAA-M-BBM1" title="Basic Module 1 – Ältere Anglistik" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BBM1a" title="Part 1: Elementary (Basisseminar)" type="e" semester="1,2" />
+          <abstract-unit id="P-IAA-L-BBM1b" title="Part 2: Advanced (Basisseminar)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-IAA-M-BBM2" title="Basic Module 2 – Sprachwissenschaft" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BBM2a" title="Part 1: Structure (Basisseminar)" type="e" semester="1,2" />
+          <abstract-unit id="P-IAA-L-BBM2b" title="Part 2: Use (Basisseminar)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-IAA-M-BBM3" title="Basic Module 3 – Literaturwissenschaft" type="e" elective-units="4">
+          <abstract-unit id="P-IAA-L-BBM3a" title="Overview English Literature (Basisseminar)" type="e" semester="1,2" />
+          <abstract-unit id="P-IAA-L-BBM3b" title="Literary and Cultural Theory (Basisseminar)" type="e" semester="1,2" />
+      <abstract-unit id="P-IAA-L-BBM3c" title="Overview American Literature (Basisseminar)" type="e" semester="1,2" />
+          <abstract-unit id="P-IAA-L-BBM3d" title="Methods of Literary Analysis (Basisseminar)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-IAA-M-BIMSS1" title="Intermediate Module – Sprachwissenschaft Struktur 1" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BIMSa" title="Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e" semester="2,3,4,5,6" />
+          <abstract-unit id="P-IAA-L-BIMSS" title="Seminar zur synchronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BIMSS2" title="Intermediate Module – Sprachwissenschaft Struktur 2" type="e" elective-units="3">
+          <abstract-unit id="P-IAA-L-BIMSa" title="Thematisch andere Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e" semester="2,3,4,5,6" />
+          <abstract-unit id="P-IAA-L-BIMSb" title="Seminar zur synchronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+      <abstract-unit id="P-IAA-L-BIMSS" title="Seminar zur synchronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BIMSD1" title="Intermediate Module – Sprachwissenschaft Entwicklung 1" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BIMSa" title="Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e" semester="2,3,4,5,6" />
+          <abstract-unit id="P-IAA-L-BIMSD" title="Seminar zur diachronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BIMSD2" title="Intermediate Module – Sprachwissenschaft Entwicklung 2" type="e" elective-units="3">
+          <abstract-unit id="P-IAA-L-BIMSa" title="Thematisch andere Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e" semester="2,3,4,5,6" />
+          <abstract-unit id="P-IAA-L-BIMSb" title="Seminar zur diachronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+      <abstract-unit id="P-IAA-L-BIMSD" title="Seminar zur diachronen englischen Sprachwissenschaft (Seminar)" type="e" semester="2,3,4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BIML1" title="Intermediate Module – Literaturwissenschaft 1" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BIMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="2,3,4,5,6" />
+          <abstract-unit id="P-IAA-L-BIMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="2,3,4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BIML2" title="Intermediate Module – Literaturwissenschaft 2" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BIMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="2,3,4,5,6" />
+          <abstract-unit id="P-IAA-L-BIMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="2,3,4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BAMS1" title="Advanced Module – Sprachwissenschaft 1" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BAMSa" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="4,5,6" />
+          <abstract-unit id="P-IAA-L-BAMSb" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BAML1" title="Advanced Module – Literaturwissenschaft 1" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BAMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="4,5,6" />
+          <abstract-unit id="P-IAA-L-BAMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="4,5,6" />
+        </module>
+
+    <module id="P-IAA-M-BAMS3" title="Advanced Module – Sprachwissenschaft 3 (ohne AP)" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BAMSa" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-IAA-L-BAMSb" title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-IAA-M-BAML3" title="Advanced Module – Literaturwissenschaft 3 (ohne AP)" type="e" elective-units="2">
+          <abstract-unit id="P-IAA-L-BAMLa" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-IAA-L-BAMLb" title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)" type="e" semester="5,6" />
+        </module>
+    </modules>
+  </course>
+
+  <course id="ba-ant-EF-2013" title="Bachelor Antike Kultur Ergänzungsfach PO 2013">
+    <modules>
+        <module id="P-KLAS-M-BBM1" title="Basismodul 1: Klassische Philologie" type="m" elective-units="2">
+          <abstract-unit id="P-KLAS-L-BBM1a" title="Vorlesung zur Klass. Philologie (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KLAS-L-BBM1b" title="Übung zur Klass. Philologie (Übung)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-KLAS-M-BBM2" title="Basismodul 2: Antike Lebenswelten und historische Anthropologie" type="m" elective-units="2">
+          <abstract-unit id="P-KLAS-L-BBM2a" title="Vorlesung zur Alten Geschichte (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KLAS-L-BBM2b" title="Gegenstände und Methoden der Altertumswissenschaften (Übung)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-KLAS-M-BBM3" title="Basismodul 3: Antike Philosophie" type="m" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BGPAa" title="Vorlesung Antike Philosophie  (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-PHIL-L-BGPAb" title="Basisseminar Antike Philosophie  (Basisseminar)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-KLAS-M-BSPM" title="Sprachpraxismodul (Latein oder Griechisch)" type="m" elective-units="8">
+          <abstract-unit id="P-KLAS-L-BSPM-L" title="1 Sprachkurs Latein III  (Sprachkurs)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-KLAS-L-BSPM-G" title="1 Sprachkurs Griechisch III  (Sprachkurs)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-KLAS-L-BSPRÜB-L1" title="1 Lektüre-Sprachvertiefungsübung Lateinisch (Übung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-KLAS-L-BSPRÜB-L2" title="1 Lektüre-Sprachvertiefungsübung Lateinisch (Übung)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-KLAS-L-BSPRÜB-G1" title="1 Lektüre-Sprachvertiefungsübung Griechisch (Übung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-KLAS-L-BSPRÜB-G2" title="1 Lektüre-Sprachvertiefungsübung Griechisch (Übung)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-KLAS-L-BSPLÜB-L" title="1 Lateinische Lektüreübung (Übung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KLAS-L-BSPLÜB-G" title="1 Griechische Lektüreübung (Übung)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-KLAS-M-BAM1" title="Aufbaumodul 1: Griechische Antike" type="m" elective-units="2">
+          <abstract-unit id="P-KLAS-L-BAM1a" title="Klass. Philologie, Alte Geschichte oder antike Philosophie (Vorlesung)" type="m" semester="3,4,5,6" />
+          <abstract-unit id="P-KLAS-L-BAM1b" title="Klass. Philologie (Griechisch), Alte Geschichte oder antike Philosophie (Aufbauseminar)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-KLAS-M-BAM2" title="Aufbaumodul 2: Römische Antike" type="m" elective-units="2">
+          <abstract-unit id="P-KLAS-L-BAM2a" title="Klass. Philologie, Alte Geschichte oder antike Philosophie (Vorlesung)" type="m" semester="3,4,5,6" />
+          <abstract-unit id="P-KLAS-L-BAM2b" title="Klass. Philologie (Latein), Alte Geschichte oder antike Philosophie (Aufbauseminar)" type="m" semester="1,2,3,4" />
+        </module>
+    </modules>
+  </course>
+
+  <course id="ba-ger-EF-2013" title="Bachelor Germanistik Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-GERM-M-BBM1" title="Basismodul 1: Germanistische Sprachwissenschaft" type="e" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM1a" title="Einführungsvorlesung (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM1b" title="Einführungsseminar (Seminar)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM1c" title="Grundseminar (Seminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM1d" title="Proseminar (Seminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-GERM-M-BBM2" title="Basismodul 2: Neuere Deutsche Literaturwissenschaft" type="e" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM2a" title="Einführungsvorlesung (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM2b" title="Einführungsseminar (Seminar)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM2c" title="Grundseminar (Seminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM2d" title="Proseminar (Seminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-GERM-M-BBM3" title="Basismodul 3: Germanistische Mediävistik" type="e" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM3a" title="Einführungsvorlesung (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM3b" title="Einführungsseminar (Seminar)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM3c" title="Grundseminar (Seminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM3d" title="Proseminar (Seminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-GERM-M-BBM4" title="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" type="e" elective-units="4">
+          <abstract-unit id="P-GERM-L-BBM4a" title="Einführungsvorlesung (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM4b" title="Einführungsseminar (Seminar)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-GERM-L-BBM4c" title="Grundseminar (Seminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-GERM-L-BBM4d" title="Proseminar (Seminar)" type="e" semester="1,2,3,4" />
+        </module>
+    </modules>
+  </course>
+
+  <course id="ba-ges-EF-2013" title="Bachelor Geschichte Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-HIST-M-BBMAM" title="Basismodul Antike und Mittelalter" type="m" elective-units="3">
+          <abstract-unit id="P-HIST-L-BBMAMa" title="Einführungsvorlesung Antike (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-HIST-L-BBMAMb" title="Einführungsvorlesung Mittelalter (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-HIST-L-BBMAMc" title="Basisseminar Antike oder Mittelalter (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-HIST-M-BBMNO" title="Basismodul Neuzeit und Osteuropa" type="m" elective-units="4">
+          <abstract-unit id="P-HIST-L-BBMNOa" title="Einführungsvorlesung Neuzeit (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-HIST-L-BBMNOb" title="Basisseminar Neuzeit (Basisseminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-HIST-L-BBMNOc" title="Basisseminar Osteuropa (Basisseminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-HIST-L-BBMNOd" title="Neuzeit oder Osteuropa (Übung)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-HIST-M-BAMAMEF" title="Aufbaumodul Antike und Mittelalter (Ergänzungsfach)" type="m" elective-units="2">
+          <abstract-unit id="P-HIST-L-BAMAMEFa" title="Aufbauseminar Antike oder Mittelalter (Aufbauseminar)" type="m" semester="3,4" />
+          <abstract-unit id="P-HIST-L-BAMAMEFb" title="Vorlesung oder Übung oder Exkursion Antike oder Mittelalter (Vorlesung oder Übung oder Exkursion)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-HIST-M-BAMNOEF" title="Aufbaumodul Neuzeit und Osteuropa (Ergänzungsfach)" type="m" elective-units="3">
+          <abstract-unit id="P-HIST-L-BAMNOEFa" title="Aufbauseminar Neuzeit oder Osteuropa (Aufbauseminar)" type="m" semester="3,4" />
+          <abstract-unit id="P-HIST-L-BAMNOEFb" title="Vorlesung oder Übung Neuzeit oder Osteuropa (Vorlesung oder Übung)" type="m" semester="3,4" />
+      <abstract-unit id="P-HIST-L-BAMNOEFc" title="Übung Neuzeit oder Osteuropa (Übung)" type="m" semester="3,4" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-inf-EF-2013" title="Bachelor Informationswissenschaften Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-ISI-M-BEFI1" title="I1 Basismodul „Information Retrieval“" type="m" elective-units="5">
+          <abstract-unit id="P-ISI-L-BEFI1a" title="Vorlesung Information Retrieval (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BEFI1b" title="Übung zur VL Information Retrieval (Übung)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BEFI1c" title="Projektseminar Information Retrieval (Seminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BEFI1d" title="Basisseminar I Information Retrieval (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BEFI1e" title="Basisseminar II Information Retrieval (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-ISI-M-BEFI2" title="I2 Basismodul „Wissensrepräsentation“" type="m" elective-units="5">
+          <abstract-unit id="P-ISI-L-BEFI3a" title="Vorlesung Wissensrepräsentation (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BEFI3b" title="Übung zur VL Wissensrepräsentation (Übung)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BEFI3c" title="Projektseminar Wissensrepräsentation (Seminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BEFI3d" title="Basisseminar I Wissensrepräsentation (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BEFI3e" title="Basisseminar II Wissensrepräsentation (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-ISI-M-BEFI3" title="I3 Aufbaumodul „Informetrie“" type="m" elective-units="5">
+          <abstract-unit id="P-ISI-L-BEFI3a" title="Vorlesung Informetrie (Vorlesung)" type="m" semester="4,5" />
+          <abstract-unit id="P-ISI-L-BEFI3b" title="Übung zur VL Informetrie (Übung)" type="m" semester="4,5" />
+      <abstract-unit id="P-ISI-L-BEFI3c" title="Projektseminar Informetrie (Seminar)" type="m" semester="4,5" />
+      <abstract-unit id="P-ISI-L-BEFI3d" title="Aufbauseminar I Informetrie (Aufbauseminar)" type="m" semester="4,5" />
+          <abstract-unit id="P-ISI-L-BEFI3e" title="Aufbauseminar II Informetrie (Aufbauseminar)" type="m" semester="4,5" />
+    </module>
+
+    <module id="P-ISI-M-BEFI4" title="I4 Aufbaumodul „Angewandte Informationswissenschaft“" type="m" elective-units="4">
+          <abstract-unit id="P-ISI-L-BEFI3a" title="Vorlesung Informationsmarkt (Vorlesung)" type="m" semester="5,6" />
+          <abstract-unit id="P-ISI-L-BEFI3b" title="Übung zur VL Informationsmarkt (Übung)" type="m" semester="5,6" />
+      <abstract-unit id="P-ISI-L-BEFI3d" title="Aufbauseminar I Informationsmarkt (Aufbauseminar)" type="m" semester="5,6" />
+          <abstract-unit id="P-ISI-L-BEFI3e" title="Aufbauseminar II (Berufsfelder der Informationswissenschaft) (Aufbauseminar)" type="m" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-jid-EF-2013" title="Bachelor Jiddische Kultur, Sprache und Literatur Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-IJS-M-BBM1" title="„Jiddische Sprache und Kultur A“ (Basismodul 1)" type="m" elective-units="3">
+          <abstract-unit id="P-IJS-L-BBM1a" title="Jiddisch I (Sprachkurs)" type="m" semester="1,2" />
+          <abstract-unit id="P-IJS-L-BBM1b" title="Konversations- und Lesekurs (Übung)" type="m" semester="1,2" />
+      <abstract-unit id="P-IJS-L-BBM1c" title="Jiddisch II (Seminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-IJS-M-BBM2" title="„Einführung in die Jiddistik“ (Basismodul 2)" type="m" elective-units="3">
+          <abstract-unit id="P-IJS-L-BBM2a" title="Einführung: Einführung in die Jiddistik (Vorlesung)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-IJS-L-BBM2b" title="Die jiddische Sprache und ihre Rolle in der aschkenasischen Kultur (Übung)" type="m" semester="1,2,3,4" />
+      <abstract-unit id="P-IJS-L-BBM2c" title="Basisseminar Einführung in die Jiddistik (Basisseminar)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-IJS-M-BBM3" title="„Jiddische Sprache und Kultur B“ (Basismodul 3)" type="m" elective-units="3">
+          <abstract-unit id="P-IJS-L-BBM3a" title="Jiddisch III (Sprachkurs)" type="m" semester="3,4" />
+          <abstract-unit id="P-IJS-L-BBM3b" title="Lesen jiddischer Handschriften und Drucke (Übung)" type="m" semester="3,4" />
+      <abstract-unit id="P-IJS-L-BBM3c" title="Lektüre modern-jiddischer Texte und Konversation (Übung)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-IJS-M-BAM" title="Aufbaumodul Jiddistik" type="m" elective-units="3">
+          <abstract-unit id="P-IJS-L-BAMa" title="Aufbauseminar BAMa (Aufbauseminar)" type="m" semester="5,6" />
+          <abstract-unit id="P-IJS-L-BAMb" title="Übung BAMb (Übung)" type="m" semester="5,6" />
+      <abstract-unit id="P-IJS-L-BAMc" title="Aufbauseminar BAMc (Aufbauseminar)" type="m" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-jüd-EF-2013" title="Bachelor Jüdische Studien Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-IJS-MBAEF01" title="Basismodul A: Grundlagen der Wissenschaft vom Judentum" type="m" elective-units="2">
+          <abstract-unit id="P-IJS-LBA0101" title="Einführung in die Judaistik I (Basisseminar oder Übung)" type="m" semester="1,2" />
+          <abstract-unit id="P-IJS-LBA0102" title="Einführung in die Judaistik II (Basisseminar oder Übung)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-IJS-M-BA02" title="Basismodul B: Bibelhebräisch" type="m" elective-units="2">
+          <abstract-unit id="P-IJS-L-BA0201" title="Bibelhebräisch I (Sprachkurs)" type="m" semester="1,2" />
+          <abstract-unit id="P-IJS-L-BA0202" title="Bibelhebräisch II (Sprachkurs)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-IJS-M-BA03" title="Basismodul C: Modernhebräisch" type="m" elective-units="2">
+          <abstract-unit id="P-IJS-L-BA0301" title="Modernhebräisch I (Sprachkurs)" type="m" semester="1,2,3" />
+          <abstract-unit id="P-IJS-L-BA0302" title="Modernhebräisch II (Sprachkurs)" type="m" semester="1,2,3" />
+    </module>
+
+    <module id="P-IJS-M-BA04" title="Aufbaumodul 0: Mischna-Hebräisch - mittelalterliches Hebräisch" type="e" elective-units="4">
+          <abstract-unit id="P-IJS-L-BA0401" title="Mischna (Sprachkurs)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0402" title="Midrasch (Sprachkurs)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0403" title="Mittelalterliche Literatur I (Sprachkurs)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0404" title="Mittelalterliche Literatur II (Sprachkurs)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA05" title="Aufbaumodul A: Hebräische Sprache und Literatur der Gegenwart" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0501" title="Hebräische Sprache und Literatur der Gegenwart I (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0502" title="Modernhebräische Sprachpraxis (Sprachkurs oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0503" title="Hebräische Sprache und Literatur der Gegenwart II (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA06" title="Aufbaumodul B: Mehrheitskultur, Minderheitskultur" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0601" title="BA0601 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0602" title="BA0602 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0603" title="BA0603 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA07" title="Aufbaumodul C: Tradition und Wandel im Judentum" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0701" title="BA0701 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0702" title="BA0702 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0703" title="BA0703 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA08" title="Aufbaumodul D: Jüdische Identität – Einheit und Vielfalt" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0801" title="BA0801 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0802" title="BA0802 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0803" title="BA0803 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-IJS-M-BA09" title="Aufbaumodul E: Israel – Staat und Gesellschaft" type="e" elective-units="3">
+          <abstract-unit id="P-IJS-L-BA0901" title="BA0901 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-IJS-L-BA0902" title="BA0902 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-IJS-L-BA0903" title="BA0903 (Seminar oder Vorlesung oder Übung)" type="e" semester="3,4,5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-kom-EF-2013" title="Bachelor Kommunikations- und Medienwissenschaften Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-SOWI-M-BBMK" title="Basismodul Kommunikations- und Medienwissenschaft" type="m" elective-units="4">
+          <abstract-unit id="P-SOWI-L-BBMKa" title="Einführung in das Mediensystem in Deutschland (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMKb" title="Einführung in die Kommunikations- und Medienwissenschaft (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-SOWI-L-BBMKc" title="Das Mediensystem in Deutschland (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMKd" title="Grundbegriffe, Schwerpunkte und Modelle der Kommunikations- und Medienwissenschaft (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-SOWI-M-BMM" title="Modul Methoden der Sozialwissenschaften" type="m" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BMMa" title="Methoden der Sozialwissenschaften I (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BMMb" title="Methoden der Sozialwissenschaften II (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-SOWI-L-BMMc" title="Begleitende Tutorien(freiwillige Teilnahme) (Tutorium)" type="e" semester="1,2" />
+    </module>
+
+    <module id="P-SOWI-M-BTMMI" title="Themenmodul Medien + Individuum" type="m" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMMI-KAa" title="Aufbauseminar oder Vorlesung Medien + Individuum (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="m" semester="3,4" />
+          <abstract-unit id="P-SOWI-L-BTMMI-KAb" title="Aufbauseminar oder Vorlesung Medien + Individuum (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="m" semester="3,4" />
+      <abstract-unit id="P-SOWI-L-BTMMI-KVc" title="Vertiefungsseminar Medien + Individuum (Kommunikationsund Medienwissenschaft) (Vertiefungsseminar)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-SOWI-M-BTMG" title="Themenmodul Medien + Gesellschaft" type="m" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMMG-KAa" title="Aufbauseminar oder Vorlesung Medien + Gesellschaft (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="m" semester="3,4" />
+          <abstract-unit id="P-SOWI-L-BTMMG-KAb" title="Aufbauseminar oder Vorlesung Medien + Gesellschaft (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="m" semester="3,4" />
+      <abstract-unit id="P-SOWI-L-BTMMG-KVc" title="Vertiefungsseminar Medien + Gesellschaft (Kommunikationsund Medienwissenschaft) (Vertiefungsseminar)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-SOWI-M-BTMAP" title="Themenmodul Akteure + Prozesse professioneller Kommunikation" type="m" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMAP-KAa" title="Aufbauseminar oder Vorlesung Akteure + Prozesse professioneller Kommunikation (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="m" semester="5,6" />
+          <abstract-unit id="P-SOWI-L-BTMAP-KAb" title="Vertiefungsseminar Akteure + Prozesse professioneller Kommunikation (Kommunikations- und Medienwissenschaft) (Vertiefungsseminar)" type="m" semester="5,6" />
+      <abstract-unit id="P-SOWI-L-BTMAP-KVc" title="Vertiefungsseminar Akteure + Prozesse professioneller Kommunikation (Kommunikations- und Medienwissenschaft) (Vertiefungsseminar)" type="m" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-kun-EF-2013" title="Bachelor Kunstgeschichte Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-KUGE-M-BBM1" title="Basismodul 1: Einführung in die spätantike und mittelalterliche Kunstgeschichte" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BBM1a" title="Methoden- und Formenlehre der spätantiken und mittelalterlichen Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BBM1b" title="Vorlesung aus der spätantiken und/oder mittelalterlichen Kunstgeschichte (Vorlesung)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BBM2" title="Basismodul 2: Einführung in die neuere und neueste Kunstgeschichte" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BBM2a" title="Methoden- und Formenlehre der neueren und neuesten Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BBM2b" title="Vorlesung zur neueren und/oder neuesten Kunstgeschichte (Vorlesung)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BEFBM3" title="Basismodul 3: Thematische und berufspraktische Spezialisierung" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BEFBM3a" title="Basisseminar zur spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-KUGE-L-BEFBM3b" title="Übung vor Originalen / Praxisbezogene Übungen (Übung)" type="m" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-KUGE-M-BEFAM1" title="Aufbaumodul 1: Wissenschaftlich vertiefte kunstgeschichtliche Studien" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-L-BEFBM3a" title="Aufbauseminar (Aufbauseminar mit Abschlussprüfung)" type="m" semester="5,6" />
+          <abstract-unit id="P-KUGE-L-BEFBM3b" title="Aufbauseminar (Aufbauseminar ohne Abschlussprüfung)" type="m" semester="5,6" />
+    </module>
+
+    <module id="P-KUGE-M-BEFAB2" title="Aufbaumodul 2: Thematische und berufspraktische Spezialisierung" type="m" elective-units="2">
+          <abstract-unit id="P-KUGE-LBEFAB2a" title="Vorlesung aus der spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Vorlesung)" type="m" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-lin-EF-2013" title="Bachelor Linguistik Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-ISI-M-ISI-BG" title="BG „Grundkurs Linguistik“(Studierende mit Kernfach Germanistik belegen stattdessen das Modul BBM)" type="m" elective-units="2">
+          <abstract-unit id="P-ISI-L-BGa" title="Einführung in die Linguistik (Vorlesung)" type="m" semester="1" />
+          <abstract-unit id="P-ISI-L-BGb" title="Tutorium zur Einführung (Tutorium)" type="m" semester="1" />
+    </module>
+
+    <module id="P-ISI-L-B1E" title="BB1E Basismodul „Phonetik und Phonologie E“" type="m" elective-units="2">
+          <abstract-unit id="P-ISI-L-BB1a" title="Einführung in die Phonetik (Seminar)" type="m" semester="1,2,3" />
+          <abstract-unit id="P-ISI-L-BB1b" title="Einführung in die Phonologie (Seminar)" type="m" semester="1,2,3" />
+    </module>
+
+    <module id="P-ISI-M-BB2E" title="BB2E Basismodul „Morphologie und Syntax E“" type="m" elective-units="2">
+          <abstract-unit id="P-ISI-L-BB2Ea" title="Einführung in die Morphologie (Seminar)" type="m" semester="1,2,3" />
+          <abstract-unit id="P-ISI-L-BB2Eb" title="Einführung in die Syntax (Seminar)" type="m" semester="1,2,3" />
+    </module>
+
+    <module id="P-ISI-M-BB3E" title="BB3E Basismodul „Semantik und Pragmatik E“" type="m" elective-units="2">
+          <abstract-unit id="P-ISI-L-BB3Ea" title="Einführung in die Semantik (Seminar)" type="m" semester="2,3,4" />
+          <abstract-unit id="P-ISI-L-BB3Eb" title="Einführung in die Pragmatik (Seminar)" type="m" semester="2,3,4" />
+    </module>
+
+    <module id="P-ISI-M-BA1E" title="BA1E Aufbaumodul „Phonetik und Phonologie E“" type="e" elective-units="3">
+          <abstract-unit id="P-ISI-L-BA1Ea" title="Methodenkurs Phonetik/Phonologie (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA1Eb" title="Tutorium zum Methodenkurs (Tutorium)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA1Ec" title="Aufbauseminar aus dem Bereich der Phonetik oder Phonologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BA2E" title="BA2E Aufbaumodul „Morphologie und Syntax E“" type="e" elective-units="3">
+          <abstract-unit id="P-ISI-L-BA2Ea" title="Methodenkurs Grammatische Methoden (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA2Eb" title="Tutorium zum Methodenkurs (Tutorium)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA2Ec" title="Aufbauseminar aus dem Bereich der Morphologie oder Syntax (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BA3E" title="BA3E Aufbaumodul „Semantik und Pragmatik E“" type="e" elective-units="3">
+          <abstract-unit id="P-ISI-L-BA3Ea" title="Methodenkurs Logik (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA3Eb" title="Tutorium zum Methodenkurs (Tutorium)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA3Ec" title="Aufbauseminar aus dem Bereich der Semantik oder Pragmatik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BA4E" title="BA4E Aufbaumodul „Sprachliche Diversität E“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BA4Ea" title="Strukturkurs Nichtindoeuropäische Sprache mit Tutorium (Seminar mit Tutorium)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA4Eb" title="Aufbauseminar aus dem Bereich der Sprachlichen Diversität (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA4Ec" title="Aufbauseminar aus dem Bereich der Sprachlichen Diversität (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA4Ed" title="Aufbauseminar aus dem Bereich der Sprachlichen Diversität (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BA5E" title="BA5E Aufbaumodul „Psycho- und Neurolinguistik E“" type="e" elective-units="3">
+          <abstract-unit id="P-ISI-L-BA5Ea" title="Methodenkurs Statistik und Untersuchungsdesign (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA5Eb" title="Tutorium zum Methodenkurs (Tutorium)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA5Ec" title="Überblicksseminar zur Psycho- oder Neurolinguistik (Seminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BA6E" title="BA6E Aufbaumodul „Computerlinguistik E“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BA6Ea" title="Einführung in die Computerlinguistik mit Übung (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA6Eb" title="Aufbauseminar zur Computerlinguistik oder Sprachtechnologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BA7E" title="BA7E Aufbaumodul „Historische Linguistik E“" type="e" elective-units="3">
+          <abstract-unit id="P-ISI-L-BA7Ea" title="Grundlagen der Historischen Linguistik (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA7Eb" title="Grundlagen der Historischen Linguistik (Seminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA7Ec" title="Aufbauseminar zur Historischen Linguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BBM" title="BBM „Basismodul Methoden Linguistik“ (anstelle des Moduls BG für Studierende mit dem Kernfach Germanistik)" type="m" elective-units="2">
+          <abstract-unit id="P-ISI-L-BBMa" title="Methodenkurs: Phonetik/Phonologie oder Grammatische Methoden oder Logik oder Strukturkurs Nichtindoeuropäische Sprache (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BBMb" title="Tutorium Methoden Linguistik (Tutorium)" type="e" semester="3,4,5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-mod-EF-2013" title="Bachelor Modernes Japan Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-MOJA-M-BSM1" title="Sprachmodul 1 (SM1)" type="m" elective-units="2">
+          <abstract-unit id="P-MOJA-L-BSM1a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)" type="m" semester="1" />
+          <abstract-unit id="P-MOJA-L-BSM1b" title="Schreib- und Leseübungen (Sprachkurs)" type="m" semester="1" />
+      <abstract-unit id="P-MOJA-L-BSM1c" title="Grammatik und leichte Textlektüre (Sprachkurs)" type="m" semester="1" />
+    </module>
+
+    <module id="P-MOJA-M-BSM1" title="Sprachmodul 2 (SM2)" type="m" elective-units="3">
+          <abstract-unit id="P-MOJA-L-BSM2a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)" type="m" semester="2" />
+          <abstract-unit id="P-MOJA-L-BSM2b" title="Schreib- und Leseübungen (Sprachkurs)" type="m" semester="2" />
+      <abstract-unit id="P-MOJA-L-BSM2c" title="Grammatik und leichte Textlektüre (Sprachkurs)" type="m" semester="2" />
+    </module>
+
+    <module id="P-MOJA-M-BEFMRG" title="Modul Regionalwissenschaftliche Grundlagen (MRG)" type="m" elective-units="3">
+          <abstract-unit id="P-MOJA-L-BMRGa" title="Einführung in die japanische Geschichte (Basisseminar)" type="m" semester="3" />
+          <abstract-unit id="P-MOJA-L-BMRGb" title="Einführung in die japanische Kultur (Basisseminar)" type="m" semester="3" />
+      <abstract-unit id="P-MOJA-L-BMRGc" title="Einführung in die japanische Gesellschaft (Vorlesung)" type="m" semester="3" />
+    </module>
+
+    <module id="P-MOJA-M-BEFKTM" title="Kulturwissenschaftliches Themenmodul (KTM)" type="m" elective-units="2">
+          <abstract-unit id="P-MOJA-L-BKTMa" title="Aufbauseminar Kulturwissenschaften (Aufbauseminar)" type="m" semester="4" />
+          <abstract-unit id="P-MOJA-L-BKTMb" title="Aufbauseminar oder Vorlesung Kulturwissenschaften (Aufbauseminar oder Vorlesung)" type="m" semester="4" />
+    </module>
+
+    <module id="P-MOJA-M-BEFSTM" title="Sozialwissenschaftliches Themenmodul (STM)" type="m" elective-units="2">
+          <abstract-unit id="P-MOJA-L-BSTMa" title="Aufbauseminar Sozialwissenschaften (Aufbauseminar)" type="m" semester="5" />
+          <abstract-unit id="P-MOJA-L-BSTMb" title="Aufbauseminar oder Vorlesung Sozialwissenschaften (Aufbauseminar oder Vorlesung)" type="m" semester="5" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-mus-EF-2013" title="Bachelor Musikwissenschaft Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-RSH-M-BBM1" title="Basismodul 1: Musikwissenschaftliche Propädeutik" type="m" elective-units="3">
+          <abstract-unit id="P-RSH-L-BBM1a" title="Einführung in die Musikwissenschaft (Basisseminar oder Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-RSH-L-BBM1b" title="Musikalische Analyse (Basisseminar oder Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-RSH-L-BBM1c" title="Musikwissenschaftliche Methoden und Grundlagen (Basisseminar oder Vorlesung)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-RSH-M-BBM2" title="Basismodul 2: Musiktheorie I: Grundlagen" type="m" elective-units="2">
+          <abstract-unit id="P-RSH-L-BBM1a" title="Satztechnische Grundlagen I (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-RSH-L-BBM1b" title="Satztechnische Grundlagen II (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-RSH-M-BBM3" title="Basismodul 3: Musiktheorie II: Modelle" type="m" elective-units="3">
+          <abstract-unit id="P-RSH-L-BBM3a" title="Historische Satzmodelle I (Basisseminar)" type="m" semester="3,4" />
+          <abstract-unit id="P-RSH-L-BBM3b" title="Historische Satzmodelle II (Basisseminar)" type="m" semester="3,4" />
+      <abstract-unit id="P-RSH-L-BBM3c" title="Formenlehre (Basisseminar oder Vorlesung)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-RSH-M-BAM1" title="Aufbaumodul 1: Musikgeschichte" type="m" elective-units="2">
+          <abstract-unit id="P-RSH-L-BAM1a" title="Musikalische Gattungs- u. Werkgeschichte oder Musikhistorische Epochen (Aufbauseminar oder Vorlesung)" type="m" semester="3,4" />
+          <abstract-unit id="P-RSH-L-BAM1b" title="Repertoirekunde (Übung)" type="m" semester="3,4" />
+    </module>
+
+    <module id="P-RSH-M-BAM2" title="Aufbaumodul 2: Musiken – Kulturen – Kontexte" type="m" elective-units="2">
+          <abstract-unit id="P-RSH-L-BAM2a" title="Musikkontexte oder Musikethnologie/Musikkulturen (Aufbauseminar oder Vorlesung)" type="m" semester="4,5" />
+          <abstract-unit id="P-RSH-L-BAM2b" title="Repertoirekunde (Übung)" type="m" semester="4,5" />
+    </module>
+
+    <module id="P-RSH-M-BVM1" title="Vertiefungsmodul 1: Musikhistorie" type="e" elective-units="2">
+          <abstract-unit id="P-RSH-L-BVM1a" title="Musikalische Gattungs- und Werkgeschichte (Vertiefungsseminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-RSH-L-BVM1b" title="Musikhistorische Epochen (Vertiefungsseminar)" type="e" semester="5,6" />
+    </module>
+
+    <module id="P-RSH-M-BVM2" title="Vertiefungsmodul 2: Musik und Wirklichkeit" type="e" elective-units="2">
+          <abstract-unit id="P-RSH-L-BVM2a" title="Musikkontexte (Vertiefungsseminar)" type="e" semester="5,6" />
+          <abstract-unit id="P-RSH-L-BVM2b" title="Musikethnologie/ Musikkulturen (Vertiefungsseminar)" type="e" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-phil-EF-2013" title="Bachelor Philosophie Ergänzungsfach PO 2013">
+    <modules>
+     <module id="P-PHIL-M-BPPG" title="Philosophische Propädeutik: Basismodul Grundlagen" type="m" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BPPGa" title="Grundprobleme und Methoden der Philosophie (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-PHIL-L-BPPGb" title="Wissenschaftliche Arbeitstechniken (Übung)" type="m" semester="1,2,3,4" />
+        </module>
+
+        <module id="P-PHIL-M-BPPL1" title="Philosophische Propädeutik: Basismodul Logik 1" type="m" elective-units="2">
+          <abstract-unit id="P-Phil-L-BPPL1a" title="Logik I (Basisseminar)" type="m" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BPPL1b" title="Logik I (Übung)" type="m" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BPPL2" title="Philosophische Propädeutik: Basismodul Logik 2" type="e" elective-units="2">
+          <abstract-unit id="P-Phil-L-BPPL2a" title="Logik II (Basisseminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BPPL2b" title="Logik II (Übung)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BPPAR" title="Philosophische Propädeutik: Basismodul Argumentation" type="e" elective-units="2">
+          <abstract-unit id="P-Phil-L-BPPARa" title="Theorie des Argumentierens (Basisseminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BPPARb" title="Praxis des Argumentierens (Übung)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BTPE" title="Theoretische Philosophie: Basismodul Erkenntnistheorie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BTPEa" title="Erkenntnistheorie (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BTPEb" title="Erkenntnistheorie (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BTPOM" title="Theoretische Philosophie: Basismodul Ontologie/Metaphysik" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BTPOMa" title="Ontologie/Metaphysik (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BTPOMb" title="Ontologie/Metaphysik (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BTPW" title="Theoretische Philosophie: Basismodul Wissenschaftstheorie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BTPWa" title="Wissenschaftstheorie (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BTPWb" title="Wissenschaftstheorie (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BTPS" title="Theoretische Philosophie: Basismodul Sprachphilosophie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BTPSa" title="Sprachphilosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BTPSb" title="Sprachphilosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BPPBE" title="Praktische Philosophie: Basismodul Ethik" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BPPBEa" title="Ethik (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BPPBEb" title="Ethik (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BPPAN" title="Praktische Philosophie: Basismodul Politische Philosophie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BPPANa" title="Politische Philosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BPPANb" title="Politische Philosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BPPK" title="Praktische Philosophie: Basismodul Anthropologie/Kulturphilosophie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BPPKa" title="Anthropologie/Kulturphilosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BPPKb" title="Anthropologie/Kulturphilosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BPPS" title="Praktische Philosophie: Basismodul Sozialphilosophie/Rechtsphilosophie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BPPSa" title="Sozialphilosophie/Rechtsphilosophie (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BPPSb" title="Sozialphilosophie/Rechtsphilosophie (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BGPA" title="Geschichte der Philosophie: Basismodul Antike" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BGPAa" title="Antike (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BGPAb" title="Antike (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BGPM" title="Geschichte der Philosophie: Basismodul Mittelalter" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BGPMa" title="Mittelalter (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BGPMb" title="Mittelalter (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BGPN" title="Geschichte der Philosophie: Basismodul Neuzeit" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BGPNa" title="Neuzeit (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BGPNb" title="Neuzeit (Basisseminar)" type="e" semester="1,2,3,4" />
+        </module>
+
+    <module id="P-PHIL-M-BGPG" title="Geschichte der Philosophie: Basismodul Gegenwart" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BGPGa" title="Gegenwart (Vorlesung)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-Phil-L-BGPGb" title="Gegenwart (Basisseminar)" type="e" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-PHIL-M-BALM" title="Aufbaumodul Logik/Metalogik" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BALMa" title="Logik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-Phil-L-BALMb" title="Metalogik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-PHIL-M-BAOMS" title="Aufbaumodul Ontologie/Metaphysik/Sprachphilosophie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BAOMSa" title="Ontologie/Metaphysik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-Phil-L-BAOMSb" title="Sprachphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-PHIL-M-BAEW" title="Aufbaumodul Erkenntnistheorie/Wissenschaftstheorie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BAEWa" title="Erkenntnistheorie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-Phil-L-BAEWb" title="Wissenschaftstheorie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-PHIL-M-BAAPG" title="Aufbaumodul Anthropologie/Philosophie des Geistes" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BAAPGa" title="Anthropologie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-Phil-L-BAAPGb" title="Philosophie des Geistes (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-PHIL-M-BAEP" title="Aufbaumodul Ethik" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BAEPa" title="Ethik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-Phil-L-BAEPb" title="Ethik (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-PHIL-M-BAKS" title="Aufbaumodul Kulturphilosophie/Sozialphilosophie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BAKSa" title="Kulturphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-Phil-L-BAKSb" title="Sozialphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        </module>
+
+    <module id="P-PHIL-M-BATP" title="Aufbaumodul Politische Philosophie/Rechtsphilosophie" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BATPa" title="Politische Philosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-Phil-L-BATPb" title="Rechtsphilosophie (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+        </module>
+    </modules>
+  </course>
+
+  <course id="ba-pol-EF-2013" title="Bachelor Politikwissenschaft Ergänzungsfach PO 2013">
+    <modules>
+    <module id="P-SOWI-M-BBMP" title="Basismodul Politikwissenschaft" type="m" elective-units="4">
+          <abstract-unit id="P-SOWI-L-BBMPa" title="Einführung in die Politikwissenschaft (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMPb" title="Einführung in das politische System Deutschlands (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-SOWI-L-BBMPc" title="Einführung in die Politische Theorie (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMPd" title="Einführung in die Analyse politischer Systeme (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-SOWI-M-BMM" title="Modul Methoden der Sozialwissenschaften" type="m" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BBMPa" title="Methoden der Sozialwissenschaften I (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMPb" title="Methoden der Sozialwissenschaften II Deutschlands (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-SOWI-L-BBMPc" title="Begleitende Tutorien(freiwillige Teilnahme)(Tutorium)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-SOWI-M-BTMSS-P" title="Themenmodul Systeme + Strukturen (Politikwissenschaft)" type="e" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMSS-PAa" title="Aufbauseminar oder Vorlesung S+S (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4" />
+          <abstract-unit id="P-SOWI-L-BTMSS-PAb" title="Aufbauseminar oder Vorlesung S+S (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4" />
+      <abstract-unit id="P-SOWI-L-BTMSS-PVc" title="Vertiefungsseminar S+S (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4" />
+    </module>
+
+    <module id="P-SOWI-M-BTMBP-P" title="Themenmodul Bereiche + Prozesse (Politikwissenschaft)" type="e" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMBP-PAa" title="Aufbauseminar oder Vorlesung B+P (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="4,5" />
+          <abstract-unit id="P-SOWI-L-BTMBP-PAb" title="Aufbauseminar oder Vorlesung B+P (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="4,5" />
+      <abstract-unit id="P-SOWI-L-BTMBP-PVc" title="Vertiefungsseminar B+P (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="4,5" />
+    </module>
+
+    <module id="P-SOWI-M-BTMEI-P" title="Themenmodul Europa + Internationale Studien (Politikwissenschaft)" type="e" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMEI-PAa" title="Aufbauseminar oder Vorlesung E+I(Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-SOWI-L-BTMEI-PAb" title="Aufbauseminar oder Vorlesung E+I (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      <abstract-unit id="P-SOWI-L-BTMEI-PVc" title="Vertiefungsseminar E+I (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-rom-EF-2013" title="Bachelor Romanistik Ergänzungsfach mit Kernfach Romanistik PO 2013">
+    <modules>
+    <module id="P-ROM-M-BSPF" title="Basismodul Sprachpraxis Französisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPFa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPFc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BSPI" title="Basismodul Sprachpraxis Italienisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPIa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPIb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPIc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPId" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BSPS" title="Basismodul Sprachpraxis Spanisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPSa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPSc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BVSF" title="Vertiefungsmodul Sprachpraxis Französisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSFa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSFb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BVSI" title="Vertiefungsmodul Sprachpraxis Italienisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSIa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSIb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BVSS" title="Vertiefungsmodul Sprachpraxis Spanisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSSa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSSb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BASF" title="Aufbaumodul Sprachpraxis Französisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASFa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASFb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BASI" title="Aufbaumodul Sprachpraxis Italienisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASIa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASIb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BASS" title="Aufbaumodul Sprachpraxis Spanisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASSa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASSb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BVSW" title="Vertiefungsmodul romanistische Sprachwissenschaft" type="m" elective-units="3">
+          <abstract-unit id="P-ROM-L-BVSWa" title="Basisseminar (Basisseminar)" type="m" semester="2" />
+          <abstract-unit id="P-ROM-L-BVSWb" title="Projektseminar (Seminar)" type="m" semester="2" />
+      <abstract-unit id="P-ROM-L-BVSWc" title="Tutorium zum Projektseminar (Tutorium)" type="m" semester="2" />
+        </module>
+
+    <module id="P-ROM-M-BARS3" title="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BARS1a" title="Vorlesung BARS1a (Vorlesung)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BARS1b" title="Aufbauseminar BARS1b (Aufbauseminar)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BVLW" title="Vertiefungsmodul romanistische Literaturwissenschaft" type="m" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVLWa" title="Projektseminar BVLWa (Seminar)" type="m" semester="2,3" />
+          <abstract-unit id="P-ROM-L-BVLWb" title="Basisseminar BVLWb (Basisseminar)" type="m" semester="2,3" />
+        </module>
+
+    <module id="P-ROM-M-BALWE" title="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BALW1a" title="Vorlesung oder Aufbauseminar BALWE3a (Vorlesung oder Aufbauseminar)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BALW1b" title="Aufbauseminar BALWE3b (Aufbauseminar)" type="e" semester="4,5" />
+        </module>
+    </modules>
+  </course>
+
+  <course id="ba-rom-EF-2013" title="Bachelor Romanistik Ergänzungsfach mit anderem Kernfach als Romanistik PO 2013">
+    <modules>
+    <module id="P-ROM-M-BSPF" title="Basismodul Sprachpraxis Französisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPFa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPFc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPFd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BSPI" title="Basismodul Sprachpraxis Italienisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPIa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPIb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPIc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPId" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BSPS" title="Basismodul Sprachpraxis Spanisch" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BSPSa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ROM-L-BSPSc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ROM-L-BSPSd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2" />
+        </module>
+
+    <module id="P-ROM-M-BVSF" title="Vertiefungsmodul Sprachpraxis Französisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSFa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSFb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BVSI" title="Vertiefungsmodul Sprachpraxis Italienisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSIa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSIb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BVSS" title="Vertiefungsmodul Sprachpraxis Spanisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BVSSa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3" />
+          <abstract-unit id="P-ROM-L-BVSSb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3" />
+        </module>
+
+    <module id="P-ROM-M-BASF" title="Aufbaumodul Sprachpraxis Französisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASFa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASFb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BASI" title="Aufbaumodul Sprachpraxis Italienisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASIa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASIb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BASS" title="Aufbaumodul Sprachpraxis Spanisch" type="e" elective-units="2">
+          <abstract-unit id="P-ROM-L-BASSa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5" />
+          <abstract-unit id="P-ROM-L-BASSb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5" />
+        </module>
+
+    <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft" type="m" elective-units="4">
+          <abstract-unit id="P-ROM-L-BRSWa" title="Einführung in die romanistische Sprachwissenschaft (Vorlesung)" type="m" semester="1" />
+          <abstract-unit id="P-ROM-L-BRSWbF" title="Einführung in das Studium der französischen Sprachwissenschaft (Seminar)" type="e" semester="1" />
+      <abstract-unit id="P-ROM-L-BRSWbI" title="Einführung in das Studium der italienischen Sprachwissenschaft (Seminar)" type="e" semester="1" />
+          <abstract-unit id="P-ROM-L-BRSWbS" title="Einführung in das Studium der spanischen Sprachwissenschaft (Seminar)" type="e" semester="1" />
+        </module>
+
+    <module id="P-ROM-M-BARS4" title="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergänzungsfach)" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BARS4a" title="Basisseminar BARS4a (Basisseminar)" type="e" semester="2,3" />
+          <abstract-unit id="P-ROM-L-BARS4b" title="Projektseminar BARS4b (Seminar)" type="e" semester="2,3" />
+      <abstract-unit id="P-ROM-L-BARS4c" title="Tutorium (zum Projektseminar) BARS4c (Tutorium)" type="e" semester="2,3" />
+          <abstract-unit id="P-ROM-L-BARS4d" title="Aufbauseminar BARS4d (Aufbauseminar)" type="e" semester="2,3" />
+        </module>
+
+    <module id="P-ROM-M-BRLW" title="Basismodul romanistische Literaturwissenschaft" type="m" elective-units="2">
+          <abstract-unit id="P-ROM-L-BRLWa" title="Vorlesung BRLWa (Vorlesung)" type="m" semester="1" />
+          <abstract-unit id="P-ROM-L-BRLWb" title="Einführungsseminar BRLWb (Seminar)" type="m" semester="1" />
+        </module>
+
+    <module id="P-ROM-M-BALWEF" title="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)" type="e" elective-units="4">
+          <abstract-unit id="P-ROM-L-BALWEF4a" title="Vorlesung oder Projektseminar BALWEF4a (Vorlesung oder Projektseminar)" type="e" semester="2,3" />
+          <abstract-unit id="P-ROM-L-BALWEF4b" title="Basisseminar BALWEF4b (Basisseminar)" type="e" semester="2,3" />
+          <abstract-unit id="P-ROM-L-BALWEF4d" title="Aufbauseminar BALWEF4c (Aufbauseminar)" type="e" semester="2,3" />
+        </module>
+    </modules>
+    </course>
+
+  <course id="ba-soz-EF-2013" title="Bachelor Soziologie Ergänzungsfach PO 2013">
+    <modules>
+        <module id="P-SOWI-M-BBMS" title="Basismodul Soziologie" type="m" elective-units="5">
+          <abstract-unit id="P-SOWI-L-BBMSa" title="Grundlagen der Soziologie (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMSb" title="Die Sozialstruktur Deutschlands (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMSc" title="Einführung in die soziologische Theorie I (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMSd" title="Einführung in die soziologische Theorie II (Basisseminar)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BBMSe" title="begleitende Tutorien (freiwillige Teilnahme) (Tutorium)" type="m" semester="1,2" />
+        </module>
+
+    <module id="P-SOWI-M-BMM" title="Modul Methoden der Sozialwissenschaften" type="m" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BMMa" title="Methoden der Sozialwissenschaften I (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-SOWI-L-BMMb" title="Methoden der Sozialwissenschaften II (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-SOWI-L-BMMc" title="Begleitende Tutorien (freiwillige Teilnahme) (Tutorium)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-SOWI-M-BTMIG-S" title="Themenmodul Individuum + Gesellschaft (Mikrosoziologie)" type="e" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMIG-SAa" title="Aufbauseminar oder Vorlesung I+G (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4" />
+          <abstract-unit id="P-SOWI-L-BTMIG-SAb" title="Aufbauseminar oder Vorlesung I+G (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4" />
+      <abstract-unit id="P-SOWI-L-BTMIG-SVc" title="Vertiefungsseminar I+G (Soziologie)" type="e" semester="3,4" />
+    </module>
+
+    <module id="P-SOWI-M-BTMSS-S" title="Themenmodul Systeme + Strukturen (Makrosoziologie)" type="e" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMSS-SAa" title="Aufbauseminar oder Vorlesung S+S (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="4,5" />
+          <abstract-unit id="P-SOWI-L-BTMSS-SAb" title="Aufbauseminar oder Vorlesung S+S (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="4,5" />
+      <abstract-unit id="P-SOWI-L-BTMSS-SVc" title="Vertiefungsseminar S+S (Soziologie) (Vertiefungsseminar)" type="e" semester="4,5" />
+    </module>
+
+    <module id="P-SOWI-M-BTMBP-S" title="Themenmodul Bereiche + Prozesse (Spezielle Soziologien)" type="e" elective-units="3">
+          <abstract-unit id="P-SOWI-L-BTMBP-SAa" title="Aufbauseminar oder Vorlesung B+P (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+          <abstract-unit id="P-SOWI-L-BTMBP-SAb" title="Aufbauseminar oder Vorlesung B+P (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="5,6" />
+      <abstract-unit id="P-SOWI-L-BTMBP-SVc" title="Vertiefungsseminar B+P (Soziologie) (Vertiefungsseminar)" type="e" semester="5,6" />
+    </module>
+    </modules>
+    </course>
+
+  <course id="ba-iws-IS-2013" title="Bachelor Informationswissenschaft und Sprachtechnologie Integrierter Studiengang PO 2013">
+    <modules>
+    <module id="P-ISI-M-BI1" title="I1 Basismodul „Information Retrieval“" type="m" elective-units="4">
+          <abstract-unit id="P-ISI-L-BI1a" title="Information Retrieval (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BI1b" title="Projektseminar (Seminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BI1c" title="Basisseminar I (Basisseminar)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BI1d" title="Basisseminar II (Basisseminar)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-ISI-M-BI2" title="I2 Basismodul „Wissensrepräsentation“" type="m" elective-units="4">
+          <abstract-unit id="P-ISI-L-BI2a" title="Wissensrepräsentation (Vorlesung)" type="m" semester="2,3" />
+          <abstract-unit id="P-ISI-L-BI2b" title="Projektseminar (Seminar)" type="m" semester="2,3" />
+      <abstract-unit id="P-ISI-L-BI2c" title="Basisseminar I (Basisseminar)" type="m" semester="2,3" />
+      <abstract-unit id="P-ISI-L-BI2d" title="Basisseminar II (Basisseminar)" type="m" semester="2,3" />
+    </module>
+
+    <module id="P-ISI-M-BI3" title="I3 Aufbaumodul „Informetrie“" type="m" elective-units="4">
+          <abstract-unit id="P-ISI-L-BI3a" title="Informetrie (Vorlesung)" type="m" semester="4,5" />
+          <abstract-unit id="P-ISI-L-BI3b" title="Projektseminar (Seminar)" type="m" semester="4,5" />
+      <abstract-unit id="P-ISI-L-BI3c" title="Aufbauseminar I (Aufbauseminar)" type="m" semester="4,5" />
+      <abstract-unit id="P-ISI-L-BI3d" title="Aufbauseminar II (Aufbauseminar)" type="m" semester="4,5" />
+    </module>
+
+    <module id="P-ISI-M-BI4" title="I4 Aufbaumodul „Angewandte Informationswissenschaft“" type="m" elective-units="4">
+          <abstract-unit id="P-ISI-L-BI4a" title="Informationsmarkt (Vorlesung)" type="m" semester="5,6" />
+          <abstract-unit id="P-ISI-L-BI4b" title="Projektseminar (Seminar)" type="m" semester="5,6" />
+      <abstract-unit id="P-ISI-L-BI4c" title="Aufbauseminar I (Aufbauseminar)" type="m" semester="5,6" />
+      <abstract-unit id="P-ISI-L-BI4d" title="Aufbauseminar II (Aufbauseminar)(Berufsfelder der Informationswissenschaft)" type="m" semester="5,6" />
+    </module>
+
+    <module id="P-ISI-M-BP" title="P Basismodul „Propädeutik der Sprachtechnologie“" type="m" elective-units="5">
+          <abstract-unit id="P-ISI-L-BPa" title="Logik (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BPb" title="Tutorium zur Logik Vorlesung (Tutorium)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BPc" title="Mathematik für Informationswissenschaftler und Sprachtechnologen (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BPd" title="Grundkurs Linguistik (Vorlesung)" type="m" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BPe" title="Tutorium zum Grundkurs Linguistik (Tutorium)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-ISI-M-BL" title="L Basismodul „Linguistik“" type="m" elective-units="4">
+          <abstract-unit id="P-ISI-L-BLa" title="Morphologie und Syntax (Vorlesung)" type="m" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BLb1" title="Methodenkurs Grammatische Methoden (Seminar)" type="e" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BLb2" title="Phonetik und Phonologie (Vorlesung)" type="e" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BLb3" title="Semantik und Pragmatik (Vorlesung)" type="e" semester="1,2" />
+    </module>
+
+    <module id="P-ISI-M-BCL1" title="CL1 Basismodul „Computerlinguistik“" type="m" elective-units="3">
+          <abstract-unit id="P-ISI-L-BCL1a" title="Einführung in die Computerlinguistik (Basisseminar)" type="m" semester="2,3" />
+          <abstract-unit id="P-ISI-L-BCL1b" title="Grundkurs Prolog (Seminar)" type="m" semester="2,3" />
+      <abstract-unit id="P-ISI-L-BCL1c" title="Methodenkurs Computerlinguistik (Basisseminar)" type="m" semester="2,3" />
+    </module>
+
+    <module id="P-ISI-M-BCL2" title="CL2 Aufbaumodul „Theoretische Computerlinguistik“" type="m" elective-units="2">
+          <abstract-unit id="P-ISI-L-BCL2a" title="theor. Computerlinguistik I (Aufbauseminar)" type="m" semester="4" />
+          <abstract-unit id="P-ISI-L-BCL2b" title="theor. Computerlinguistik II (Aufbauseminar)" type="m" semester="4" />
+    </module>
+
+    <module id="P-ISI-M-BCL3" title="CL3 Aufbaumodul „Natural Language Processing“" type="m" elective-units="2">
+          <abstract-unit id="P-ISI-L-BCL3a" title="NLP I (Aufbauseminar)" type="m" semester="6" />
+          <abstract-unit id="P-ISI-L-BCL3b" title="NLP II (Aufbauseminar)" type="m" semester="6" />
+    </module>
+
+    <module id="N-IFO-M-BINFO1" title="D1 Basismodul „Grundlagen der Softwareentwicklung und Programmierung“" type="m" elective-units="3">
+          <abstract-unit id="N-IFO-L-BINFO1a" title="Grundlagen der Softwareentwicklung und Programmierung (Vorlesung)" type="m" semester="1" />
+          <abstract-unit id="N-IFO-L-BINFO1b" title="Grundlagen der Softwareentwicklung und Programmierung - Theoretische Übung (Übung)" type="m" semester="1" />
+      <abstract-unit id="N-IFO-L-BINFO1c" title="Grundlagen der Softwareentwicklung und Programmierung - Praktische Übung (Übung)" type="m" semester="1" />
+    </module>
+
+    <module id="N-IFO-M-BPROG" title="D2 Basismodul „Programmierpraktikum“" type="m" elective-units="3">
+          <abstract-unit id="N-IFO-L-BPROGa" title="Programmierpraktikum - Vorlesung (Vorlesung)" type="m" semester="2" />
+          <abstract-unit id="N-IFO-L-BPROGb" title="Programmierpraktikum - Theoretische Übung (Übung)" type="m" semester="2" />
+      <abstract-unit id="N-IFO-L-BPROGc" title="Programmierpraktikum - Praktische Übung (Übung)" type="m" semester="2" />
+    </module>
+
+    <module id="N-IFO-M-BDBS" title="D3 Aufbaumodul „Datenbanksysteme“" type="m" elective-units="3">
+          <abstract-unit id="N-IFO-L-BDBSa" title="Datenbanksysteme - Vorlesung (Vorlesung mit Übung und Praktikum)" type="m" semester="5" />
+          <abstract-unit id="N-IFO-L-BDBSb" title="Datenbanksysteme - Theoretische Übung (Übung)" type="m" semester="5" />
+      <abstract-unit id="N-IFO-L-BDBSc" title="Datenbanksysteme - Praktische Übung (Übung)" type="m" semester="5" />
+    </module>
+      </modules>
+    </course>
+
+  <course id="ba-lin-IS-2013" title="Bachelor Linguistik Integrierter Studiengang PO 2013">
+    <modules>
+    <module id="P-ISI-M-BG" title="BG „Grundkurs Linguistik“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BGa" title="Einführung in die Linguistik (Vorlesung)" type="e" semester="1" />
+          <abstract-unit id="P-ISI-L-BGb" title="Tutorium zur Einführung (Tutorium)" type="e" semester="1" />
+    </module>
+
+    <module id="P-ISI-M-BB1" title="BB1 Basismodul „Phonetik und Phonologie“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BB1a" title="Einführung in die Phonetik (Seminar)" type="e" semester="1,3" />
+          <abstract-unit id="P-ISI-L-BB1b" title="Einführung in die Phonologie (Seminar)" type="e" semester="1,3" />
+      <abstract-unit id="P-ISI-L-BB1c" title="Methodenkurs Phonetik/Phonologie (Seminar)" type="e" semester="1,3" />
+          <abstract-unit id="P-ISI-L-BB1d" title="Tutorium zum Methodenkurs (Tutorium)" type="e" semester="1,3" />
+    </module>
+
+    <module id="P-ISI-M-BB2" title="BB2 Basismodul „Morphologie und Syntax“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BB2a" title="Einführung in die Morphologie (Seminar)" type="e" semester="1,3" />
+          <abstract-unit id="P-ISI-L-BB2b" title="Einführung in die Syntax (Seminar)" type="e" semester="1,3" />
+      <abstract-unit id="P-ISI-L-BB2c" title="Methodenkurs grammatische Methoden (Seminar)" type="e" semester="1,3" />
+          <abstract-unit id="P-ISI-L-BB2d" title="Tutorium zum Methodenkurs (Tutorium)" type="e" semester="1,3" />
+    </module>
+
+    <module id="P-ISI-M-BB3" title="BB3 Basismodul „Semantik und Pragmatik“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BB3a" title="Methodenkurs Logik (Seminar)" type="e" semester="1,3" />
+          <abstract-unit id="P-ISI-L-BB3b" title="Tutorium zum Methodenkurs (Seminar)" type="e" semester="1,3" />
+      <abstract-unit id="P-ISI-L-BB3c" title="Einführung in die Semantik (Tutorium)" type="e" semester="1,3" />
+          <abstract-unit id="P-ISI-L-BB3d" title="Einführung in die Pragmatik (Seminar)" type="e" semester="1,3" />
+    </module>
+
+    <module id="P-ISI-M-BA1" title="BA1 Aufbaumodul „Phonetik und Phonologie“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BA1a" title="Phonetik oder Phonologie (Aufbauseminar)" type="e" semester="3,4,5" />
+          <abstract-unit id="P-ISI-L-BA1b" title="Phonetik oder Phonologie (Aufbauseminar)" type="e" semester="3,4,5" />
+    </module>
+
+    <module id="P-ISI-M-BA2" title="BA2 Aufbaumodul „Morphologie und Syntax“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BA2a" title="Morphologie oder Syntax (Aufbauseminar)" type="e" semester="3,4,5" />
+          <abstract-unit id="P-ISI-L-BA2b" title="Morphologie oder Syntax (Aufbauseminar)" type="e" semester="3,4,5" />
+    </module>
+
+    <module id="P-ISI-M-BA3" title="BA3 Aufbaumodul „Semantik und Pragmatik“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BA3a" title="Semantik oder Pragmatik (Aufbauseminar)" type="e" semester="3,4,5" />
+          <abstract-unit id="P-ISI-L-BA3b" title="Semantik oder Pragmatik (Aufbauseminar)" type="e" semester="3,4,5" />
+    </module>
+
+    <module id="P-ISI-M-BSG1" title="BA3 Aufbaumodul „Semantik und Pragmatik“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BSG1a" title="Nichtindoeuropäische Sprache (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSG1b" title="Tutorium zum Strukturkurs (Tutorium)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BSG1c" title="Sprachliche Diversität (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSG1d" title="Sprachliche Diversität (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BSG2" title="BSG2 Aufbaumodul „Psycho- und Neurolinguistik“" type="e" elective-units="5">
+          <abstract-unit id="P-ISI-L-BPL1c" title="Methodenkurs: Statistik und Untersuchungsdesign (Seminar)" type="m" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BPL1d" title="Tutorium zum Methodenkurs (Tutorium)" type="m" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BPL1a" title="Einführung in die Psycholinguistik (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BPL1b" title="Einführung in die Neurolinguistik (Seminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BPL2a" title="Aufbauseminar zur Psycho- oder Neurolinguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BSG3" title="BSG3 Aufbaumodul „Computerlinguistik“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BSG3a" title="Einführung in die Computerlinguistik (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSG3b" title="Einführung (Übung)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BSG3c" title="Computerlinguistik und/oder Sprachtechnologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSG3d" title="Computerlinguistik und/oder Sprachtechologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BSG4" title="BSG4 Aufbaumodul „Historische Linguistik“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BSG4a" title="Grundlagen der historischen Linguistik (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSG4b" title="Grundlagen der historischen Linguistik (Seminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BSG4c" title="Historischen Linguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSG4d" title="Historischen Linguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BAK" title="BAK Aufbaumodul „Linguistische Kernbereiche“" type="e" elective-units="9">
+          <abstract-unit id="P-ISI-L-BAKa" title="Phonetik oder Phonologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BAKb" title="Morphologie oder Syntax (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BAKc" title="Semantik oder Pragmatik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA1a" title="Phonetik oder Phonologie (Aufbauseminar" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA1b" title="Phonetik oder Phonologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA2a" title="Morphologie oder Syntax (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA2b" title="Morphologie oder Syntax (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BA3a" title="Semantik oder Pragmatik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BA3b" title="Semantik oder Pragmatik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BD1" title="BD1 Basismodul „Informatik 1“" type="e" elective-units="3">
+          <abstract-unit id="N-IFO-L-BINFO1a" title="Grundlagen der Softwareentwicklung und Programmierung (Vorlesung)" type="e" semester="1" />
+          <abstract-unit id="N-IFO-L-BINFO1b" title="Grundlagen der Softwareentwicklung und Programmierung - Theoretische Übung (Übung)" type="e" semester="1" />
+      <abstract-unit id="N-IFO-L-BINFO1c" title="Grundlagen der Softwareentwicklung und Programmierung - Praktische Übung (Übung)" type="e" semester="1" />
+    </module>
+
+    <module id="P-ISI-M-BD2" title="BD2 Basismodul „Programmierpraktikum“" type="e" elective-units="3">
+          <abstract-unit id="N-IFO-L-BPROGa" title="Programmierpraktikum - Vorlesung (Vorlesung)" type="e" semester="2" />
+          <abstract-unit id="N-IFO-L-BPROGb" title="Programmierpraktikum - Theoretische Übung (Übung)" type="e" semester="2" />
+      <abstract-unit id="N-IFO-L-BPROGc" title="Programmierpraktikum - Praktische Übung (Übung)" type="e" semester="2" />
+    </module>
+
+    <module id="P-ISI-M-BC1" title="BC1 Aufbaumodul „Grundwissen Computerlinguistik“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BC1a" title="Einführung in die Computerlinguistik mit Übung (Seminar)" type="e" semester="2,3,4" />
+          <abstract-unit id="P-ISI-L-BC1b" title="Seminar zu computerlinguistischen Methoden (Seminar)" type="e" semester="2,3,4" />
+    </module>
+
+    <module id="P-ISI-M-BC2" title="BC2 Aufbaumodul „Computerlinguistische Programmierung“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BC2a" title="Prolog 1 (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BC2b" title="Prolog 2 (Seminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BC3" title="BC3 Aufbaumodul „Sprachtechnologie“" type="e" elective-units="3">
+          <abstract-unit id="P-ISI-L-BC3a" title="Aufbauseminar Sprachtechnologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BC3b" title="Aufbauseminar Sprachtechnologie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BC3c" title="Aufbauseminar Sprachtechnologie (4-stündig) (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BC4" title="BC4 Aufbaumodul „Theoretische Computerlinguistik“" type="e" elective-units="3">
+          <abstract-unit id="P-ISI-LBC4a" title="Aufbauseminar zur theoretischen Computerlinguistik (Aufbauseminar)" type="e" semester="4,5,6" />
+          <abstract-unit id="P-ISI-LBC4b" title="Aufbauseminar zur theoretischen Computerlinguistik (Aufbauseminar)" type="e" semester="4,5,6" />
+      <abstract-unit id="P-ISI-LBC4c" title="Aufbauseminar zur theoretischen Computerlinguistik (4-stündig) (Aufbauseminar)" type="e" semester="4,5,6" />
+    </module>
+
+      <module id="P-ISI-M-BPL1" title="BPL1 Basismodul „Psycholinguistik“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BPL1a" title="Einführung in die Psycholinguistik (Seminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-ISI-L-BPL1b" title="Einführung in die Neurolinguistik (Seminar)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-ISI-L-BPL1c" title="Methodenkurs: Statistik und Untersuchungsdesign (Seminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-ISI-L-BPL1d" title="Tutorium zum Methodenkurs (Tutorium)" type="e" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-ISI-M-BPL2" title="BPL2 Aufbaumodul „Psycholinguistik“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BPL2a" title="Aufbauseminar zur Psycholinguistik oder zur Neurolinguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BPL2b" title="Aufbauseminar zur Psycholinguistik oder zur Neurolinguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BP1" title="BP1 Basismodul „Theorie und Praxis der Argumentation“" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BP1a" title="Theorie der Argumentation (Seminar)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-PHIL-L-BP1b" title="Praxis der Argumentation (Seminar)" type="e" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-ISI-M-BP2" title="BP2 Aufbaumodul „Sprachphilosophie“" type="e" elective-units="2">
+          <abstract-unit id="P-PHIL-L-BP2a" title="Sprachphilosophie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-PHIL-L-BP2b" title="Sprachphilosophie (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BP3" title="BP3 Aufbaumodul „Kognitionswissenschaft“" type="e" elective-units="5">
+          <abstract-unit id="P-PHIL-L-BP3a" title="Kognitionswissenschaft (Aufbauseminar)" type="m" semester="3,4,5,6" />
+          <abstract-unit id="P-PHIL-L-BP3b" title="Kognitionswissenschaft (Aufbauseminar)" type="m" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BPL1c" title="Methodenkurs: Statistik und Untersuchungsdesign (Seminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BPL2a" title="Aufbauseminar zur Psycho- oder Neurolinguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BPL2b" title="Aufbauseminar zur Psycho- oder Neurolinguistik (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BS1" title="BS1 Basismodul „Große Fremdsprache 1“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BS1a" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BS1b" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="1,2" />
+      <abstract-unit id="P-ISI-L-BS1c" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="1,2" />
+          <abstract-unit id="P-ISI-L-BS1d" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="1,2" />
+    </module>
+
+    <module id="P-ISI-M-BS2" title="BS2 Aufbaumodul „Große Fremdsprache 2“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BS2a" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="3,4" />
+          <abstract-unit id="P-ISI-L-BS2b" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="3,4" />
+      <abstract-unit id="P-ISI-L-BS2c" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="3,4" />
+          <abstract-unit id="P-ISI-L-BS2d" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="3,4" />
+    </module>
+
+    <module id="P-ISI-M-BS3" title="BS3 Aufbaumodul „Große Fremdsprache: Linguistik“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BS3a" title="Linguistik der für die Module S2 gewählten Sprache (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BS3b" title="Linguistik der für die Module S2 gewählten Sprache (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BSKF4" title="BS4 Basismodul „Kleine Fremdsprache 1“" type="e" elective-units="2">
+          <abstract-unit id="P-ISI-L-BSKF4a" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="1,2,3" />
+          <abstract-unit id="P-ISI-L-BSKF4b" title="Sprachpraxis in der gewählten Sprache (Sprachkurs)" type="e" semester="1,2,3" />
+    </module>
+
+    <module id="P-ISI-M-BSR4" title="BS4 Basismodul „Kleine Fremdsprache 1 (Romanistik)“" type="e" elective-units="6">
+          <abstract-unit id="P-ROM-L-BOF1a" title="Grundkurs Französisch (Sprachkurs)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-ROM-L-BOF1b" title="Aufbaukurs Französisch (Sprachkurs)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-ROM-L-BOI1a" title="Grundkurs Italienisch (Sprachkurs)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-ROM-L-BOI1b" title="Aufbaukurs Italienisch (Sprachkurs)" type="e" semester="1,2,3,4" />
+      <abstract-unit id="P-ROM-L-BOS1a" title="Grundkurs Spanisch (Sprachkurs)" type="e" semester="1,2,3,4" />
+          <abstract-unit id="P-ROM-L-BOS1b" title="Aufbaukurs Spanisch (Sprachkurs)" type="e" semester="1,2,3,4" />
+    </module>
+
+    <module id="P-ISI-M-BSR5" title="BS5 Aufbaumodul „Kleine Fremdsprache 2 (Romanistik)“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BSR5a" title="Sprachpraxis in Basismodul S4 gewählten Sprache (Sprachkurs)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSR5b" title="Sprachpraxis in Basismodul S4 gewählten Sprache (Sprachkurs)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BSR5c" title="Linguistik der für das Modul S4 gewählten Sprache (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BSR5d" title="Linguistik der für das Modul S4 gewählten Sprache (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+
+    <module id="P-ISI-M-BSKF6" title="BS6 Aufbaumodul „Kleine Fremdsprache 3“" type="e" elective-units="4">
+          <abstract-unit id="P-ISI-L-BS6a" title="Sprachpraxis in Basismodul S4 gewählten Sprache (Sprachkurs)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BS6b" title="Sprachpraxis in Basismodul S4 gewählten Sprache (Sprachkurs)" type="e" semester="3,4,5,6" />
+      <abstract-unit id="P-ISI-L-BS6c" title="Linguistik der für das Modul S4 gewählten Sprache (Aufbauseminar)" type="e" semester="3,4,5,6" />
+          <abstract-unit id="P-ISI-L-BS6d" title="Linguistik der für das Modul S4 gewählten Sprache (Aufbauseminar)" type="e" semester="3,4,5,6" />
+    </module>
+    </modules>
+  </course>
+
+  <course id="ba-kul-IS-2013" title="Bachelor Medien- und Kulturwissenschaft Integrierter Studiengang PO 2013">
+    <modules>
+    <module id="P-MKW-M-BBM1" title="Basismodul I" type="m" elective-units="5">
+          <abstract-unit id="P-MKW-L-BBM1a" title="Themenbereich Ästhetik (Seminar)" type="m" semester="1" />
+          <abstract-unit id="P-MKW-L-BBM1b" title="Themenbereich Kultur (Seminar)" type="m" semester="1" />
+      <abstract-unit id="P-MKW-L-BBM1c" title="Themenbereich Medien (Seminar)" type="m" semester="1" />
+          <abstract-unit id="P-MKW-L-BBM1d" title="Tutorien (Tutorium)" type="m" semester="1" />
+      <abstract-unit id="P-MKW-L-BBM1e" title="Filmclub (Seminar)" type="m" semester="1" />
+    </module>
+
+    <module id="P-MKW-M-BBM2" title="Basismodul II" type="m" elective-units="6">
+          <abstract-unit id="P-MKW-L-BBM2a" title="Grundlagenveranstaltung Kommunikation und Ästhetik (Seminar)" type="m" semester="2" />
+          <abstract-unit id="P-MKW-L-BBM2b" title="Grundlagenveranstaltung Performativität /Theater (Seminar)" type="m" semester="2" />
+      <abstract-unit id="P-MKW-L-BBM2c" title="Grundlagenveranstaltung Audiovisuelle Medien (Seminar)" type="m" semester="2" />
+          <abstract-unit id="P-MKW-L-BBM2d" title="Praxisprojekte (Seminar)" type="m" semester="2" />
+      <abstract-unit id="P-MKW-L-BBM2e" title="Praxisprojekte (Seminar)" type="m" semester="2" />
+      <abstract-unit id="P-MKW-L-BBM2f" title="Praxisprojekte (Seminar)" type="m" semester="2" />
+    </module>
+
+    <module id="P-MKW-M-BBMVIM" title="Basismodul Vergleichende und interkulturelle Medienkulturwissenschaft" type="m" elective-units="4">
+          <abstract-unit id="P-MKW-L-BBMVIMa" title="Prozesse und Modelle der Interkulturalität (Seminar)" type="m" semester="2" />
+          <abstract-unit id="P-MKW-L-BBMVIMb" title="Kulturgeschichte /Kulturphilosophie (Seminar)" type="m" semester="2" />
+      <abstract-unit id="P-MKW-L-BBMVIMc" title="Medien und interkulturelle Wahrnehmung (Seminar)" type="m" semester="2" />
+          <abstract-unit id="P-MKW-L-BBMVIMd" title="Medien und Globalisierung (Seminar)" type="m" semester="2" />
+    </module>
+
+    <module id="P-MKW-M-BPRO" title="Propädeutikum" type="m" elective-units="3">
+          <abstract-unit id="P-MKW-L-BPROa" title="Einführung in das wissenschaftliche Arbeiten (Seminar)" type="m" semester="2" />
+          <abstract-unit id="P-MKW-L-BPROb" title="Sprachkurs für Anfänger oder Übung wissenschaftliches Schreiben (Sprachkurs oder Übung)" type="m" semester="1,2" />
+      <abstract-unit id="P-MKW-L-BPROc" title="Sprachkurs für Fortgeschrittene (Sprachkurs)" type="m" semester="1,2" />
+    </module>
+
+    <module id="P-MKW-M-BAMAG" title="Aufbaumodul Medien, Alltag, Gesellschaft" type="m" elective-units="5">
+          <abstract-unit id="P-MKW-L-BAMAGa" title="Subjektivität (Seminar)" type="m" semester="3" />
+          <abstract-unit id="P-MKW-L-BAMAGb" title="Geschlecht und Differenz (Seminar)" type="m" semester="3" />
+      <abstract-unit id="P-MKW-L-BAMAGc" title="Medien und Alltag (Seminar)" type="m" semester="3" />
+          <abstract-unit id="P-MKW-L-BAMAGd" title="Materialität und Information (Seminar)" type="m" semester="3" />
+      <abstract-unit id="P-MKW-L-BAMAGe" title="Vortragsreihe: Medienkulturberufe (Vorlesung)" type="m" semester="3" />
+    </module>
+
+    <module id="P-MKW-M-BAMM" title="Aufbaumodul Medienformen" type="m" elective-units="4">
+          <abstract-unit id="P-MKW-L-BAMMa" title="Grundlagenveranstaltung Intermedialität (Seminar)" type="m" semester="4,5" />
+          <abstract-unit id="P-MKW-L-BAMMb" title="Themenseminar Wahrnehmung (Seminar)" type="m" semester="4,5" />
+      <abstract-unit id="P-MKW-L-BAMMc" title="Themenseminar Auditive Medien (Seminar)" type="m" semester="4,5" />
+          <abstract-unit id="P-MKW-L-BAMMd" title="Themenseminar Bildwissenschaft / Visual Culture (Seminar)" type="m" semester="4,5" />
+    </module>
+
+    <module id="P-MKW-M-BPMMF" title="Praxismodul Medienformen" type="m" elective-units="3">
+          <abstract-unit id="P-MKW-L-BPMMFa" title="Medien und interkulturelle Wahrnehmung (Übung)" type="m" semester="4,5" />
+          <abstract-unit id="P-MKW-L-BPMMFb" title="Medien und Globalisierung (Übung)" type="m" semester="4,5" />
+      <abstract-unit id="P-MKW-L-BPMMFc" title="Neue Medien /Internetjournalismus (Übung)" type="m" semester="4,5" />
+    </module>
+
+    <module id="P-MKW-M-BAMMGE" title="Aufbaumodul Medien, Gesellschaft, Ethik" type="m" elective-units="2">
+          <abstract-unit id="P-MKW-L-BAMMGEa" title="Grundlagenveranstaltung Grundlagen der Ethik / der politischen Philosophie (Seminar)" type="m" semester="4,5" />
+          <abstract-unit id="P-MKW-L-BAMMGEb" title="Themenseminar Angewandte Ethik, Medienethik (Seminar)" type="m" semester="4,5" />
+    </module>
+
+    <module id="P-MKW-M-BAMKMF" title="Aufbaumodul Kultur- und medienwissenschaftliche Forschungsmethoden" type="m" elective-units="3">
+          <abstract-unit id="P-MKW-L-BAMKMFa" title="Projekte, Experimente, Interventionen (4-stündig) (Seminar)" type="e" semester="4,5" />
+          <abstract-unit id="P-MKW-L-BAMKMFb" title="Projekte, Experimente, Interventionen (2-stündig), Teil 1 (Seminar)" type="e" semester="4,5" />
+      <abstract-unit id="P-MKW-L-BAMKMFc" title="Projekte, Experimente, Interventionen (2-stündig), Teil 2 (Seminar)" type="e" semester="4,5" />
+    </module>
+    </modules>
+    </course>
+  <course id="ba-smp-IS-2013" title="Bachelor Sozialwissenschaften- Medien, Politik, Gesellschaft Integrierter Studiengang PO 2013">
+    <modules>
+      <module id="P-SOWI-M-BPRO" title="Praxismodul Propädeutik" type="m" elective-units="3">
+        <abstract-unit id="P-SOWI-L-BPROa" title="Techniken wissenschaftlichen Arbeitens (Übung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BPROb" title="EDV/Multimedia (Übung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BPROc" title="Kommunikative Kompetenz (Übung)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-SOWI-M-BBMS" title="Basismodul Soziologie" type="m" elective-units="5">
+        <abstract-unit id="P-SOWI-L-BBMSa" title="Grundlagen der Soziologie (Vorlesung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMSb" title="Die Sozialstruktur Deutschlands (Vorlesung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMSc" title="Einführung in die soziologische Theorie I (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMSd" title="Einführung in die soziologische Theorie II (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMSe" title="begleitende Tutorien (Tutorium)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-SOWI-M-BBMP" title="Basismodul Politikwissenschaft" type="m" elective-units="4">
+        <abstract-unit id="P-SOWI-L-BBMPa" title="Einführung in die Politikwissenschaft (Vorlesung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMPb" title="Einführung in das politische System Deutschlands (Vorlesung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMPc" title="Einführung in die Politische Theorie (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMPd" title="Einführung in die Analyse politischer Systeme (Basisseminar)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-SOWI-M-BBMK" title="Basismodul Kommunikations- und Medienwissenschaft" type="m" elective-units="4">
+        <abstract-unit id="P-SOWI-L-BBMPa" title="Einführung in das Mediensystem in Deutschland (Vorlesung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMPb" title="Einführung in die Kommunikations- und Medienwissenschaft (Vorlesung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMPc" title="Das Mediensystem in Deutschland (Basisseminar)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BBMPd" title="Grundbegriffe, Schwerpunkte und Modelle der Kommunikations- und Medienwissenschaft (Basisseminar)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-SOWI-M-BMME" title="Methodenmodul Erhebungsverfahren" type="m" elective-units="2">
+        <abstract-unit id="P-SOWI-L-BMMEa" title="Erhebungsverfahren I (Vorlesung)" type="m" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BMMEb" title="Erhebungsverfahren II (Vorlesung)" type="m" semester="1,2" />
+      </module>
+
+      <module id="P-SOWI-M-BMMA" title="Methodenmodul Analyseverfahren" type="m" elective-units="3">
+        <abstract-unit id="P-SOWI-L-BMMAa" title="Analyseverfahren (Vorlesung)" type="e" semester="3" />
+        <abstract-unit id="P-SOWI-L-BMMAb" title="begleitende Tutorien (freiwillige Teilnahme) (Tutorium)" type="e" semester="3" />
+        <abstract-unit id="P-SOWI-L-BMMAc" title="Computergestützte Datenanalyse (Übung)" type="e" semester="3" />
+      </module>
+
+      <module id="P-SOWI-M-BMML" title="Methodenmodul Lehrforschungsprojekt" type="m" elective-units="1">
+        <abstract-unit id="P-SOWI-L-BMMLa" title="Lehrforschungsprojekte unterschiedlicher Themenstellungen (Forschungsprojekt)" type="e" semester="5" />
+      </module>
+
+      <module id="P-SOWI-M-BPRA" title="Praxismodul Praktikum" type="m" elective-units="2">
+        <abstract-unit id="P-SOWI-L-BPRAa" title="Berufsfeldkurs (Seminar)" type="m" semester="3,4" />
+        <abstract-unit id="P-SOWI-L-BPRAb" title="Praktikumskurs (Seminar)" type="m" semester="3,4" />
+      </module>
+
+      <module id="P-SOWI-M-BTMIG" title="Themenmodul Individuum + Gesellschaft" type="m" elective-units="6">
+        <abstract-unit id="P-SOWI-L-BTMIG-SAa" title="Aufbauseminar oder Vorlesung I+G (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMIG-SVb" title="Vertiefungsseminar I+G (Soziologie) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMIG-PAc" title="Aufbauseminar oder Vorlesung I+G (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMIG-PVd" title="Vertiefungsseminar I+G (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMIG-KAe" title="Aufbauseminar oder Vorlesung I+G (Kommunikations- und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BTMIG-KVf" title="Vertiefungsseminar I+G (Kommunikations- und Medienwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+      </module>
+
+      <module id="P-SOWI-M-BTMSS" title="Themenmodul Systeme + Strukturen" type="m" elective-units="6">
+        <abstract-unit id="P-SOWI-L-BTMSS-SAa" title="Aufbauseminar oder Vorlesung S+S (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMSS-SVb" title="Vertiefungsseminar S+S (Soziologie) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMSS-PAc" title="Aufbauseminar oder Vorlesung S+S (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMSS-PVd" title="Vertiefungsseminar S+S (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMSS-KAe" title="Aufbauseminar oder Vorlesung S+S (Kommunikations- und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BTMSS-KVf" title="Vertiefungsseminar S+S (Kommunikations- und Medienwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+      </module>
+
+      <module id="P-SOWI-M-BTMBP" title="Themenmodul Bereiche + Prozesse" type="m" elective-units="6">
+        <abstract-unit id="P-SOWI-L-BTMBP-SAa" title="Aufbauseminar oder Vorlesung B+P (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMBP-SVb" title="Vertiefungsseminar B+P (Soziologie) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMBP-PAc" title="Aufbauseminar oder Vorlesung B+P (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMBP-PVd" title="Vertiefungsseminar B+P (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMBP-KAe" title="Aufbauseminar oder Vorlesung B+P (Kommunikations- und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BTMBP-KVf" title="Vertiefungsseminar B+P (Kommunikations- und Medienwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+      </module>
+
+      <module id="P-SOWI-M-BTMMK" title="Themenmodul Medien + Kommunikation" type="m" elective-units="6">
+        <abstract-unit id="P-SOWI-L-BTMMK-SAa" title="Aufbauseminar oder Vorlesung M+K (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMMK-SVb" title="Vertiefungsseminar M+K (Soziologie) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMMK-PAc" title="Aufbauseminar oder Vorlesung M+K (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMMK-PVd" title="Vertiefungsseminar M+K (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMMK-KAe" title="Aufbauseminar oder Vorlesung M+K (Kommunikations- und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BTMMK-KVf" title="Vertiefungsseminar M+K (Kommunikations- und Medienwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+      </module>
+
+      <module id="P-SOWI-M-BTMEI" title="Themenmodul Europa + Internationale Studien" type="m" elective-units="6">
+        <abstract-unit id="P-SOWI-L-BTMEI-SAa" title="Aufbauseminar oder Vorlesung E+I (Soziologie) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMEI-SVb" title="Vertiefungsseminar E+I (Soziologie) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMEI-PAc" title="Aufbauseminar oder Vorlesung E+I (Politikwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMEI-PVd" title="Vertiefungsseminar E+I (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        <abstract-unit id="P-SOWI-L-BTMEI-KAe" title="Aufbauseminar oder Vorlesung E+I (Kommunikations- und Medienwissenschaft) (Aufbauseminar oder Vorlesung)" type="e" semester="1,2" />
+        <abstract-unit id="P-SOWI-L-BTMEI-KVf" title="Vertiefungsseminar E+I (Kommunikations- und Medienwissenschaft) (Vertiefungsseminar)" type="e" semester="3,4,5,6" />
+        </module>
+    </modules>
+  </course>
+</course-module-units>
+
+<units>
+  <unit id="120281" title="Aristoteles: Politik (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="tue" time="2" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPANb" />
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BGPAb" />
+  </unit>
+  <unit id="120323" title="Boethius: Der Trost der Philosophie (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="fri" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BGPAb" />
+  </unit>
+  <unit id="120256" title="Das Konzept des Menschen im Wandel der Epochen (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="5" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BGPAb" />
+        <abstract-unit id="P-Phil-L-BGPMb" />
+        <abstract-unit id="P-Phil-L-BGPNb" />
+        <abstract-unit id="P-Phil-L-BGPGb" />
+  </unit>
+  <unit id="121690" title="Das Leib-Seele-Problem (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="fri" time="2" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BGPNb" />
+  </unit>
+  <unit id="120254" title="Das moderne Geldwesen als Schlüsselphänomen neuzeitlicher Kultur (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="tue" time="5" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BPPSb" />
+        <abstract-unit id="P-Phil-L-BGPGb" />
+  </unit>
+  <unit id="120386" title="Die Philosophie des Nikolaus von Kues (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="tue" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BTPEb" />
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+        <abstract-unit id="P-Phil-L-BGPMb" />
+  </unit>
+  <unit id="120347" title="Einführung in die hellenistische Philosophie (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPBEb" />
+        <abstract-unit id="P-Phil-L-BGPAb" />
+  </unit>
+  <unit id="121318" title="Einführung in die Metaethik (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="tue" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPBEb" />
+  </unit>
+  <unit id="120253" title="Existenz: unableitbares Sein des Menschen oder Subjektivität? (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="tue" time="6" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BGPGb" />
+  </unit>
+  <unit id="121855" title="Ficino: Über die Liebe (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="3" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+        <abstract-unit id="P-Phil-L-BTPEb" />
+        <abstract-unit id="P-Phil-L-BPPBEb" />
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BGPMb" />
+  </unit>
+  <unit id="120394" title="Freiheit der Forschung (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="thu" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BTPWb" />
+        <abstract-unit id="P-Phil-L-BPPBEb" />
+  </unit>
+  <unit id="121213" title="Freundschaft (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="tue" time="2" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPBEb" />
+        <abstract-unit id="P-Phil-L-BPPSb" />
+  </unit>
+  <unit id="120289" title="Gemeinschaft und Gesellschaft: Grundpositionen der Sozialphilosophie (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="wed" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPSb" />
+  </unit>
+  <unit id="120328" title="Grundprobleme der Philosophie (Basisseminar)" semester="1,3,5">
+          <group>
+            <session day="fri" time="3" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPGa" />
+  </unit>
+  <unit id="121221" title="Grundprobleme der Philosophie (Basisseminar)" semester="1,3,5">
+          <group>
+            <session day="thu" time="3" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPGa" />
+  </unit>
+  <unit id="120258" title="Imannuel Kant: Grundlegung zur Metaphysik der Sitten (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="fri" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPNb" />
+        <abstract-unit id="P-Phil-L-BPPBEb" />
+  </unit>
+  <unit id="121746" title="Kant: Kritik der reinen Vernunft. Transzendentale Analytik (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="wed" time="2" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPNb" />
+        <abstract-unit id="P-Phil-L-BTPEb" />
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+  </unit>
+  <unit id="121216" title="Klassiker der analytischen Philosophie (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="wed" time="5" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BTPEb" />
+        <abstract-unit id="P-Phil-L-BPPGa" />
+        <abstract-unit id="P-Phil-L-BTPWb" />
+        <abstract-unit id="P-Phil-L-BPPBEb" />
+  </unit>
+  <unit id="120252" title="Leben als letzter Grund - eine Einführung in Lebensphilosophie (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="6" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BPPKb" />
+  </unit>
+  <unit id="118423" title="Logik I (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="6" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPL1a" />
+  </unit>
+  <unit id="120326" title="Logik II (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="2" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPL1a" />
+  </unit>
+  <unit id="120282" title="Nozick: Anarchie, Staat, Utopie (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="4" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BPPANb" />
+        <abstract-unit id="P-Phil-L-BPPSb" />
+  </unit>
+  <unit id="120379" title="Philosophie der normalen Sprache (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="thu" time="1" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BTPSb" />
+  </unit>
+  <unit id="121856" title="Platons Seelenlehre (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="fri" time="3" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPAb" />
+        <abstract-unit id="P-Phil-L-BPPEb" />
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BTPEb" />
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+  </unit>
+  <unit id="120387" title="Prozessmetaphysik (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="thu" time="5" duration="2" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+  </unit>
+  <unit id="122845" title="Sprachphilosophie und Logik im Mittelalter (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="mon" time="3" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BGPAb" />
+        <abstract-unit id="P-Phil-L-BGPMb" />
+        <abstract-unit id="P-Phil-L-BTPSb" />
+  </unit>
+  <unit id="118437" title="Theorie des Argumentierens (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="thu" time="6" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPARa" />
+  </unit>
+  <unit id="120728" title="Theorie der Kausalität (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="tue" time="5" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BTPOMb" />
+        <abstract-unit id="P-Phil-L-BGPNb" />
+  </unit>
+  <unit id="121741" title="Vom Behaviorismus zur Kognitiven Wende (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="thu" time="4" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPKb" />
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BTPWb" />
+  </unit>
+  <unit id="121215" title="Was ist analytische Philosophie (Basisseminar)" semester="1,3,5">
+        <group>
+          <session day="wed" time="4" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPEb" />
+        <abstract-unit id="P-Phil-L-BGPGb" />
+        <abstract-unit id="P-Phil-L-BTPSb" />
+        <abstract-unit id="P-Phil-L-BTPEb" />
+  </unit>
+  <unit id="121192" title="Übung zu Logik I (Übung)" semester="1,3,5">
+        <group>
+          <session day="thu" time="2" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPL1b" />
+  </unit>
+  <unit id="120820" title="Übung zu Logik I (Übung)" semester="1,3,5">
+        <group>
+          <session day="fri" time="4" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPL1b" />
+  </unit>
+  <unit id="125755" title="Übung zu Logik I (Übung)" semester="1,3,5">
+        <group>
+          <session day="wed" time="2" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPL1b" />
+  </unit>
+  <unit id="121193" title="Übung zu Logik I (Übung)" semester="1,3,5">
+        <group>
+          <session day="thu" time="3" duration="6" rhythm="0" />
+        </group>
+        <abstract-unit id="P-Phil-L-BPPL1b" />
+  </unit>
+  <unit id="121214" title="Wissenschaftliche Arbeitstechniken (Übung)" semester="1,3,5">
+          <group>
+            <session day="tue" time="5" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPGb" />
+  </unit>
+  <unit id="118135" title="Wissenschaftliche Arbeitstechniken (Übung)" semester="1,3,5">
+          <group>
+            <session day="fri" time="2" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPGb" />
+  </unit>
+  <unit id="120285" title="Einführung in die Ethik (Vorlesung)" semester="1,3,5">
+          <group>
+            <session day="mon" time="2" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPEa" />
+  </unit>
+  <unit id="120290" title="Erkenntnistheorie (Vorlesung)" semester="1,3,5">
+          <group>
+            <session day="tue" time="2" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BTPEa" />
+  </unit>
+  <unit id="120390" title="Kulturphilosophie (Vorlesung)" semester="1,3,5">
+          <group>
+            <session day="mon" time="3" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPKa" />
+  </unit>
+  <unit id="120348" title="Philosophie der Antike (Vorlesung)" semester="1,3,5">
+          <group>
+            <session day="mon" time="3" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BGPAa" />
+  </unit>
+  <unit id="120321" title="Selbsterkenntnis und Selbstgewissheit (Vorlesung)" semester="1,3,5">
+          <group>
+            <session day="thu" time="4" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BAEWa" />
+          <abstract-unit id="P-Phil-L-BAEWb" />
+          <abstract-unit id="P-Phil-L-BAAPGa" />
+          <abstract-unit id="P-Phil-L-BAAPGc" />
+  </unit>
+  <unit id="120725" title="Sprachphilosophie (Vorlesung)" semester="1,3,5">
+          <group>
+            <session day="tue" time="4" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BTPSa" />
+  </unit>
+  <unit id="120381" title="Tierethik (Vorlesung)" semester="1,3,5">
+          <group>
+            <session day="tue" time="1" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BAAPGa" />
+          <abstract-unit id="P-Phil-L-BAAPGc" />
+          <abstract-unit id="P-Phil-L-BAEPa" />
+          <abstract-unit id="P-Phil-L-BAEPb" />
+          <abstract-unit id="P-Phil-L-BATPa" />
+          <abstract-unit id="P-Phil-L-BATPb" />
+  </unit>
+
+
+
+
+
+
+
+
+
+
+
+  <unit id="124523" title="Grundprobleme und Methoden der Philosophie (Basisseminar)" semester="2,4,6">
+          <group>
+            <session day="tue" time="4" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPGa" />
+  </unit>
+  <unit id="124178" title="Grundprobleme und Methoden der Philosophie (Basisseminar)" semester="2,4,6">
+          <group>
+            <session day="mon" time="5" duration="2" rhythm="0" />
+          </group>
+          <abstract-unit id="P-Phil-L-BPPGa" />
+  </unit>
+
+</units>
+
+
+</data>
