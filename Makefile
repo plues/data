@@ -1,75 +1,47 @@
-MODEL_GENERATOR_VERSION=1.0.0
+MODEL_GENERATOR_VERSION=2.0.0-SNAPSHOT
 modelgenerator=bin/modelgenerator-$(MODEL_GENERATOR_VERSION).jar
 
-# path to put the virtualenv in case we create a new one
-LOCAL_VIRTUAL_ENV=slottool_env
-
-VENV=$(LOCAL_VIRTUAL_ENV)
-ifdef VIRTUAL_ENV
-	VENV=$(VIRTUAL_ENV)
-endif
-
-HASHSEED:=$(shell awk 'BEGIN{srand();printf("%d", 4294967295*rand())}')
-# export for sub-processes
-export PYTHONHASHSEED=$(HASHSEED)
+MINCER_VERSION=0.1.0-SNAPSHOT
+mincer=bin/mincer-$(MINCER_VERSION).jar
 
 # Available flavors for data
-FLAVORS := philfak wiwi cs random
+FLAVORS := philfak wiwi
 # Default flavor
 flavor=philfak
+
 # Available actions
-ACTIONS := dist data.mch data.sql data.sqlite3 data.pl
+ACTIONS := data.mch data.sqlite3
 TARGETS :=$(foreach i,$(FLAVORS),$(foreach j,$(ACTIONS),$(join $i,-$j)))
 
 # Default targets
 dist: $(join $(flavor),-dist)
 data.mch: $(join $(flavor),-data.mch)
 	cp $< $@
-data.sql: $(join $(flavor),-data.sql)
-	cp $< $@
 data.sqlite3: $(join $(flavor),-data.sqlite3)
 	cp $< $@
 
 # Files produced by $(flavor)
 DATABASES:=$(foreach f,$(FLAVORS),$(join $(f),-data.sqlite3))
-SQL:=$(foreach f,$(FLAVORS),$(join $(f),-data.sql))
 MACHINES:=$(foreach f,$(FLAVORS),$(join $(f),-data.mch))
-PROLOG:=$(foreach f,$(FLAVORS),$(join $(f),-data.pl))
+
 # flavored dist action
 DIST:=$(foreach f,$(FLAVORS),$(join $(f),-dist))
 
 
-bin/wiwi.py bin/phil-fak.py: requirements.inst
+# FLAVOR files
+# philfak flavor files
+philfak-tree=raw/philfak/Modulbaum.xml
+philfak-data=raw/philfak/Moduldaten.xml
 
-data_file=raw/phil-fak.csv
-philfak-data.sql: bin/phil-fak.py $(data_file)
-	$(VENV)/bin/python3 $^ $@
+# wiwi flavor files
+wiwi-tree=
+wiwi-data=
 
-wiwi_data_file=raw/wiwi.xlsx
-wiwi-data.sql: bin/wiwi.py $(wiwi_data_file)
-	$(VENV)/bin/python3 $^ $@
-
-cs_data_file=raw/cs.sql
-cs-data.sql: $(cs_data_file)
-	cp $^ $@
-
-random-data.sql: bin/random_timetable.py
-ifndef RANDOMSEED
-	$(VENV)/bin/python $^ --output=$@
-else
-	$(VENV)/bin/python $^ --output=$@ --seed=$(RANDOMSEED)
-endif
-
-
-$(DATABASES): %-data.sqlite3: %-data.sql schema.sql
-	rm -f $@
-	sqlite3 $@ < $<
-
-$(PROLOG): data.sqlite3 | $(modelgenerator)
-	java -jar $(modelgenerator) --database=$< --format=prolog --output=$@
+$(DATABASES): %-data.sqlite3: $(mincer) $($(flavor)-tree) $($(flavor)-data)
+	java -jar $(mincer) --output=$@ --module-tree=$($(flavor)-tree) --module-data=$($(flavor)-data)
 
 $(MACHINES): %.mch: %.sqlite3 | $(modelgenerator)
-	java -jar $(modelgenerator) --database=$< --format=b --output=$@
+	java -jar $(modelgenerator) --database=$< --output=$@
 
 # distribution rules
 dist-setup:
@@ -79,25 +51,20 @@ $(DIST): %-dist: %-data.sqlite3 | dist-setup
 	cp $^ dist/data.sqlite3
 
 
-$(LOCAL_VIRTUAL_ENV):
-	if [ ! -d "$(VENV)" ]; then virtualenv -p `which python3` $(VENV); fi
-
 $(modelgenerator):
 	curl http://www3.hhu.de/stups/downloads/plues/model-generator/model-generator-standalone-$(MODEL_GENERATOR_VERSION).jar -z $(modelgenerator) -o $(modelgenerator) --silent --location
 
-requirements.inst: requirements.txt $(VENV)
-	$(VENV)/bin/pip install -r requirements.txt
-	touch requirements.inst
+$(mincer):
+	curl http://nightly.cobra.cs.uni-duesseldorf.de/slottool/mincer/mincer-$(MINCER_VERSION)-standalone.jar -z $(mincer) -o $(mincer) --silent --location
 
 clean:
-	rm -f $(TARGETS)
-	rm -f data.sqlite3
-	rm -f requirements.inst
+	rm -rf dist/
+	rm -f $(TARGETS) $(ACTIONS)
 	rm -f *.prob
 
 very_clean: clean
-	rm -rf $(LOCAL_VIRTUAL_ENV)
 	rm -f $(modelgenerator)
+	rm -f $(mincer)
 
-.PHONY: clean very_clean dist-setup $(ACTIONS) $(modelgenerator)
+.PHONY: clean very_clean dist-setup $(ACTIONS) $(FLAVORS)
 .INTERMEDIATE: $(TARGETS)
