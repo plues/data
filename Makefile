@@ -50,11 +50,13 @@ dist-setup:
 $(DIST): %-dist: %-data.sqlite3 | dist-setup
 	cp $^ dist/data.sqlite3
 
+bin/:
+	mkdir -p bin/
 
-$(modelgenerator):
+$(modelgenerator): bin/
 	curl http://www3.hhu.de/stups/downloads/plues/model-generator/model-generator-standalone-$(MODEL_GENERATOR_VERSION).jar -z $(modelgenerator) -o $(modelgenerator) --silent --location
 
-$(mincer):
+$(mincer): bin/
 	curl http://nightly.cobra.cs.uni-duesseldorf.de/slottool/mincer/mincer-$(MINCER_VERSION)-standalone.jar -z $(mincer) -o $(mincer) --silent --location
 
 clean:
