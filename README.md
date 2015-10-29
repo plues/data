@@ -1,11 +1,14 @@
 # PlüS Data
 
 This repository is part of the [PlüS Project](https://github.com/plues) and
-contains:
 contains the tools to generate sqlite3 databases and .mch files from raw timetable
 input data as provided by the faculties of Humanities and Economics at [Heinrich-Heine University Düsseldorf](http://hhu.de).
 
 This repository contains sample data for each faculty in `raw/[faculty name]/`.
+
+## Documentation
+
+See [Documentation](docs.md) for a description of the data format.
 
 ## Generating data
 
@@ -25,9 +28,8 @@ make data.sqlite3 flavor=wiwi
 
 This project depends on the following tools, that are part of the [PlÜS project](http://tuatara.cs.uni-duesseldorf.de/groups/slottool).
 
-* [model-generator](http://tuatara.cs.uni-duesseldorf.de/slottool/model-generator)
-* [mincer](http://tuatara.cs.uni-duesseldorf.de/slottool/mincer)
-
+* [model-generator](https://github.com/plues/model-generator)
+* [mincer](https://github.com/plues/mincer)
 
 ## LICENSE
 
