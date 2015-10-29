@@ -77,7 +77,10 @@ An abstract units is denoted by the node `<abstract-unit>` and the attributes:
 
 The second type of node is `<units>` which groups unit information.
 
-Each unit is represented as a `<unit>` node with the following attributes.
+Each unit is represented as a `<unit>` node with the following attributes:
+- `id`: Unique identifier.
+- `title` of the unit.
+- `semester`: comma separated list of semesters this unit is offered. Note that this number represents the availability whereas the semester information in the abstract unit represents the recommended semesters according to the curriculum. 
 
 Each `<unit>` can be associated to one or more abstract units. These references are expressed by `<abstract-unit>` child nodes that refer to the `id` of the actual abstract unit defined in a module.
 E.g. : `<abstract-unit id="P-Phil-L-BPPANb" />`
