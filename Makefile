@@ -57,7 +57,7 @@ $(modelgenerator): bin/
 	curl http://www3.hhu.de/stups/downloads/plues/model-generator/model-generator-standalone-$(MODEL_GENERATOR_VERSION).jar -z $(modelgenerator) -o $(modelgenerator) --silent --location
 
 $(mincer): bin/
-	curl http://nightly.cobra.cs.uni-duesseldorf.de/slottool/mincer/mincer-$(MINCER_VERSION)-standalone.jar -z $(mincer) -o $(mincer) --silent --location
+	curl http://www3.hhu.de/stups/downloads/plues/mincer/mincer-$(MINCER_VERSION)-standalone.jar -z $(mincer) -o $(mincer) --silent --location
 
 clean:
 	rm -rf dist/
