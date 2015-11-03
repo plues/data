@@ -14,7 +14,7 @@ HASHSEED:=$(shell awk 'BEGIN{srand();printf("%d", 4294967295*rand())}')
 export PYTHONHASHSEED=$(HASHSEED)
 
 # Available flavors for data
-FLAVORS := philfak wiwi random
+FLAVORS := philfak wiwi cs random
 # Default flavor
 flavor=philfak
 # Available actions
@@ -48,6 +48,10 @@ philfak-data.sql: bin/phil-fak.py $(data_file)
 wiwi_data_file=raw/wiwi.xlsx
 wiwi-data.sql: bin/wiwi.py $(wiwi_data_file)
 	$(VENV)/bin/python3 $^ $@
+
+cs_data_file=raw/cs.sql
+cs-data.sql: $(cs_data_file)
+	cp $^ $@
 
 random-data.sql: bin/random_timetable.py
 ifndef RANDOMSEED
