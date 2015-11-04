@@ -25,36 +25,22 @@ INSERT INTO "focus_areas" (id, name, created_at, updated_at) VALUES
         (12,    "Computational Social Choice", datetime('now'), datetime('now')),
         (13,    "Technik sozialer Netzwerke", datetime('now'), datetime('now'));
 
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Info1", "WS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("LA1", "jedes Semester", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Ana1", "jedes Semester", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Info2", "SS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("ProPra", "WS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Ana2", "jedes Semester", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Info3", "WS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Ana3", "jedes Semester", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Stocha", "WS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Info4", "SS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("Num", "SS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("LA2", "jedes Semester", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("DBS", "WS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("RN", "WS", datetime("now"), datetime("now"));
-INSERT INTO "modules" (name, frequency, created_at, updated_at) VALUES
-        ("CompMathe", "WS", datetime("now"), datetime("now"));
+INSERT INTO "modules" (id, name, frequency, created_at, updated_at) VALUES
+        (1,  "Info1", "WS", datetime("now"), datetime("now")),
+        (2,  "LA1", "jedes Semester", datetime("now"), datetime("now")),
+        (3,  "Ana1", "jedes Semester", datetime("now"), datetime("now")),
+        (4,  "Info2", "SS", datetime("now"), datetime("now")),
+        (5,  "ProPra", "WS", datetime("now"), datetime("now")),
+        (6,  "Ana2", "jedes Semester", datetime("now"), datetime("now")),
+        (7,  "Info3", "WS", datetime("now"), datetime("now")),
+        (8,  "Ana3", "jedes Semester", datetime("now"), datetime("now")),
+        (9,  "Stocha", "WS", datetime("now"), datetime("now")),
+        (10, "Info4", "SS", datetime("now"), datetime("now")),
+        (11, "Num", "SS", datetime("now"), datetime("now")),
+        (12, "LA2", "jedes Semester", datetime("now"), datetime("now")),
+        (13, "DBS", "WS", datetime("now"), datetime("now")),
+        (14, "RN", "WS", datetime("now"), datetime("now")),
+        (15, "CompMathe", "WS", datetime("now"), datetime("now"));
 
 INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
         (1, 1, "a2", 0, 2, datetime("now"), datetime("now"));
