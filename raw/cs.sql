@@ -421,9 +421,9 @@ INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, ty
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
         (1, 12, 4, 29, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 12, 4, 30, "m");
+        (1, 12, 2, 29, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 12, 4, 31, "m");
+        (1, 12, 2, 30, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
         (1, 13, 5, 32, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
