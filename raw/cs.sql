@@ -216,7 +216,7 @@ INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at)
 INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
         (35, "Rechnernetze - Hörsaalübung", 1, 1, datetime("now"), datetime("now"));
 INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
-        (36, "Computergestütze Mathematik", 1, 1, datetime("now"), datetime("now"));
+        (36, "Computergestützte Mathematik", 1, 1, datetime("now"), datetime("now"));
 INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
         (37, "Computergestütze Lineare Algebra - Übungen", 1, 1, datetime("now"), datetime("now"));
 INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
