@@ -40,7 +40,8 @@ INSERT INTO "modules" (id, name, frequency, created_at, updated_at) VALUES
         (12, "LA2", "jedes Semester", datetime("now"), datetime("now")),
         (13, "DBS", "WS", datetime("now"), datetime("now")),
         (14, "RN", "WS", datetime("now"), datetime("now")),
-        (15, "CompMathe", "WS", datetime("now"), datetime("now"));
+        (15, "CompMathe", "WS", datetime("now"), datetime("now")),
+        (16, "BS", "WS", datetime("now"), datetime("now"));
 
 INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
         (1, 1, "a2", 0, 2, datetime("now"), datetime("now"));
@@ -144,6 +145,11 @@ INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, update
         (50, 37, "d1", 0, 2, datetime("now"), datetime("now"));
 INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
         (51, 38, "c1", 0, 2, datetime("now"), datetime("now"));
+INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
+        (52, 39, "b1", 0, 2, datetime("now"), datetime("now")),
+        (53, 39, "b4", 0, 2, datetime("now"), datetime("now"));
+INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
+        (54, 40, "b5", 0, 2, datetime("now"), datetime("now"));
 
 INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
         (1, "Grundlagen der Softwareentwicklung und Programmierung (Informatik I)", 1, 1, datetime("now"), datetime("now"));
@@ -221,6 +227,9 @@ INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at)
         (37, "Computergestütze Lineare Algebra - Übungen", 1, 1, datetime("now"), datetime("now"));
 INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
         (38, "Computergestütze Analysis - Übungen", 1, 1, datetime("now"), datetime("now"));
+INSERT INTO "units" (id, title, duration, department_id, created_at, updated_at) VALUES
+        (39, "Betriebssysteme/Grundlagen verteilter Systeme - Vorlesung", 2, 1, datetime("now"), datetime("now")),
+        (40, "Betriebssysteme/Grundlagen verteilter Systeme - Übungen", 2, 1, datetime("now"), datetime("now"));
 
 INSERT INTO "groups" (id, unit_id, title, created_at, updated_at) VALUES
         (1, 1, "Grundlagen der Softwareentwicklung und Programmierung (Informatik I)", datetime("now"), datetime("now"));
@@ -298,69 +307,45 @@ INSERT INTO "groups" (id, unit_id, title, created_at, updated_at) VALUES
         (37, 37, "Computergestütze Lineare Algebra - Übungen", datetime("now"), datetime("now"));
 INSERT INTO "groups" (id, unit_id, title, created_at, updated_at) VALUES
         (38, 38, "Computergestütze Analysis - Übungen", datetime("now"), datetime("now"));
+INSERT INTO "groups" (id, unit_id, title, created_at, updated_at) VALUES
+        (39 ,39, "Betriebssysteme/Grundlagen verteilter Systeme - Vorlesung", datetime("now"), datetime("now")),
+        (40 ,40, "Betriebssysteme/Grundlagen verteilter Systeme - Seminar", datetime("now"), datetime("now"));
 
 INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 1, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 2, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 3, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 4, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 5, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 6, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 7, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 8, "e");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 9, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 10, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 11, "e");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 12, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 13, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 14, "m");
-INSERT INTO "courses_modules" (course_id, module_id, type) VALUES
-        (1, 15, "m");
+        (1, 1, "m"),
+        (1, 2, "m"),
+        (1, 3, "m"),
+        (1, 4, "m"),
+        (1, 5, "m"),
+        (1, 6, "m"),
+        (1, 7, "m"),
+        (1, 8, "e"),
+        (1, 9, "m"),
+        (1, 10, "m"),
+        (1, 11, "e"),
+        (1, 12, "m"),
+        (1, 13, "m"),
+        (1, 14, "m"),
+        (1, 15, "m"),
+        (1, 16, "m");
 
--- generates too many records for a single insert statement
 INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (1, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (2, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (3, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (4, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (5, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (6, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (7, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (8, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (9, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (10, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (11, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (12, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (13, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (14, 2);
-INSERT INTO "modules_focus_areas" (module_id, focus_area_id) values
-        (15, 2);
+        (1, 2),
+        (2, 2),
+        (3, 2),
+        (4, 2),
+        (5, 2),
+        (6, 2),
+        (7, 2),
+        (8, 2),
+        (9, 2),
+        (10, 2),
+        (11, 2),
+        (12, 2),
+        (13, 2),
+        (14, 2),
+        (15, 2),
+        (16, 2);
 
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
         (1, 1, 1, 1, "m");
@@ -413,28 +398,23 @@ INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, ty
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
         (1, 10, 4, 25, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 11, 4, 26, "e");
-INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 11, 4, 27, "e");
-INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
+        (1, 11, 4, 26, "e"),
+        (1, 11, 4, 27, "e"),
         (1, 11, 4, 28, "e");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 12, 4, 29, "m");
+        (1, 12, 4, 29, "m"),
+        (1, 12, 4, 30, "m"),
+        (1, 12, 4, 31, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 12, 2, 29, "m");
-INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 12, 2, 30, "m");
-INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 13, 5, 32, "m");
-INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
+        (1, 13, 5, 32, "m"),
         (1, 13, 5, 33, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 14, 5, 34, "m");
-INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
+        (1, 14, 5, 34, "m"),
         (1, 14, 5, 35, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 15, 5, 36, "m");
+        (1, 15, 3, 36, "m"),
+        (1, 15, 3, 37, "m"),
+        (1, 15, 3, 38, "m");
 INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 15, 5, 37, "m");
-INSERT INTO "courses_modules_units" (course_id, module_id, semester, unit_id, type) VALUES
-        (1, 15, 5, 38, "m");
+        (1, 16, 5, 39, "m"),
+        (1, 16, 5, 40, "m");
