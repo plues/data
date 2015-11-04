@@ -111,7 +111,7 @@ INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, update
 INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
         (34, 25, "e2", 0, 2, datetime("now"), datetime("now"));
 INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
-        (35, 26, "b5", 0, 2, datetime("now"), datetime("now"));
+        (35, 26, "b3", 0, 2, datetime("now"), datetime("now"));
 INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
         (36, 26, "b4", 0, 2, datetime("now"), datetime("now"));
 INSERT INTO "sessions" (id, group_id, slot, rhythm, duration, created_at, updated_at) VALUES
