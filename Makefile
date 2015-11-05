@@ -1,4 +1,4 @@
-MODEL_GENERATOR_VERSION=1.0.0-SNAPSHOT
+MODEL_GENERATOR_VERSION=1.0.0
 modelgenerator=bin/modelgenerator-$(MODEL_GENERATOR_VERSION).jar
 
 # path to put the virtualenv in case we create a new one
@@ -83,7 +83,7 @@ $(LOCAL_VIRTUAL_ENV):
 	if [ ! -d "$(VENV)" ]; then virtualenv -p `which python3` $(VENV); fi
 
 $(modelgenerator):
-	curl http://nightly.cobra.cs.uni-duesseldorf.de/slottool/model-generator-standalone-$(MODEL_GENERATOR_VERSION).jar -z $(modelgenerator) -o $(modelgenerator) --silent --location
+	curl http://www3.hhu.de/stups/downloads/plues/model-generator/model-generator-standalone-$(MODEL_GENERATOR_VERSION).jar -z $(modelgenerator) -o $(modelgenerator) --silent --location
 
 requirements.inst: requirements.txt $(VENV)
 	$(VENV)/bin/pip install -r requirements.txt
