@@ -3,7 +3,7 @@
 This repository is part of the [PlüS Project](https://github.com/plues) and
 contains:
 
-* Timetabling data provided by the participating faculties faculties of
+* Timetabling data provided by the participating faculties of
   Humanities and Economics at the [Heinrich-Heine University Düsseldorf](http://hhu.de).
 * Tools to generate a SQLite database from the raw data and to generate
   different target formats from the database using
