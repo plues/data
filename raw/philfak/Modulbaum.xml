@@ -2,15 +2,13 @@
 <ModulBaum>
 <b abschl="bk" stg="phi" kzfa="H" pversion="2011" name="Kernfach Philosophie">
   <l name="Basismodule" min="7" max="7">
-    <l name="Basispflichtmodule" min="1" max="2">
+    <l name="Basiswahlpflichtmodule" min="5" max="7">
       <l name="Philosophische Propädeutik" min="1" max="2">
         <m name="Logik I" pflicht="j" pordnr="29381">
         </m>
         <m name="Grundlagen" pordnr="29380">
         </m>
       </l>
-    </l>
-    <l name="Basiswahlpflichtmodule" min="4" max="6">
       <l name="Theoretische Philosophie" min="1" max="2">
         <m name="Erkenntnistheorie" pordnr="29384">
         </m>
@@ -74,15 +72,13 @@
 </b>
 <b abschl="bk" stg="phi" kzfa="H" pversion="2013" name="Kernfach Philosophie">
   <l name="Basismodule" min="7" max="7">
-    <l name="Basispflichtmodule" min="1" max="2">
+    <l name="Basiswahlpflichtmodule" min="5" max="7">
       <l name="Philosophische Propädeutik" min="1" max="2">
         <m name="Logik I" pflicht="j" pordnr="34510">
         </m>
         <m name="Grundlagen" pordnr="34509">
         </m>
       </l>
-    </l>
-    <l name="Basiswahlpflichtmodule" min="4" max="6">
       <l name="Theoretische Philosophie" min="1" max="2">
         <m name="Erkenntnistheorie" pordnr="34513">
         </m>
@@ -107,7 +103,8 @@
       </l>
     </l>
     <l name="Basiswahlmodule" min="0" max="2">
-      <l name="Philosophische Propädeutik" min="0" max="2">
+    </l>
+    <l name="Philosophische Propädeutik" min="0" max="2">
         <m name="Logik II" pordnr="34511">
         </m>
         <m name="Argumentation" pordnr="34512">
@@ -125,7 +122,6 @@
         <m name="Sozialphilosophie/Rechtsphilosophie" pordnr="34520">
         </m>
       </l>
-    </l>
   </l>
   <l name="Aufbaumodule" min="2" max="2">
         <m name="Logik/Metalogik" pordnr="34525">
@@ -148,11 +144,11 @@
 
 <b abschl="bk" stg="phi" kzfa="N" pversion="2011" name="Ergänzungsfach Philosophie">
   <l name="Basismodule" min="3" max="3">
-    <l name="Basispflichtmodul" min="1" max="1">
+      <l name="Pflichtmodul" min="1" max="1">
         <m name="Logik I" pflicht="j" pordnr="29447">
         </m>
-    </l>
-    <l name="Basiswahlpflichtmodule" min="2" max="2">
+      </l>
+      <l name="Basiswahlpflichtmodule" min="2" max="2">
       <l name="Theoretische Philosophie und Praktische Philosophie" min="1" max="1">
         <m name="Erkenntnistheorie" pordnr="29892">
         </m>
@@ -195,11 +191,11 @@
 </b>
 <b abschl="bk" stg="phi" kzfa="N" pversion="2013" name="Ergänzungsfach Philosophie">
   <l name="Basismodule" min="3" max="3">
-    <l name="Basispflichtmodul" min="1" max="1">
+      <l name="Pflichtmodul" min="1" max="1">
         <m name="Logik I" pflicht="j" pordnr="36143">
         </m>
-    </l>
-    <l name="Basiswahlpflichtmodule" min="2" max="2">
+      </l>
+      <l name="Basiswahlpflichtmodule" min="2" max="2">
       <l name="Theoretische Philosophie und Praktische Philosophie" min="1" max="1">
         <m name="Erkenntnistheorie" pordnr="36146">
         </m>
@@ -240,7 +236,7 @@
   </l>
 </b>
 
-  <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2013" kzfa="H" stg="smp" abschl="ba">
+<b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2013" kzfa="H" stg="smp" abschl="ba">
   <regeln>
   <r1 rtyp="nm" wenn="@TM='IG'" zw="1">
     <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Individuum & Gesellschaft bestanden oder angemeldet.]]>
@@ -976,4 +972,286 @@
       </l>
     </l>
   </b>
+  <b abschl="bk" stg="rom" kzfa="H" pversion="2013" name="Kernfach Romanistik">
+<l name="Modulabschlussprüfungen Kernfach Romanistik" min="10" max="10">
+<![CDATA[Insgesamt sind im Bachelor Kernfach Romanistik 10 Modulabschlussprüfungen zu absolvieren (min. 10 / max. 10), zuzüglich der Bachelorarbeit.]]>
+
+  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+  <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+        die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.<br/><br/>
+        Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
+        ]]>
+    <l name="Französisch" min="0" max="3">
+      <m pnr="1811" name="Basismodul Sprachpraxis Französisch" pordnr="34586"/>
+      <m pnr="1816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34589"/>
+      <m pnr="1821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34592"/>
+    </l>
+    <l name="Italienisch" min="0" max="3">
+      <m pnr="1812" name="Basismodul Sprachpraxis Italienisch" pordnr="34587"/>
+      <m pnr="1817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34590"/>
+      <m pnr="1822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34593"/>
+    </l>
+    <l name="Spanisch" min="0" max="3">
+      <m pnr="1813" name="Basismodul Sprachpraxis Spanisch" pordnr="34588"/>
+      <m pnr="1818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34591"/>
+      <m pnr="1823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34594"/>
+    </l>
+  </l>
+
+
+  <l name="Wissenschaftliche Pflichtmodule" min="4" max="4">
+      <m pnr="1825" name="Basismodul romanistische Sprachwissenschaft" pordnr="34595" pflicht="j"/>
+      <m pnr="1830" name="Basismodul romanistische Literaturwissenschaft" pordnr="34596" pflicht="j"/>
+      <m pnr="1835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34597" pflicht="j"/>
+      <m pnr="1840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34598" pflicht="j"/>
+  </l>
+
+  <l name="Wissenschaftliche Wahlpflicht-AP" min="1" max="1">
+  <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für ein Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls und Vertiefungsmoduls.<br/><br/>
+        Die Bachelorarbeit wird zu dem Aufbaumodul absolviert, in dem keine Modulabschlussprüfung absolviert wird.]]>
+      <m pnr="1845" name="Aufbaumodul romanistische Sprachwissenschaft" pordnr="34599"/>
+      <m pnr="1850" name="Aufbaumodul romanistische Literaturwissenschaft" pordnr="34600"/>
+  </l>
+  <l name="Optionsmodule" min="2" max="2">
+  <![CDATA[Hinweis: Bei Wahl des Optionsmodul "Sprache" und des Optionsmodul "Basismodul Sprachpraxis" darf die gewählte Sprache nicht mit der Schwerpunktsprache identisch sein.]]>
+      <m pnr="1855" name="Optionsmodul: Sprache Französisch" pordnr="34601"/>
+      <m pnr="1857" name="Optionsmodul: Sprache Italienisch" pordnr="34602"/>
+      <m pnr="1860" name="Optionsmodul: Sprache Spanisch" pordnr="34603"/>
+      <m pnr="1865" name="Optionsmodul: Basismodul Sprachpraxis Französisch" pordnr="34604"/>
+      <m pnr="1867" name="Optionsmodul: Basismodul Sprachpraxis Italienisch" pordnr="34605"/>
+      <m pnr="1870" name="Optionsmodul: Basismodul Sprachpraxis Spanisch" pordnr="34606"/>
+      <m pnr="1875" name="Optionsmodul: Kultur- und Regionalwissenschaft" pordnr="34607"/>
+      <m pnr="1880" name="Optionsmodul: Einführung in die Anwendungsfelder der Sprachwissenschaft" pordnr="34608"/>
+      <m pnr="1885" name="Optionsmodul: Mediale Kommunikation" pordnr="34609"/>
+      <m pnr="1890" name="Optionsmodul: Translation" pordnr="34610"/>
+
+  </l>
+
+</l>
+</b>
+<b abschl="bk" stg="rom" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Kernfach Romanistik">
+<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+        die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
+        Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
+        ]]>
+    <l name="Französisch" min="0" max="3">
+      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
+      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776"/>
+      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34779"/>
+    </l>
+    <l name="Italienisch" min="0" max="3">
+      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
+      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777"/>
+      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34780"/>
+    </l>
+    <l name="Spanisch" min="0" max="3">
+      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
+      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778"/>
+      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34781"/>
+    </l>
+  </l>
+  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+      <![CDATA[Hinweis: Das Vertiefungsmodul romanistische Sprachwissenschaft und das Vertiefungsmodul romanistische Literaturwissenschaft
+      wird sowohl im Kernfach als auch im Ergänzungsfach Romanistik belegt.]]>
+      <m pnr="2835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784" pflicht="j"/>
+      <m pnr="2840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785" pflicht="j"/>
+  </l>
+    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Vertiefungsmoduls.]]>
+      <m pnr="2845" name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34786"/>
+      <m pnr="2850" name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
+  </l>
+</b>
+<b abschl="bk" stg="rom" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit anderem Kernfach (alleiniges Ergänzungsfach)">
+<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+        die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
+        Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
+        ]]>
+    <l name="Französisch" min="0" max="3">
+      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
+      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776"/>
+      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34779"/>
+    </l>
+    <l name="Italienisch" min="0" max="3">
+      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
+      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777"/>
+      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34780"/>
+    </l>
+    <l name="Spanisch" min="0" max="3">
+      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
+      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778"/>
+      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34781"/>
+    </l>
+  </l>
+  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+      <m pnr="2825" name="Basismodul romanistische Sprachwissenschaft" pordnr="34782" pflicht="j"/>
+      <m pnr="2830" name="Basismodul romanistische Literaturwissenschaft" pordnr="34783" pflicht="j"/>
+  </l>
+    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls.]]>
+      <m pnr="2860" name="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergänzungsfach)" pordnr="34788"/>
+      <m pnr="2870" name="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)" pordnr="34789"/>
+  </l>
+</b>
+<b abschl="bk" stg="rom" kzfa="H" pversion="2011" name="Kernfach Romanistik">
+<l name="Modulabschlussprüfungen Kernfach Romanistik" min="10" max="10">
+<![CDATA[Insgesamt sind im Bachelor Kernfach Romanistik 10 Modulabschlussprüfungen zu absolvieren (min. 10 / max. 10), zuzüglich der Bachelorarbeit.]]>
+
+  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+  <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+        die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.<br/><br/>
+        Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
+        ]]>
+    <l name="Französisch" min="0" max="3">
+      <m pnr="1811" name="Basismodul Sprachpraxis Französisch" pordnr="30870"/>
+      <m pnr="1816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30879"/>
+      <m pnr="1821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30882"/>
+    </l>
+    <l name="Italienisch" min="0" max="3">
+      <m pnr="1812" name="Basismodul Sprachpraxis Italienisch" pordnr="30871"/>
+      <m pnr="1817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30880"/>
+      <m pnr="1822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30883"/>
+    </l>
+    <l name="Spanisch" min="0" max="3">
+      <m pnr="1813" name="Basismodul Sprachpraxis Spanisch" pordnr="30872"/>
+      <m pnr="1818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30881"/>
+      <m pnr="1823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30884"/>
+    </l>
+  </l>
+
+
+  <l name="Wissenschaftliche Pflichtmodule" min="4" max="4">
+      <m pnr="1825" name="Basismodul romanistische Sprachwissenschaft" pordnr="29477" pflicht="j"/>
+      <m pnr="1830" name="Basismodul romanistische Literaturwissenschaft" pordnr="29478" pflicht="j"/>
+      <m pnr="1835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="29479" pflicht="j"/>
+      <m pnr="1840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="29480" pflicht="j"/>
+  </l>
+
+  <l name="Wissenschaftliche Wahlpflicht-AP" min="1" max="1">
+  <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für ein Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls und Vertiefungsmoduls.<br/><br/>
+        Die Bachelorarbeit wird zu dem Aufbaumodul absolviert, in dem keine Modulabschlussprüfung absolviert wird.]]>
+      <m pnr="1845" name="Aufbaumodul romanistische Sprachwissenschaft" pordnr="29866"/>
+      <m pnr="1850" name="Aufbaumodul romanistische Literaturwissenschaft" pordnr="29481"/>
+  </l>
+  <l name="Optionsmodule" min="2" max="2">
+  <![CDATA[Hinweis: Bei Wahl des Optionsmodul "Sprache" und des Optionsmodul "Basismodul Sprachpraxis" darf die gewählte Sprache nicht mit der Schwerpunktsprache identisch sein.]]>
+      <m pnr="1855" name="Optionsmodul: Sprache Französisch" pordnr="29872"/>
+      <m pnr="1857" name="Optionsmodul: Sprache Italienisch" pordnr="29873"/>
+      <m pnr="1860" name="Optionsmodul: Sprache Spanisch" pordnr="29874"/>
+      <m pnr="1865" name="Optionsmodul: Basismodul Sprachpraxis Französisch" pordnr="29875"/>
+      <m pnr="1867" name="Optionsmodul: Basismodul Sprachpraxis Italienisch" pordnr="29876"/>
+      <m pnr="1870" name="Optionsmodul: Basismodul Sprachpraxis Spanisch" pordnr="29877"/>
+      <m pnr="1875" name="Optionsmodul: Kultur- und Regionalwissenschaft" pordnr="29867"/>
+      <m pnr="1880" name="Optionsmodul: Einführung in die Anwendungsfelder der Sprachwissenschaft" pordnr="29868"/>
+      <m pnr="1885" name="Optionsmodul: Mediale Kommunikation" pordnr="29869"/>
+      <m pnr="1890" name="Optionsmodul: Translation" pordnr="29870"/>
+
+  </l>
+
+</l>
+</b>
+<b abschl="bk" stg="rom" kzfa="N" pversion="2011" name="Ergänzungsfach Romanistik mit Kernfach Romanistik">
+<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+        die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
+        Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
+        ]]>
+    <l name="Französisch" min="0" max="3">
+      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="30875"/>
+      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30876"/>
+      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30885"/>
+    </l>
+    <l name="Italienisch" min="0" max="3">
+      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="30874"/>
+      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30877"/>
+      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30886"/>
+    </l>
+    <l name="Spanisch" min="0" max="3">
+      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="30873"/>
+      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30878"/>
+      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30887"/>
+    </l>
+  </l>
+  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+      <![CDATA[Hinweis: Das Vertiefungsmodul romanistische Sprachwissenschaft und das Vertiefungsmodul romanistische Literaturwissenschaft
+      wird sowohl im Kernfach als auch im Ergänzungsfach Romanistik belegt.]]>
+      <m pnr="2835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="29469" pflicht="j"/>
+      <m pnr="2840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="29878" pflicht="j"/>
+  </l>
+    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Vertiefungsmoduls.]]>
+      <m pnr="2845" name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="29879"/>
+      <m pnr="2850" name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="29880"/>
+  </l>
+</b>
+<b abschl="bk" stg="rom" kzfa="N" pversion="2011" name="Ergänzungsfach Romanistik mit anderem Kernfach (alleiniges Ergänzungsfach)">
+<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+        die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
+        Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
+        <br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
+        ]]>
+      <l name="Französisch" min="0" max="3">
+      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="30875"/>
+      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30876"/>
+      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30885"/>
+    </l>
+    <l name="Italienisch" min="0" max="3">
+      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="30874"/>
+      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30877"/>
+      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30886"/>
+    </l>
+    <l name="Spanisch" min="0" max="3">
+      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="30873"/>
+      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30878"/>
+      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30887"/>
+    </l>
+  </l>
+  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+      <m pnr="2825" name="Basismodul romanistische Sprachwissenschaft" pordnr="29467" pflicht="j"/>
+      <m pnr="2830" name="Basismodul romanistische Literaturwissenschaft" pordnr="29468" pflicht="j"/>
+  </l>
+    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls.]]>
+      <m pnr="2860" name="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergänzungsfach)" pordnr="29881"/>
+      <m pnr="2870" name="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)" pordnr="29882"/>
+  </l>
+</b>
  </ModulBaum>
