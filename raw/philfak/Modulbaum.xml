@@ -103,25 +103,25 @@
       </l>
     </l>
     <l name="Basiswahlmodule" min="0" max="2">
+      <l name="Philosophische Propädeutik" min="0" max="2">
+          <m name="Logik II" pordnr="34511">
+          </m>
+          <m name="Argumentation" pordnr="34512">
+          </m>
+        </l>
+        <l name="Theoretische Philosophie" min="0" max="2">
+          <m name="Wissenschaftstheorie" pordnr="34515">
+          </m>
+          <m name="Sprachphilosophie" pordnr="34516">
+          </m>
+        </l>
+        <l name="Praktische Philosophie" min="0" max="2">
+          <m name="Anthropologie/Kulturphilosophie" pordnr="34519">
+          </m>
+          <m name="Sozialphilosophie/Rechtsphilosophie" pordnr="34520">
+          </m>
+        </l>
     </l>
-    <l name="Philosophische Propädeutik" min="0" max="2">
-        <m name="Logik II" pordnr="34511">
-        </m>
-        <m name="Argumentation" pordnr="34512">
-        </m>
-      </l>
-      <l name="Theoretische Philosophie" min="0" max="2">
-        <m name="Wissenschaftstheorie" pordnr="34515">
-        </m>
-        <m name="Sprachphilosophie" pordnr="34516">
-        </m>
-      </l>
-      <l name="Praktische Philosophie" min="0" max="2">
-        <m name="Anthropologie/Kulturphilosophie" pordnr="34519">
-        </m>
-        <m name="Sozialphilosophie/Rechtsphilosophie" pordnr="34520">
-        </m>
-      </l>
   </l>
   <l name="Aufbaumodule" min="2" max="2">
         <m name="Logik/Metalogik" pordnr="34525">
