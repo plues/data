@@ -1,321 +1,203 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<?xml version="1.0" encoding="UTF-8"?>
 <ModulBaum>
-<b abschl="bk" stg="phi" kzfa="H" pversion="2011" name="Kernfach Philosophie">
-  <l name="Basismodule" min="7" max="7">
-    <l name="Basiswahlpflichtmodule" min="5" max="7">
-      <l name="Philosophische Propädeutik" min="1" max="2">
-        <m name="Logik I" pflicht="j" pordnr="29381">
-        </m>
-        <m name="Grundlagen" pordnr="29380">
-        </m>
-      </l>
-      <l name="Theoretische Philosophie" min="1" max="2">
-        <m name="Erkenntnistheorie" pordnr="29384">
-        </m>
-        <m name="Ontologie/Methaphysik" pordnr="29385">
-        </m>
-      </l>
-      <l name="Praktische Philosophie" min="1" max="2">
-        <m name="Ethik/Praktische Philosophie" pordnr="29388">
-        </m>
-        <m name="Anthropologie" pordnr="29883">
-        </m>
-      </l>
-      <l name="Geschichte der Philosophie" min="2" max="4">
-        <m name="Antike" pordnr="29886">
-        </m>
-        <m name="Mittelalter" pordnr="29887">
-        </m>
-        <m name="Neuzeit" pordnr="29888">
-        </m>
-        <m name="Gegenwart" pordnr="29889">
-        </m>
-      </l>
-    </l>
-    <l name="Basiswahlmodule" min="0" max="2">
-      <l name="Philosophische Propädeutik" min="0" max="2">
-        <m name="Logik II" pordnr="29382">
-        </m>
-        <m name="Argumentation" pordnr="29383">
-        </m>
-      </l>
-      <l name="Theoretische Philosophie" min="0" max="2">
-        <m name="Wissenschaftstheorie" pordnr="29386">
-        </m>
-        <m name="Sprachphilosophie" pordnr="29387">
-        </m>
-      </l>
-      <l name="Praktische Philosophie" min="0" max="2">
-        <m name="Kulturphilosophie" pordnr="29884">
-        </m>
-        <m name="Sozialphilosophie" pordnr="29885">
-        </m>
-      </l>
-    </l>
-  </l>
-  <l name="Aufbaumodule" min="2" max="2">
-        <m name="Logik/Metalogik" pordnr="29389">
-        </m>
-        <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="29390">
-        </m>
-        <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="29391">
-        </m>
-        <m name="Anthropologie/Philosophie des Geistes" pordnr="29392">
-        </m>
-        <m name="Ethik/Praktische Philosophie" pordnr="29393">
-        </m>
-        <m name="Kulturphilosophie/Sozialphilosophie" pordnr="29394">
-        </m>
-        <m name="Transeuropäische Philosophie (wird nicht mehr angeboten)" pordnr="29395">
-        </m>
-  </l>
-</b>
-<b abschl="bk" stg="phi" kzfa="H" pversion="2013" name="Kernfach Philosophie">
-  <l name="Basismodule" min="7" max="7">
-    <l name="Basiswahlpflichtmodule" min="5" max="7">
-      <l name="Philosophische Propädeutik" min="1" max="2">
-        <m name="Logik I" pflicht="j" pordnr="34510">
-        </m>
-        <m name="Grundlagen" pordnr="34509">
-        </m>
-      </l>
-      <l name="Theoretische Philosophie" min="1" max="2">
-        <m name="Erkenntnistheorie" pordnr="34513">
-        </m>
-        <m name="Ontologie/Methaphysik" pordnr="34514">
-        </m>
-      </l>
-      <l name="Praktische Philosophie" min="1" max="2">
-        <m name="Ethik" pordnr="34517">
-        </m>
-        <m name="Politische Philosophie" pordnr="34518">
-        </m>
-      </l>
-      <l name="Geschichte der Philosophie" min="2" max="4">
-        <m name="Antike" pordnr="34521">
-        </m>
-        <m name="Mittelalter" pordnr="34522">
-        </m>
-        <m name="Neuzeit" pordnr="34523">
-        </m>
-        <m name="Gegenwart" pordnr="34524">
-        </m>
-      </l>
-    </l>
-    <l name="Basiswahlmodule" min="0" max="2">
-      <l name="Philosophische Propädeutik" min="0" max="2">
-          <m name="Logik II" pordnr="34511">
-          </m>
-          <m name="Argumentation" pordnr="34512">
-          </m>
+    <b abschl="bk" stg="phi" kzfa="H" pversion="2011" name="Kernfach Philosophie">
+        <l name="Basismodule" min="7" max="7">
+            <l name="Basiswahlpflichtmodule" min="5" max="7">
+                <l name="Philosophische Propädeutik" min="1" max="2">
+                    <m name="Logik I" pflicht="j" pordnr="29381" />
+                    <m name="Grundlagen" pordnr="29380" />
+                </l>
+                <l name="Theoretische Philosophie" min="1" max="2">
+                    <m name="Erkenntnistheorie" pordnr="29384" />
+                    <m name="Ontologie/Methaphysik" pordnr="29385" />
+                </l>
+                <l name="Praktische Philosophie" min="1" max="2">
+                    <m name="Ethik/Praktische Philosophie" pordnr="29388" />
+                    <m name="Anthropologie" pordnr="29883" />
+                </l>
+                <l name="Geschichte der Philosophie" min="2" max="4">
+                    <m name="Antike" pordnr="29886" />
+                    <m name="Mittelalter" pordnr="29887" />
+                    <m name="Neuzeit" pordnr="29888" />
+                    <m name="Gegenwart" pordnr="29889" />
+                </l>
+            </l>
+            <l name="Basiswahlmodule" min="0" max="2">
+                <l name="Philosophische Propädeutik" min="0" max="2">
+                    <m name="Logik II" pordnr="29382" />
+                    <m name="Argumentation" pordnr="29383" />
+                </l>
+                <l name="Theoretische Philosophie" min="0" max="2">
+                    <m name="Wissenschaftstheorie" pordnr="29386" />
+                    <m name="Sprachphilosophie" pordnr="29387" />
+                </l>
+                <l name="Praktische Philosophie" min="0" max="2">
+                    <m name="Kulturphilosophie" pordnr="29884" />
+                    <m name="Sozialphilosophie" pordnr="29885" />
+                </l>
+            </l>
         </l>
-        <l name="Theoretische Philosophie" min="0" max="2">
-          <m name="Wissenschaftstheorie" pordnr="34515">
-          </m>
-          <m name="Sprachphilosophie" pordnr="34516">
-          </m>
+        <l name="Aufbaumodule" min="2" max="2">
+            <m name="Logik/Metalogik" pordnr="29389" />
+            <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="29390" />
+            <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="29391" />
+            <m name="Anthropologie/Philosophie des Geistes" pordnr="29392" />
+            <m name="Ethik/Praktische Philosophie" pordnr="29393" />
+            <m name="Kulturphilosophie/Sozialphilosophie" pordnr="29394" />
+            <m name="Transeuropäische Philosophie (wird nicht mehr angeboten)" pordnr="29395" />
         </l>
-        <l name="Praktische Philosophie" min="0" max="2">
-          <m name="Anthropologie/Kulturphilosophie" pordnr="34519">
-          </m>
-          <m name="Sozialphilosophie/Rechtsphilosophie" pordnr="34520">
-          </m>
+    </b>
+    <b abschl="bk" stg="phi" kzfa="H" pversion="2013" name="Kernfach Philosophie">
+        <l name="Basismodule" min="7" max="7">
+            <l name="Basiswahlpflichtmodule" min="5" max="7">
+                <l name="Philosophische Propädeutik" min="1" max="2">
+                    <m name="Logik I" pflicht="j" pordnr="34510" />
+                    <m name="Grundlagen" pordnr="34509" />
+                </l>
+                <l name="Theoretische Philosophie" min="1" max="2">
+                    <m name="Erkenntnistheorie" pordnr="34513" />
+                    <m name="Ontologie/Methaphysik" pordnr="34514" />
+                </l>
+                <l name="Praktische Philosophie" min="1" max="2">
+                    <m name="Ethik" pordnr="34517" />
+                    <m name="Politische Philosophie" pordnr="34518" />
+                </l>
+                <l name="Geschichte der Philosophie" min="2" max="4">
+                    <m name="Antike" pordnr="34521" />
+                    <m name="Mittelalter" pordnr="34522" />
+                    <m name="Neuzeit" pordnr="34523" />
+                    <m name="Gegenwart" pordnr="34524" />
+                </l>
+            </l>
+            <l name="Basiswahlmodule" min="0" max="2">
+                <l name="Philosophische Propädeutik" min="0" max="2">
+                    <m name="Logik II" pordnr="34511" />
+                    <m name="Argumentation" pordnr="34512" />
+                </l>
+                <l name="Theoretische Philosophie" min="0" max="2">
+                    <m name="Wissenschaftstheorie" pordnr="34515" />
+                    <m name="Sprachphilosophie" pordnr="34516" />
+                </l>
+                <l name="Praktische Philosophie" min="0" max="2">
+                    <m name="Anthropologie/Kulturphilosophie" pordnr="34519" />
+                    <m name="Sozialphilosophie/Rechtsphilosophie" pordnr="34520" />
+                </l>
+            </l>
         </l>
-    </l>
-  </l>
-  <l name="Aufbaumodule" min="2" max="2">
-        <m name="Logik/Metalogik" pordnr="34525">
-        </m>
-        <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="34526">
-        </m>
-        <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="34527">
-        </m>
-        <m name="Anthropologie/Philosophie des Geistes" pordnr="34528">
-        </m>
-        <m name="Ethik" pordnr="34529">
-        </m>
-        <m name="Kulturphilosophie/Sozialphilosophie" pordnr="34530">
-        </m>
-        <m name="Politische Philosophie/Rechtsphilosophie" pordnr="34531">
-        </m>
-  </l>
-</b>
-
-
-<b abschl="bk" stg="phi" kzfa="N" pversion="2011" name="Ergänzungsfach Philosophie">
-  <l name="Basismodule" min="3" max="3">
-      <l name="Pflichtmodul" min="1" max="1">
-        <m name="Logik I" pflicht="j" pordnr="29447">
-        </m>
-      </l>
-      <l name="Basiswahlpflichtmodule" min="2" max="2">
-      <l name="Theoretische Philosophie und Praktische Philosophie" min="1" max="1">
-        <m name="Erkenntnistheorie" pordnr="29892">
-        </m>
-        <m name="Ontologie/Methaphysik" pordnr="29449">
-        </m>
-        <m name="Ethik/Praktische Philosophie" pordnr="29894">
-        </m>
-        <m name="Anthropologie" pordnr="29451">
-        </m>
-      </l>
-      <l name="Geschichte der Philosophie" min="1" max="1">
-        <m name="Antike" pordnr="29896">
-        </m>
-        <m name="Mittelalter" pordnr="29453">
-        </m>
-        <m name="Neuzeit" pordnr="29897">
-        </m>
-        <m name="Gegenwart" pordnr="29454">
-        </m>
-      </l>
-    </l>
-  </l>
-
-  <l name="Aufbaumodule" min="1" max="1">
-        <m name="Logik/Metalogik" pordnr="29456">
-        </m>
-        <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="29457">
-        </m>
-        <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="29458">
-        </m>
-        <m name="Anthropologie/Philosophie des Geistes" pordnr="29459">
-        </m>
-        <m name="Ethik/Praktische Philosophie" pordnr="29460">
-        </m>
-        <m name="Kulturphilosophie/Sozialphilosophie" pordnr="29461">
-        </m>
-        <m name="Transeuropäische Philosophie (wird nicht mehr angeboten)" pordnr="29462">
-        </m>
-  </l>
-</b>
-<b abschl="bk" stg="phi" kzfa="N" pversion="2013" name="Ergänzungsfach Philosophie">
-  <l name="Basismodule" min="3" max="3">
-      <l name="Pflichtmodul" min="1" max="1">
-        <m name="Logik I" pflicht="j" pordnr="36143">
-        </m>
-      </l>
-      <l name="Basiswahlpflichtmodule" min="2" max="2">
-      <l name="Theoretische Philosophie und Praktische Philosophie" min="1" max="1">
-        <m name="Erkenntnistheorie" pordnr="36146">
-        </m>
-        <m name="Ontologie/Methaphysik" pordnr="36147">
-        </m>
-        <m name="Ethik" pordnr="36150">
-        </m>
-        <m name="Politische Philosophie" pordnr="36151">
-        </m>
-      </l>
-      <l name="Geschichte der Philosophie" min="1" max="1">
-        <m name="Antike" pordnr="36154">
-        </m>
-        <m name="Mittelalter" pordnr="36155">
-        </m>
-        <m name="Neuzeit" pordnr="36156">
-        </m>
-        <m name="Gegenwart" pordnr="36157">
-        </m>
-      </l>
-    </l>
-  </l>
-  <l name="Aufbaumodule" min="1" max="1">
-        <m name="Logik/Metalogik" pordnr="36158">
-        </m>
-        <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="36159">
-        </m>
-        <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="36160">
-        </m>
-        <m name="Anthropologie/Philosophie des Geistes" pordnr="36161">
-        </m>
-        <m name="Ethik" pordnr="36162">
-        </m>
-        <m name="Kulturphilosophie/Sozialphilosophie" pordnr="36163">
-        </m>
-        <m name="Politische Philosophie/Rechtsphilosophie" pordnr="36164">
-        </m>
-  </l>
-</b>
-
-<b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2013" kzfa="H" stg="smp" abschl="ba">
-  <regeln>
-  <r1 rtyp="nm" wenn="@TM='IG'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Individuum & Gesellschaft bestanden oder angemeldet.]]>
-  </r1>
-  <r2 rtyp="nm" wenn="@TM='SS'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Systeme & Strukturen bestanden oder angemeldet.]]>
-  </r2>
-  <r3 rtyp="nm" wenn="@TM='BP'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Bereiche & Prozesse bestanden oder angemeldet.]]>
-  </r3>
-  <r4 rtyp="nm" wenn="@TM='MK'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Kommunikation bestanden oder angemeldet.]]>
-  </r4>
-  <r5 rtyp="nm" wenn="@TM='EI'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Europa & Internationale Studien bestanden oder angemeldet.]]>
-  </r5>
-  <r10 rtyp="nm" wenn="@ART='AS'" zw="2">
-    <![CDATA[Sie haben bereits zwei Prüfungen in Aufbauseminaren oder Vorlesungen bestanden oder angemeldet.]]>
-  </r10>
-  <r11 rtyp="nm" wenn="@ART='AS' and @PART='M'" zw="1">
-  <![CDATA[Sie haben bereits eine mündliche Prüfung oder Klausur in einem Aufbauseminar bestanden oder angemeldet.]]>
-  </r11>
-  <r12 rtyp="nm" wenn="@ART='VS'" zw="3">
-    <![CDATA[Sie haben bereits drei Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]>
-  </r12>
-  <r13 rtyp="nm" wenn="@ART='VS' and @FACH='SOZ'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Soziologie bestanden oder angemeldet.]]>
-  </r13>
-  <r14 rtyp="nm" wenn="@ART='VS' and @FACH='POL'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Politikwissenschaft bestanden oder angemeldet.]]>
-  </r14>
-    <r15 rtyp="nm" wenn="@ART='VS' and @FACH='KOM'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Kommunikations- und Medienwissenschaft bestanden oder angemeldet.]]>
-  </r15>
-  <r16 rtyp="nm" wenn="@ART='VS' and @PART='M'" zw="2">
-    <![CDATA[Sie haben bereits zwei mündliche Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]>
-  </r16>
-  <r17 rtyp="nm" wenn="@ART='VS' and @PART='S'" zw="1">
-    <![CDATA[Sie haben bereits eine schriftliche Prüfung als Studienarbeit, Hausarbeit oder Projektarbeit in einem Vertiefungsseminar bestanden oder angemeldet.]]>
-  </r17>
-  </regeln>
-
-  <l name="Basismodule" min="3" max="3">
-  <i>
-    <![CDATA[In den Basismodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]>
-  </i>
-
-      <l name="Basismodul Soziologie" min="1" max="1">
-        <m name="1110   Klausur Soziologie" pflicht="j" pnr="1110" pordnr="36657" />
-      </l>
-      <l name="Basismodul Politikwissenschaft" min="1" max="1">
-        <m name="1120   Klausur Politikwissenschaft" pflicht="j" pnr="1120" pordnr="36658" />
-      </l>
-      <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
-        <m name="1130   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="1130" pordnr="36659" />
-      </l>
-  </l>
-
-  <l name="Methodenmodule" min="5" max="5">
-  <i>
-    <![CDATA[In den Methodenmodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]>
-  </i>
-
-      <l name="Erhebungsverfahren" min="2" max="2">
-        <m name="1210   Klausur Erhebungsverfahren I" pflicht="j" pnr="1210" pordnr="36661" />
-        <m name="1220   Klausur Erhebungsverfahren II" pflicht="j" pnr="1220" pordnr="36662" />
-      </l>
-      <l name="Analyseverfahren" min="2" max="2">
-        <m name="1230   Klausur Analyseverfahren I" pflicht="j" pnr="1230" pordnr="36663" />
-        <m name="1240   Klausur Analyseverfahren II" pflicht="j" pnr="1240" pordnr="36664" />
-      </l>
-      <l name="Lehrforschungsprojekt" min="1" max="1">
-        <m name="1250   Projektarbeit Lehrforschungsprojekt" pflicht="j" pordnr="36665" />
-      </l>
-  </l>
-
-    <l name="Themenmodule" min="5" max="5">
-  <i>
-    <![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
+        <l name="Aufbaumodule" min="2" max="2">
+            <m name="Logik/Metalogik" pordnr="34525" />
+            <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="34526" />
+            <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="34527" />
+            <m name="Anthropologie/Philosophie des Geistes" pordnr="34528" />
+            <m name="Ethik" pordnr="34529" />
+            <m name="Kulturphilosophie/Sozialphilosophie" pordnr="34530" />
+            <m name="Politische Philosophie/Rechtsphilosophie" pordnr="34531" />
+        </l>
+    </b>
+    <b abschl="bk" stg="phi" kzfa="N" pversion="2011" name="Ergänzungsfach Philosophie">
+        <l name="Basismodule" min="3" max="3">
+            <l name="Pflichtmodul" min="1" max="1">
+                <m name="Logik I" pflicht="j" pordnr="29447" />
+            </l>
+            <l name="Basiswahlpflichtmodule" min="2" max="2">
+                <l name="Theoretische Philosophie und Praktische Philosophie" min="1" max="1">
+                    <m name="Erkenntnistheorie" pordnr="29892" />
+                    <m name="Ontologie/Methaphysik" pordnr="29449" />
+                    <m name="Ethik/Praktische Philosophie" pordnr="29894" />
+                    <m name="Anthropologie" pordnr="29451" />
+                </l>
+                <l name="Geschichte der Philosophie" min="1" max="1">
+                    <m name="Antike" pordnr="29896" />
+                    <m name="Mittelalter" pordnr="29453" />
+                    <m name="Neuzeit" pordnr="29897" />
+                    <m name="Gegenwart" pordnr="29454" />
+                </l>
+            </l>
+        </l>
+        <l name="Aufbaumodule" min="1" max="1">
+            <m name="Logik/Metalogik" pordnr="29456" />
+            <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="29457" />
+            <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="29458" />
+            <m name="Anthropologie/Philosophie des Geistes" pordnr="29459" />
+            <m name="Ethik/Praktische Philosophie" pordnr="29460" />
+            <m name="Kulturphilosophie/Sozialphilosophie" pordnr="29461" />
+            <m name="Transeuropäische Philosophie (wird nicht mehr angeboten)" pordnr="29462" />
+        </l>
+    </b>
+    <b abschl="bk" stg="phi" kzfa="N" pversion="2013" name="Ergänzungsfach Philosophie">
+        <l name="Basismodule" min="3" max="3">
+            <l name="Pflichtmodul" min="1" max="1">
+                <m name="Logik I" pflicht="j" pordnr="36143" />
+            </l>
+            <l name="Basiswahlpflichtmodule" min="2" max="2">
+                <l name="Theoretische Philosophie und Praktische Philosophie" min="1" max="1">
+                    <m name="Erkenntnistheorie" pordnr="36146" />
+                    <m name="Ontologie/Methaphysik" pordnr="36147" />
+                    <m name="Ethik" pordnr="36150" />
+                    <m name="Politische Philosophie" pordnr="36151" />
+                </l>
+                <l name="Geschichte der Philosophie" min="1" max="1">
+                    <m name="Antike" pordnr="36154" />
+                    <m name="Mittelalter" pordnr="36155" />
+                    <m name="Neuzeit" pordnr="36156" />
+                    <m name="Gegenwart" pordnr="36157" />
+                </l>
+            </l>
+        </l>
+        <l name="Aufbaumodule" min="1" max="1">
+            <m name="Logik/Metalogik" pordnr="36158" />
+            <m name="Ontologie/Metaphysik/Sprachphilosophie" pordnr="36159" />
+            <m name="Erkenntnistheorie/Wissenschaftstheorie" pordnr="36160" />
+            <m name="Anthropologie/Philosophie des Geistes" pordnr="36161" />
+            <m name="Ethik" pordnr="36162" />
+            <m name="Kulturphilosophie/Sozialphilosophie" pordnr="36163" />
+            <m name="Politische Philosophie/Rechtsphilosophie" pordnr="36164" />
+        </l>
+    </b>
+    <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2013" kzfa="H" stg="smp" abschl="ba">
+        <regeln>
+            <r1 rtyp="nm" wenn="@TM='IG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Individuum & Gesellschaft bestanden oder angemeldet.]]></r1>
+            <r2 rtyp="nm" wenn="@TM='SS'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Systeme & Strukturen bestanden oder angemeldet.]]></r2>
+            <r3 rtyp="nm" wenn="@TM='BP'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Bereiche & Prozesse bestanden oder angemeldet.]]></r3>
+            <r4 rtyp="nm" wenn="@TM='MK'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Kommunikation bestanden oder angemeldet.]]></r4>
+            <r5 rtyp="nm" wenn="@TM='EI'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Europa & Internationale Studien bestanden oder angemeldet.]]></r5>
+            <r10 rtyp="nm" wenn="@ART='AS'" zw="2"><![CDATA[Sie haben bereits zwei Prüfungen in Aufbauseminaren oder Vorlesungen bestanden oder angemeldet.]]></r10>
+            <r11 rtyp="nm" wenn="@ART='AS' and @PART='M'" zw="1"><![CDATA[Sie haben bereits eine mündliche Prüfung oder Klausur in einem Aufbauseminar bestanden oder angemeldet.]]></r11>
+            <r12 rtyp="nm" wenn="@ART='VS'" zw="3"><![CDATA[Sie haben bereits drei Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]></r12>
+            <r13 rtyp="nm" wenn="@ART='VS' and @FACH='SOZ'" zw="1"><![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Soziologie bestanden oder angemeldet.]]></r13>
+            <r14 rtyp="nm" wenn="@ART='VS' and @FACH='POL'" zw="1"><![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Politikwissenschaft bestanden oder angemeldet.]]></r14>
+            <r15 rtyp="nm" wenn="@ART='VS' and @FACH='KOM'" zw="1"><![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Kommunikations- und Medienwissenschaft bestanden oder angemeldet.]]></r15>
+            <r16 rtyp="nm" wenn="@ART='VS' and @PART='M'" zw="2"><![CDATA[Sie haben bereits zwei mündliche Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]></r16>
+            <r17 rtyp="nm" wenn="@ART='VS' and @PART='S'" zw="1"><![CDATA[Sie haben bereits eine schriftliche Prüfung als Studienarbeit, Hausarbeit oder Projektarbeit in einem Vertiefungsseminar bestanden oder angemeldet.]]></r17>
+        </regeln>
+        <l name="Basismodule" min="3" max="3">
+            <i><![CDATA[In den Basismodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]></i>
+            <l name="Basismodul Soziologie" min="1" max="1">
+                <m name="1110   Klausur Soziologie" pflicht="j" pnr="1110" pordnr="36657" />
+            </l>
+            <l name="Basismodul Politikwissenschaft" min="1" max="1">
+                <m name="1120   Klausur Politikwissenschaft" pflicht="j" pnr="1120" pordnr="36658" />
+            </l>
+            <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
+                <m name="1130   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="1130" pordnr="36659" />
+            </l>
+        </l>
+        <l name="Methodenmodule" min="5" max="5">
+            <i><![CDATA[In den Methodenmodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]></i>
+            <l name="Erhebungsverfahren" min="2" max="2">
+                <m name="1210   Klausur Erhebungsverfahren I" pflicht="j" pnr="1210" pordnr="36661" />
+                <m name="1220   Klausur Erhebungsverfahren II" pflicht="j" pnr="1220" pordnr="36662" />
+            </l>
+            <l name="Analyseverfahren" min="2" max="2">
+                <m name="1230   Klausur Analyseverfahren I" pflicht="j" pnr="1230" pordnr="36663" />
+                <m name="1240   Klausur Analyseverfahren II" pflicht="j" pnr="1240" pordnr="36664" />
+            </l>
+            <l name="Lehrforschungsprojekt" min="1" max="1">
+                <m name="1250   Projektarbeit Lehrforschungsprojekt" pflicht="j" pordnr="36665" />
+            </l>
+        </l>
+        <l name="Themenmodule" min="5" max="5">
+            <i><![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
     Sie müssen insgesamt 5 AP absolvieren, in jedem Themenmodul genau 1 AP: <br/>
     <ul>
     <li>1 AP in Individuum & Gesellschaft </li>
@@ -326,327 +208,281 @@
     </ul>
       &nbsp;&nbsp;&nbsp;davon 2 AP in Aufbauseminaren oder Vorlesungen, davon mindestens 1 AP als Studienarbeit Hausarbeit oder Projektarbeit, <br/>
       &nbsp;&nbsp;&nbsp;davon 3 AP in Vertiefungsseminaren der Fächer Soziologie, Politikwissenschaft und Kommunikations- und Medienwissenschaft (pro Fach 1 AP), <br/>
-      &nbsp;&nbsp;&nbsp;davon 2 AP als mündliche Prüfungen und 1 AP als Studienarbeit, Hausarbeit oder Projektarbeit.
-    ]]>
-  </i>
-
-    <l name="Individuum &amp; Gesellschaft" min="1" max="1" TM="IG" >
-      <l name="Aufbauseminare oder Vorlesungen" TM="IG" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="AS" PART="S">
-            <m name="1313 Studienarbeit" pnr="1313" pordnr="36671" />
-            <m name="1315 Hausarbeit" pnr="1315" pordnr="36673" />
-            <m name="1312 Projektarbeit" pnr="1312" pordnr="36670" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="IG" ART="AS" PART="M">
-            <m name="1308 Mündliche Prüfung" pnr="1308" pordnr="37570" />
-            <m name="1309 Klausur" pnr="1309" pordnr="37564" PART="K" />
-            <m name="1314 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1314" pordnr="36672" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare " TM="IG" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="SOZ">
-            <m name="1317   Mündliche Prüfung" pnr="1317" pordnr="37549" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="SOZ">
-            <m name="1320   Studienarbeit" pnr="1320" pordnr="37583" />
-            <m name="1323 Hausarbeit" pnr="1323" pordnr="37584" />
-            <m name="1326   Projektarbeit" pnr="1326" pordnr="37586" />
-          </l>
+      &nbsp;&nbsp;&nbsp;davon 2 AP als mündliche Prüfungen und 1 AP als Studienarbeit, Hausarbeit oder Projektarbeit.]]></i>
+            <l name="Individuum &amp; Gesellschaft" min="1" max="1" TM="IG">
+                <l name="Aufbauseminare oder Vorlesungen" TM="IG" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="AS" PART="S">
+                        <m name="1313 Studienarbeit" pnr="1313" pordnr="36671" />
+                        <m name="1315 Hausarbeit" pnr="1315" pordnr="36673" />
+                        <m name="1312 Projektarbeit" pnr="1312" pordnr="36670" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="IG" ART="AS" PART="M">
+                        <m name="1308 Mündliche Prüfung" pnr="1308" pordnr="37570" />
+                        <m name="1309 Klausur" pnr="1309" pordnr="37564" PART="K" />
+                        <m name="1314 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1314" pordnr="36672" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare " TM="IG" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1317   Mündliche Prüfung" pnr="1317" pordnr="37549" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1320   Studienarbeit" pnr="1320" pordnr="37583" />
+                            <m name="1323 Hausarbeit" pnr="1323" pordnr="37584" />
+                            <m name="1326   Projektarbeit" pnr="1326" pordnr="37586" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="POL">
+                            <m name="1318   Mündliche Prüfung" pnr="1318" pordnr="37550" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="POL">
+                            <m name="1321   Studienarbeit" pnr="1321" pordnr="37587" />
+                            <m name="1324   Hausarbeit" pnr="1324" pordnr="37588" />
+                            <m name="1327   Projektarbeit" pnr="1327" pordnr="37589" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="KOM">
+                            <m name="1319   Mündliche Prüfung" pnr="1319" pordnr="37551" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="KOM">
+                            <m name="1322   Studienarbeit" pnr="1322" pordnr="37590" />
+                            <m name="1325   Hausarbeit" pnr="1325" pordnr="37591" />
+                            <m name="1328   Projektarbeit" pnr="1328" pordnr="37592" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Systeme &amp; Strukturen" min="1" max="1" TM="SS">
+                <l name="Aufbauseminare oder Vorlesungen" TM="SS" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="AS" PART="S">
+                        <m name="1413 Studienarbeit" pnr="1413" pordnr="36681" />
+                        <m name="1415 Hausarbeit" pnr="1415" pordnr="36683" />
+                        <m name="1412 Projektarbeit" pnr="1412" pordnr="36680" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="SS" ART="AS" PART="M">
+                        <m name="1408 Mündliche Prüfung" pnr="1408" pordnr="37571" />
+                        <m name="1409 Klausur" pnr="1409" pordnr="37572" PART="K" />
+                        <m name="1414 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1414" pordnr="36682" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare " TM="SS" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1417   Mündliche Prüfung" pnr="1417" pordnr="37552" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1420   Studienarbeit" pnr="1420" pordnr="37593" />
+                            <m name="1423 Hausarbeit" pnr="1423" pordnr="37594" />
+                            <m name="1426   Projektarbeit" pnr="1426" pordnr="37595" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="POL">
+                            <m name="1418   Mündliche Prüfung" pnr="1418" pordnr="37553" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="POL">
+                            <m name="1421   Studienarbeit" pnr="1421" pordnr="37596" />
+                            <m name="1424   Hausarbeit" pnr="1424" pordnr="37597" />
+                            <m name="1427   Projektarbeit" pnr="1427" pordnr="37598" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="KOM">
+                            <m name="1419   Mündliche Prüfung" pnr="1419" pordnr="37554" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="KOM">
+                            <m name="1422   Studienarbeit" pnr="1422" pordnr="37599" />
+                            <m name="1425   Hausarbeit" pnr="1425" pordnr="37600" />
+                            <m name="1428   Projektarbeit" pnr="1428" pordnr="37601" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Bereiche &amp; Prozesse" min="1" max="1" TM="BP">
+                <l name="Aufbauseminare oder Vorlesungen" TM="BP" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="AS" PART="S">
+                        <m name="1513 Studienarbeit" pnr="1513" pordnr="36691" />
+                        <m name="1515 Hausarbeit" pnr="1515" pordnr="36693" />
+                        <m name="1512 Projektarbeit" pnr="1512" pordnr="36690" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="BP" ART="AS" PART="M">
+                        <m name="1508 Mündliche Prüfung" pnr="1508" pordnr="37574" />
+                        <m name="1509 Klausur" pnr="1509" pordnr="37575" PART="K" />
+                        <m name="1514 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1514" pordnr="36692" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare " TM="BP" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1517   Mündliche Prüfung" pnr="1517" pordnr="37555" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1520   Studienarbeit" pnr="1520" pordnr="37602" />
+                            <m name="1523 Hausarbeit" pnr="1523" pordnr="37603" />
+                            <m name="1526   Projektarbeit" pnr="1526" pordnr="37604" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="POL">
+                            <m name="1518   Mündliche Prüfung" pnr="1518" pordnr="37556" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="POL">
+                            <m name="1521   Studienarbeit" pnr="1521" pordnr="37605" />
+                            <m name="1524   Hausarbeit" pnr="1524" pordnr="37606" />
+                            <m name="1527   Projektarbeit" pnr="1527" pordnr="37607" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="KOM">
+                            <m name="1519   Mündliche Prüfung" pnr="1519" pordnr="37557" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="KOM">
+                            <m name="1522   Studienarbeit" pnr="1522" pordnr="37627" />
+                            <m name="1525   Hausarbeit" pnr="1525" pordnr="37628" />
+                            <m name="1528   Projektarbeit" pnr="1528" pordnr="37608" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Medien &amp; Kommunikation" min="1" max="1" TM="MK">
+                <l name="Aufbauseminare oder Vorlesungen" TM="MK" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="AS" PART="S">
+                        <m name="1613 Studienarbeit" pnr="1613" pordnr="36701" />
+                        <m name="1615 Hausarbeit" pnr="1615" pordnr="36703" />
+                        <m name="1612 Projektarbeit" pnr="1612" pordnr="36700" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="MK" ART="AS" PART="M">
+                        <m name="1608 Mündliche Prüfung" pnr="1608" pordnr="37577" />
+                        <m name="1609 Klausur" pnr="1609" pordnr="37578" PART="K" />
+                        <m name="1614 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1614" pordnr="36702" PART="K" />
+                    </l>
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1617   Mündliche Prüfung" pnr="1617" pordnr="37558" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1620   Studienarbeit" pnr="1620" pordnr="37609" />
+                            <m name="1623 Hausarbeit" pnr="1623" pordnr="37610" />
+                            <m name="1626   Projektarbeit" pnr="1626" pordnr="37611" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="POL">
+                            <m name="1618   Mündliche Prüfung" pnr="1618" pordnr="37559" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="POL">
+                            <m name="1621   Studienarbeit" pnr="1621" pordnr="37612" />
+                            <m name="1624   Hausarbeit" pnr="1624" pordnr="37613" />
+                            <m name="1627   Projektarbeit" pnr="1627" pordnr="37614" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="KOM">
+                            <m name="1619   Mündliche Prüfung" pnr="1619" pordnr="37560" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="KOM">
+                            <m name="1622   Studienarbeit" pnr="1622" pordnr="37615" />
+                            <m name="1625   Hausarbeit" pnr="1625" pordnr="37616" />
+                            <m name="1628   Projektarbeit" pnr="1628" pordnr="37617" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Europa &amp; Internationale Studien" min="1" max="1" TM="EI">
+                <l name="Aufbauseminare oder Vorlesungen" TM="EI" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="AS" PART="S">
+                        <m name="1713 Studienarbeit" pnr="1713" pordnr="36711" />
+                        <m name="1715 Hausarbeit" pnr="1715" pordnr="36713" />
+                        <m name="1712 Projektarbeit" pnr="1712" pordnr="36710" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="EI" ART="AS" PART="M">
+                        <m name="1708 Mündliche Prüfung" pnr="1708" pordnr="37581" />
+                        <m name="1709 Klausur" pnr="1709" pordnr="37582" PART="K" />
+                        <m name="1714 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1714" pordnr="36712" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare " TM="EI" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1717   Mündliche Prüfung" pnr="1717" pordnr="37561" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1720   Studienarbeit" pnr="1720" pordnr="37618" />
+                            <m name="1723 Hausarbeit" pnr="1723" pordnr="37619" />
+                            <m name="1726   Projektarbeit" pnr="1726" pordnr="37620" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="POL">
+                            <m name="1718   Mündliche Prüfung" pnr="1718" pordnr="37562" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="POL">
+                            <m name="1721   Studienarbeit" pnr="1721" pordnr="37621" />
+                            <m name="1724   Hausarbeit" pnr="1724" pordnr="37622)" />
+                            <m name="1727   Projektarbeit" pnr="1727" pordnr="37623" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="KOM">
+                            <m name="1719   Mündliche Prüfung" pnr="1719" pordnr="37563" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="KOM">
+                            <m name="1722   Studienarbeit" pnr="1722" pordnr="37624" />
+                            <m name="1725   Hausarbeit" pnr="1725" pordnr="37625" />
+                            <m name="1728   Projektarbeit" pnr="1728" pordnr="37626" />
+                        </l>
+                    </l>
+                </l>
+            </l>
         </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="POL">
-            <m name="1318   Mündliche Prüfung" pnr="1318" pordnr="37550" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="POL">
-            <m name="1321   Studienarbeit" pnr="1321" pordnr="37587" />
-            <m name="1324   Hausarbeit" pnr="1324" pordnr="37588" />
-            <m name="1327   Projektarbeit" pnr="1327" pordnr="37589" />
-          </l>
+    </b>
+    <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2011" kzfa="H" stg="smp" abschl="ba">
+        <regeln>
+            <r1 rtyp="nm" wenn="@TM='IG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Individuum & Gesellschaft bestanden oder angemeldet.]]></r1>
+            <r2 rtyp="nm" wenn="@TM='SS'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Systeme & Strukturen bestanden oder angemeldet.]]></r2>
+            <r3 rtyp="nm" wenn="@TM='BP'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Bereiche & Prozesse bestanden oder angemeldet.]]></r3>
+            <r4 rtyp="nm" wenn="@TM='MK'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Kommunikation bestanden oder angemeldet.]]></r4>
+            <r5 rtyp="nm" wenn="@TM='EI'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Europa & Internationale Studien bestanden oder angemeldet.]]></r5>
+            <r10 rtyp="nm" wenn="@ART='AS'" zw="2"><![CDATA[Sie haben bereits zwei Prüfungen in Aufbauseminaren oder Vorlesungen bestanden oder angemeldet.]]></r10>
+            <r11 rtyp="nm" wenn="@ART='AS' and @PART='M'" zw="1"><![CDATA[Sie haben bereits eine mündliche Prüfung oder Klausur in einem Aufbauseminar bestanden oder angemeldet.]]></r11>
+            <r12 rtyp="nm" wenn="@ART='VS'" zw="3"><![CDATA[Sie haben bereits drei Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]></r12>
+            <r13 rtyp="nm" wenn="@ART='VS' and @FACH='SOZ'" zw="1"><![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Soziologie bestanden oder angemeldet.]]></r13>
+            <r14 rtyp="nm" wenn="@ART='VS' and @FACH='POL'" zw="1"><![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Politikwissenschaft bestanden oder angemeldet.]]></r14>
+            <r15 rtyp="nm" wenn="@ART='VS' and @FACH='KOM'" zw="1"><![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Kommunikations- und Medienwissenschaft bestanden oder angemeldet.]]></r15>
+            <r16 rtyp="nm" wenn="@ART='VS' and @PART='M'" zw="2"><![CDATA[Sie haben bereits zwei mündliche Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]></r16>
+            <r17 rtyp="nm" wenn="@ART='VS' and @PART='S'" zw="1"><![CDATA[Sie haben bereits eine schriftliche Prüfung als Studienarbeit, Hausarbeit oder Projektarbeit in einem Vertiefungsseminar bestanden oder angemeldet.]]></r17>
+        </regeln>
+        <l name="Basismodule" min="3" max="3">
+            <i><![CDATA[In den Basismodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]></i>
+            <l name="Basismodul Soziologie" min="1" max="1">
+                <m name="1110   Klausur Soziologie" pflicht="j" pnr="1110" pordnr="28993" />
+            </l>
+            <l name="Basismodul Politikwissenschaft" min="1" max="1">
+                <m name="1120   Klausur Politikwissenschaft" pflicht="j" pnr="1120" pordnr="28994" />
+            </l>
+            <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
+                <m name="1130   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="1130" pordnr="28995" />
+            </l>
         </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="KOM">
-            <m name="1319   Mündliche Prüfung" pnr="1319" pordnr="37551" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="KOM">
-            <m name="1322   Studienarbeit" pnr="1322" pordnr="37590" />
-            <m name="1325   Hausarbeit" pnr="1325" pordnr="37591" />
-            <m name="1328   Projektarbeit" pnr="1328" pordnr="37592" />
-          </l>
+        <l name="Methodenmodule" min="5" max="5">
+            <i><![CDATA[In den Methodenmodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]></i>
+            <l name="Erhebungsverfahren" min="2" max="2">
+                <m name="1210   Klausur Erhebungsverfahren I" pflicht="j" pnr="1210" pordnr="28997" />
+                <m name="1220   Klausur Erhebungsverfahren II" pflicht="j" pnr="1220" pordnr="28998" />
+            </l>
+            <l name="Analyseverfahren" min="2" max="2">
+                <m name="1230   Klausur Analyseverfahren I" pflicht="j" pnr="1230" pordnr="28999" />
+                <m name="1240   Klausur Analyseverfahren II" pflicht="j" pnr="1240" pordnr="29000" />
+            </l>
+            <l name="Lehrforschungsprojekt" min="1" max="1">
+                <m name="1250   Projektarbeit Lehrforschungsprojekt" pflicht="j" pordnr="29001" />
+            </l>
         </l>
-      </l>
-    </l>
-
-    <l name="Systeme &amp; Strukturen" min="1" max="1" TM="SS">
-      <l name="Aufbauseminare oder Vorlesungen" TM="SS" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="AS" PART="S">
-            <m name="1413 Studienarbeit" pnr="1413" pordnr="36681" />
-            <m name="1415 Hausarbeit" pnr="1415" pordnr="36683" />
-            <m name="1412 Projektarbeit" pnr="1412" pordnr="36680" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="SS" ART="AS" PART="M">
-            <m name="1408 Mündliche Prüfung" pnr="1408" pordnr="37571" />
-            <m name="1409 Klausur" pnr="1409" pordnr="37572" PART="K" />
-            <m name="1414 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1414" pordnr="36682" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare " TM="SS" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="SOZ">
-            <m name="1417   Mündliche Prüfung" pnr="1417" pordnr="37552" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="SOZ">
-            <m name="1420   Studienarbeit" pnr="1420" pordnr="37593" />
-            <m name="1423 Hausarbeit" pnr="1423" pordnr="37594" />
-            <m name="1426   Projektarbeit" pnr="1426" pordnr="37595" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="POL">
-            <m name="1418   Mündliche Prüfung" pnr="1418" pordnr="37553" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="POL">
-            <m name="1421   Studienarbeit" pnr="1421" pordnr="37596" />
-            <m name="1424   Hausarbeit" pnr="1424" pordnr="37597" />
-            <m name="1427   Projektarbeit" pnr="1427" pordnr="37598" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="KOM">
-            <m name="1419   Mündliche Prüfung" pnr="1419" pordnr="37554" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="KOM">
-            <m name="1422   Studienarbeit" pnr="1422" pordnr="37599" />
-            <m name="1425   Hausarbeit" pnr="1425" pordnr="37600" />
-            <m name="1428   Projektarbeit" pnr="1428" pordnr="37601" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-    <l name="Bereiche &amp; Prozesse" min="1" max="1" TM="BP">
-      <l name="Aufbauseminare oder Vorlesungen" TM="BP" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="AS" PART="S">
-            <m name="1513 Studienarbeit" pnr="1513" pordnr="36691" />
-            <m name="1515 Hausarbeit" pnr="1515" pordnr="36693" />
-            <m name="1512 Projektarbeit" pnr="1512" pordnr="36690" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="BP" ART="AS" PART="M">
-            <m name="1508 Mündliche Prüfung" pnr="1508" pordnr="37574" />
-            <m name="1509 Klausur" pnr="1509" pordnr="37575" PART="K" />
-            <m name="1514 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1514" pordnr="36692" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare " TM="BP" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="SOZ">
-            <m name="1517   Mündliche Prüfung" pnr="1517" pordnr="37555" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="SOZ">
-            <m name="1520   Studienarbeit" pnr="1520" pordnr="37602" />
-            <m name="1523 Hausarbeit" pnr="1523" pordnr="37603" />
-            <m name="1526   Projektarbeit" pnr="1526" pordnr="37604" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="POL">
-            <m name="1518   Mündliche Prüfung" pnr="1518" pordnr="37556" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="POL">
-            <m name="1521   Studienarbeit" pnr="1521" pordnr="37605" />
-            <m name="1524   Hausarbeit" pnr="1524" pordnr="37606" />
-            <m name="1527   Projektarbeit" pnr="1527" pordnr="37607" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="KOM">
-            <m name="1519   Mündliche Prüfung" pnr="1519" pordnr="37557" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="KOM">
-            <m name="1522   Studienarbeit" pnr="1522" pordnr="37627" />
-            <m name="1525   Hausarbeit" pnr="1525" pordnr="37628" />
-            <m name="1528   Projektarbeit" pnr="1528" pordnr="37608" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-    <l name="Medien &amp; Kommunikation" min="1" max="1" TM="MK">
-      <l name="Aufbauseminare oder Vorlesungen" TM="MK" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="AS" PART="S">
-            <m name="1613 Studienarbeit" pnr="1613" pordnr="36701" />
-            <m name="1615 Hausarbeit" pnr="1615" pordnr="36703" />
-            <m name="1612 Projektarbeit" pnr="1612" pordnr="36700" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="MK" ART="AS" PART="M">
-            <m name="1608 Mündliche Prüfung" pnr="1608" pordnr="37577" />
-            <m name="1609 Klausur" pnr="1609" pordnr="37578" PART="K" />
-            <m name="1614 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1614" pordnr="36702" PART="K" />
-          </l>
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="SOZ">
-            <m name="1617   Mündliche Prüfung" pnr="1617" pordnr="37558" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="SOZ">
-            <m name="1620   Studienarbeit" pnr="1620" pordnr="37609" />
-            <m name="1623 Hausarbeit" pnr="1623" pordnr="37610" />
-            <m name="1626   Projektarbeit" pnr="1626" pordnr="37611" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="POL">
-            <m name="1618   Mündliche Prüfung" pnr="1618" pordnr="37559" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="POL">
-            <m name="1621   Studienarbeit" pnr="1621" pordnr="37612" />
-            <m name="1624   Hausarbeit" pnr="1624" pordnr="37613" />
-            <m name="1627   Projektarbeit" pnr="1627" pordnr="37614" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="KOM">
-            <m name="1619   Mündliche Prüfung" pnr="1619" pordnr="37560" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="KOM">
-            <m name="1622   Studienarbeit" pnr="1622" pordnr="37615" />
-            <m name="1625   Hausarbeit" pnr="1625" pordnr="37616" />
-            <m name="1628   Projektarbeit" pnr="1628" pordnr="37617" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-    <l name="Europa &amp; Internationale Studien" min="1" max="1" TM="EI">
-      <l name="Aufbauseminare oder Vorlesungen" TM="EI" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="AS" PART="S">
-            <m name="1713 Studienarbeit" pnr="1713" pordnr="36711" />
-            <m name="1715 Hausarbeit" pnr="1715" pordnr="36713" />
-            <m name="1712 Projektarbeit" pnr="1712" pordnr="36710" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="EI" ART="AS" PART="M">
-            <m name="1708 Mündliche Prüfung" pnr="1708" pordnr="37581" />
-            <m name="1709 Klausur" pnr="1709" pordnr="37582" PART="K" />
-            <m name="1714 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1714" pordnr="36712" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare " TM="EI" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="SOZ">
-            <m name="1717   Mündliche Prüfung" pnr="1717" pordnr="37561" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="SOZ">
-            <m name="1720   Studienarbeit" pnr="1720" pordnr="37618" />
-            <m name="1723 Hausarbeit" pnr="1723" pordnr="37619" />
-            <m name="1726   Projektarbeit" pnr="1726" pordnr="37620" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="POL">
-            <m name="1718   Mündliche Prüfung" pnr="1718" pordnr="37562" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="POL">
-            <m name="1721   Studienarbeit" pnr="1721" pordnr="37621" />
-            <m name="1724   Hausarbeit" pnr="1724" pordnr="37622)" />
-            <m name="1727   Projektarbeit" pnr="1727" pordnr="37623" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="KOM">
-            <m name="1719   Mündliche Prüfung" pnr="1719" pordnr="37563" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="KOM">
-            <m name="1722   Studienarbeit" pnr="1722" pordnr="37624" />
-            <m name="1725   Hausarbeit" pnr="1725" pordnr="37625" />
-            <m name="1728   Projektarbeit" pnr="1728" pordnr="37626" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-  </l>
-  </b>
-
-  <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2011" kzfa="H" stg="smp" abschl="ba">
-  <regeln>
-  <r1 rtyp="nm" wenn="@TM='IG'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Individuum & Gesellschaft bestanden oder angemeldet.]]>
-  </r1>
-  <r2 rtyp="nm" wenn="@TM='SS'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Systeme & Strukturen bestanden oder angemeldet.]]>
-  </r2>
-  <r3 rtyp="nm" wenn="@TM='BP'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Bereiche & Prozesse bestanden oder angemeldet.]]>
-  </r3>
-  <r4 rtyp="nm" wenn="@TM='MK'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Kommunikation bestanden oder angemeldet.]]>
-  </r4>
-  <r5 rtyp="nm" wenn="@TM='EI'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Europa & Internationale Studien bestanden oder angemeldet.]]>
-  </r5>
-  <r10 rtyp="nm" wenn="@ART='AS'" zw="2">
-    <![CDATA[Sie haben bereits zwei Prüfungen in Aufbauseminaren oder Vorlesungen bestanden oder angemeldet.]]>
-  </r10>
-  <r11 rtyp="nm" wenn="@ART='AS' and @PART='M'" zw="1">
-  <![CDATA[Sie haben bereits eine mündliche Prüfung oder Klausur in einem Aufbauseminar bestanden oder angemeldet.]]>
-  </r11>
-  <r12 rtyp="nm" wenn="@ART='VS'" zw="3">
-    <![CDATA[Sie haben bereits drei Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]>
-  </r12>
-  <r13 rtyp="nm" wenn="@ART='VS' and @FACH='SOZ'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Soziologie bestanden oder angemeldet.]]>
-  </r13>
-  <r14 rtyp="nm" wenn="@ART='VS' and @FACH='POL'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Politikwissenschaft bestanden oder angemeldet.]]>
-  </r14>
-    <r15 rtyp="nm" wenn="@ART='VS' and @FACH='KOM'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung in einem Vertiefungsseminar im Fach Kommunikations- und Medienwissenschaft bestanden oder angemeldet.]]>
-  </r15>
-  <r16 rtyp="nm" wenn="@ART='VS' and @PART='M'" zw="2">
-    <![CDATA[Sie haben bereits zwei mündliche Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]>
-  </r16>
-  <r17 rtyp="nm" wenn="@ART='VS' and @PART='S'" zw="1">
-    <![CDATA[Sie haben bereits eine schriftliche Prüfung als Studienarbeit, Hausarbeit oder Projektarbeit in einem Vertiefungsseminar bestanden oder angemeldet.]]>
-  </r17>
-  </regeln>
-
-  <l name="Basismodule" min="3" max="3">
-    <i>
-    <![CDATA[In den Basismodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]>
-    </i>
-      <l name="Basismodul Soziologie" min="1" max="1">
-        <m name="1110   Klausur Soziologie" pflicht="j" pnr="1110" pordnr="28993" />
-      </l>
-      <l name="Basismodul Politikwissenschaft" min="1" max="1">
-        <m name="1120   Klausur Politikwissenschaft" pflicht="j" pnr="1120" pordnr="28994" />
-      </l>
-      <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
-        <m name="1130   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="1130" pordnr="28995" />
-      </l>
-  </l>
-
-  <l name="Methodenmodule" min="5" max="5">
-    <i>
-    <![CDATA[In den Methodenmodulen kann die 2. Wiederholungsprüfung als mündliche Prüfung erfolgen.]]>
-    </i>
-
-      <l name="Erhebungsverfahren" min="2" max="2">
-        <m name="1210   Klausur Erhebungsverfahren I" pflicht="j" pnr="1210" pordnr="28997" />
-        <m name="1220   Klausur Erhebungsverfahren II" pflicht="j" pnr="1220" pordnr="28998" />
-      </l>
-      <l name="Analyseverfahren" min="2" max="2">
-        <m name="1230   Klausur Analyseverfahren I" pflicht="j" pnr="1230" pordnr="28999" />
-        <m name="1240   Klausur Analyseverfahren II" pflicht="j" pnr="1240" pordnr="29000" />
-      </l>
-      <l name="Lehrforschungsprojekt" min="1" max="1">
-        <m name="1250   Projektarbeit Lehrforschungsprojekt" pflicht="j" pordnr="29001" />
-      </l>
-  </l>
-
-
-
-    <l name="Themenmodule" min="5" max="5">
-  <i>
-    <![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
+        <l name="Themenmodule" min="5" max="5">
+            <i><![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
     Sie müssen insgesamt 5 AP absolvieren, in jedem Themenmodul genau 1 AP: <br/>
     <ul>
     <li>1 AP in Individuum & Gesellschaft </li>
@@ -657,228 +493,213 @@
     </ul>
       &nbsp;&nbsp;&nbsp;davon 2 AP in Aufbauseminaren oder Vorlesungen, davon mindestens 1 AP als Studienarbeit Hausarbeit oder Projektarbeit, <br/>
       &nbsp;&nbsp;&nbsp;davon 3 AP in Vertiefungsseminaren der Fächer Soziologie, Politikwissenschaft und Kommunikations- und Medienwissenschaft (pro Fach 1 AP), <br/>
-      &nbsp;&nbsp;&nbsp;davon 2 AP als mündliche Prüfungen und 1 AP als Studienarbeit, Hausarbeit oder Projektarbeit.
-    ]]>
-  </i>
-    <l name="Individuum &amp; Gesellschaft" min="1" max="1" TM="IG">
-      <l name="Aufbauseminare oder Vorlesungen" TM="IG" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="AS" PART="S">
-            <m name="1311 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1311" pordnr="29005" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="IG" ART="AS" PART="M">
-            <m name="1313 Mündliche Prüfung" pnr="1313" pordnr="29007" />
-            <m name="1310 Klausur" pnr="1310" pordnr="29004" PART="K" />
-            <m name="1312 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1312" pordnr="29006" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare" TM="IG" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="SOZ">
-            <m name="1314   Mündliche Prüfung" pnr="1314" pordnr="29008" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="SOZ">
-            <m name="1317   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1317" pordnr="29011" />
-          </l>
+      &nbsp;&nbsp;&nbsp;davon 2 AP als mündliche Prüfungen und 1 AP als Studienarbeit, Hausarbeit oder Projektarbeit.]]></i>
+            <l name="Individuum &amp; Gesellschaft" min="1" max="1" TM="IG">
+                <l name="Aufbauseminare oder Vorlesungen" TM="IG" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="AS" PART="S">
+                        <m name="1311 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1311" pordnr="29005" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="IG" ART="AS" PART="M">
+                        <m name="1313 Mündliche Prüfung" pnr="1313" pordnr="29007" />
+                        <m name="1310 Klausur" pnr="1310" pordnr="29004" PART="K" />
+                        <m name="1312 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1312" pordnr="29006" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare" TM="IG" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1314   Mündliche Prüfung" pnr="1314" pordnr="29008" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1317   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1317" pordnr="29011" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="POL">
+                            <m name="1315   Mündliche Prüfung" pnr="1315" pordnr="29009" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="POL">
+                            <m name="1318   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1318" pordnr="29012" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="KOM">
+                            <m name="1316   Mündliche Prüfung" pnr="1316" pordnr="29010" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="KOM">
+                            <m name="1319   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1319" pordnr="29013" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Systeme &amp; Strukturen" min="1" max="1" TM="SS">
+                <l name="Aufbauseminare oder Vorlesungen" TM="SS" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="AS" PART="S">
+                        <m name="1321 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1321" pordnr="29015" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="SS" ART="AS" PART="M">
+                        <m name="1323 Mündliche Prüfung" pnr="1323" pordnr="29017" />
+                        <m name="1320 Klausur" pnr="1320" pordnr="29014" PART="K" />
+                        <m name="1322 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1322" pordnr="29016" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare" TM="SS" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1324   Mündliche Prüfung" pnr="1324" pordnr="29018" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1327   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1327" pordnr="29021" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="POL">
+                            <m name="1325   Mündliche Prüfung" pnr="1325" pordnr="29019" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="POL">
+                            <m name="1328   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1328" pordnr="29022" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="KOM">
+                            <m name="1326   Mündliche Prüfung" pnr="1326" pordnr="29020" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="KOM">
+                            <m name="1329   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1329" pordnr="29023" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Bereiche &amp; Prozesse" min="1" max="1" TM="BP">
+                <l name="Aufbauseminare oder Vorlesungen" TM="BP" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="AS" PART="S">
+                        <m name="1331 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1331" pordnr="29025" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="BP" ART="AS" PART="M">
+                        <m name="1333 Mündliche Prüfung" pnr="1333" pordnr="29027" />
+                        <m name="1330 Klausur" pnr="1330" pordnr="29024" PART="K" />
+                        <m name="1332 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1332" pordnr="29026" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare" TM="BP" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1334   Mündliche Prüfung" pnr="1334" pordnr="29028" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1337   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1337" pordnr="29031" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="POL">
+                            <m name="1335   Mündliche Prüfung" pnr="1335" pordnr="29029" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="POL">
+                            <m name="1338   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1338" pordnr="29032" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="KOM">
+                            <m name="1336   Mündliche Prüfung" pnr="1336" pordnr="29030" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="KOM">
+                            <m name="1339   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1339" pordnr="29033" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Medien &amp; Kommunikation" min="1" max="1" TM="MK">
+                <l name="Aufbauseminare oder Vorlesungen" TM="MK" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="AS" PART="S">
+                        <m name="1341 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1341" pordnr="29035" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="MK" ART="AS" PART="M">
+                        <m name="1343 Mündliche Prüfung" pnr="1343" pordnr="29037" />
+                        <m name="1340 Klausur" pnr="1340" pordnr="29034" PART="K" />
+                        <m name="1342 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1342" pordnr="29036" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare " TM="MK" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1344   Mündliche Prüfung" pnr="1344" pordnr="29038" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1347   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1347" pordnr="29041" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="POL">
+                            <m name="1345   Mündliche Prüfung" pnr="1345" pordnr="29039" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="POL">
+                            <m name="1348   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1348" pordnr="29042" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="KOM">
+                            <m name="1346   Mündliche Prüfung" pnr="1346" pordnr="29040" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="KOM">
+                            <m name="1349   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1349" pordnr="29043" />
+                        </l>
+                    </l>
+                </l>
+            </l>
+            <l name="Europa &amp; Internationale Studien" min="1" max="1" TM="EI">
+                <l name="Aufbauseminare oder Vorlesungen" TM="EI" ART="AS">
+                    <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="AS" PART="S">
+                        <m name="1351 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1351" pordnr="29045" />
+                    </l>
+                    <l name="Mündliche Prüfung oder Klausur " TM="EI" ART="AS" PART="M">
+                        <m name="1353 Mündliche Prüfung" pnr="1353" pordnr="29047" />
+                        <m name="1350 Klausur" pnr="1350" pordnr="29044" PART="K" />
+                        <m name="1352 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1352" pordnr="29046" PART="K" />
+                    </l>
+                </l>
+                <l name="Vertiefungsseminare" TM="EI" ART="VS">
+                    <l name="Soziologie">
+                        <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="SOZ">
+                            <m name="1354   Mündliche Prüfung" pnr="1354" pordnr="29048" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="SOZ">
+                            <m name="1357   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1357" pordnr="29051" />
+                        </l>
+                    </l>
+                    <l name="Politikwissenschaft">
+                        <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="POL">
+                            <m name="1355   Mündliche Prüfung" pnr="1355" pordnr="29049" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="POL">
+                            <m name="1358   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1358" pordnr="29052" />
+                        </l>
+                    </l>
+                    <l name="Kommunikations- und Medienwissenschaft">
+                        <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="KOM">
+                            <m name="1356   Mündliche Prüfung" pnr="1356" pordnr="29050" />
+                        </l>
+                        <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="KOM">
+                            <m name="1359   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1359" pordnr="29053" />
+                        </l>
+                    </l>
+                </l>
+            </l>
         </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="POL">
-            <m name="1315   Mündliche Prüfung" pnr="1315" pordnr="29009" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="POL">
-            <m name="1318   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1318" pordnr="29012" />
-          </l>
+    </b>
+    <b abschl="bk" stg="kom" kzfa="N" pversion="2013" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
+        <regeln>
+            <r1 rtyp="nm" wenn="@TM='MI'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Individuum bestanden oder angemeldet.]]></r1>
+            <r2 rtyp="nm" wenn="@TM='MG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Gesellschaft bestanden oder angemeldet.]]></r2>
+            <r3 rtyp="nm" wenn="@TM='AP'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Akteure & Prozesse professioneller Kommunikation bestanden oder angemeldet.]]></r3>
+        </regeln>
+        <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
+            <m name="3110   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="3110" pordnr="34716" />
         </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="IG" ART="VS" PART="M" FACH="KOM">
-            <m name="1316   Mündliche Prüfung" pnr="1316" pordnr="29010" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="IG" ART="VS" PART="S" FACH="KOM">
-            <m name="1319   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1319" pordnr="29013" />
-          </l>
+        <l name="Modul Methoden der Sozialwissenschaften" min="1" max="1">
+            <m name="3120   Klausur Methodenmodul" pflicht="j" pnr="3120" pordnr="34717" />
         </l>
-      </l>
-    </l>
-
-    <l name="Systeme &amp; Strukturen" min="1" max="1" TM="SS">
-      <l name="Aufbauseminare oder Vorlesungen" TM="SS" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="AS" PART="S">
-            <m name="1321 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1321" pordnr="29015" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="SS" ART="AS" PART="M">
-            <m name="1323 Mündliche Prüfung" pnr="1323" pordnr="29017" />
-            <m name="1320 Klausur" pnr="1320" pordnr="29014" PART="K" />
-            <m name="1322 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1322" pordnr="29016" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare" TM="SS" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="SOZ">
-            <m name="1324   Mündliche Prüfung" pnr="1324" pordnr="29018" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="SOZ">
-            <m name="1327   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1327" pordnr="29021" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="POL">
-            <m name="1325   Mündliche Prüfung" pnr="1325" pordnr="29019" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="POL">
-            <m name="1328   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1328" pordnr="29022" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="SS" ART="VS" PART="M" FACH="KOM">
-            <m name="1326   Mündliche Prüfung" pnr="1326" pordnr="29020" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="SS" ART="VS" PART="S" FACH="KOM">
-            <m name="1329   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1329" pordnr="29023" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-    <l name="Bereiche &amp; Prozesse" min="1" max="1" TM="BP">
-      <l name="Aufbauseminare oder Vorlesungen" TM="BP" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="AS" PART="S">
-            <m name="1331 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1331" pordnr="29025" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="BP" ART="AS" PART="M">
-            <m name="1333 Mündliche Prüfung" pnr="1333" pordnr="29027" />
-            <m name="1330 Klausur" pnr="1330" pordnr="29024" PART="K" />
-            <m name="1332 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1332" pordnr="29026" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare" TM="BP" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="SOZ">
-            <m name="1334   Mündliche Prüfung" pnr="1334" pordnr="29028" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="SOZ">
-            <m name="1337   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1337" pordnr="29031" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="POL">
-            <m name="1335   Mündliche Prüfung" pnr="1335" pordnr="29029" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="POL">
-            <m name="1338   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1338" pordnr="29032" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="BP" ART="VS" PART="M" FACH="KOM">
-            <m name="1336   Mündliche Prüfung" pnr="1336" pordnr="29030" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="BP" ART="VS" PART="S" FACH="KOM">
-            <m name="1339   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1339" pordnr="29033" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-    <l name="Medien &amp; Kommunikation" min="1" max="1" TM="MK">
-      <l name="Aufbauseminare oder Vorlesungen" TM="MK" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="AS" PART="S">
-            <m name="1341 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1341" pordnr="29035" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="MK" ART="AS" PART="M">
-            <m name="1343 Mündliche Prüfung" pnr="1343" pordnr="29037" />
-            <m name="1340 Klausur" pnr="1340" pordnr="29034" PART="K" />
-            <m name="1342 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1342" pordnr="29036" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare " TM="MK" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="SOZ">
-            <m name="1344   Mündliche Prüfung" pnr="1344" pordnr="29038" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="SOZ">
-            <m name="1347   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1347" pordnr="29041" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="POL">
-            <m name="1345   Mündliche Prüfung" pnr="1345" pordnr="29039" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="POL">
-            <m name="1348   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1348" pordnr="29042" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="MK" ART="VS" PART="M" FACH="KOM">
-            <m name="1346   Mündliche Prüfung" pnr="1346" pordnr="29040" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="MK" ART="VS" PART="S" FACH="KOM">
-            <m name="1349   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1349" pordnr="29043" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-    <l name="Europa &amp; Internationale Studien" min="1" max="1" TM="EI">
-      <l name="Aufbauseminare oder Vorlesungen" TM="EI" ART="AS">
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="AS" PART="S">
-            <m name="1351 Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1351" pordnr="29045" />
-          </l>
-          <l name="Mündliche Prüfung oder Klausur " TM="EI" ART="AS" PART="M">
-            <m name="1353 Mündliche Prüfung" pnr="1353" pordnr="29047" />
-            <m name="1350 Klausur" pnr="1350" pordnr="29044" PART="K" />
-            <m name="1352 Vorlesung (Mündliche Prüfung oder Klausur)" pnr="1352" pordnr="29046" PART="K" />
-          </l>
-      </l>
-      <l name="Vertiefungsseminare" TM="EI" ART="VS">
-        <l name="Soziologie">
-          <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="SOZ">
-            <m name="1354   Mündliche Prüfung" pnr="1354" pordnr="29048" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="SOZ">
-            <m name="1357   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1357" pordnr="29051" />
-          </l>
-        </l>
-        <l name="Politikwissenschaft">
-          <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="POL">
-            <m name="1355   Mündliche Prüfung" pnr="1355" pordnr="29049" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="POL">
-            <m name="1358   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1358" pordnr="29052" />
-          </l>
-        </l>
-        <l name="Kommunikations- und Medienwissenschaft">
-          <l name="Mündliche Prüfung" TM="EI" ART="VS" PART="M" FACH="KOM">
-            <m name="1356   Mündliche Prüfung" pnr="1356" pordnr="29050" />
-          </l>
-          <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="KOM">
-            <m name="1359   Studienarbeit, Hausarbeit oder Projektarbeit" pnr="1359" pordnr="29053" />
-          </l>
-        </l>
-      </l>
-    </l>
-
-  </l>
-  </b>
-
- <b abschl="bk" stg="kom" kzfa="N" pversion="2013" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
-  <regeln>
-  <r1 rtyp="nm" wenn="@TM='MI'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Individuum bestanden oder angemeldet.]]>
-  </r1>
-  <r2 rtyp="nm" wenn="@TM='MG'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Gesellschaft bestanden oder angemeldet.]]>
-  </r2>
-  <r3 rtyp="nm" wenn="@TM='AP'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Akteure & Prozesse professioneller Kommunikation bestanden oder angemeldet.]]>
-  </r3>
-  </regeln>
-      <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
-        <m name="3110   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="3110" pordnr="34716" />
-      </l>
-      <l name="Modul Methoden der Sozialwissenschaften" min="1" max="1">
-        <m name="3120   Klausur Methodenmodul" pflicht="j" pnr="3120" pordnr="34717" />
-      </l>
-    <l name="Themenmodule" min="3" max="3">
-    <i>
-    <![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
+        <l name="Themenmodule" min="3" max="3">
+            <i><![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
     Sie müssen insgesamt 3 AP absolvieren, in jedem Themenmodul genau 1 AP: <br/>
     <ul>
     <li>1 AP in Medien & Individuum (AP im Aufbauseminar) </li>
@@ -887,49 +708,35 @@
     </ul>
       &nbsp;&nbsp;&nbsp;davon mindestens 1 AP als mündliche Prüfung und mindestens 1 AP als Studienarbeit, Hausarbeit oder Projektarbeit. <br/> <br/>
     Die Zulassung zur Prüfung in den Modulen Medien & Individuum, Medien & Gesellschaft sowie Akteure & Prozesse professioneller Kommunikation setzt voraus,
-    dass entweder das Basismodul oder das Methodenmodul abgeschlossen wurde.
-    ]]>
-    </i>
-      <l name="Medien &amp; Individuum" min="1" max="1" TM="MI" ART="AS">
-        <m name="3130 Aufbauseminar: Medien  &amp; Individuum" pnr="3130" pordnr="34718" />
-        <m name="3132 Vorlesung: Medien  &amp; Individuum" pnr="3132" pordnr="34720" />
-      </l>
-      <l name="Medien &amp; Gesellschaft" min="1" max="1" TM="MG" ART="VS">
-        <m name="3141 Vertiefungsseminar: Medien &amp; Gesellschaft" pflicht="j" pnr="3141" pordnr="34722" />
-      </l>
-      <l name="Akteure  &amp; Prozesse professioneller Kommunikation" min="1" max="1" TM="AP" ART="VS">
-        <m name="3151 Vertiefungsseminar: Akteure &amp; Prozesse professioneller Kommunikation" pflicht="j" pnr="3151" pordnr="34725" />
-      </l>
-    </l>
-  </b>
-
-  <b abschl="bk" stg="kom" kzfa="N" pversion="2011" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
-  <regeln>
-  <r1 rtyp="nm" wenn="@TM='MI'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Individuum bestanden oder angemeldet.]]>
-  </r1>
-  <r2 rtyp="nm" wenn="@TM='MG'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Gesellschaft bestanden oder angemeldet.]]>
-  </r2>
-  <r3 rtyp="nm" wenn="@TM='AP'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung im Themenmodul Akteure & Prozesse professioneller Kommunikation bestanden oder angemeldet.]]>
-  </r3>
-  <r4 rtyp="nm" wenn="@ART='AS'" zw="1">
-    <![CDATA[Sie haben bereits eine Prüfung in einem Aufbauseminar oder einer Vorlesung bestanden oder angemeldet.]]>
-  </r4>
-  <r5 rtyp="nm" wenn="@ART='VS'" zw="2">
-    <![CDATA[Sie haben bereits zwei Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]>
-  </r5>
-  </regeln>
-      <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
-        <m name="3110   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="3110" pordnr="29703" />
-      </l>
-      <l name="Modul Methoden der Sozialwissenschaften" min="1" max="1">
-        <m name="3120   Klausur Methodenmodul" pflicht="j" pnr="3120" pordnr="29704" />
-      </l>
-    <l name="Themenmodule" min="3" max="3">
-    <i>
-    <![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
+    dass entweder das Basismodul oder das Methodenmodul abgeschlossen wurde.]]></i>
+            <l name="Medien &amp; Individuum" min="1" max="1" TM="MI" ART="AS">
+                <m name="3130 Aufbauseminar: Medien  &amp; Individuum" pnr="3130" pordnr="34718" />
+                <m name="3132 Vorlesung: Medien  &amp; Individuum" pnr="3132" pordnr="34720" />
+            </l>
+            <l name="Medien &amp; Gesellschaft" min="1" max="1" TM="MG" ART="VS">
+                <m name="3141 Vertiefungsseminar: Medien &amp; Gesellschaft" pflicht="j" pnr="3141" pordnr="34722" />
+            </l>
+            <l name="Akteure  &amp; Prozesse professioneller Kommunikation" min="1" max="1" TM="AP" ART="VS">
+                <m name="3151 Vertiefungsseminar: Akteure &amp; Prozesse professioneller Kommunikation" pflicht="j" pnr="3151" pordnr="34725" />
+            </l>
+        </l>
+    </b>
+    <b abschl="bk" stg="kom" kzfa="N" pversion="2011" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
+        <regeln>
+            <r1 rtyp="nm" wenn="@TM='MI'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Individuum bestanden oder angemeldet.]]></r1>
+            <r2 rtyp="nm" wenn="@TM='MG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Gesellschaft bestanden oder angemeldet.]]></r2>
+            <r3 rtyp="nm" wenn="@TM='AP'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Akteure & Prozesse professioneller Kommunikation bestanden oder angemeldet.]]></r3>
+            <r4 rtyp="nm" wenn="@ART='AS'" zw="1"><![CDATA[Sie haben bereits eine Prüfung in einem Aufbauseminar oder einer Vorlesung bestanden oder angemeldet.]]></r4>
+            <r5 rtyp="nm" wenn="@ART='VS'" zw="2"><![CDATA[Sie haben bereits zwei Prüfungen in Vertiefungsseminaren bestanden oder angemeldet.]]></r5>
+        </regeln>
+        <l name="Basismodul Kommunikations- und Medienwissenschaft" min="1" max="1">
+            <m name="3110   Klausur Kommunikations- und Medienwissenschaft" pflicht="j" pnr="3110" pordnr="29703" />
+        </l>
+        <l name="Modul Methoden der Sozialwissenschaften" min="1" max="1">
+            <m name="3120   Klausur Methodenmodul" pflicht="j" pnr="3120" pordnr="29704" />
+        </l>
+        <l name="Themenmodule" min="3" max="3">
+            <i><![CDATA[Regeln für die Modulabschlussprüfungen (AP) in den Themenmodulen: <br/>
     Sie müssen insgesamt 3 AP absolvieren, in jedem Themenmodul genau 1 AP: <br/>
     <ul>
     <li>1 AP in Medien & Individuum (AP im Aufbauseminar) </li>
@@ -939,104 +746,94 @@
         &nbsp;&nbsp;&nbsp;davon 1 AP in einem Aufbauseminar oder einer Vorlesung und 2 AP in Vertiefungsseminaren, <br/>
       &nbsp;&nbsp;&nbsp;davon mindestens 1 AP als mündliche Prüfung und mindestens 1 AP als Studienarbeit, Hausarbeit oder Projektarbeit. <br/> <br/>
     Die Zulassung zur Prüfung in den Modulen Medien & Individuum, Medien & Gesellschaft sowie Akteure & Prozesse professioneller Kommunikation setzt voraus,
-    dass entweder das Basismodul oder das Methodenmodul abgeschlossen wurde.
-    ]]>
-    </i>
-
-      <l name="Medien &amp; Individuum" min="1" max="1" TM="MI">
-        <l name="Aufbauseminare oder Vorlesungen" TM="MI" ART="AS">
-          <m name="3130 Aufbauseminar: Medien &amp; Individuum" pordnr="29717" pnr="3130"/>
-          <m name="3132   Vorlesung: Medien &amp; Individuum" pordnr="30750" pnr="3132"/>
+    dass entweder das Basismodul oder das Methodenmodul abgeschlossen wurde.]]></i>
+            <l name="Medien &amp; Individuum" min="1" max="1" TM="MI">
+                <l name="Aufbauseminare oder Vorlesungen" TM="MI" ART="AS">
+                    <m name="3130 Aufbauseminar: Medien &amp; Individuum" pordnr="29717" pnr="3130" />
+                    <m name="3132   Vorlesung: Medien &amp; Individuum" pordnr="30750" pnr="3132" />
+                </l>
+                <l name="Vertiefungsseminare" TM="MI" ART="VS">
+                    <m name="3131   Vertiefungsseminar: Medien &amp; Individuum" pordnr="29723" pnr="3131" />
+                </l>
+            </l>
+            <l name="Medien &amp; Gesellschaft" min="1" max="1" TM="MG">
+                <l name="Aufbauseminare oder Vorlesungen" TM="MG" ART="AS">
+                    <m name="3140   Aufbauseminar: Medien &amp; Gesellschaft" pordnr="29705" pnr="3140" />
+                    <m name="3142   Vorlesung: Medien &amp; Gesellschaft" pordnr="30749" pnr="3142" />
+                </l>
+                <l name="Vertiefungsseminare" TM="MI" ART="VS">
+                    <m name="3141   Vertiefungsseminar: Medien &amp; Gesellschaft" pordnr="29711" pnr="3141" />
+                </l>
+            </l>
+            <l name="Akteure &amp; Prozesse professioneller Kommunikation" min="1" max="1" TM="AP">
+                <l name="Aufbauseminare oder Vorlesungen" TM="AP" ART="AS">
+                    <m name="3150   Aufbauseminar: Akteure &amp; Prozesse professioneller Kommunikation" pordnr="29729" pnr="3150" />
+                    <m name="3152   Vorlesung: Akteure &amp; Prozesse professioneller Kommunikation" pordnr="30751" pnr="3152" />
+                </l>
+                <l name="Vertiefungsseminare" TM="AP" ART="VS">
+                    <m name="3151   Vertiefungsseminar: Akteure &amp; Prozesse professioneller Kommunikation" pordnr="29911" pnr="3151" />
+                </l>
+            </l>
         </l>
-        <l name="Vertiefungsseminare" TM="MI" ART="VS">
-          <m name="3131   Vertiefungsseminar: Medien &amp; Individuum" pordnr="29723" pnr="3131"/>
-        </l>
-      </l>
-      <l name="Medien &amp; Gesellschaft" min="1" max="1" TM="MG">
-        <l name="Aufbauseminare oder Vorlesungen" TM="MG" ART="AS">
-          <m name="3140   Aufbauseminar: Medien &amp; Gesellschaft" pordnr="29705" pnr="3140"/>
-          <m name="3142   Vorlesung: Medien &amp; Gesellschaft" pordnr="30749" pnr="3142"/>
-        </l>
-        <l name="Vertiefungsseminare" TM="MI" ART="VS">
-          <m name="3141   Vertiefungsseminar: Medien &amp; Gesellschaft" pordnr="29711" pnr="3141"/>
-        </l>
-      </l>
-      <l name="Akteure &amp; Prozesse professioneller Kommunikation" min="1" max="1" TM="AP">
-        <l name="Aufbauseminare oder Vorlesungen" TM="AP" ART="AS">
-          <m name="3150   Aufbauseminar: Akteure &amp; Prozesse professioneller Kommunikation" pordnr="29729" pnr="3150"/>
-          <m name="3152   Vorlesung: Akteure &amp; Prozesse professioneller Kommunikation" pordnr="30751" pnr="3152"/>
-        </l>
-        <l name="Vertiefungsseminare" TM="AP" ART="VS">
-          <m name="3151   Vertiefungsseminar: Akteure &amp; Prozesse professioneller Kommunikation" pordnr="29911" pnr="3151"/>
-        </l>
-      </l>
-    </l>
-  </b>
-  <b abschl="bk" stg="rom" kzfa="H" pversion="2013" name="Kernfach Romanistik">
-<l name="Modulabschlussprüfungen Kernfach Romanistik" min="10" max="10">
-<![CDATA[Insgesamt sind im Bachelor Kernfach Romanistik 10 Modulabschlussprüfungen zu absolvieren (min. 10 / max. 10), zuzüglich der Bachelorarbeit.]]>
-
-  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
-  <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+    </b>
+    <b abschl="bk" stg="rom" kzfa="H" pversion="2013" name="Kernfach Romanistik">
+        <l name="Modulabschlussprüfungen Kernfach Romanistik" min="10" max="10">
+            <![CDATA[Insgesamt sind im Bachelor Kernfach Romanistik 10 Modulabschlussprüfungen zu absolvieren (min. 10 / max. 10), zuzüglich der Bachelorarbeit.]]>
+            <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+                <![CDATA[Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
         die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.<br/><br/>
         Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
         <br/><br/>
         Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
         <br/><br/>
-        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
-        ]]>
-    <l name="Französisch" min="0" max="3">
-      <m pnr="1811" name="Basismodul Sprachpraxis Französisch" pordnr="34586"/>
-      <m pnr="1816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34589"/>
-      <m pnr="1821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34592"/>
-    </l>
-    <l name="Italienisch" min="0" max="3">
-      <m pnr="1812" name="Basismodul Sprachpraxis Italienisch" pordnr="34587"/>
-      <m pnr="1817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34590"/>
-      <m pnr="1822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34593"/>
-    </l>
-    <l name="Spanisch" min="0" max="3">
-      <m pnr="1813" name="Basismodul Sprachpraxis Spanisch" pordnr="34588"/>
-      <m pnr="1818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34591"/>
-      <m pnr="1823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34594"/>
-    </l>
-  </l>
-
-
-  <l name="Wissenschaftliche Pflichtmodule" min="4" max="4">
-      <m pnr="1825" name="Basismodul romanistische Sprachwissenschaft" pordnr="34595" pflicht="j"/>
-      <m pnr="1830" name="Basismodul romanistische Literaturwissenschaft" pordnr="34596" pflicht="j"/>
-      <m pnr="1835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34597" pflicht="j"/>
-      <m pnr="1840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34598" pflicht="j"/>
-  </l>
-
-  <l name="Wissenschaftliche Wahlpflicht-AP" min="1" max="1">
-  <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für ein Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls und Vertiefungsmoduls.<br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.]]>
+                <l name="Französisch" min="0" max="3">
+                    <m pnr="1811" name="Basismodul Sprachpraxis Französisch" pordnr="34586" />
+                    <m pnr="1816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34589" />
+                    <m pnr="1821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34592" />
+                </l>
+                <l name="Italienisch" min="0" max="3">
+                    <m pnr="1812" name="Basismodul Sprachpraxis Italienisch" pordnr="34587" />
+                    <m pnr="1817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34590" />
+                    <m pnr="1822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34593" />
+                </l>
+                <l name="Spanisch" min="0" max="3">
+                    <m pnr="1813" name="Basismodul Sprachpraxis Spanisch" pordnr="34588" />
+                    <m pnr="1818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34591" />
+                    <m pnr="1823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34594" />
+                </l>
+            </l>
+            <l name="Wissenschaftliche Pflichtmodule" min="4" max="4">
+                <m pnr="1825" name="Basismodul romanistische Sprachwissenschaft" pordnr="34595" pflicht="j" />
+                <m pnr="1830" name="Basismodul romanistische Literaturwissenschaft" pordnr="34596" pflicht="j" />
+                <m pnr="1835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34597" pflicht="j" />
+                <m pnr="1840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34598" pflicht="j" />
+            </l>
+            <l name="Wissenschaftliche Wahlpflicht-AP" min="1" max="1">
+                <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für ein Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls und Vertiefungsmoduls.<br/><br/>
         Die Bachelorarbeit wird zu dem Aufbaumodul absolviert, in dem keine Modulabschlussprüfung absolviert wird.]]>
-      <m pnr="1845" name="Aufbaumodul romanistische Sprachwissenschaft" pordnr="34599"/>
-      <m pnr="1850" name="Aufbaumodul romanistische Literaturwissenschaft" pordnr="34600"/>
-  </l>
-  <l name="Optionsmodule" min="2" max="2">
-  <![CDATA[Hinweis: Bei Wahl des Optionsmodul "Sprache" und des Optionsmodul "Basismodul Sprachpraxis" darf die gewählte Sprache nicht mit der Schwerpunktsprache identisch sein.]]>
-      <m pnr="1855" name="Optionsmodul: Sprache Französisch" pordnr="34601"/>
-      <m pnr="1857" name="Optionsmodul: Sprache Italienisch" pordnr="34602"/>
-      <m pnr="1860" name="Optionsmodul: Sprache Spanisch" pordnr="34603"/>
-      <m pnr="1865" name="Optionsmodul: Basismodul Sprachpraxis Französisch" pordnr="34604"/>
-      <m pnr="1867" name="Optionsmodul: Basismodul Sprachpraxis Italienisch" pordnr="34605"/>
-      <m pnr="1870" name="Optionsmodul: Basismodul Sprachpraxis Spanisch" pordnr="34606"/>
-      <m pnr="1875" name="Optionsmodul: Kultur- und Regionalwissenschaft" pordnr="34607"/>
-      <m pnr="1880" name="Optionsmodul: Einführung in die Anwendungsfelder der Sprachwissenschaft" pordnr="34608"/>
-      <m pnr="1885" name="Optionsmodul: Mediale Kommunikation" pordnr="34609"/>
-      <m pnr="1890" name="Optionsmodul: Translation" pordnr="34610"/>
-
-  </l>
-
-</l>
-</b>
-<b abschl="bk" stg="rom" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Kernfach Romanistik">
-<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
-  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
-    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+                <m pnr="1845" name="Aufbaumodul romanistische Sprachwissenschaft" pordnr="34599" />
+                <m pnr="1850" name="Aufbaumodul romanistische Literaturwissenschaft" pordnr="34600" />
+            </l>
+            <l name="Optionsmodule" min="2" max="2">
+                <![CDATA[Hinweis: Bei Wahl des Optionsmodul "Sprache" und des Optionsmodul "Basismodul Sprachpraxis" darf die gewählte Sprache nicht mit der Schwerpunktsprache identisch sein.]]>
+                <m pnr="1855" name="Optionsmodul: Sprache Französisch" pordnr="34601" />
+                <m pnr="1857" name="Optionsmodul: Sprache Italienisch" pordnr="34602" />
+                <m pnr="1860" name="Optionsmodul: Sprache Spanisch" pordnr="34603" />
+                <m pnr="1865" name="Optionsmodul: Basismodul Sprachpraxis Französisch" pordnr="34604" />
+                <m pnr="1867" name="Optionsmodul: Basismodul Sprachpraxis Italienisch" pordnr="34605" />
+                <m pnr="1870" name="Optionsmodul: Basismodul Sprachpraxis Spanisch" pordnr="34606" />
+                <m pnr="1875" name="Optionsmodul: Kultur- und Regionalwissenschaft" pordnr="34607" />
+                <m pnr="1880" name="Optionsmodul: Einführung in die Anwendungsfelder der Sprachwissenschaft" pordnr="34608" />
+                <m pnr="1885" name="Optionsmodul: Mediale Kommunikation" pordnr="34609" />
+                <m pnr="1890" name="Optionsmodul: Translation" pordnr="34610" />
+            </l>
+        </l>
+    </b>
+    <b abschl="bk" stg="rom" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Kernfach Romanistik">
+        <![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+        <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+            <![CDATA[Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
         die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
         Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
         <br/><br/>
@@ -1044,40 +841,39 @@
         <br/><br/>
         Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
         <br/><br/>
-        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
-        ]]>
-    <l name="Französisch" min="0" max="3">
-      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
-      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776"/>
-      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34779"/>
-    </l>
-    <l name="Italienisch" min="0" max="3">
-      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
-      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777"/>
-      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34780"/>
-    </l>
-    <l name="Spanisch" min="0" max="3">
-      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
-      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778"/>
-      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34781"/>
-    </l>
-  </l>
-  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
-      <![CDATA[Hinweis: Das Vertiefungsmodul romanistische Sprachwissenschaft und das Vertiefungsmodul romanistische Literaturwissenschaft
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.]]>
+            <l name="Französisch" min="0" max="3">
+                <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="34773" />
+                <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776" />
+                <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34779" />
+            </l>
+            <l name="Italienisch" min="0" max="3">
+                <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="34774" />
+                <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777" />
+                <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34780" />
+            </l>
+            <l name="Spanisch" min="0" max="3">
+                <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="34775" />
+                <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778" />
+                <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34781" />
+            </l>
+        </l>
+        <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+            <![CDATA[Hinweis: Das Vertiefungsmodul romanistische Sprachwissenschaft und das Vertiefungsmodul romanistische Literaturwissenschaft
       wird sowohl im Kernfach als auch im Ergänzungsfach Romanistik belegt.]]>
-      <m pnr="2835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784" pflicht="j"/>
-      <m pnr="2840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785" pflicht="j"/>
-  </l>
-    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
-      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Vertiefungsmoduls.]]>
-      <m pnr="2845" name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34786"/>
-      <m pnr="2850" name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
-  </l>
-</b>
-<b abschl="bk" stg="rom" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit anderem Kernfach (alleiniges Ergänzungsfach)">
-<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
-  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
-    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+            <m pnr="2835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784" pflicht="j" />
+            <m pnr="2840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785" pflicht="j" />
+        </l>
+        <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+            <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Vertiefungsmoduls.]]>
+            <m pnr="2845" name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34786" />
+            <m pnr="2850" name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787" />
+        </l>
+    </b>
+    <b abschl="bk" stg="rom" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit anderem Kernfach (alleiniges Ergänzungsfach)">
+        <![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+        <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+            <![CDATA[Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
         die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
         Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
         <br/><br/>
@@ -1085,99 +881,91 @@
         <br/><br/>
         Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
         <br/><br/>
-        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
-        ]]>
-    <l name="Französisch" min="0" max="3">
-      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
-      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776"/>
-      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34779"/>
-    </l>
-    <l name="Italienisch" min="0" max="3">
-      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
-      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777"/>
-      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34780"/>
-    </l>
-    <l name="Spanisch" min="0" max="3">
-      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
-      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778"/>
-      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34781"/>
-    </l>
-  </l>
-  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
-      <m pnr="2825" name="Basismodul romanistische Sprachwissenschaft" pordnr="34782" pflicht="j"/>
-      <m pnr="2830" name="Basismodul romanistische Literaturwissenschaft" pordnr="34783" pflicht="j"/>
-  </l>
-    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
-      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls.]]>
-      <m pnr="2860" name="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergänzungsfach)" pordnr="34788"/>
-      <m pnr="2870" name="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)" pordnr="34789"/>
-  </l>
-</b>
-<b abschl="bk" stg="rom" kzfa="H" pversion="2011" name="Kernfach Romanistik">
-<l name="Modulabschlussprüfungen Kernfach Romanistik" min="10" max="10">
-<![CDATA[Insgesamt sind im Bachelor Kernfach Romanistik 10 Modulabschlussprüfungen zu absolvieren (min. 10 / max. 10), zuzüglich der Bachelorarbeit.]]>
-
-  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
-  <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.]]>
+            <l name="Französisch" min="0" max="3">
+                <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="34773" />
+                <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776" />
+                <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34779" />
+            </l>
+            <l name="Italienisch" min="0" max="3">
+                <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="34774" />
+                <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777" />
+                <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34780" />
+            </l>
+            <l name="Spanisch" min="0" max="3">
+                <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="34775" />
+                <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778" />
+                <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34781" />
+            </l>
+        </l>
+        <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+            <m pnr="2825" name="Basismodul romanistische Sprachwissenschaft" pordnr="34782" pflicht="j" />
+            <m pnr="2830" name="Basismodul romanistische Literaturwissenschaft" pordnr="34783" pflicht="j" />
+        </l>
+        <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+            <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls.]]>
+            <m pnr="2860" name="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergänzungsfach)" pordnr="34788" />
+            <m pnr="2870" name="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)" pordnr="34789" />
+        </l>
+    </b>
+    <b abschl="bk" stg="rom" kzfa="H" pversion="2011" name="Kernfach Romanistik">
+        <l name="Modulabschlussprüfungen Kernfach Romanistik" min="10" max="10">
+            <![CDATA[Insgesamt sind im Bachelor Kernfach Romanistik 10 Modulabschlussprüfungen zu absolvieren (min. 10 / max. 10), zuzüglich der Bachelorarbeit.]]>
+            <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+                <![CDATA[Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
         die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.<br/><br/>
         Voraussetzung für die Anmeldung zur Abschlussprüfung für das Basismodul Sprachpraxis ist der bestandene Eingangstest (Niveau B1) der gewählten Sprache.
         <br/><br/>
         Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
         <br/><br/>
-        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
-        ]]>
-    <l name="Französisch" min="0" max="3">
-      <m pnr="1811" name="Basismodul Sprachpraxis Französisch" pordnr="30870"/>
-      <m pnr="1816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30879"/>
-      <m pnr="1821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30882"/>
-    </l>
-    <l name="Italienisch" min="0" max="3">
-      <m pnr="1812" name="Basismodul Sprachpraxis Italienisch" pordnr="30871"/>
-      <m pnr="1817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30880"/>
-      <m pnr="1822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30883"/>
-    </l>
-    <l name="Spanisch" min="0" max="3">
-      <m pnr="1813" name="Basismodul Sprachpraxis Spanisch" pordnr="30872"/>
-      <m pnr="1818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30881"/>
-      <m pnr="1823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30884"/>
-    </l>
-  </l>
-
-
-  <l name="Wissenschaftliche Pflichtmodule" min="4" max="4">
-      <m pnr="1825" name="Basismodul romanistische Sprachwissenschaft" pordnr="29477" pflicht="j"/>
-      <m pnr="1830" name="Basismodul romanistische Literaturwissenschaft" pordnr="29478" pflicht="j"/>
-      <m pnr="1835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="29479" pflicht="j"/>
-      <m pnr="1840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="29480" pflicht="j"/>
-  </l>
-
-  <l name="Wissenschaftliche Wahlpflicht-AP" min="1" max="1">
-  <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für ein Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls und Vertiefungsmoduls.<br/><br/>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.]]>
+                <l name="Französisch" min="0" max="3">
+                    <m pnr="1811" name="Basismodul Sprachpraxis Französisch" pordnr="30870" />
+                    <m pnr="1816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30879" />
+                    <m pnr="1821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30882" />
+                </l>
+                <l name="Italienisch" min="0" max="3">
+                    <m pnr="1812" name="Basismodul Sprachpraxis Italienisch" pordnr="30871" />
+                    <m pnr="1817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30880" />
+                    <m pnr="1822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30883" />
+                </l>
+                <l name="Spanisch" min="0" max="3">
+                    <m pnr="1813" name="Basismodul Sprachpraxis Spanisch" pordnr="30872" />
+                    <m pnr="1818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30881" />
+                    <m pnr="1823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30884" />
+                </l>
+            </l>
+            <l name="Wissenschaftliche Pflichtmodule" min="4" max="4">
+                <m pnr="1825" name="Basismodul romanistische Sprachwissenschaft" pordnr="29477" pflicht="j" />
+                <m pnr="1830" name="Basismodul romanistische Literaturwissenschaft" pordnr="29478" pflicht="j" />
+                <m pnr="1835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="29479" pflicht="j" />
+                <m pnr="1840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="29480" pflicht="j" />
+            </l>
+            <l name="Wissenschaftliche Wahlpflicht-AP" min="1" max="1">
+                <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für ein Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls und Vertiefungsmoduls.<br/><br/>
         Die Bachelorarbeit wird zu dem Aufbaumodul absolviert, in dem keine Modulabschlussprüfung absolviert wird.]]>
-      <m pnr="1845" name="Aufbaumodul romanistische Sprachwissenschaft" pordnr="29866"/>
-      <m pnr="1850" name="Aufbaumodul romanistische Literaturwissenschaft" pordnr="29481"/>
-  </l>
-  <l name="Optionsmodule" min="2" max="2">
-  <![CDATA[Hinweis: Bei Wahl des Optionsmodul "Sprache" und des Optionsmodul "Basismodul Sprachpraxis" darf die gewählte Sprache nicht mit der Schwerpunktsprache identisch sein.]]>
-      <m pnr="1855" name="Optionsmodul: Sprache Französisch" pordnr="29872"/>
-      <m pnr="1857" name="Optionsmodul: Sprache Italienisch" pordnr="29873"/>
-      <m pnr="1860" name="Optionsmodul: Sprache Spanisch" pordnr="29874"/>
-      <m pnr="1865" name="Optionsmodul: Basismodul Sprachpraxis Französisch" pordnr="29875"/>
-      <m pnr="1867" name="Optionsmodul: Basismodul Sprachpraxis Italienisch" pordnr="29876"/>
-      <m pnr="1870" name="Optionsmodul: Basismodul Sprachpraxis Spanisch" pordnr="29877"/>
-      <m pnr="1875" name="Optionsmodul: Kultur- und Regionalwissenschaft" pordnr="29867"/>
-      <m pnr="1880" name="Optionsmodul: Einführung in die Anwendungsfelder der Sprachwissenschaft" pordnr="29868"/>
-      <m pnr="1885" name="Optionsmodul: Mediale Kommunikation" pordnr="29869"/>
-      <m pnr="1890" name="Optionsmodul: Translation" pordnr="29870"/>
-
-  </l>
-
-</l>
-</b>
-<b abschl="bk" stg="rom" kzfa="N" pversion="2011" name="Ergänzungsfach Romanistik mit Kernfach Romanistik">
-<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
-  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
-    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+                <m pnr="1845" name="Aufbaumodul romanistische Sprachwissenschaft" pordnr="29866" />
+                <m pnr="1850" name="Aufbaumodul romanistische Literaturwissenschaft" pordnr="29481" />
+            </l>
+            <l name="Optionsmodule" min="2" max="2">
+                <![CDATA[Hinweis: Bei Wahl des Optionsmodul "Sprache" und des Optionsmodul "Basismodul Sprachpraxis" darf die gewählte Sprache nicht mit der Schwerpunktsprache identisch sein.]]>
+                <m pnr="1855" name="Optionsmodul: Sprache Französisch" pordnr="29872" />
+                <m pnr="1857" name="Optionsmodul: Sprache Italienisch" pordnr="29873" />
+                <m pnr="1860" name="Optionsmodul: Sprache Spanisch" pordnr="29874" />
+                <m pnr="1865" name="Optionsmodul: Basismodul Sprachpraxis Französisch" pordnr="29875" />
+                <m pnr="1867" name="Optionsmodul: Basismodul Sprachpraxis Italienisch" pordnr="29876" />
+                <m pnr="1870" name="Optionsmodul: Basismodul Sprachpraxis Spanisch" pordnr="29877" />
+                <m pnr="1875" name="Optionsmodul: Kultur- und Regionalwissenschaft" pordnr="29867" />
+                <m pnr="1880" name="Optionsmodul: Einführung in die Anwendungsfelder der Sprachwissenschaft" pordnr="29868" />
+                <m pnr="1885" name="Optionsmodul: Mediale Kommunikation" pordnr="29869" />
+                <m pnr="1890" name="Optionsmodul: Translation" pordnr="29870" />
+            </l>
+        </l>
+    </b>
+    <b abschl="bk" stg="rom" kzfa="N" pversion="2011" name="Ergänzungsfach Romanistik mit Kernfach Romanistik">
+        <![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+        <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+            <![CDATA[Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
         die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
         Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
         <br/><br/>
@@ -1185,40 +973,39 @@
         <br/><br/>
         Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
         <br/><br/>
-        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
-        ]]>
-    <l name="Französisch" min="0" max="3">
-      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="30875"/>
-      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30876"/>
-      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30885"/>
-    </l>
-    <l name="Italienisch" min="0" max="3">
-      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="30874"/>
-      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30877"/>
-      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30886"/>
-    </l>
-    <l name="Spanisch" min="0" max="3">
-      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="30873"/>
-      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30878"/>
-      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30887"/>
-    </l>
-  </l>
-  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
-      <![CDATA[Hinweis: Das Vertiefungsmodul romanistische Sprachwissenschaft und das Vertiefungsmodul romanistische Literaturwissenschaft
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.]]>
+            <l name="Französisch" min="0" max="3">
+                <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="30875" />
+                <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30876" />
+                <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30885" />
+            </l>
+            <l name="Italienisch" min="0" max="3">
+                <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="30874" />
+                <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30877" />
+                <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30886" />
+            </l>
+            <l name="Spanisch" min="0" max="3">
+                <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="30873" />
+                <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30878" />
+                <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30887" />
+            </l>
+        </l>
+        <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+            <![CDATA[Hinweis: Das Vertiefungsmodul romanistische Sprachwissenschaft und das Vertiefungsmodul romanistische Literaturwissenschaft
       wird sowohl im Kernfach als auch im Ergänzungsfach Romanistik belegt.]]>
-      <m pnr="2835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="29469" pflicht="j"/>
-      <m pnr="2840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="29878" pflicht="j"/>
-  </l>
-    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
-      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Vertiefungsmoduls.]]>
-      <m pnr="2845" name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="29879"/>
-      <m pnr="2850" name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="29880"/>
-  </l>
-</b>
-<b abschl="bk" stg="rom" kzfa="N" pversion="2011" name="Ergänzungsfach Romanistik mit anderem Kernfach (alleiniges Ergänzungsfach)">
-<![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
-  <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
-    <![CDATA[  Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
+            <m pnr="2835" name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="29469" pflicht="j" />
+            <m pnr="2840" name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="29878" pflicht="j" />
+        </l>
+        <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+            <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Vertiefungsmoduls.]]>
+            <m pnr="2845" name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="29879" />
+            <m pnr="2850" name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="29880" />
+        </l>
+    </b>
+    <b abschl="bk" stg="rom" kzfa="N" pversion="2011" name="Ergänzungsfach Romanistik mit anderem Kernfach (alleiniges Ergänzungsfach)">
+        <![CDATA[Insgesamt sind im Ergänzungsfach Romanistik 6 Modulabschlussprüfungen zu absolvieren (min. 6 / max. 6).]]>
+        <l name="Sprachpraxismodule (Schwerpunktsprache)" min="3" max="3">
+            <![CDATA[Hinweis: Bei der Anmeldung zur Modulabschlussprüfung im Basismodul Sprachpraxis wird die Schwerpunktsprache festgelegt,
         die auch im Vertiefungsmodul und Aufbaumodul Sprachpraxis beibehalten werden muss.
         Die gewählte Schwerpunktsprache im Ergänzungsfach Romanistik darf nicht mit der Schwerpunktsprache des Kernfachs Romanistik identisch sein.
         <br/><br/>
@@ -1226,32 +1013,31 @@
         <br/><br/>
         Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Vertiefungsmodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Basismoduls Sprachpraxis.
         <br/><br/>
-        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.
-        ]]>
-      <l name="Französisch" min="0" max="3">
-      <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="30875"/>
-      <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30876"/>
-      <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30885"/>
-    </l>
-    <l name="Italienisch" min="0" max="3">
-      <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="30874"/>
-      <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30877"/>
-      <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30886"/>
-    </l>
-    <l name="Spanisch" min="0" max="3">
-      <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="30873"/>
-      <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30878"/>
-      <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30887"/>
-    </l>
-  </l>
-  <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
-      <m pnr="2825" name="Basismodul romanistische Sprachwissenschaft" pordnr="29467" pflicht="j"/>
-      <m pnr="2830" name="Basismodul romanistische Literaturwissenschaft" pordnr="29468" pflicht="j"/>
-  </l>
-    <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
-      <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls.]]>
-      <m pnr="2860" name="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergänzungsfach)" pordnr="29881"/>
-      <m pnr="2870" name="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)" pordnr="29882"/>
-  </l>
-</b>
- </ModulBaum>
+        Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul Sprachpraxis ist die bestandene Modulabschlussprüfung des Vertiefungsmoduls Sprachpraxis.]]>
+            <l name="Französisch" min="0" max="3">
+                <m pnr="2811" name="Basismodul Sprachpraxis Französisch" pordnr="30875" />
+                <m pnr="2816" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30876" />
+                <m pnr="2821" name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="30885" />
+            </l>
+            <l name="Italienisch" min="0" max="3">
+                <m pnr="2812" name="Basismodul Sprachpraxis Italienisch" pordnr="30874" />
+                <m pnr="2817" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30877" />
+                <m pnr="2822" name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="30886" />
+            </l>
+            <l name="Spanisch" min="0" max="3">
+                <m pnr="2813" name="Basismodul Sprachpraxis Spanisch" pordnr="30873" />
+                <m pnr="2818" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30878" />
+                <m pnr="2823" name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="30887" />
+            </l>
+        </l>
+        <l name="Wissenschaftliche Pflichtmodule" min="2" max="2">
+            <m pnr="2825" name="Basismodul romanistische Sprachwissenschaft" pordnr="29467" pflicht="j" />
+            <m pnr="2830" name="Basismodul romanistische Literaturwissenschaft" pordnr="29468" pflicht="j" />
+        </l>
+        <l name="Wissenschaftliches Wahlpflichtmodul" min="1" max="1">
+            <![CDATA[Voraussetzung für die Anmeldung zur Modulabschlussprüfung für das Aufbaumodul ist die bestandene Modulabschlussprüfung des entsprechenden Basismoduls.]]>
+            <m pnr="2860" name="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergänzungsfach)" pordnr="29881" />
+            <m pnr="2870" name="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)" pordnr="29882" />
+        </l>
+    </b>
+</ModulBaum>
