@@ -34,6 +34,12 @@ with random values, the hashseed is printed and stored in the generated file.
 The `RANDOMSEED` variable can be passed to the makefile to regenerated a
 certain dataset, e.g. `make random.slite3 RANDOMSEED=x`.
 
+### Schema
+
+The schema of the generated database is described in [`schema.sql`](schema.sql):
+
+![Schema](doc/schema.png)
+
 ## Dependencies
 
 * python3
