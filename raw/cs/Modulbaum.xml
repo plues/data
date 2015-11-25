@@ -1,7 +1,6 @@
 <!--
     TODO:
         - pordnr anpassen
-        - Nebenfächer als eigenständigen Studiengang (b-Tag) mit kzfa="N"
         - pflicht="j" bei allen korrekt??
         - pversion nebenfächer kontrollieren
 -->
@@ -176,7 +175,18 @@
         </l>
     </b>
     <b abschl="bk" stg="mat" kfza="N" pversion="2008" name="Nebenfach Mathematik">
-
+        <l name="Module" min-cp="40" max-cp="40">
+            <m name="Analysis III" pordnr="???" cp="10">
+            <m name="Lineare Algebra II" pordnr="???" cp="10">
+            <m name="Computergestützte Analysis" pordnr="???" cp="5">
+            <m name="Computergestützte Lineare Algebra" pordnr="???" cp="5">
+            <m name="Numerik I" pordnr="???" cp="10">
+            <m name="Einführung in die Stochastik" pordnr="???" cp="10">
+            <m name="Einführung in die Gruppentheorie" pordnr="???" cp="5">
+            <m name="Einführung in die partiellen Diffenrentialgleichungen" pordnr="???" cp="10">
+            <m name="Numerik II" pordnr="???" cp="10">
+            <m name="Wahrscheinlickeitstheorie" pordnr="???" cp="10">
+        </l>
     </b>
     <b abschl="bk" stg="psy" kfza="N" pversion="2007" name="Nebenfach Psychologie">
         <l name="Modul 1: Quantitative Methoden" min-cp="12" max-cp="12">
