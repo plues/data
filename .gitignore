@@ -3,9 +3,8 @@
 *.csp.pl
 *.dot
 data.mch
-wiwi_data.mch
+*data.mch
 data.pl
-wiwi_data.pl
 slottool_env/
 dist/
 SlotSolver/
@@ -15,10 +14,11 @@ WiWiSolver/
 # ignore all sql files besides schema.sql
 *.sql
 !schema.sql
+!raw/cs.sql
 # Marker for make to track dependencies
 requirements.inst
 
 # Gradle
 .gradle/
-bin/modelgenerator.jar
+bin/modelgenerator*.jar
 __pycache__

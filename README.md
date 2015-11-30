@@ -1,26 +1,30 @@
-# Data
+# PlüS Data
 
-This repository contains the tools to generate sql files from raw timetable
-input data as provided by the faculties of Humanities and Economics at HHU.
+This repository is part of the [PlüS Project](https://github.com/plues) and
+contains:
 
-The `Makefile` contains additional targets to generate B and prolog
-representations of the input-data using
-[model-generator](http://gitlab.cobra.cs.uni-duesseldorf.de/slottool/model-generator).
+* Timetabling data provided by the participating faculties of
+  Humanities and Economics at the [Heinrich-Heine University Düsseldorf](http://hhu.de).
+* Tools to generate a SQLite database from the raw data and to generate
+  different target formats from the database using
+  [model-generator](https://github.com/plues/model-generator).
 
 ## Generating data
 
 To generate the sql data representations or an already seeded SQLite database
 use the provided makefile targets.
 
-Call `make data.sql` or `make data.sqlite3` for the data of the
-Humanities.
+Call `make data.sql` or `make data.sqlite3` to generate the corresponding files
+with the data of the faculty of humanities.
 
 Call `make wiwi_data.sql` or `make wiwi_data.sqlite3` to generate the
-data for the facutlty of Economics.
+data for the facutlty of economics.
 
-Note: The previous calls use python dictionaries wich are subject to python's
-hash randomization which affects the order of the elements in the generated
-database. The used seed for the randomization is stored in the genrated database.
+**Note**: The tools used to generate the `.sql` files are implemented in Python
+and are thus subject to Python's hash randomization which affects the order of
+the elements in the generated database. The used seed for the randomization is
+stored in the genrated database.
+
 To override this behaviour or to re-generate a specific
 order in the generated data pass the `HASHSEED` variable to the `Makefile`
 targets, e.g.: `make wiwi_data.sqlite3 HASHSEED=x`.
@@ -30,13 +34,30 @@ with random values, the hashseed is printed and stored in the generated file.
 The `RANDOMSEED` variable can be passed to the makefile to regenerated a
 certain dataset, e.g. `make random.slite3 RANDOMSEED=x`.
 
+### Schema
+
+The schema of the generated database is described in [`schema.sql`](schema.sql):
+
+![Schema](doc/schema.png)
+
 ## Dependencies
 
 * python3
 * virtualenv
-* PyYAML
-* pandas
-* pytest
-* termcolor
 * sqlite3
 * java (for the model-generator)
+
+For further dependencies (installed automatically) see [requirements.txt](requirements.txt).
+
+
+## LICENSE
+
+### Timetabling Data
+
+All timetabling data as provided in the `raw/` directory is available unter the terms of the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode).
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+### Source code
+
+The source code distributed in this repository to process and transform the raw data is distributed under the terms of the [ISC License](LICENSE).
