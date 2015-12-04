@@ -3,77 +3,77 @@
     <course-module-units>
         <course id="bsc-cs-hf-2013" title="Bachelor Informatik PO 2013">
             <modules>
-                <module id="P-ICS-M-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pordnr="1100" elective-units="0">
-                    <abstract-unit id="P-ICS-L-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
+                <module id="P-CS-M-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pordnr="1100" elective-units="0">
+                    <abstract-unit id="P-CS-L-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
                 </module>
-                <module id="P-ICS-M-INFO2" title="Grundlangen der Technischen Informatik (Informatik II)" pordnr="1101" elective-units="0">
-                    <abstract-unit id="P-ICS-L-INFO2" title="Grundlangen der Technischen Informatik (Informatik II)" type="m" semester="2" />
+                <module id="P-CS-M-INFO2" title="Grundlangen der TechnCShen Informatik (Informatik II)" pordnr="1101" elective-units="0">
+                    <abstract-unit id="P-CS-L-INFO2" title="Grundlangen der TechnCShen Informatik (Informatik II)" type="m" semester="2" />
                 </module>
-                <module id="P-ICS-M-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" pordnr="1102" elective-units="0">
-                    <abstract-unit id="P-ICS-L-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" type="m" semester="3" />
+                <module id="P-CS-M-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" pordnr="1102" elective-units="0">
+                    <abstract-unit id="P-CS-L-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" type="m" semester="3" />
                 </module>
-                <module id="P-ICS-M-INFO4" title="Grundlangen der Theoretischen Informatik (Informatik IV)" pordnr="1103" elective-units="0">
-                    <abstract-unit id="P-ICS-L-INFO4" title="Grundlangen der Theoretischen Informatik (Informatik IV)" type="m" semester="4" />
+                <module id="P-CS-M-INFO4" title="Grundlangen der TheoretCShen Informatik (Informatik IV)" pordnr="1103" elective-units="0">
+                    <abstract-unit id="P-CS-L-INFO4" title="Grundlangen der TheoretCShen Informatik (Informatik IV)" type="m" semester="4" />
                 </module>
-                <module id="P-ICS-M-PROPRA" title="Programmierpraktikum" pordnr="1104" elective-units="0">
-                    <abstract-unit id="P-ICS-L-PROPRA" type="m" semester="2,4" />
+                <module id="P-CS-M-PROPRA" title="Programmierpraktikum" pordnr="1104" elective-units="0">
+                    <abstract-unit id="P-CS-L-PROPRA" type="m" semester="2,4" />
                 </module>
-                <module id="P-ICS-M-ANA1" title="Analysis I" pordnr="1200" elective-units="0">
-                    <abstract-unit id="P-ICS-L-ANA1" type="m" semester="1,2" />
+                <module id="P-CS-M-ANA1" title="Analysis I" pordnr="1200" elective-units="0">
+                    <abstract-unit id="P-CS-L-ANA1" type="m" semester="1,2" />
                 </module>
-                <module id="P-ICS-M-LA1" title="Lineare Algebra I" pordnr="1201" elective-units="0">
-                    <abstract-unit id="P-ICS-L-LA1" type="m" semester="1,2" />
+                <module id="P-CS-M-LA1" title="Lineare Algebra I" pordnr="1201" elective-units="0">
+                    <abstract-unit id="P-CS-L-LA1" type="m" semester="1,2" />
                 </module>
-                <module id="P-ICS-M-ANA2" title="Analysis II" pordnr="1202" elective-units="0">
-                    <abstract-unit id="P-ICS-L-ANA2" type="m" semester="2,3" />
+                <module id="P-CS-M-ANA2" title="Analysis II" pordnr="1202" elective-units="0">
+                    <abstract-unit id="P-CS-L-ANA2" type="m" semester="2,3" />
                 </module>
-                <module id="P-ICS-M-NUM1" title="Numerik I" pordnr="1203" elective-units="1">
-                    <abstract-unit id="P-ICS-L-NUM1" type="e" semester="4" />
+                <module id="P-CS-M-NUM1" title="Numerik I" pordnr="1203" elective-units="1">
+                    <abstract-unit id="P-CS-L-NUM1" type="e" semester="4" />
                 </module>
-                <module id="P-ICS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="1">
-                    <abstract-unit id="P-ICS-L-STO" type="e" semester="3" />
+                <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="1">
+                    <abstract-unit id="P-CS-L-STO" type="e" semester="3" />
                 </module>
-                <module id="P-ICS-M-DBS" title="Datenbanksysteme (für BA Informatik)" pordnr="1300" elective-units="0">
-                    <abstract-unit id="P-ICS-L-DBS" type="m" semester="3,5" />
+                <module id="P-CS-M-DBS" title="Datenbanksysteme (für BA Informatik)" pordnr="1300" elective-units="0">
+                    <abstract-unit id="P-CS-L-DBS" type="m" semester="3,5" />
                 </module>
-                <module id="P-ICS-M-RN" title="Rechnernetze" pordnr="1301" elective-units="0">
-                    <abstract-unit id="P-ICS-L-RN" type="m" semester="3,5" />
+                <module id="P-CS-M-RN" title="Rechnernetze" pordnr="1301" elective-units="0">
+                    <abstract-unit id="P-CS-L-RN" type="m" semester="3,5" />
                 </module>
-                <module id="P-ICS-M-PROLOG" title="Einführung in die logische Programmierung" pordnr="1302" elective-units="0">
-                    <abstract-unit id="P-ICS-L-PROLOG" type="m" semester="3,5" />
+                <module id="P-CS-M-PROLOG" title="Einführung in die logCShe Programmierung" pordnr="1302" elective-units="0">
+                    <abstract-unit id="P-CS-L-PROLOG" type="m" semester="3,5" />
                 </module>
-                <module id="P-ICS-M-CBAU" title="Compilerbau" pordnr="1303" elective-units="0">
-                    <abstract-unit id="P-ICS-L-CBAU" type="m" semester="4,6" />
+                <module id="P-CS-M-CBAU" title="Compilerbau" pordnr="1303" elective-units="0">
+                    <abstract-unit id="P-CS-L-CBAU" type="m" semester="4,6" />
                 </module>
-                <module id="P-ICS-M-NAND" title="From NAND to Tetris" pordnr="1304" elective-units="0">
-                    <abstract-unit id="P-ICS-L-NAND" type="m" semester="4,6" />
+                <module id="P-CS-M-NAND" title="From NAND to Tetris" pordnr="1304" elective-units="0">
+                    <abstract-unit id="P-CS-L-NAND" type="m" semester="4,6" />
                 </module>
-                <module id="P-ICS-M-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" elective-units="0">
-                    <abstract-unit id="P-ICS-L-KOLL" type="m" semester="3,5" />
+                <module id="P-CS-M-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" elective-units="0">
+                    <abstract-unit id="P-CS-L-KOLL" type="m" semester="3,5" />
                 </module>
-                <module id="P-ICS-M-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" elective-units="0">
-                    <abstract-unit id="P-ICS-L-WAHL" type="m" semester="4,6" />
+                <module id="P-CS-M-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" elective-units="0">
+                    <abstract-unit id="P-CS-L-WAHL" type="m" semester="4,6" />
                 </module>
-                <module id="P-ICS-M-BS" title="Betriesbssysteme" pordnr="1307" elective-units="0">
-                    <abstract-unit id="P-ICS-L-BS" type="m" semester="3,5" />
+                <module id="P-CS-M-BS" title="Betriesbssysteme" pordnr="1307" elective-units="0">
+                    <abstract-unit id="P-CS-L-BS" type="m" semester="3,5" />
                 </module>
-                <module id="P-ICS-M-VS" title="Verteilte Systeme" pordnr="1308" elective-units="0">
-                    <abstract-unit id="P-ICS-L-VS" type="m" semester="3,5" />
+                <module id="P-CS-M-VS" title="Verteilte Systeme" pordnr="1308" elective-units="0">
+                    <abstract-unit id="P-CS-L-VS" type="m" semester="3,5" />
                 </module>
-                <module id="P-ICS-M-GALGO1" title="Graphenalgorithmen I" pordnr="1309" elective-units="0">
-                    <abstract-unit id="P-ICS-L-GALGO1" type="m" semester="3,5" />
+                <module id="P-CS-M-GALGO1" title="Graphenalgorithmen I" pordnr="1309" elective-units="0">
+                    <abstract-unit id="P-CS-L-GALGO1" type="m" semester="3,5" />
                 </module>
-                <module id="P-ICS-M-BIOINF" title="Algorithmen in der Bioinformatik" pordnr="1310" elective-units="0">
-                    <abstract-unit id="P-ICS-L-BIOINF" type="m" semester="4,6" />
+                <module id="P-CS-M-BIOINF" title="Algorithmen in der Bioinformatik" pordnr="1310" elective-units="0">
+                    <abstract-unit id="P-CS-L-BIOINF" type="m" semester="4,6" />
                 </module>
-                <module id="P-ICS-M-GENOM" title="Algorithmen in der Genomforschung" pordnr="1311" elective-units="0">
-                    <abstract-unit id="P-ICS-L-GENOM" type="m" semester="4,6" />
+                <module id="P-CS-M-GENOM" title="Algorithmen in der Genomforschung" pordnr="1311" elective-units="0">
+                    <abstract-unit id="P-CS-L-GENOM" type="m" semester="4,6" />
                 </module>
             </modules>
         </course>
         <course id="bsc-phy-nf-2013" title="Nebenfach Physik PO 2013">
             <modules>
-                <module id="P-PHY-M-MAME1" title="Mathematische Methoden der Physik I" pordnr="2100" elective-units="0">
+                <module id="P-PHY-M-MAME1" title="MathematCShe Methoden der Physik I" pordnr="2100" elective-units="0">
                     <abstract-unit id="P-PHY-L-MAME1" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-GP1" title="Grundpraktikum 1" pordnr="2101" elective-units="0">
@@ -91,10 +91,10 @@
                 <module id="P-PHY-M-ATOM" title="Experimentelle Atomphysik" pordnr="2105" elective-units="0">
                     <abstract-unit id="P-PHY-L-ATOM" type="m" semester="4,6" />
                 </module>
-                <module id="P-PHY-M-THEOM" title="Theoretische Mechanik" pordnr="2106" elective-units="0">
+                <module id="P-PHY-M-THEOM" title="TheoretCShe Mechanik" pordnr="2106" elective-units="0">
                     <abstract-unit id="P-PHY-L-THEOM" type="m" semester="2,4,6" />
                 </module>
-                <module id="P-PHY-M-THEOE" title="Theoretische Elektrodynamik" pordnr="2107" elective-units="0">
+                <module id="P-PHY-M-THEOE" title="TheoretCShe Elektrodynamik" pordnr="2107" elective-units="0">
                     <abstract-unit id="P-PHY-L-THEOE" type="m" semester="3,5" />
                 </module>
             </modules>
@@ -129,13 +129,13 @@
         </course>
         <course id="bsc-che-nf-2013" title="Nebenfach Chemie PO 2013">
             <modules>
-                <module id="P-CHE-M-C1" title="Einführung in die Allgemeine und Anorganische Chemie (C1)" pordnr="2300" elective-units="0">
+                <module id="P-CHE-M-C1" title="Einführung in die Allgemeine und AnorganCShe Chemie (C1)" pordnr="2300" elective-units="0">
                     <abstract-unit id="P-CHE-L-C1" type="m" semester="3,5" />
                 </module>
-                <module id="P-CHE-M-OC" title="Organische Chemie für Studierende der Biologie" pordnr="2301" elective-units="0">
+                <module id="P-CHE-M-OC" title="OrganCShe Chemie für Studierende der Biologie" pordnr="2301" elective-units="0">
                     <abstract-unit id="P-CHE-L-OC" type="m" semester="4,6" />
                 </module>
-                <module id="P-CHE-M-PC2" title="PC II: Thermodynamik und chemische Kinetik" pordnr="2302" elective-units="0">
+                <module id="P-CHE-M-PC2" title="PC II: Thermodynamik und chemCShe Kinetik" pordnr="2302" elective-units="0">
                     <abstract-unit id="P-CHE-L-PC2" type="m" semester="4,6" />
                 </module>
                 <module id="P-CHE-M-QCCC" title="Einführung in die Quanten- und Computerchemie (QCCC)" pordnr="2303" elective-units="0">
@@ -194,16 +194,16 @@
                 <module id="P-PSY-M-QM2" title="Quantitavie Methoden II" pordnr="2501" elective-units="0">
                     <abstract-unit id="P-PSY-L-QM2" type="m" semester="4,6" />
                 </module>
-                <module id="P-PSY-M-VER1" title="Physiologische Grundlagen des Verhaltens I" pordnr="2502" elective-units="0">
+                <module id="P-PSY-M-VER1" title="PhysiologCShe Grundlagen des Verhaltens I" pordnr="2502" elective-units="0">
                     <abstract-unit id="P-PSY-L-VER1" type="m" semester="3,5" />
                 </module>
-                <module id="P-PSY-M-VER2" title="Physiologische Grundlagen des Verhaltens II" pordnr="2503" elective-units="0">
+                <module id="P-PSY-M-VER2" title="PhysiologCShe Grundlagen des Verhaltens II" pordnr="2503" elective-units="0">
                     <abstract-unit id="P-PSY-L-VER2" type="m" semester="3,5" />
                 </module>
-                <module id="P-PSY-M-BPSY1" title="Biologische Psychologie I" pordnr="2504" elective-units="0">
+                <module id="P-PSY-M-BPSY1" title="BiologCShe Psychologie I" pordnr="2504" elective-units="0">
                     <abstract-unit id="P-PSY-L-BPSY1" type="m" semester="3,5" />
                 </module>
-                <module id="P-PSY-M-BPSY2" title="Biologische Psychologie II" pordnr="2505" elective-units="0">
+                <module id="P-PSY-M-BPSY2" title="BiologCShe Psychologie II" pordnr="2505" elective-units="0">
                     <abstract-unit id="P-PSY-L-BPSY2" type="m" semester="4,6" />
                 </module>
                 <module id="P-PSY-M-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" pordnr="2506" elective-units="0">
@@ -224,7 +224,7 @@
                 <session day="tue" time="1" duration="2" rhythm="0" />
                 <session day="fri" time="1" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ICS-L-INFO1" />
+            <abstract-unit id="P-CS-L-INFO1" />
         </unit>
         <unit id="110001" title="Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
             <group>
@@ -272,9 +272,9 @@
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ICS-L-INFO1" />
+            <abstract-unit id="P-CS-L-INFO1" />
         </unit>
-        <unit id="110002" title="Praktische Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
+        <unit id="110002" title="PraktCShe Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0" />
             </group>
@@ -314,16 +314,16 @@
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ICS-L-INFO1" />
+            <abstract-unit id="P-CS-L-INFO1" />
         </unit>
-        <unit id="110100" title="Grundlagen der Technischen Informatik (Informatik II)" semester="2,4,6">
+        <unit id="110100" title="Grundlagen der TechnCShen Informatik (Informatik II)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0" />
                 <session day="fri" time="1" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ICS-L-INFO2" />
+            <abstract-unit id="P-CS-L-INFO2" />
         </unit>
-        <unit id="110101" title="Übungen zu Grundlagen der Technischen Informatik (Informatik II)" semester="2,4,6">
+        <unit id="110101" title="Übungen zu Grundlagen der TechnCShen Informatik (Informatik II)" semester="2,4,6">
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0" />
             </group>
@@ -363,14 +363,14 @@
             <group>
                 <session day="fri" time="4" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ISC-L-INFO2" />
+            <abstract-unit id="P-CS-L-INFO2" />
         </unit>
         <unit id="110200" title="Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" semester="3,5">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0" />
                 <session day="fri" time="1" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ISC-L-INFO3" />
+            <abstract-unit id="P-CS-L-INFO3" />
         </unit>
         <unit id="110201" title="Übungen zu Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" semester="3,5">
             <group>
@@ -403,16 +403,16 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ISC-L-INFO3" />
+            <abstract-unit id="P-CS-L-INFO3" />
         </unit>
-        <unit id="110300" title="Grundlagen der Theoretischen Informatik (Informatik IV)" semester="4,6">
+        <unit id="110300" title="Grundlagen der TheoretCShen Informatik (Informatik IV)" semester="4,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0" />
                 <session day="fri" time="3" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ISC-L-INFO4" />
+            <abstract-unit id="P-CS-L-INFO4" />
         </unit>
-        <unit id="110301" title="Übungen zu Grundlagen der Theoretischen Informatik (Informatik IV)" semester="4,6">
+        <unit id="110301" title="Übungen zu Grundlagen der TheoretCShen Informatik (Informatik IV)" semester="4,6">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0" />
             </group>
@@ -446,13 +446,13 @@
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ISC-L-INFO4" />
+            <abstract-unit id="P-CS-L-INFO4" />
         </unit>
         <unit id="110400" title="Programmierpraktikum" semester="2,4,6">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-ISC-L-PROPRA" />
+            <abstract-unit id="P-CS-L-PROPRA" />
         </unit>
         <unit id="100401" title="Übungen: Programmierpraktikum" semester="2,4,6">
             <group>
@@ -500,7 +500,259 @@
             <group>
                 <session day="fri" time="5" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="PP-ISC-L-PROPPRA" />
+            <abstract-unit id="P-CS-L-PROPPRA" />
+        </unit>
+        <unit id="120000" title="Analysis I" semester="1,2">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+                <session day="thu" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0" />
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-ANA1" />
+        </unit>
+        <unit id="120001" title="Übungen zu Analysis I" semester="1,2">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-ANA1" />
+        </unit>
+        <unit id="120002" title="Tutorium zu Analysis I" semester="1,2">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-ANA1" />
+        </unit>
+        <unit id="120100" title="Lineare Algebra I" semester="1,2">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+                <session day="wed" time="6" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="5" duration="2" rhythm="0" />
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-LA1" />
+        </unit>
+        <unit id="120101" title="Lineare Algebra I - Übungen" semester="1,2">
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-LA1" />
+        </unit>
+        <unit id="120102" title="Lineare Algebra I - Tutorium" semester="1,2">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-LA1" />
+        </unit>
+        <unit id="120200" title="Analysis II" semester="2,3">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-ANA2" />
+        </unit>
+        <unit id="120201" title="Übungen zu Analysis II" semester="2,3">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-ANA2" />
+        </unit>
+        <unit id="120202" title="Tutorium zu Analysis II" semester="2,3">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-ANA2" />
+        </unit>
+        <unit id="120300" title="Numerik I" semester="4,6">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-NUM1" />
+            <abstract-unit id="P-MAT-L-NUM1" />
+        </unit>
+        <unit id="120301" title="Übungen zu Numerik I" semester="4,6">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-NUM1" />
+            <abstract-unit id="P-MAT-L-NUM1" />
+        </unit>
+        <unit id="120302" title="Programmierübungen zu Numerik I" semester="4,6">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-NUM1" />
+            <abstract-unit id="P-MAT-L-NUM1" />
+        </unit>
+        <unit id="120400" title="Einführung in die Stochastik" semester="3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-STO" />
+            <abstract-unit id="P-MAT-L-STO" />
+        </unit>
+        <unit id="120401" title="Übungen zu Einführung in die Stochastik" semester="3,5">
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-STO" />
+            <abstract-unit id="P-MAT-L-STO" />
         </unit>
         <unit id="" title="" semester="">
             <group>
