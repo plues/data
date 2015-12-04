@@ -87,7 +87,7 @@ E.g. : `<abstract-unit id="P-Phil-L-BPPANb" />`
 
 Each `<unit>` can have several `<group>` nodes, each group is a set of events that are considered equivalent, i.e. students have to choose one of the possible groups to complete the unit.
 
-Each `<group>` is composed of several sessions, sessions are represent planned teaching events. Each session has the following attributes:
+Each `<group>` is composed of several sessions, sessions are represented planned teaching events. Each session has the following attributes:
 
 - `day`: Abbreviated day of the week ("mon", "tue", etc.).
 - `time`: The time block during the day where the sessions takes place, 
