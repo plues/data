@@ -218,4 +218,295 @@
             </modules>
         </course>
     </course-module-units>
+    <units>
+        <unit id="110000" title="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ICS-L-INFO1" />
+        </unit>
+        <unit id="110001" title="Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ICS-L-INFO1" />
+        </unit>
+        <unit id="110002" title="Praktische Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ICS-L-INFO1" />
+        </unit>
+        <unit id="110100" title="Grundlagen der Technischen Informatik (Informatik II)" semester="2,4,6">
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0" />
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ICS-L-INFO2" />
+        </unit>
+        <unit id="110101" title="Übungen zu Grundlagen der Technischen Informatik (Informatik II)" semester="2,4,6">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ISC-L-INFO2" />
+        </unit>
+        <unit id="110200" title="Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" semester="3,5">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ISC-L-INFO3" />
+        </unit>
+        <unit id="110201" title="Übungen zu Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" semester="3,5">
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ISC-L-INFO3" />
+        </unit>
+        <unit id="110300" title="Grundlagen der Theoretischen Informatik (Informatik IV)" semester="4,6">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ISC-L-INFO4" />
+        </unit>
+        <unit id="110301" title="Übungen zu Grundlagen der Theoretischen Informatik (Informatik IV)" semester="4,6">
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ISC-L-INFO4" />
+        </unit>
+        <unit id="110400" title="Programmierpraktikum" semester="2,4,6">
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-ISC-L-PROPRA" />
+        </unit>
+        <unit id="100401" title="Übungen: Programmierpraktikum" semester="2,4,6">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="5" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="PP-ISC-L-PROPPRA" />
+        </unit>
+        <unit id="" title="" semester="">
+            <group>
+                <session day="" time="" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="" />
+        </unit>
+    </units>
 </data>
