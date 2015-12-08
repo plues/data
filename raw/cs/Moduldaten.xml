@@ -54,11 +54,8 @@
                 <module id="P-CS-M-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" elective-units="0">
                     <abstract-unit id="P-CS-L-WAHL" type="m" semester="4,6" />
                 </module>
-                <module id="P-CS-M-BS" title="Betriesbssysteme" pordnr="1307" elective-units="0">
-                    <abstract-unit id="P-CS-L-BS" type="m" semester="3,5" />
-                </module>
-                <module id="P-CS-M-VS" title="Grundlagen Verteilter Systeme" pordnr="1308" elective-units="0">
-                    <abstract-unit id="P-CS-L-VS" type="m" semester="3,5" />
+                <module id="P-CS-M-BS" title="Betriesbssysteme / Grundlagen verteilter Systeme" pordnr="1307" elective-units="0">
+                    <abstract-unit id="P-CS-L-VSBS" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-GALGO1" title="Graphenalgorithmen I" pordnr="1309" elective-units="0">
                     <abstract-unit id="P-CS-L-GALGO1" type="m" semester="3,5" />
@@ -847,14 +844,7 @@
                 <session day="mon" time="2" duration="2" rhythm="0" />
                 <session day="fri" time="1" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-CS-L-BS" />
-        </unit>
-        <unit id="130800" title="Grundlagen verteilter Systeme" semester="3,5">
-            <group>
-                <session day="thu" time="2" duration="2" rhythm="0" />
-                <session day="fri" time="1" duration="2" rhythm="0" />
-            </group>
-            <abstract-unit id="P-CS-L-VS" />
+            <abstract-unit id="P-CS-L-VSBS" />
         </unit>
         <unit id="130900" title="Graphenalgorithmen I" semester="4,6">
             <group>
