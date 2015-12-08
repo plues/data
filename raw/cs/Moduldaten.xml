@@ -1,4 +1,4 @@
-<?xml version=1.0 encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <data>
     <course-module-units>
         <course id="bsc-cs-hf-2013" title="Bachelor Informatik PO 2013">
@@ -104,7 +104,7 @@
                 <module id="P-BIO-M-250" title="Bio250: Genetik" pordnr="2202" elective-units="0">
                     <abstract-unit id="P-BIO-L-250" type="m" semester="4,6" />
                 </module>
-                <module id="P-BIO-M-260" title="Bio260: Ökologie und Evolution" pordnr="2203" elective-units="m">
+                <module id="P-BIO-M-260" title="Bio260: Ökologie und Evolution" pordnr="2203" elective-units="0">
                     <abstract-unit id="P-BIO-L-260" type="m" semester="4,6" />
                 </module>
                 <module id="P-BIO-M-240" title="Bio240: Mikrobiologie" pordnr="2204" elective-units="0">
