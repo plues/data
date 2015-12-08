@@ -63,9 +63,6 @@
                 <module id="P-CS-M-BIOINF" title="Algorithmen in der Bioinformatik" pordnr="1310" elective-units="0">
                     <abstract-unit id="P-CS-L-BIOINF" type="m" semester="4,6" />
                 </module>
-                <module id="P-CS-M-GENOM" title="Algorithmen in der Genomforschung" pordnr="1311" elective-units="0">
-                    <abstract-unit id="P-CS-L-GENOM" type="m" semester="4,6" />
-                </module>
             </modules>
         </course>
         <course id="bsc-phy-nf-2013" title="Nebenfach Physik PO 2013">
@@ -168,12 +165,6 @@
                 </module>
                 <module id="P-MAT-M-STO" title="Einführung in die Stochastik" pordnr="2405" elective-units="0">
                     <abstract-unit id="P-MAT-L-" type="m" semester="3,5" />
-                </module>
-                <module id="P-MAT-M-GRU" title="Einführung in die Gruppentheorie" pordnr="2406" elective-units="0">
-                    <abstract-unit id="P-MAT-L-GRU" type="m" semester="3,5" />
-                </module>
-                <module id="P-MAT-M-PDIFF" title="Einführung in die partiellen Differentialgleichungen" pordnr="2407" elective-units="0">
-                    <abstract-unit id="P-MAT-L-PDIFF" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-NUM2" title="Numerik II" pordnr="24" elective-units="0">
                     <abstract-unit id="P-MAT-L-NUM2" type="m" semester="3,5" />
@@ -863,13 +854,6 @@
                 <session day="thu" time="2" duration="2" rhythm="0" />
             </group>
             <abstract-unit id="P-CS-L-BIOINF" />
-        </unit>
-        <unit id="131100" title="Algorithmen in der Genomforschung" semester="4,6">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0" />
-                <session day="tue" time="4" duration="2" rhythm="0" />
-            </group>
-            <abstract-unit id="P-CS-L-GENOM" />
         </unit>
         <unit id="210000" title="Mathematische Methoden der Physik I" semester="3,5">
             <group>
