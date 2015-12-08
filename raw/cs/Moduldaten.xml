@@ -16,192 +16,192 @@
                     <abstract-unit id="P-CS-L-INFO4" title="Grundlangen der Theoretischen Informatik (Informatik IV)" type="m" semester="4" />
                 </module>
                 <module id="P-CS-M-PROPRA" title="Programmierpraktikum" pordnr="1104" elective-units="0">
-                    <abstract-unit id="P-CS-L-PROPRA" type="m" semester="2,4" />
+                    <abstract-unit id="P-CS-L-PROPRA" title="Programmierpraktikum" type="m" semester="2,4" />
                 </module>
                 <module id="P-CS-M-ANA1" title="Analysis I" pordnr="1200" elective-units="0">
-                    <abstract-unit id="P-CS-L-ANA1" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-ANA1" title="Analysis I" type="m" semester="1,2" />
                 </module>
                 <module id="P-CS-M-LA1" title="Lineare Algebra I" pordnr="1201" elective-units="0">
-                    <abstract-unit id="P-CS-L-LA1" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-LA1" title="Lineare Algebra I" type="m" semester="1,2" />
                 </module>
                 <module id="P-CS-M-ANA2" title="Analysis II" pordnr="1202" elective-units="0">
-                    <abstract-unit id="P-CS-L-ANA2" type="m" semester="2,3" />
+                    <abstract-unit id="P-CS-L-ANA2" title="Analysis II" type="m" semester="2,3" />
                 </module>
                 <module id="P-CS-M-NUM1" title="Numerik I" pordnr="1203" elective-units="1">
-                    <abstract-unit id="P-CS-L-NUM1" type="e" semester="4" />
+                    <abstract-unit id="P-CS-L-NUM1" title="Numerik I" type="e" semester="4" />
                 </module>
                 <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="1">
-                    <abstract-unit id="P-CS-L-STO" type="e" semester="3" />
+                    <abstract-unit id="P-CS-L-STO" title="Einführung in die Stochastik" type="e" semester="3" />
                 </module>
                 <module id="P-CS-M-DBS" title="Datenbanksysteme (für BA Informatik)" pordnr="1300" elective-units="0">
-                    <abstract-unit id="P-CS-L-DBS" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-DBS" title="Datenbanksysteme (für BA Informatik)" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-RN" title="Rechnernetze" pordnr="1301" elective-units="0">
-                    <abstract-unit id="P-CS-L-RN" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-RN" title="Rechnernetze" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-PROLOG" title="Einführung in die logCShe Programmierung" pordnr="1302" elective-units="0">
-                    <abstract-unit id="P-CS-L-PROLOG" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-PROLOG" title="Einführung in die logCShe Programmierung" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-CBAU" title="Compilerbau" pordnr="1303" elective-units="0">
-                    <abstract-unit id="P-CS-L-CBAU" type="m" semester="4,6" />
+                    <abstract-unit id="P-CS-L-CBAU" title="Compilerbau" type="m" semester="4,6" />
                 </module>
                 <module id="P-CS-M-NAND" title="From NAND to Tetris" pordnr="1304" elective-units="0">
-                    <abstract-unit id="P-CS-L-NAND" type="m" semester="4,6" />
+                    <abstract-unit id="P-CS-L-NAND" title="From NAND to Tetris" type="m" semester="4,6" />
                 </module>
                 <module id="P-CS-M-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" elective-units="0">
-                    <abstract-unit id="P-CS-L-KOLL" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" elective-units="0">
-                    <abstract-unit id="P-CS-L-WAHL" type="m" semester="4,6" />
+                    <abstract-unit id="P-CS-L-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" type="m" semester="4,6" />
                 </module>
                 <module id="P-CS-M-BS" title="Betriesbssysteme / Grundlagen verteilter Systeme" pordnr="1307" elective-units="0">
-                    <abstract-unit id="P-CS-L-VSBS" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-VSBS" title="Betriesbssysteme / Grundlagen verteilter Systeme" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-GALGO1" title="Graphenalgorithmen I" pordnr="1309" elective-units="0">
-                    <abstract-unit id="P-CS-L-GALGO1" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-GALGO1" title="Graphenalgorithmen I" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-BIOINF" title="Algorithmen in der Bioinformatik" pordnr="1310" elective-units="0">
-                    <abstract-unit id="P-CS-L-BIOINF" type="m" semester="4,6" />
+                    <abstract-unit id="P-CS-L-BIOINF" title="Algorithmen in der Bioinformatik" type="m" semester="4,6" />
                 </module>
             </modules>
         </course>
         <course id="bsc-phy-nf-2013" title="Nebenfach Physik PO 2013">
             <modules>
                 <module id="P-PHY-M-MAME1" title="MathematCShe Methoden der Physik I" pordnr="2100" elective-units="0">
-                    <abstract-unit id="P-PHY-L-MAME1" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-MAME1" title="MathematCShe Methoden der Physik I" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-GP1" title="Grundpraktikum 1" pordnr="2101" elective-units="0"> <!--In der Vl-freien Zeit-->
-                    <abstract-unit id="P-PHY-L-GP1" type="m" semester="2,4" />
+                    <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum 1" type="m" semester="2,4" />
                 </module>
                 <module id="P-PHY-M-OPT" title="Optik" pordnr="2102" elective-units="0">
-                    <abstract-unit id="P-PHY-L-OPT" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-OPT" title="Optik" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-EXM" title="Experimentelle Mechanik" pordnr="2103" elective-units="0">
-                    <abstract-unit id="P-PHY-L-EXM" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-EXM" title="Experimentelle Mechanik" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-ELMA" title="Elektrizität und Magnetismus" pordnr="2104" elective-units="0">
-                    <abstract-unit id="P-PHY-L-ELMA" type="m" semester="2,4,6" />
+                    <abstract-unit id="P-PHY-L-ELMA" title="Elektrizität und Magnetismus" type="m" semester="2,4,6" />
                 </module>
                 <module id="P-PHY-M-ATOM" title="Experimentelle Atomphysik" pordnr="2105" elective-units="0">
-                    <abstract-unit id="P-PHY-L-ATOM" type="m" semester="4,6" />
+                    <abstract-unit id="P-PHY-L-ATOM" title="Experimentelle Atomphysik" type="m" semester="4,6" />
                 </module>
-                <module id="P-PHY-M-THEOM" title="TheoretCShe Mechanik" pordnr="2106" elective-units="0">
-                    <abstract-unit id="P-PHY-L-THEOM" type="m" semester="2,4,6" />
+                <module id="P-PHY-M-THEOM" title="Theoretische Mechanik" pordnr="2106" elective-units="0">
+                    <abstract-unit id="P-PHY-L-THEOM" title="Theoretische Mechanik" type="m" semester="2,4,6" />
                 </module>
                 <module id="P-PHY-M-THEOE" title="TheoretCShe Elektrodynamik" pordnr="2107" elective-units="0">
-                    <abstract-unit id="P-PHY-L-EDYN" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-EDYN" title="TheoretCShe Elektrodynamik" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
         <course id="bsc-bio-nf-2013" title="Nebenfach Biologie PO 2013">
             <modules>
                 <module id="P-BIO-M-BOZOO" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" pordnr="2200" elective-units="0">
-                    <abstract-unit id="P-BIO-L-BOZOO" type="m" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-BOZOO" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" type="m" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-110" title="Bio110: Zell- und Molekularbiologie" pordnr="2201" elective-units="0">
-                    <abstract-unit id="P-BIO-L-110" type="0" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-110" title="Bio110: Zell- und Molekularbiologie" type="0" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-250" title="Bio250: Genetik" pordnr="2202" elective-units="0">
-                    <abstract-unit id="P-BIO-L-250" type="m" semester="4,6" />
+                    <abstract-unit id="P-BIO-L-250" title="Bio250: Genetik" pordnr="2202" type="m" semester="4,6" />
                 </module>
                 <module id="P-BIO-M-260" title="Bio260: Ökologie und Evolution" pordnr="2203" elective-units="0">
-                    <abstract-unit id="P-BIO-L-260" type="m" semester="4,6" />
+                    <abstract-unit id="P-BIO-L-260" title="Bio260: Ökologie und Evolution" type="m" semester="4,6" />
                 </module>
                 <module id="P-BIO-M-240" title="Bio240: Mikrobiologie" pordnr="2204" elective-units="0">
-                    <abstract-unit id="P-BIO-L-240" type="m" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-240" title="Bio240: Mikrobiologie" type="m" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-220" title="Bio220: Tierphysiologie" pordnr="2205" elective-units="0">
-                    <abstract-unit id="P-BIO-L-220" type="m" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-220" title="Bio220: Tierphysiologie" type="m" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-210" title="Bio210: Biochemie" pordnr="2206" elective-units="0">
-                    <abstract-unit id="P-BIO-L-210" type="m" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-210" title="Bio210: Biochemie" type="m" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-230" title="Bio230: Biphysik" pordnr="2207" elective-units="0">
-                    <abstract-unit id="P-BIO-L-230" type="m" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-230" title="Bio230: Biphysik" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
         <course id="bsc-che-nf-2013" title="Nebenfach Chemie PO 2013">
             <modules>
                 <module id="P-CHE-M-C1" title="Einführung in die Allgemeine und AnorganCShe Chemie (C1)" pordnr="2300" elective-units="0">
-                    <abstract-unit id="P-CHE-L-C1" type="m" semester="3,5" />
+                    <abstract-unit id="P-CHE-L-C1" title="Einführung in die Allgemeine und AnorganCShe Chemie (C1)" type="m" semester="3,5" />
                 </module>
-                <module id="P-CHE-M-OC" title="OrganCShe Chemie für Studierende der Biologie" pordnr="2301" elective-units="0">
-                    <abstract-unit id="P-CHE-L-OC" type="m" semester="4,6" />
+                <module id="P-CHE-M-OC" title="Organische Chemie für Studierende der Biologie" pordnr="2301" elective-units="0">
+                    <abstract-unit id="P-CHE-L-OC" title="Organische Chemie für Studierende der Biologie" type="m" semester="4,6" />
                 </module>
-                <module id="P-CHE-M-PC2" title="PC II: Thermodynamik und chemCShe Kinetik" pordnr="2302" elective-units="0">
-                    <abstract-unit id="P-CHE-L-PC2" type="m" semester="4,6" />
+                <module id="P-CHE-M-PC2" title="PC II: Thermodynamik und chemische Kinetik" pordnr="2302" elective-units="0">
+                    <abstract-unit id="P-CHE-L-PC2" title="PC II: Thermodynamik und chemische Kinetik" type="m" semester="4,6" />
                 </module>
                 <module id="P-CHE-M-QCCC" title="Einführung in die Quanten- und Computerchemie (QCCC)" pordnr="2303" elective-units="0">
-                    <abstract-unit id="P-CHE-L-QCCC" type="m" semester="3,5" />
+                    <abstract-unit id="P-CHE-L-QCCC" title="Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3,5" />
                 </module>
                 <module id="P-CHE-M-AnQCCC" title="Angewandte Quantenchemie und Computerchemie (AnQCCC)" pordnr="2304" elective-units="0">
-                    <abstract-unit id="P-CHE-L-AnQCCC" type="m" semester="4,6" />
+                    <abstract-unit id="P-CHE-L-AnQCCC" title="Angewandte Quantenchemie und Computerchemie (AnQCCC)" type="m" semester="4,6" />
                 </module>
                 <module id="P-CHE-M-BIOC" title="Biochemie für Biologen (Bio 210)" pordnr="2305" elective-units="0">
-                    <abstract-unit id="P-CHE-L-BIOC" type="m" semester="3,5" />
+                    <abstract-unit id="P-CHE-L-BIOC" title="Biochemie für Biologen (Bio 210)" type="m" semester="3,5" />
                 </module>
                 <module id="P-CHE-M-BIOP" title="Biophysik für Biologen (Bio 230)" pordnr="2306" elective-units="0">
-                    <abstract-unit id="P-CHE-L-BIOP" type="m" semester="3,5" />
+                    <abstract-unit id="P-CHE-L-BIOP" title="Biophysik für Biologen (Bio 230)" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
         <course id="bsc-math-nf-2013" title="Nebenfach Mathematik PO 2013">
             <modules>
                 <module id="P-MAT-M-ANA3" title="Analysis III" pordnr="2400" elective-units="0">
-                    <abstract-unit id="P-MAT-L-ANA3" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-ANA3" title="Analysis III" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-LA2" title="Lineare Algebra II" pordnr="2401" elective-units="0">
-                    <abstract-unit id="P-MAT-L-LA2" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-LA2" title="Lineare Algebra II" type="m" semester="4,6" />
                 </module>
                 <module id="P-MAT-M-CANA" title="Computergestützte Analysis" pordnr="2402" elective-units="0">
-                    <abstract-unit id="P-MAT-L-CANA" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-CANA" title="Computergestützte Analysis" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-CLA" title="Computergestützte Lineare Algebra" pordnr="2403" elective-units="0">
-                    <abstract-unit id="P-MAT-L-CLA" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-CLA" title="Computergestützte Lineare Algebra" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-NUM1" title="Numerik I" pordnr="2404" elective-units="0">
-                    <abstract-unit id="P-MAT-L-NUM1" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-NUM1" title="Numerik I" type="m" semester="4,6" />
                 </module>
                 <module id="P-MAT-M-STO" title="Einführung in die Stochastik" pordnr="2405" elective-units="0">
-                    <abstract-unit id="P-MAT-L-" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-STOCHA" title="Einführung in die Stochastik" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-NUM2" title="Numerik II" pordnr="24" elective-units="0">
-                    <abstract-unit id="P-MAT-L-NUM2" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-NUM2" title="Numerik II" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-WAHR" title="Wahrscheinlichkeitstheorie" pordnr="2409" elective-units="0">
-                    <abstract-unit id="P-MAT-L-WAHR" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-WAHR" title="Wahrscheinlichkeitstheorie" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
         <course id="bsc-psy-nf-2013" title="Nebenfach Psychologie PO 2013">
             <modules>
                 <module id="P-PSY-M-QM1" title="Quantitative Methoden I" pordnr="2500" elective-units="0">
-                    <abstract-unit id="P-PSY-L-QM1" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-QM1" title="Quantitative Methoden I" type="m" semester="3,5" />
                 </module>
                 <module id="P-PSY-M-QM2" title="Quantitavie Methoden II" pordnr="2501" elective-units="0">
-                    <abstract-unit id="P-PSY-L-QM2" type="m" semester="4,6" />
+                    <abstract-unit id="P-PSY-L-QM2" title="Quantitavie Methoden II" type="m" semester="4,6" />
                 </module>
                 <module id="P-PSY-M-VER1" title="Physiologischhe Grundlagen des Verhaltens I" pordnr="2502" elective-units="0">
-                    <abstract-unit id="P-PSY-L-VER1" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-VER1" title="Physiologischhe Grundlagen des Verhaltens I" type="m" semester="3,5" />
                 </module>
                 <module id="P-PSY-M-VER2" title="Physiologische Grundlagen des Verhaltens II" pordnr="2503" elective-units="0">
-                    <abstract-unit id="P-PSY-L-VER2" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-VER2" title="Physiologische Grundlagen des Verhaltens II" type="m" semester="3,5" />
                 </module>
                 <module id="P-PSY-M-BPSY1" title="Biologische Psychologie I" pordnr="2504" elective-units="0">
-                    <abstract-unit id="P-PSY-L-BPSY1" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-BPSY1" title="Biologische Psychologie I" type="m" semester="3,5" />
                 </module>
                 <module id="P-PSY-M-BPSY2" title="Biologische Psychologie II" pordnr="2505" elective-units="0">
-                    <abstract-unit id="P-PSY-L-BPSY2" type="m" semester="4,6" />
+                    <abstract-unit id="P-PSY-L-BPSY2" title="Biologische Psychologie II" type="m" semester="4,6" />
                 </module>
                 <module id="P-PSY-M-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" pordnr="2506" elective-units="0">
-                    <abstract-unit id="P-PSY-L-EMO1" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" type="m" semester="3,5" />
                 </module>
                 <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" pordnr="2507" elective-units="0">
-                    <abstract-unit id="P-PSY-L-EMO2" type="m" semester="4,6" />
+                    <abstract-unit id="P-PSY-L-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" type="m" semester="4,6" />
                 </module>
                 <module id="P-PSY-M-SOZ" title="Sozialpsychologie I" pordnr="2505" elective-units="0">
-                    <abstract-unit id="P-PSY-L-SOZ" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-SOZ" title="Sozialpsychologie I" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
