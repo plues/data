@@ -1078,6 +1078,79 @@
             </group>
             <abstract-unit id="P-PHY-L-EDYN" />
         </unit>
+        <unit id="220000" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" semester="3,5">
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-BOZOO" />
+        </unit>
+        <unit id="220100" title="Bio110: Zell- und Molekularbiologie" semester="">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-110" />
+        </unit>
+        <unit id="220200" title="Bio250: Genetik" semester="2,4,6">
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-250" />
+        </unit>
+        <unit id="220300" title="Bio260: Ökologie und Evolution" semester="2,4,6">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-260" />
+        </unit>
+        <unit id="220400" title="Bio240: Mikrobiologie" semester="3,5">
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0" />
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-240" />
+        </unit>
+        <unit id="220500" title="Bio220: Tierphysiologie" semester="3,5">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-220" />
+        </unit>
+        <unit id="220600" title="Bio210: Biochemie" semester="3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-210" />
+        </unit>
+        <unit id="220700" title="Bio230: Biophysik" semester="3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P--L-" />
+        </unit>
+        <unit id="220701" title="Übung: Bio230: Biophysik" semester="3,5">
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-BIO-L-230" />
+        </unit>
         <unit id="" title="" semester="">
             <group>
                 <session day="" time="" duration="2" rhythm="0" />
