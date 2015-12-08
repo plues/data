@@ -133,7 +133,7 @@
             <m name="Bio250: Genetik" pflicht="j" pordnr="2202" cp="5">
         </l>
         <l name="Ökologie und Evolution" min-cp="5" max-cp="5">
-            <m name="Bio260: Ökologie und Evoltion" pflicht="j" pordnr="2203" cp="5">
+            <m name="Bio260: Ökologie und Evolution" pflicht="j" pordnr="2203" cp="5">
         </l>
         <l name="Mikrobiologie" min-cp="5" max-cp="5">
             <m name="Bio240: Mikrobiologie" pflicht="j" pordnr="2204" cp="5">
