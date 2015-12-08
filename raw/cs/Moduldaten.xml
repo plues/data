@@ -1125,11 +1125,326 @@
             </group>
             <abstract-unit id="P-BIO-L-230" />
         </unit>
-        <unit id="" title="" semester="">
+        <unit id="230000" title="Einführung in die Allgemeine und Anorganische Chemie (C1)" semester="3,5">
             <group>
-                <session day="" time="" duration="2" rhythm="0" />
+                <session day="thu" time="1" duration="2" rhythm="0" />
+                <session day="fri" time="1" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P--L-" />
+            <abstract-unit id="P-CHE-L-C1" />
+        </unit>
+        <unit id="230100" title="Organische Chemie für Studierende der Biologie" semester="4,6">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-OC" />
+        </unit>
+        <unit id="230200" title="PC II: Thermodynamik und chemische Kinetik" semester="4,6">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-PC2" />
+        </unit>
+        <unit id="230201" title="Übungen zu PC II: Theromdynamik und chemische Kinetik" semester="4,6">
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-PC2" />
+        </unit>
+        <unit id="230300" title="Einführung in die Quanten- und Computerchemie (QCCC)" semester="3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+                <session day="tue" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-QCCC" />
+        </unit>
+        <unit id="230301" title="Computerpraktikum: Einführung in die Quanten- und Computerchemie" semester="3,5">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-QCCC" />
+        </unit>
+        <unit id="230400" title="Angewandte Quantenchemie und Computerchemie (AnQCCC)" semester="4,6">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+                <session day="fri" time="2" duration="2" rhythm="0" />
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-AnQCCC" />
+        </unit>
+        <unit id="230500" title="Biochemie für Biologen (Bio 210)" semester="3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+                <session day="fri" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-BIOC" />
+        </unit>
+        <unit id="230600" title="Biophysik für Biologen (Bio 230)" semester="3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CHE-L-BIOP" />
+        </unit>
+        <unit id="240000" title="Analysis III" semester="3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-ANA3" />
+        </unit>
+        <unit id="240001" title="Analysis III - Übungen" semester="3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-ANA3" />
+        </unit>
+        <unit id="240002" title="Analysis III - Tutorium" semester="3,5">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-ANA3" />
+        </unit>
+        <unit id="240100" title="Lineare Algebra II" semester="4,6">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0" />
+                <session day="thu" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-LA2" />
+        </unit>
+        <unit id="240101" title="Übungen zu Lineare Algebra II" semester="4,6">
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-LA2" />
+        </unit>
+        <unit id="240102" title="Tutorium zu Lineare Algebra II" semester="4,6">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-LA2" />
+        </unit>
+        <unit id="240300" title="Computergestützte Analysis / Lineare Algebra" semester="3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-CLA" />
+        </unit>
+        <unit id="240301" title="Übungen zu Computergestützte Lineare Algebra" semester="3,5">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-CLA" />
+        </unit>
+        <unit id="240201" title="Übungen zu Computergestützte Analysis" semester="3,5">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-CLA" />
+        </unit>
+        <unit id="240800" title="Numerik II" semester="3,5">
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0" />
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-NUM2" />
+        </unit>
+        <unit id="240801" title="Übungen zu Numerik II" semester="3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-NUM2" />
+        </unit>
+        <unit id="240900" title="Wahrscheinlichkeitstheorie" semester="3,5">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+                <session day="wed" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-WAHR" />
+        </unit>
+        <unit id="²40901" title="Übungen zu Wahrscheinlickeitstheorie" semester="3,5">
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0" />
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-MAT-L-WAHR" />
+        </unit>
+        <unit id="250000" title="Quantitative Methoden I" semester="3,5">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-QM1" />
+        </unit>
+        <unit id="250100" title="Quantitative Methoden II" semester="4,6">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-QM2" />
+        </unit>
+        <unit id="250101" title="Quantitative Methoden II - Tutorium" semester="4,6">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-QM2" />
+        </unit>
+        <unit id="250200" title="Physiologiesche Grundlagen des Verhaltens I" semester="3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-VER1" />
+        </unit>
+        <unit id="250300" title="Physiologische Grundlagen des Verhaltens II" semester="3,5">
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-VER2" />
+        </unit>
+        <unit id="250400" title="Biologische Psychologie I" semester="3,5">
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-BPSY1" />
+        </unit>
+        <unit id="250500" title="Biologische Psychologie II" semester="4,6">
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-BPSY2" />
+        </unit>
+        <unit id="250600" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" semester="3,5">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-EMO1" />
+        </unit>
+        <unit id="250700" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" semester="3,5">
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-EMO2" />
+        </unit>
+        <unit id="250700" title="Sozialpsychologie I" semester="3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-PSY-L-SOZ" />
         </unit>
     </units>
 </data>
