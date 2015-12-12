@@ -205,6 +205,79 @@
                 </module>
             </modules>
         </course>
+        <course id="msc-cs-hf-2015" title="Master Informatik PO 2015">
+            <modules>
+                <module id="P-CS-M-GEO" title="Einführung in die Geoinformatik" pordnr="3000" elective-units="0">
+                    <abstract-unit id="P-CS-L-GEO" title="Einführung in die Geoinformatik" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-FUNK" title="Funktionale Programmierung" pordnr="3001" elective-units="0">
+                    <abstract-unit id="P-CS-L-FUNK" title="Funktionale Programmierung" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-IRETR" title="Information Retrieval and Natural Language Processing" pordnr="3002" elective-units="0">
+                    <abstract-unit id="P-CS-L-IRETR" title="Information Retrieval and Natural Language Processing" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-IOS" title="iOS Programmierung" pordnr="3003" elective-units="0">
+                    <abstract-unit id="P-CS-L-IOS" title="iOS Programmierung" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-META" title="Modellierung metabolischer Netzwerke" pordnr="3004" elective-units="0">
+                    <abstract-unit id="P-CS-L-META" title="Modellierung metabolischer Netzwerke" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-GRAFIK" title="Paralleles Rechnen mit Grafikkarten" pordnr="3005" elective-units="0">
+                    <abstract-unit id="P-CS-L-GRAFIK" title="Paralleles Rechnen mit Grafikkarten" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-SKS" title="Sicherheitskritische Systeme" pordnr="3006" elective-units="0">
+                    <abstract-unit id="P-CS-L-SKS" title="Sicherheitskritische Systeme" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-SPIEL" title="Algorithmische Spieltheorie" pordnr="3007" elective-units="0">
+                    <abstract-unit id="P-CS-L-SPIEL" title="Algorithmische Spieltheorie" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-ZGRA" title="Zeichnen von Graphen" pordnr="3008" elective-units="0">
+                    <abstract-unit id="P-CS-L-ZGRA" title="Zeichnen von Graphen" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-BIO2" title="Algorithmen in der Bioinformatik II" pordnr="3009" elective-units="0">
+                    <abstract-unit id="P-CS-L-BIOINF2" title="Algorithmen in der Bioinformatik II" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-ANDR" title="Android-Programmierung" pordnr="3010" elective-units="0">
+                    <abstract-unit id="P-CS-L-ANDR" title="Android-Programmierung" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-VERT" title="Architektur verteilter Systeme" pordnr="3011" elective-units="0">
+                    <abstract-unit id="P-CS-L-VERT" title="Architektur verteilter Systeme" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-DYNL" title="Dynamische Programmiersprachen" pordnr="3012" elective-units="0">
+                    <abstract-unit id="P-CS-L-DYNL" title="Dynamische Programmiersprachen" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-STAT" title="Einführung in die statistische Analyse mittels Computersimulation" pordnr="3013" elective-units="0">
+                    <abstract-unit id="P-CS-L-STAT" title="Einführung in die statistische Analyse mittels Computersimulation" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-KDD" title="Knowlegde Discovery in Databases: Ausgewählte Themen" pordnr="3014" elective-units="0">
+                    <abstract-unit id="P-CS-L-KDD" title="Knowlegde Discovery in Databases: Ausgewählte Themen" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-MC" title="Model Checking" pordnr="3015" elective-units="0">
+                    <abstract-unit id="P-CS-L-MC" title="Model Checking" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-NETSEC" title="Netzwerksicherheit" pordnr="3016" elective-units="0">
+                    <abstract-unit id="P-CS-L-NETSEC" title="Netzwerksicherheit" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-PTP" title="Peer-to-Peer Systeme" pordnr="3017" elective-units="0">
+                    <abstract-unit id="P-CS-L-PTP" title="Peer-to-Peer Systeme" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-VPP" title="Verteilte und Parallele Programmierung" pordnr="3018" elective-units="0">
+                    <abstract-unit id="P-CS-L-VPP" title="Verteilte und Parallele Programmierung" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-VERLOG" title="Vertiefung logische Programmierung" pordnr="3019" elective-units="0">
+                    <abstract-unit id="P-CS-L-VERLOG" title="Vertiefung logische Programmierung" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-ADHOC" title="Algorithmen für Ad-hoc- und Sensornetzwerke" pordnr="3020" elective-units="0">
+                    <abstract-unit id="P-CS-L-ADHOC" title="Algorithmen für Ad-hoc- und Sensornetzwerke" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-SCHWER" title="Algorithmen für schwere Probleme" pordnr="3021" elective-units="0">
+                    <abstract-unit id="P-CS-L-SCHWER" title="Algorithmen für schwere Probleme" type="m" semester="1,2,3,4">
+                </module>
+                <module id="P-CS-M-CAKE" title="Cake-cutting Algorithms" pordnr="3022" elective-units="0">
+                    <abstract-unit id="P-CS-L-CAKE" title="Cake-cutting Algorithms" type="m" semester="1,2,3,4">
+                </module>
+            </modules>
+        </course>
     </course-module-units>
     <units>
         <unit id="110000" title="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
@@ -1445,6 +1518,18 @@
                 <session day="tue" time="2" duration="2" rhythm="0" />
             </group>
             <abstract-unit id="P-PSY-L-SOZ" />
+        </unit>
+        <unit id="30" title="" semester="">
+            <group>
+                <session day="" time="" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-" />
+        </unit>
+        <unit id="30" title="" semester="">
+            <group>
+                <session day="" time="" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-CS-L-" />
         </unit>
     </units>
 </data>

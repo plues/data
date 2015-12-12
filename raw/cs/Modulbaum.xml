@@ -192,4 +192,60 @@
             <m name="Sozialpsychologie I" pflicht="j" pordnr="2508" cp="4" />
         </l>
     </b>
+    <b abschl="msc" stg="cs" kzfa="H" pverson="2015" name="Master Informatik">
+        <l name="Schwerpunkt 2" min-cp="30" max-cp="30">
+            <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
+            <m name="Funktionale Programmierung" pordnr="3001" cp="5" />
+            <m name="Information Retrieval and Natual Language Processing" pordnr="3002" cp="5" />
+            <m name="iOS Programmierung" pordnr="3003" cp="5" />
+            <m name="Modellierung metabolischer Netzwerke" pordnr="3004" cp="5" />
+            <m name="Paralleles Rechnen mit Grafikkarten" pordnr="3005" cp="5" />
+            <m name="Sicherheitskritische Systeme" pordnr="3006" cp="5" />
+            <m name="Algorithmische Spieltheorie" pordnr="3007" cp="10" />
+            <m name="Zeichnen von Graphen" pordnr="3008" cp="5" />
+            <m name="Algorithmen in der Bioinformatik II" pordnr="3009" cp="5" />
+            <m name="Android-Programmierung" pordnr="3010" cp="5" />
+            <m name="Architektur verteilter Systeme" pordnr="3011" cp="5" />
+            <m name="Dynamische Programmiersprachen" pordnr="3012" cp="5" />
+            <m name="Einführung in die statistische Analyse mittels Computersimulation" pordnr="3013" cp="5" />
+            <m name="Knowledge Discovery in Databases: Ausgewählte Themen" pordnr="3014" cp="5" />
+            <m name="Model Checking" pordnr="3015" cp="5" />
+            <m name="Netzwerksicherheit" pordnr="3016" cp="10" />
+            <m name="Peer-to-Peer Systeme" pordnr="3017" cp="5" />
+            <m name="Verteilte und Parallele Programmierung" pordnr="3018" cp="5" />
+            <m name="Vertiefung logische Programmierung" pordnr="3019" cp="5" />
+            <m name="Algorithmen für Ad-hoc- und Sensornetzwerke" pordnr="3020" cp="10" />
+            <m name="Algorithmen für schwere Probleme" pordnr="3021" cp="5" />
+            <m name="Cake-cutting Algorithms" pordnr="3022" cp="5" />
+        </l>
+        <l name="Wahlpflicht Praktische oder Technische Informatik" min-cp="15" max-cp="15">
+            <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
+            <m name="Funktionale Programmierung" pordnr="3001" cp="5" />
+            <m name="Information Retrieval and Natual Language Processing" pordnr="3002" cp="5" />
+            <m name="iOS Programmierung" pordnr="3003" cp="5" />
+            <m name="Modellierung metabolischer Netzwerke" pordnr="3004" cp="5" />
+            <m name="Paralleles Rechnen mit Grafikkarten" pordnr="3005" cp="5" />
+            <m name="Sicherheitskritische Systeme" pordnr="3006" cp="5" />
+            <m name="Algorithmen in der Bioinformatik II" pordnr="3009" cp="5" />
+            <m name="Android-Programmierung" pordnr="3010" cp="5" />
+            <m name="Architektur verteilter Systeme" pordnr="3011" cp="5" />
+            <m name="Dynamische Programmiersprachen" pordnr="3012" cp="5" />
+            <m name="Einführung in die statistische Analyse mittels Computersimulation" pordnr="3013" cp="5" />
+            <m name="Knowledge Discovery in Databases: Ausgewählte Themen" pordnr="3014" cp="5" />
+            <m name="Model Checking" pordnr="3015" cp="5" />
+            <m name="Netzwerksicherheit" pordnr="3016" cp="10" />
+            <m name="Peer-to-Peer Systeme" pordnr="3017" cp="5" />
+            <m name="Verteilte und Parallele Programmierung" pordnr="3018" cp="5" />
+            <m name="Vertiefung logische Programmierung" pordnr="3019" cp="5" />
+        </l>
+        <l name="Wahlpflicht Theoretische Informatik" min-cp="15" max-cp="15">
+            <m name="Sicherheitskritische Systeme" pordnr="3006" cp="5" />
+            <m name="Algorithmische Spieltheorie" pordnr="3007" cp="10" />
+            <m name="Zeichnen von Graphen" pordnr="3008" cp="5" />
+            <m name="Model Checking" pordnr="3015" cp="5" />
+            <m name="Algorithmen für Ad-hoc- und Sensornetzwerke" pordnr="3020" cp="10" />
+            <m name="Algorithmen für schwere Probleme" pordnr="3021" cp="5" />
+            <m name="Cake-cutting Algorithms" pordnr="3022" cp="5" />
+        </l>
+    </b>
 </ModulBaum>
