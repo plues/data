@@ -102,7 +102,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bsc" stg="phy" kzfa="N" pversion="2007" name="Nebenfach Physik">
+    <b abschl="bsc" stg="phy" kzfa="N" pversion="2007" name="Nebenfach Physik" cp="40">
         <l name="Mathematische Methoden der Physik" min-cp="7" max-cp="7">
             <m name="Mathematische Methoden der Physik I" pflicht="j" pordnr="2100" cp="7" />
         </l>
@@ -120,7 +120,7 @@
             <m name="Theoretische Elektrodynamik" pordnr="2107" cp="9" />
         </l>
     </b>
-    <b abschl="bsc" stg="bio" kzfa="N" pversion="2015" name="Nebenfach Biologie">
+    <b abschl="bsc" stg="bio" kzfa="N" pversion="2015" name="Nebenfach Biologie" cp="40">
         <l name="Allgemeine Biologie" min-cp="10" max-cp="10">
             <m name="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" pflicht="j" pordnr="2200" cp="5" />
             <m name="Bio110: Zell- und Molekularbiologie" pflicht="j" pordnr="2201" cp="5" />
@@ -144,7 +144,7 @@
             <m name="Bio230: Biophysik" pflicht="j" pordnr="2207" cp="5" />
         </l>
     </b>
-    <b abschl="bsc" stg="che" kzfa="N" pversion="2013" name="Nebenfach Chemie">
+    <b abschl="bsc" stg="che" kzfa="N" pversion="2013" name="Nebenfach Chemie" cp="40">
         <l name="Einführung in die Allgemeine und Anorganische Chemie (C1)" min-cp="8" max-cp="8">
             <m name="Einführung in die Allgemeine und Anorganische Chemie (C1)" pflicht="j" pordnr="2300" cp="8" />
         </l>
@@ -163,7 +163,7 @@
             <m name="Biophysik für Biologen (Bio 230)" pordnr="2306" cp="5" /> 
         </l>2
     </b>
-    <b abschl="bsc" stg="mat" kzfa="N" pversion="2008" name="Nebenfach Mathematik">
+    <b abschl="bsc" stg="mat" kzfa="N" pversion="2008" name="Nebenfach Mathematik" cp="40">
         <l name="Module" min-cp="40" max-cp="40">
             <m name="Analysis III" pordnr="2400" cp="10" />
             <m name="Lineare Algebra II" pordnr="2401" cp="10" />
@@ -175,7 +175,7 @@
             <m name="Wahrscheinlickeitstheorie" pordnr="2409" cp="10" />
         </l>
     </b>
-    <b abschl="bsc" stg="psy" kzfa="N" pversion="2007" name="Nebenfach Psychologie">
+    <b abschl="bsc" stg="psy" kzfa="N" pversion="2007" name="Nebenfach Psychologie" cp="40">
         <l name="Modul 1: Quantitative Methoden" min-cp="12" max-cp="12">
             <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
             <m name="Quantitative Methoden II" pflicht="j" pordnr="2501" cp="6" />
@@ -192,7 +192,7 @@
             <m name="Sozialpsychologie I" pflicht="j" pordnr="2508" cp="4" />
         </l>
     </b>
-    <b abschl="msc" stg="cs" kzfa="H" pverson="2015" name="Master Informatik">
+    <b abschl="msc" stg="cs" kzfa="H" pversion="2015" name="Master Informatik" cp="120">
         <l name="Schwerpunkt 2" min-cp="30" max-cp="30">
             <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
             <m name="Funktionale Programmierung" pordnr="3001" cp="5" />

@@ -99,7 +99,7 @@
                     <abstract-unit id="P-BIO-L-BOZOO" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" type="m" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-110" title="Bio110: Zell- und Molekularbiologie" pordnr="2201" elective-units="0">
-                    <abstract-unit id="P-BIO-L-110" title="Bio110: Zell- und Molekularbiologie" type="0" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-110" title="Bio110: Zell- und Molekularbiologie" type="m" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-250" title="Bio250: Genetik" pordnr="2202" elective-units="0">
                     <abstract-unit id="P-BIO-L-250" title="Bio250: Genetik" pordnr="2202" type="m" semester="4,6" />
