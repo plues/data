@@ -2,7 +2,7 @@
 <ModulBaum>
     <b abschl="bsc" stg="cs" kzfa="H" cp="180" pversion="2013" name="Bachelor Informatik">
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
-            <l name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" min="10" max="10">
+            <l name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" min-cp="10" max-cp="10">
                 <m name="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
             </l>
             <l name="Grundlagen der Technischen Informatik (Informatik II)" min-cp="10" max-cp="10">
