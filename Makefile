@@ -5,7 +5,7 @@ MINCER_VERSION=0.1.0-SNAPSHOT
 mincer=bin/mincer-$(MINCER_VERSION).jar
 
 # Available flavors for data
-FLAVORS := philfak wiwi
+FLAVORS := philfak wiwi cs
 # Default flavor
 flavor=philfak
 
@@ -36,6 +36,10 @@ philfak-data=raw/philfak/Moduldaten.xml
 # wiwi flavor files
 wiwi-tree=
 wiwi-data=
+
+# cs flavor files
+cs-tree=raw/cs/Modulbaum.xml
+cs-data=raw/cs/Moduldaten.xml
 
 $(DATABASES): %-data.sqlite3: $(mincer) $($(flavor)-tree) $($(flavor)-data)
 	java -jar $(mincer) --output=$@ --module-tree=$($(flavor)-tree) --module-data=$($(flavor)-data)

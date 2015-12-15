@@ -2681,14 +2681,19 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-HIST-L-BBMNOc" />
-        </unit>
-        <unit id="125050" title="Einführung in die Geschichte Russlands und der Sowjetunion (Vorlesung)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0" />
             </group>
             <abstract-unit id="P-HIST-L-BBMNOc" />
         </unit>
+<!--
+       <unit id="125050" title="Einführung in die Geschichte Russlands und der Sowjetunion (Vorlesung)" semester="2,4,6">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0" />
+            </group>
+            <abstract-unit id="P-HIST-L-BBMNOc" />
+        </unit>
+-->
         <unit id="125044" title="Geschichte: Medien und Methoden (Vorlesung)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0" />
