@@ -200,7 +200,7 @@
                 <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" pordnr="2507" elective-units="0">
                     <abstract-unit id="P-PSY-L-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" type="m" semester="4,6" />
                 </module>
-                <module id="P-PSY-M-SOZ" title="Sozialpsychologie I" pordnr="2505" elective-units="0">
+                <module id="P-PSY-M-SOZ" title="Sozialpsychologie I" pordnr="2508" elective-units="0">
                     <abstract-unit id="P-PSY-L-SOZ" title="Sozialpsychologie I" type="m" semester="3,5" />
                 </module>
             </modules>
