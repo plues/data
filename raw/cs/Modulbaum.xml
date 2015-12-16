@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModulBaum>
-    <b abschl="bsc" stg="cs" kzfa="H" cp="180" pversion="2013" name="Bachelor Informatik">
+    <b abschl="bsc" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik">
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
             <l name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" min-cp="10" max-cp="10">
                 <m name="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
@@ -192,7 +192,7 @@
             <m name="Sozialpsychologie I" pflicht="j" pordnr="2508" cp="4" />
         </l>
     </b>
-    <b abschl="msc" stg="cs" kzfa="H" pversion="2015" name="Master Informatik" cp="120">
+    <b abschl="msc" stg="cs" kzfa="H" pversion="2015" name="Master Informatik" cp="60">
         <l name="Schwerpunkt 2" min-cp="30" max-cp="30">
             <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
             <m name="Funktionale Programmierung" pordnr="3001" cp="5" />
