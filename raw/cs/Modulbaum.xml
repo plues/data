@@ -102,7 +102,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bsc" stg="phy" kzfa="N" pversion="2007" name="Nebenfach Physik" cp="40">
+    <b abschl="bsc" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik" cp="40">
         <l name="Mathematische Methoden der Physik" min-cp="7" max-cp="7">
             <m name="Mathematische Methoden der Physik I" pflicht="j" pordnr="2100" cp="7" />
         </l>
@@ -175,7 +175,7 @@
             <m name="Wahrscheinlickeitstheorie" pordnr="2409" cp="10" />
         </l>
     </b>
-    <b abschl="bsc" stg="psy" kzfa="N" pversion="2007" name="Nebenfach Psychologie" cp="40">
+    <b abschl="bsc" stg="psy" kzfa="N" pversion="2013" name="Nebenfach Psychologie" cp="40">
         <l name="Modul 1: Quantitative Methoden" min-cp="12" max-cp="12">
             <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
             <m name="Quantitative Methoden II" pflicht="j" pordnr="2501" cp="6" />
@@ -217,6 +217,10 @@
             <m name="Algorithmen für Ad-hoc- und Sensornetzwerke" pordnr="3020" cp="10" />
             <m name="Algorithmen für schwere Probleme" pordnr="3021" cp="5" />
             <m name="Cake-cutting Algorithms" pordnr="3022" cp="5" />
+            <m name="Computer Vision" pordnr="3023" cp="5" />
+            <m name="Multimedia-Datenbanksysteme" pordnr="3024" cp="5" />
+            <m name="Approximationsalgorithmen" pordnr="3025" cp="5" />
+            <m name="Graphenalgorithmen II" pordnr="3026" cp="10" />
         </l>
         <l name="Wahlpflicht Praktische oder Technische Informatik" min-cp="15" max-cp="15">
             <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
@@ -237,6 +241,8 @@
             <m name="Peer-to-Peer Systeme" pordnr="3017" cp="5" />
             <m name="Verteilte und Parallele Programmierung" pordnr="3018" cp="5" />
             <m name="Vertiefung logische Programmierung" pordnr="3019" cp="5" />
+            <m name="Computer Vision" pordnr="3023" cp="5" />
+            <m name="Multimedia-Datenbanksysteme" pordnr="3024" cp="5" />
         </l>
         <l name="Wahlpflicht Theoretische Informatik" min-cp="15" max-cp="15">
             <m name="Sicherheitskritische Systeme" pordnr="3006" cp="5" />
@@ -246,6 +252,8 @@
             <m name="Algorithmen für Ad-hoc- und Sensornetzwerke" pordnr="3020" cp="10" />
             <m name="Algorithmen für schwere Probleme" pordnr="3021" cp="5" />
             <m name="Cake-cutting Algorithms" pordnr="3022" cp="5" />
+            <m name="Approximationsalgorithmen" pordnr="3025" cp="5" />
+            <m name="Graphenalgorithmen II" pordnr="3026" cp="10" />
         </l>
     </b>
 </ModulBaum>
