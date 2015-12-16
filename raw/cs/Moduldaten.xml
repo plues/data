@@ -6,7 +6,7 @@
                 <module id="P-CS-M-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pordnr="1100" elective-units="0">
                     <abstract-unit id="P-CS-L-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
                 </module>
-                <module id="P-CS-M-INFO2" title="Grundlangen der TechnCShen Informatik (Informatik II)" pordnr="1101" elective-units="0">
+                <module id="P-CS-M-INFO2" title="Grundlangen der Technischen Informatik (Informatik II)" pordnr="1101" elective-units="0">
                     <abstract-unit id="P-CS-L-INFO2" title="Grundlangen der Technischen Informatik (Informatik II)" type="m" semester="2" />
                 </module>
                 <module id="P-CS-M-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" pordnr="1102" elective-units="0">
@@ -39,8 +39,8 @@
                 <module id="P-CS-M-RN" title="Rechnernetze" pordnr="1301" elective-units="0">
                     <abstract-unit id="P-CS-L-RN" title="Rechnernetze" type="m" semester="3,5" />
                 </module>
-                <module id="P-CS-M-PROLOG" title="Einführung in die logCShe Programmierung" pordnr="1302" elective-units="0">
-                    <abstract-unit id="P-CS-L-PROLOG" title="Einführung in die logCShe Programmierung" type="m" semester="3,5" />
+                <module id="P-CS-M-PROLOG" title="Einführung in die logische Programmierung" pordnr="1302" elective-units="0">
+                    <abstract-unit id="P-CS-L-PROLOG" title="Einführung in die logische Programmierung" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-CBAU" title="Compilerbau" pordnr="1303" elective-units="0">
                     <abstract-unit id="P-CS-L-CBAU" title="Compilerbau" type="m" semester="4,6" />
@@ -67,7 +67,7 @@
         </course>
         <course id="bsc-phy-nf-2013" title="Nebenfach Physik PO 2013">
             <modules>
-                <module id="P-PHY-M-MAME1" title="MathematCShe Methoden der Physik I" pordnr="2100" elective-units="0">
+                <module id="P-PHY-M-MAME1" title="Mathematische Methoden der Physik I" pordnr="2100" elective-units="0">
                     <abstract-unit id="P-PHY-L-MAME1" title="Mathematische Methoden der Physik I" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-GP1" title="Grundpraktikum 1" pordnr="2101" elective-units="0"> <!--In der Vl-freien Zeit-->
@@ -88,8 +88,8 @@
                 <module id="P-PHY-M-THEOM" title="Theoretische Mechanik" pordnr="2106" elective-units="0">
                     <abstract-unit id="P-PHY-L-THEOM" title="Theoretische Mechanik" type="m" semester="2,4,6" />
                 </module>
-                <module id="P-PHY-M-THEOE" title="TheoretCShe Elektrodynamik" pordnr="2107" elective-units="0">
-                    <abstract-unit id="P-PHY-L-EDYN" title="TheoretCShe Elektrodynamik" type="m" semester="3,5" />
+                <module id="P-PHY-M-THEOE" title="Theoretische Elektrodynamik" pordnr="2107" elective-units="0">
+                    <abstract-unit id="P-PHY-L-EDYN" title="Theoretische Elektrodynamik" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
@@ -123,8 +123,8 @@
         </course>
         <course id="bsc-che-nf-2013" title="Nebenfach Chemie PO 2013">
             <modules>
-                <module id="P-CHE-M-C1" title="Einführung in die Allgemeine und AnorganCShe Chemie (C1)" pordnr="2300" elective-units="0">
-                    <abstract-unit id="P-CHE-L-C1" title="Einführung in die Allgemeine und AnorganCShe Chemie (C1)" type="m" semester="3,5" />
+                <module id="P-CHE-M-C1" title="Einführung in die Allgemeine und Anorganische Chemie (C1)" pordnr="2300" elective-units="0">
+                    <abstract-unit id="P-CHE-L-C1" title="Einführung in die Allgemeine und Anorganische Chemie (C1)" type="m" semester="3,5" />
                 </module>
                 <module id="P-CHE-M-OC" title="Organische Chemie für Studierende der Biologie" pordnr="2301" elective-units="0">
                     <abstract-unit id="P-CHE-L-OC" title="Organische Chemie für Studierende der Biologie" type="m" semester="4,6" />
@@ -335,7 +335,7 @@
             </group>
             <abstract-unit id="P-CS-L-INFO1" />
         </unit>
-        <unit id="110002" title="PraktCShe Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
+        <unit id="110002" title="Praktische Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" semester="1,3,5">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0" />
             </group>
@@ -466,14 +466,14 @@
             </group>
             <abstract-unit id="P-CS-L-INFO3" />
         </unit>
-        <unit id="110300" title="Grundlagen der TheoretCShen Informatik (Informatik IV)" semester="4,6">
+        <unit id="110300" title="Grundlagen der Theoretischen Informatik (Informatik IV)" semester="4,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0" />
                 <session day="fri" time="3" duration="2" rhythm="0" />
             </group>
             <abstract-unit id="P-CS-L-INFO4" />
         </unit>
-        <unit id="110301" title="Übungen zu Grundlagen der TheoretCShen Informatik (Informatik IV)" semester="4,6">
+        <unit id="110301" title="Übungen zu Grundlagen der Theoretischen Informatik (Informatik IV)" semester="4,6">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0" />
             </group>
