@@ -41,7 +41,7 @@
             <l name="Datenbanken und Informationssysteme" min-cp="0" max-cp="10">
                 <m name="Datenbanksysteme (für BA Informatik)" pordnr="1300" cp="10" />
             </l>
-            <l name="Rechnernetze" min-cp="10" max-cp="10">
+            <l name="Rechnernetze" min-cp="0" max-cp="10">
                 <m name="Rechnernetze" pordnr="1301" cp="10" />
             </l>
             <l name="Softwaretechnik und Programmiersprachen" min-cp="0" max-cp="10">
