@@ -159,8 +159,8 @@
         </l>
         <l name="Wahlpflichtmodul" min-cp="8" max-cp="8">
             <m name="Angewandte Quantenchemie und Computerchemie (AnQCCC)" pordnr="2304" cp="8" />
-            <m name="Biochemie für Biologen (Bio 210)" pordnr="2305" cp="5" />
-            <m name="Biophysik für Biologen (Bio 230)" pordnr="2306" cp="5" />
+            <m name="Biochemie für Biologen (Bio 210)" pordnr="2305" cp="4" />
+            <m name="Biophysik für Biologen (Bio 230)" pordnr="2306" cp="4" />
         </l>2
     </b>
     <b abschl="bsc" stg="mat" kzfa="N" pversion="2008" name="Nebenfach Mathematik" cp="40">
