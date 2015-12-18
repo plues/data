@@ -4,40 +4,57 @@
         <course id="bsc-cs-hf-2013" title="Bachelor Informatik PO 2013">
             <modules>
                 <module id="P-CS-M-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pordnr="1100" elective-units="0">
-                    <abstract-unit id="P-CS-L-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
+                    <abstract-unit id="P-CS-L-INFO1a" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
+                    <abstract-unit id="P-CS-L-INFO1b" title="Übungen zu Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
+                    <abstract-unit id="P-CS-L-INFO1c" title="Praktische Übungen Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
                 </module>
                 <module id="P-CS-M-INFO2" title="Grundlangen der Technischen Informatik (Informatik II)" pordnr="1101" elective-units="0">
-                    <abstract-unit id="P-CS-L-INFO2" title="Grundlangen der Technischen Informatik (Informatik II)" type="m" semester="2" />
+                    <abstract-unit id="P-CS-L-INFO2a" title="Grundlangen der Technischen Informatik (Informatik II)" type="m" semester="2" />
+                    <abstract-unit id="P-CS-L-INFO2b" title="Übungen zu Grundlangen der Technischen Informatik (Informatik II)" type="m" semester="2" />
                 </module>
                 <module id="P-CS-M-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" pordnr="1102" elective-units="0">
-                    <abstract-unit id="P-CS-L-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" type="m" semester="3" />
+                    <abstract-unit id="P-CS-L-INFO3a" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" type="m" semester="3" />
+                    <abstract-unit id="P-CS-L-INFO3b" title="Übungen zu Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" type="m" semester="3" />
                 </module>
                 <module id="P-CS-M-INFO4" title="Grundlangen der Theoretischen Informatik (Informatik IV)" pordnr="1103" elective-units="0">
-                    <abstract-unit id="P-CS-L-INFO4" title="Grundlangen der Theoretischen Informatik (Informatik IV)" type="m" semester="4" />
+                    <abstract-unit id="P-CS-L-INFO4a" title="Grundlangen der Theoretischen Informatik (Informatik IV)" type="m" semester="4" />
+                    <abstract-unit id="P-CS-L-INFO4b" title="Übungen zu Grundlangen der Theoretischen Informatik (Informatik IV)" type="m" semester="4" />
                 </module>
                 <module id="P-CS-M-PROPRA" title="Programmierpraktikum" pordnr="1104" elective-units="0">
-                    <abstract-unit id="P-CS-L-PROPRA" title="Programmierpraktikum" type="m" semester="2,4" />
+                    <abstract-unit id="P-CS-L-PROPRAa" title="Programmierpraktikum" type="m" semester="2,4" />
+                    <abstract-unit id="P-CS-L-PROPRAb" title="Übungen: Programmierpraktikum" type="m" semester="2,4" />
                 </module>
                 <module id="P-CS-M-ANA1" title="Analysis I" pordnr="1200" elective-units="0">
-                    <abstract-unit id="P-CS-L-ANA1" title="Analysis I" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-ANA1a" title="Analysis I" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-ANA1b" title="Analysis I - Übungen" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-ANA1c" title="Analysis I - Tutorium" type="m" semester="1,2" />
                 </module>
                 <module id="P-CS-M-LA1" title="Lineare Algebra I" pordnr="1201" elective-units="0">
-                    <abstract-unit id="P-CS-L-LA1" title="Lineare Algebra I" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-LA1a" title="Lineare Algebra I" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-LA1b" title="Lineare Algebra I - Übungen" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-LA1c" title="Lineare Algebra I - Tutorium" type="m" semester="1,2" />
                 </module>
                 <module id="P-CS-M-ANA2" title="Analysis II" pordnr="1202" elective-units="0">
-                    <abstract-unit id="P-CS-L-ANA2" title="Analysis II" type="m" semester="2,3" />
+                    <abstract-unit id="P-CS-L-ANA2a" title="Analysis II" type="m" semester="2,3" />
+                    <abstract-unit id="P-CS-L-ANA2b" title="Analysis II - Übungen" type="m" semester="2,3" />
+                    <abstract-unit id="P-CS-L-ANA2c" title="Analysis II - Tutorium" type="m" semester="2,3" />
                 </module>
                 <module id="P-CS-M-NUM1" title="Numerik I" pordnr="1203" elective-units="1">
-                    <abstract-unit id="P-CS-L-NUM1" title="Numerik I" type="e" semester="4" />
+                    <abstract-unit id="P-CS-L-NUM1a" title="Numerik I" type="e" semester="4" />
+                    <abstract-unit id="P-CS-L-NUM1b" title="Numerik I - Übungen" type="e" semester="4" />
+                    <abstract-unit id="P-CS-L-NUM1c" title="Numerik I - Praktische Übungen" type="e" semester="4" />
                 </module>
                 <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="1">
-                    <abstract-unit id="P-CS-L-STO" title="Einführung in die Stochastik" type="e" semester="3" />
+                    <abstract-unit id="P-CS-L-STOa" title="Einführung in die Stochastik" type="e" semester="3" />
+                    <abstract-unit id="P-CS-L-STOb" title="Übungen zu Einführung in die Stochastik" type="e" semester="3" />
                 </module>
                 <module id="P-CS-M-DBS" title="Datenbanksysteme (für BA Informatik)" pordnr="1300" elective-units="0">
-                    <abstract-unit id="P-CS-L-DBS" title="Datenbanksysteme (für BA Informatik)" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-DBSa" title="Datenbanksysteme (für BA Informatik)" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-DBSb" title="Datenbanksysteme (für BA Informatik) - Übungen" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-RN" title="Rechnernetze" pordnr="1301" elective-units="0">
-                    <abstract-unit id="P-CS-L-RN" title="Rechnernetze" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-RNa" title="Rechnernetze" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-RNb" title="Rechnernetze - Hörsaalübung" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-PROLOG" title="Einführung in die logische Programmierung" pordnr="1302" elective-units="0">
                     <abstract-unit id="P-CS-L-PROLOG" title="Einführung in die logische Programmierung" type="m" semester="3,5" />
@@ -52,7 +69,8 @@
                     <abstract-unit id="P-CS-L-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" type="m" semester="3,5" />
                 </module>
                 <module id="P-CS-M-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" elective-units="0">
-                    <abstract-unit id="P-CS-L-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" type="m" semester="4,6" />
+                    <abstract-unit id="P-CS-L-WAHLa" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" type="m" semester="4,6" />
+                    <abstract-unit id="P-CS-L-WAHLb" title="Übungen zu Präferenzaggregation durch Wählen: Algorithmik und Komplexität" type="m" semester="4,6" />
                 </module>
                 <module id="P-CS-M-BS" title="Betriesbssysteme / Grundlagen verteilter Systeme" pordnr="1307" elective-units="0">
                     <abstract-unit id="P-CS-L-VSBS" title="Betriesbssysteme / Grundlagen verteilter Systeme" type="m" semester="3,5" />
@@ -68,28 +86,35 @@
         <course id="bsc-phy-nf-2013" title="Nebenfach Physik PO 2013">
             <modules>
                 <module id="P-PHY-M-MAME1" title="Mathematische Methoden der Physik I" pordnr="2100" elective-units="0">
-                    <abstract-unit id="P-PHY-L-MAME1" title="Mathematische Methoden der Physik I" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-MAME1a" title="Mathematische Methoden der Physik I" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-MAME1b" title="Übungen zu Mathematische Methoden der Physik I" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-GP1" title="Grundpraktikum 1" pordnr="2101" elective-units="0"> <!--In der Vl-freien Zeit-->
                     <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum 1" type="m" semester="2,4" />
                 </module>
                 <module id="P-PHY-M-OPT" title="Optik" pordnr="2102" elective-units="0">
-                    <abstract-unit id="P-PHY-L-OPT" title="Optik" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-OPTa" title="Optik" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-OPTb" title="Theoretsische Übungen - Optik" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-EXM" title="Experimentelle Mechanik" pordnr="2103" elective-units="0">
-                    <abstract-unit id="P-PHY-L-EXM" title="Experimentelle Mechanik" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-EXMa" title="Experimentelle Mechanik" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-EXMb" title="Übungen zu Experimentelle Mechanik" type="m" semester="3,5" />
                 </module>
                 <module id="P-PHY-M-ELMA" title="Elektrizität und Magnetismus" pordnr="2104" elective-units="0">
-                    <abstract-unit id="P-PHY-L-ELMA" title="Elektrizität und Magnetismus" type="m" semester="2,4,6" />
+                    <abstract-unit id="P-PHY-L-ELMAa" title="Elektrizität und Magnetismus" type="m" semester="2,4,6" />
+                    <abstract-unit id="P-PHY-L-ELMAb" title="Übungen zu Vorlesung Elektrizität und Magnetismus" type="m" semester="2,4,6" />
                 </module>
                 <module id="P-PHY-M-ATOM" title="Experimentelle Atomphysik" pordnr="2105" elective-units="0">
-                    <abstract-unit id="P-PHY-L-ATOM" title="Experimentelle Atomphysik" type="m" semester="4,6" />
+                    <abstract-unit id="P-PHY-L-ATOMa" title="Experimentelle Atomphysik" type="m" semester="4,6" />
+                    <abstract-unit id="P-PHY-L-ATOMb" title="Übungen zu Experimentelle Atomphysik" type="m" semester="4,6" />
                 </module>
                 <module id="P-PHY-M-THEOM" title="Theoretische Mechanik" pordnr="2106" elective-units="0">
-                    <abstract-unit id="P-PHY-L-THEOM" title="Theoretische Mechanik" type="m" semester="2,4,6" />
+                    <abstract-unit id="P-PHY-L-THEOMa" title="Theoretische Mechanik" type="m" semester="2,4,6" />
+                    <abstract-unit id="P-PHY-L-THEOMb" title="Übungen zu Theoretische Mechanik" type="m" semester="2,4,6" />
                 </module>
-                <module id="P-PHY-M-THEOE" title="Theoretische Elektrodynamik" pordnr="2107" elective-units="0">
-                    <abstract-unit id="P-PHY-L-EDYN" title="Theoretische Elektrodynamik" type="m" semester="3,5" />
+                <module id="P-PHY-M-EDYN" title="Theoretische Elektrodynamik" pordnr="2107" elective-units="0">
+                    <abstract-unit id="P-PHY-L-EDYNa" title="Theoretische Elektrodynamik" type="m" semester="3,5" />
+                    <abstract-unit id="P-PHY-L-EDYNb" title="Übungen zu Theoretische Elektrodynamik" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
@@ -117,7 +142,8 @@
                     <abstract-unit id="P-BIO-L-210" title="Bio210: Biochemie" type="m" semester="3,5" />
                 </module>
                 <module id="P-BIO-M-230" title="Bio230: Biphysik" pordnr="2207" elective-units="0">
-                    <abstract-unit id="P-BIO-L-230" title="Bio230: Biphysik" type="m" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-230a" title="Bio230: Biphysik" type="m" semester="3,5" />
+                    <abstract-unit id="P-BIO-L-230b" title="Übungen zu Bio230: Biphysik" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
@@ -130,10 +156,12 @@
                     <abstract-unit id="P-CHE-L-OC" title="Organische Chemie für Studierende der Biologie" type="m" semester="4,6" />
                 </module>
                 <module id="P-CHE-M-PC2" title="PC II: Thermodynamik und chemische Kinetik" pordnr="2302" elective-units="0">
-                    <abstract-unit id="P-CHE-L-PC2" title="PC II: Thermodynamik und chemische Kinetik" type="m" semester="4,6" />
+                    <abstract-unit id="P-CHE-L-PC2a" title="PC II: Thermodynamik und chemische Kinetik" type="m" semester="4,6" />
+                    <abstract-unit id="P-CHE-L-PC2b" title="Übungen zu PC II: Thermodynamik und chemische Kinetik" type="m" semester="4,6" />
                 </module>
                 <module id="P-CHE-M-QCCC" title="Einführung in die Quanten- und Computerchemie (QCCC)" pordnr="2303" elective-units="0">
-                    <abstract-unit id="P-CHE-L-QCCC" title="Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3,5" />
+                    <abstract-unit id="P-CHE-L-QCCCa" title="Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3,5" />
+                    <abstract-unit id="P-CHE-L-QCCCb" title="Computerpraktikum: Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3,5" />
                 </module>
                 <module id="P-CHE-M-AnQCCC" title="Angewandte Quantenchemie und Computerchemie (AnQCCC)" pordnr="2304" elective-units="0">
                     <abstract-unit id="P-CHE-L-AnQCCC" title="Angewandte Quantenchemie und Computerchemie (AnQCCC)" type="m" semester="4,6" />
@@ -149,28 +177,39 @@
         <course id="bsc-math-nf-2013" title="Nebenfach Mathematik PO 2013">
             <modules>
                 <module id="P-MAT-M-ANA3" title="Analysis III" pordnr="2400" elective-units="0">
-                    <abstract-unit id="P-MAT-L-ANA3" title="Analysis III" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-ANA3a" title="Analysis III" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-ANA3b" title="Analysis III - Übungen" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-ANA3c" title="Analysis III - Tutorium" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-LA2" title="Lineare Algebra II" pordnr="2401" elective-units="0">
-                    <abstract-unit id="P-MAT-L-LA2" title="Lineare Algebra II" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-LA2a" title="Lineare Algebra II" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-LA2b" title="Lineare Algebra II - Übungen" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-LA2c" title="Lineare Algebra II - Tutorium" type="m" semester="4,6" />
                 </module>
                 <module id="P-MAT-M-CANA" title="Computergestützte Analysis" pordnr="2402" elective-units="0">
-                    <abstract-unit id="P-MAT-L-CANA" title="Computergestützte Analysis" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-CANAa" title="Computergestützte Analysis" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-CANAb" title="Übungen zu Computergestützte Analysis" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-CLA" title="Computergestützte Lineare Algebra" pordnr="2403" elective-units="0">
-                    <abstract-unit id="P-MAT-L-CLA" title="Computergestützte Lineare Algebra" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-CLAa" title="Computergestützte Lineare Algebra" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-CLAb" title="Übungen zu Computergestützte Lineare Algebra" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-NUM1" title="Numerik I" pordnr="2404" elective-units="0">
-                    <abstract-unit id="P-MAT-L-NUM1" title="Numerik I" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-NUM1a" title="Numerik I" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-NUM1b" title="Numerik I - Übungen" type="m" semester="4,6" />
+                    <abstract-unit id="P-MAT-L-NUM1c" title="Numerik I- Praktische Übungen" type="m" semester="4,6" />
                 </module>
                 <module id="P-MAT-M-STO" title="Einführung in die Stochastik" pordnr="2405" elective-units="0">
-                    <abstract-unit id="P-MAT-L-STOCHA" title="Einführung in die Stochastik" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-STOCHAa" title="Einführung in die Stochastik" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-STOCHAb" title="Übungen zu Einführung in die Stochastik" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-NUM2" title="Numerik II" pordnr="24" elective-units="0">
-                    <abstract-unit id="P-MAT-L-NUM2" title="Numerik II" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-NUM2a" title="Numerik II" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-NUM2b" title="Übungen zu Numerik II" type="m" semester="3,5" />
                 </module>
                 <module id="P-MAT-M-WAHR" title="Wahrscheinlichkeitstheorie" pordnr="2409" elective-units="0">
-                    <abstract-unit id="P-MAT-L-WAHR" title="Wahrscheinlichkeitstheorie" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-WAHRa" title="Wahrscheinlichkeitstheorie" type="m" semester="3,5" />
+                    <abstract-unit id="P-MAT-L-WAHRb" title="Übungen zu Wahrscheinlichkeitstheorie" type="m" semester="3,5" />
                 </module>
             </modules>
         </course>
@@ -229,10 +268,13 @@
                     <abstract-unit id="P-CS-L-SKS" title="Sicherheitskritische Systeme" type="m" semester="1,3" />
                 </module>
                 <module id="P-CS-M-SPIEL" title="Algorithmische Spieltheorie" pordnr="3007" elective-units="0">
-                    <abstract-unit id="P-CS-L-SPIEL" title="Algorithmische Spieltheorie" type="m" semester="1,3" />
+                    <abstract-unit id="P-CS-L-SPIELa" title="Algorithmische Spieltheorie" type="m" semester="1,3" />
+                    <abstract-unit id="P-CS-L-SPIELb" title="Algorithmische Spieltheorie - Übung" type="m" semester="1,3" />
+                    <abstract-unit id="P-CS-L-SPIELc" title="Algorithmische Spieltheorie - Seminar" type="m" semester="1,3" />
                 </module>
                 <module id="P-CS-M-ZGRA" title="Zeichnen von Graphen" pordnr="3008" elective-units="0">
-                    <abstract-unit id="P-CS-L-ZGRA" title="Zeichnen von Graphen" type="m" semester="1,3" />
+                    <abstract-unit id="P-CS-L-ZGRAa" title="Zeichnen von Graphen" type="m" semester="1,3" />
+                    <abstract-unit id="P-CS-L-ZGRAb" title="Zeichnen von Graphen - Übung" type="m" semester="1,3" />
                 </module>
                 <module id="P-CS-M-BIO2" title="Algorithmen in der Bioinformatik II" pordnr="3009" elective-units="0">
                     <abstract-unit id="P-CS-L-BIOINF2" title="Algorithmen in der Bioinformatik II" type="m" semester="2,4" />
@@ -1419,7 +1461,7 @@
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0" />
             </group>
-            <abstract-unit id="P-MAT-L-CLA" />
+            <abstract-unit id="P-MAT-L-CANA" />
         </unit>
         <unit id="240800" title="Numerik II" semester="3,5">
             <group>
