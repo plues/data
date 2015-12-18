@@ -58,26 +58,35 @@
             <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
                 <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" cp="10" />
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
+                <m name="Kryptokompletität I" pordnr="1311" cp="10" />
             </l>
             <l name="Betriebssysteme" min-cp="0" max-cp="10">
                 <m name="Betriebssysteme / Grundlagen verteiler Systeme" pordnr="1307" cp="5" />
             </l>
-            <l name="Graphenalgorithmen" min-cp="0" max-cp="5">
+            <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
                 <m name="Graphenalgorithmen I" pordnr="1309" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
             </l>
             <l name="Bioinformatik" min-cp="0" max-cp="10">
                 <m name="Algorithmen in der Bioinformatik" pordnr="1310" cp="5" />
+                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1313" cp="5" />
+            </l>
+            <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
+                <m name="Machine Learning" pordnr="1314" cp="5" />
+            </l>
+            <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
+                <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
             </l>
         </l>
         <l name="Wahlpflicht" min-cp="20" max-cp="20">
             <l name="Datenbanken und Informationssysteme" min-cp="0" max-cp="10">
                 <m name="Datenbanksysteme (für BA Informatik)" pordnr="1300" cp="10" />
             </l>
-            <l name="Rechnernetze" min-cp="10" max-cp="10">
+            <l name="Rechnernetze" min-cp="0" max-cp="10">
                 <m name="Rechnernetze" pordnr="1301" cp="10" />
             </l>
             <l name="Softwaretechnik und Programmiersprachen" min-cp="0" max-cp="10">
-                <l name="Einführung in die logische Programmierung" min-cp="0" max-cp="5">
+                <l name="Einführung in die logische Programmierung" min-cp="0" max-cp="5" >
                     <m name="Einführung in die logische Programmierung" pordnr="1302" cp="5" />
                 </l>
                 <l name="Compilerbau" min-cp="0" max-cp="5">
@@ -90,15 +99,24 @@
             <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
                 <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" cp="10" />
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
+                <m name="Kryptokompletität I" pordnr="1311" cp="10" />
             </l>
             <l name="Betriebssysteme" min-cp="0" max-cp="10">
                 <m name="Betriebssysteme / Grundlagen verteiler Systeme" pordnr="1307" cp="5" />
             </l>
-            <l name="Graphenalgorithmen" min-cp="0" max-cp="5">
+            <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
                 <m name="Graphenalgorithmen I" pordnr="1309" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
             </l>
             <l name="Bioinformatik" min-cp="0" max-cp="10">
                 <m name="Algorithmen in der Bioinformatik" pordnr="1310" cp="5" />
+                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1313" cp="5" />
+            </l>
+            <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
+                <m name="Machine Learning" pordnr="1314" cp="5" />
+            </l>
+            <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
+                <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
             </l>
         </l>
     </b>
@@ -221,6 +239,21 @@
             <m name="Multimedia-Datenbanksysteme" pordnr="3024" cp="5" />
             <m name="Approximationsalgorithmen" pordnr="3025" cp="5" />
             <m name="Graphenalgorithmen II" pordnr="3026" cp="10" />
+            <m name="Algorithmische Eigenschaften von Wahlsystemen II" pordnr="3027" cp="5" />
+            <m name="Bioinformatik: Algorithmen für evolutionäre und epidemiologische Analysen" pordnr="3028" cp="10" />
+            <m name="Data Warehouses" pordnr="3029" cp="5" />
+            <m name="Effiziente Algorithmen" pordnr="3030" cp="5" />
+            <m name="Judgement Aggregation" pordnr="3031" cp="5" />
+            <m name="Knowledge Discovery in Databases" pordnr="3032" cp="5" />
+            <m name="Mobilkommunikation" pordnr="3033" cp="5" />
+            <m name="Opportunistische und P2P-basierte Netzwerke" pordnr="3034" cp="5" />
+            <m name="Primzahltests und das Faktorisierungsproblem" pordnr="3035" cp="5" />
+            <m name="Randomisierte Algorithmen und Kompletitätsklassen" pordnr="3036" cp="5" />
+            <m name="Systemprogrammierung" pordnr="3037" cp="5" />
+            <m name="Theorie und Praxis der Online-Partizipation" pordnr="3038" cp="5" />
+            <m name="Transaktionsverwaltung" pordnr="3039" cp="5" />
+            <m name="Verteilte und förderierte Datenbanken" pordnr="3040" cp="5" />
+            <m name="Vertiefung Rechnernetze" pordnr="3041" cp="5" />
         </l>
         <l name="Wahlpflicht Praktische oder Technische Informatik" min-cp="15" max-cp="15">
             <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
@@ -243,6 +276,16 @@
             <m name="Vertiefung logische Programmierung" pordnr="3019" cp="5" />
             <m name="Computer Vision" pordnr="3023" cp="5" />
             <m name="Multimedia-Datenbanksysteme" pordnr="3024" cp="5" />
+            <m name="Bioinformatik: Algorithmen für evolutionäre und epidemiologische Analysen" pordnr="3028" cp="10" />
+            <m name="Data Warehouses" pordnr="3029" cp="5" />
+            <m name="Knowledge Discovery in Databases" pordnr="3032" cp="5" />
+            <m name="Mobilkommunikation" pordnr="3033" cp="5" />
+            <m name="Opportunistische und P2P-basierte Netzwerke" pordnr="3034" cp="5" />
+            <m name="Systemprogrammierung" pordnr="3037" cp="5" />
+            <m name="Theorie und Praxis der Online-Partizipation" pordnr="3038" cp="5" />
+            <m name="Transaktionsverwaltung" pordnr="3039" cp="5" />
+            <m name="Verteilte und förderierte Datenbanken" pordnr="3040" cp="5" />
+            <m name="Vertiefung Rechnernetze" pordnr="3041" cp="5" />
         </l>
         <l name="Wahlpflicht Theoretische Informatik" min-cp="15" max-cp="15">
             <m name="Sicherheitskritische Systeme" pordnr="3006" cp="5" />
@@ -254,6 +297,11 @@
             <m name="Cake-cutting Algorithms" pordnr="3022" cp="5" />
             <m name="Approximationsalgorithmen" pordnr="3025" cp="5" />
             <m name="Graphenalgorithmen II" pordnr="3026" cp="10" />
+            <m name="Algorithmische Eigenschaften von Wahlsystemen II" pordnr="3027" cp="5" />
+            <m name="Effiziente Algorithmen" pordnr="3030" cp="5" />
+            <m name="Judgement Aggregation" pordnr="3031" cp="5" />
+            <m name="Primzahltests und das Faktorisierungsproblem" pordnr="3035" cp="5" />
+            <m name="Randomisierte Algorithmen und Kompletitätsklassen" pordnr="3036" cp="5" />
         </l>
     </b>
 </ModulBaum>
