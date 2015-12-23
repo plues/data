@@ -154,7 +154,7 @@
             <m name="Politische Philosophie/Rechtsphilosophie" pordnr="36164" />
         </l>
     </b>
-    <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2013" kzfa="H" stg="smp" abschl="ba">
+    <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2013" kzfa="H" stg="smp" ignored="true" abschl="ba">
         <regeln>
             <r1 rtyp="nm" wenn="@TM='IG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Individuum & Gesellschaft bestanden oder angemeldet.]]></r1>
             <r2 rtyp="nm" wenn="@TM='SS'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Systeme & Strukturen bestanden oder angemeldet.]]></r2>
@@ -439,7 +439,7 @@
             </l>
         </l>
     </b>
-    <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2011" kzfa="H" stg="smp" abschl="ba">
+    <b name="Bachelor Sozialwissenschaften – Medien, Politik, Gesellschaft" pversion="2011" kzfa="H" stg="smp" ignored="true" abschl="ba">
         <regeln>
             <r1 rtyp="nm" wenn="@TM='IG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Individuum & Gesellschaft bestanden oder angemeldet.]]></r1>
             <r2 rtyp="nm" wenn="@TM='SS'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Systeme & Strukturen bestanden oder angemeldet.]]></r2>
@@ -686,7 +686,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bk" stg="kom" kzfa="N" pversion="2013" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
+    <b abschl="bk" ignored="true" stg="kom" kzfa="N" pversion="2013" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
         <regeln>
             <r1 rtyp="nm" wenn="@TM='MI'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Individuum bestanden oder angemeldet.]]></r1>
             <r2 rtyp="nm" wenn="@TM='MG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Gesellschaft bestanden oder angemeldet.]]></r2>
@@ -721,7 +721,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bk" stg="kom" kzfa="N" pversion="2011" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
+    <b abschl="bk" ignored="true" stg="kom" kzfa="N" pversion="2011" name="Ergänzungsfach Kommunikations- und Medienwissenschaft">
         <regeln>
             <r1 rtyp="nm" wenn="@TM='MI'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Individuum bestanden oder angemeldet.]]></r1>
             <r2 rtyp="nm" wenn="@TM='MG'" zw="1"><![CDATA[Sie haben bereits eine Prüfung im Themenmodul Medien & Gesellschaft bestanden oder angemeldet.]]></r2>
