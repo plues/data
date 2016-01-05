@@ -210,7 +210,7 @@
             <m name="Sozialpsychologie I" pflicht="j" pordnr="2508" cp="4" />
         </l>
     </b>
-    <b abschl="msc" stg="cs" kzfa="H" pversion="2015" name="Master Informatik" cp="60">
+    <b ignored="true" abschl="msc" stg="cs" kzfa="H" pversion="2015" name="Master Informatik" cp="60">
         <l name="Schwerpunkt 2" min-cp="30" max-cp="30">
             <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
             <m name="Funktionale Programmierung" pordnr="3001" cp="5" />
