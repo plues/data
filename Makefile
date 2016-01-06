@@ -73,4 +73,3 @@ very_clean: clean
 	rm -f $(mincer)
 
 .PHONY: clean very_clean dist-setup $(ACTIONS) $(FLAVORS)
-.INTERMEDIATE: $(TARGETS)
