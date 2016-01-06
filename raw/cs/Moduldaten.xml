@@ -214,6 +214,7 @@
             </modules>
         </course>
         <course id="bsc-psy-nf-2013" title="Nebenfach Psychologie PO 2013">
+            <!-- http://www.cs.hhu.de/studium-lehre-informatik/studiengang-informatik-bachelor-und-master/bachelor/nebenfaecher/psychologie.html -->
             <modules>
                 <module id="P-PSY-M-QM1" title="Quantitative Methoden I" pordnr="2500" elective-units="0">
                     <abstract-unit id="P-PSY-L-QM1" title="Quantitative Methoden I" type="m" semester="3,5" />

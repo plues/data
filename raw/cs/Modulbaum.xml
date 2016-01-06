@@ -194,6 +194,7 @@
         </l>
     </b>
     <b abschl="bsc" stg="psy" kzfa="N" pversion="2013" name="Nebenfach Psychologie" cp="40">
+        <!-- http://www.cs.hhu.de/studium-lehre-informatik/studiengang-informatik-bachelor-und-master/bachelor/nebenfaecher/psychologie.html -->
         <l name="Modul 1: Quantitative Methoden" min-cp="12" max-cp="12">
             <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
             <m name="Quantitative Methoden II" pflicht="j" pordnr="2501" cp="6" />
