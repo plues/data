@@ -217,31 +217,31 @@
             <!-- http://www.cs.hhu.de/studium-lehre-informatik/studiengang-informatik-bachelor-und-master/bachelor/nebenfaecher/psychologie.html -->
             <modules>
                 <module id="P-PSY-M-QM1" title="Quantitative Methoden I" pordnr="2500" elective-units="0">
-                    <abstract-unit id="P-PSY-L-QM1" title="Quantitative Methoden I" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-QM1" title="Quantitative Methoden I" type="m" semester="3" />
                 </module>
                 <module id="P-PSY-M-QM2" title="Quantitavie Methoden II" pordnr="2501" elective-units="0">
-                    <abstract-unit id="P-PSY-L-QM2" title="Quantitavie Methoden II" type="m" semester="4,6" />
+                    <abstract-unit id="P-PSY-L-QM2" title="Quantitavie Methoden II" type="m" semester="4" />
                 </module>
                 <module id="P-PSY-M-VER1" title="Physiologischhe Grundlagen des Verhaltens I" pordnr="2502" elective-units="0">
-                    <abstract-unit id="P-PSY-L-VER1" title="Physiologischhe Grundlagen des Verhaltens I" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-VER1" title="Physiologischhe Grundlagen des Verhaltens I" type="m" semester="3" />
                 </module>
                 <module id="P-PSY-M-VER2" title="Physiologische Grundlagen des Verhaltens II" pordnr="2503" elective-units="0">
-                    <abstract-unit id="P-PSY-L-VER2" title="Physiologische Grundlagen des Verhaltens II" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-VER2" title="Physiologische Grundlagen des Verhaltens II" type="m" semester="3" />
                 </module>
                 <module id="P-PSY-M-BPSY1" title="Biologische Psychologie I" pordnr="2504" elective-units="0">
-                    <abstract-unit id="P-PSY-L-BPSY1" title="Biologische Psychologie I" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-BPSY1" title="Biologische Psychologie I" type="m" semester="3" />
                 </module>
                 <module id="P-PSY-M-BPSY2" title="Biologische Psychologie II" pordnr="2505" elective-units="0">
-                    <abstract-unit id="P-PSY-L-BPSY2" title="Biologische Psychologie II" type="m" semester="4,6" />
+                    <abstract-unit id="P-PSY-L-BPSY2" title="Biologische Psychologie II" type="m" semester="4" />
                 </module>
                 <module id="P-PSY-M-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" pordnr="2506" elective-units="0">
-                    <abstract-unit id="P-PSY-L-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" type="m" semester="3" />
                 </module>
                 <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" pordnr="2507" elective-units="0">
-                    <abstract-unit id="P-PSY-L-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" type="m" semester="4,6" />
+                    <abstract-unit id="P-PSY-L-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" type="m" semester="4" />
                 </module>
                 <module id="P-PSY-M-SOZ" title="Sozialpsychologie I" pordnr="2508" elective-units="0">
-                    <abstract-unit id="P-PSY-L-SOZ" title="Sozialpsychologie I" type="m" semester="3,5" />
+                    <abstract-unit id="P-PSY-L-SOZ" title="Sozialpsychologie I" type="m" semester="3" />
                 </module>
             </modules>
         </course>
