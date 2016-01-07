@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulBaum>
+    <b cp="91" abschl="ms" stg="vwl" kzfa="h" pversion="2015" name="Volkswirtschaftslehre - Schwerpunkt Econometrics">
+        <l name="Pflichtmodule" min-cp="27" max-cp="27">
+            <m cp="6" name="MV01: Makroökonomik" pordnr="40553"/>
+            <m cp="6" name="MV03: Mikroökonomik" pordnr="40554"/>
+            <m cp="6" name="MV04: Econometrics" pordnr="40555"/>
+            <m cp="9" name="MB03: Betriebswirtschaftliche Theorie" pordnr="40556"/>
+        </l>
+        <l name="Wahlpflichtmodule" min-cp="64" max-cp="64">
+            <l name="Wahlpflichtmodule VWL" min-cp="48" max-cp="64">
+                <l name="Pflichtmodule Schwerpunkt" min-cp="24" max-cp="24">
+                    <m cp="8" name="MW64: Advanced Econometrics 1" pordnr="40578"/>
+                    <m cp="8" name="MW65: Advanced Econometrics 2" pordnr="40579"/>
+                    <m cp="8" name="MW66: Advanced Topics in Empirical Economics" pordnr="40580"/>
+                </l>
+                <l name="Wahlpflichtmodule Schwerpunkt" min-cp="8" max-cp="16">
+                    <m cp="8" name="MW67: Commodity Markets" pordnr="40581"/>
+                    <m cp="8" name="MW73: Empirische Wettbewerbsökonomik" pordnr="40587"/>
+                </l>
+                <l name="Wahlpflichtmodule Sonstige VWL" min-cp="8" max-cp="32">
+                    <m cp="16" name="MW08: Internationale Finanzmärkte" pordnr="40569"/>
+                    <m cp="16" name="MW14: Monetäre Ökonomik" pordnr="40570"/>
+                    <m cp="16" name="MW24: Experimental and Behavioural Economics" pordnr="40571"/>
+                    <m cp="16" name="MW28: International Trade" pordnr="40572"/>
+                    <m cp="16" name="MW31: Advanced Economic Theory" pordnr="40573"/>
+                    <m cp="8" name="MW60: Netzwerk- und Informationsgüterökonomik" pordnr="40574"/>
+                    <m cp="8" name="MW61: Regulierungsökonomik" pordnr="40575"/>
+                    <m cp="8" name="MW62: Advanced Labour Economics" pordnr="40576"/>
+                    <m cp="8" name="MW63: Ökonomie der Sozialpolitik" pordnr="40577"/>
+                    <m cp="8" name="MW68: Spieltheorie" pordnr="40582"/>
+                    <m cp="8" name="MW69: Industrieökonomik" pordnr="40583"/>
+                    <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
+                    <m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40585"/>
+                    <m cp="8" name="MW72: Competition Policy and Theory" pordnr="40586"/>
+                    <m cp="8" name="MW74: Wirtschaftspolitische Beratung und Politikevaluation" pordnr="40588"/>
+                    <m cp="8" name="MW75: Wirtschaftspolitische Beratung: Theorie und Praxis" pordnr="40589"/>
+                </l>
+            </l>
+            <l name="Wahlpflichtmodule BWL" min-cp="0" max-cp="16">
+                <m cp="16" name="MW01: Verhalten und Personalführung in Organisationen" pordnr="40557"/>
+                <m cp="16" name="MW03: Theorie der Finanzdienstleistungen" pordnr="40558"/>
+                <m cp="16" name="MW04: Finanzierung und Investition" pordnr="40559"/>
+                <m cp="16" name="MW05: Marketing" pordnr="40560"/>
+                <m cp="16" name="MW06: Betriebswirtschaftliche Steuerlehre" pordnr="40561"/>
+                <m cp="16" name="MW16: Personalmanagement" pordnr="40562"/>
+                <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40563"/>
+                <m cp="8" name="MW40: Advanced Theories in Accounting and Control" pordnr="40564"/>
+                <m cp="8" name="MW41: Accounting and Control: Research and Practice" pordnr="40565"/>
+                <m cp="8" name="MW42: Advanced Entrepreneurial Finance" pordnr="40566"/>
+                <m cp="8" name="MW43: Entrepreneurial Finance: Research and Practice" pordnr="0"/>
+                <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
+                <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
+            </l>
+            <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
+                <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
+                <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40539"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+            </l>
+        </l>
+    </b>
+</ModulBaum>
