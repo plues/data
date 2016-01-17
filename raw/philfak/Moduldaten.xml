@@ -3440,7 +3440,8 @@
         <unit id="128559" title="Heinrich von Gent, Fragen zur Willens- und Freiheitslehre (Basisseminar)"
               semester="2,4,6">
             <group>
-            <session day="mon" time="3" duration="2" rhythm="0"/>
+              <session day="mon" time="3" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="P-Phil-L-BPPBEb"/>
             <abstract-unit id="P-Phil-L-BGPAb"/>
         </unit>
