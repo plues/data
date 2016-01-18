@@ -2982,6 +2982,7 @@
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-Phil-L-BPPSb"/>
+            <abstract-unit id="P-MKW-L-BAMAGa"/>
         </unit>
         <unit id="120328" title="Grundprobleme der Philosophie (Basisseminar)" semester="1,3,5">
             <group>
@@ -3055,6 +3056,7 @@
             </group>
             <abstract-unit id="P-Phil-L-BGPGb"/>
             <abstract-unit id="P-Phil-L-BTPSb"/>
+            <abstract-unit id="P-MKW-L-BBM2a"/>
         </unit>
         <unit id="121856" title="Platons Seelenlehre (Basisseminar)" semester="1,3,5">
             <group>
@@ -3152,6 +3154,7 @@
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-Phil-L-BPPEa"/>
+            <abstract-unit id="P-MKW-L-BAMMGEb"/>
         </unit>
         <unit id="120290" title="Erkenntnistheorie (Vorlesung)" semester="1,3,5">
             <group>
@@ -3334,6 +3337,7 @@
             <abstract-unit id="P-Phil-L-BAEPb"/>
             <abstract-unit id="P-Phil-L-BAKSa"/>
             <abstract-unit id="P-Phil-L-BAKSb"/>
+            <abstract-unit id="P-MKW-L-BAMAGc"/>
         </unit>
         <unit id="121982" title="Ruth Millikan's biological approach to language (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -5926,12 +5930,14 @@
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1a"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119685" title="Grammar I (Übung)" semester="1,3,5">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1a"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119686" title="Grammar I (Übung)" semester="1,3,5">
             <group>
@@ -5944,72 +5950,84 @@
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1a"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119693" title="Grammar II (Übung)" semester="1,3,5">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1b"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119679" title="Grammar II (Übung)" semester="1,3,5">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1b"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119695" title="Grammar II (Übung)" semester="1,3,5">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1b"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119677" title="Grammar II (Übung)" semester="1,3,5">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1b"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119676" title="Translation for Beginners (Übung)" semester="1,3,5">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1d"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119690" title="Translation for Beginners (Übung)" semester="1,3,5">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1d"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119695" title="Translation for Beginners (Übung)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1d"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119687" title="Translation for Beginners (Übung)" semester="1,3,5">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1d"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
         <unit id="119696" title="Vocabulary and Translation (Übung)" semester="1,3,5">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1c"/>
+            <abstract-unit id="P-P-MKW-L-BPROb"/>
         </unit>
         <unit id="119689" title="Vocabulary and Translation (Übung)" semester="1,3,5">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1c"/>
+            <abstract-unit id="P-P-MKW-L-BPROb"/>
         </unit>
         <unit id="119688" title="Vocabulary and Translation (Übung)" semester="1,3,5">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1c"/>
+            <abstract-unit id="P-P-MKW-L-BPROb"/>
         </unit>
         <unit id="118241" title="Introduction to Medieval English Studies-Part I Elementary(Basisseminar)"
               semester="1,3,5">
@@ -6291,6 +6309,7 @@
             <abstract-unit id="P-IAA-L-BMMb"/>
             <abstract-unit id="P-IAA-L-BIMLa"/>
             <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-MKW-L-BAMAGb"/>
         </unit>
         <unit id="119827" title="The (Re-)Written Self: Memory and Identity as Narrative (Vertiefungsseminar)"
               semester="1,3,5">
@@ -6300,6 +6319,7 @@
             <abstract-unit id="P-IAA-L-BMMb"/>
             <abstract-unit id="P-IAA-L-BIMLa"/>
             <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-MKW-L-BAMAGa"/>
         </unit>
         <unit id="119882" title="The Rise of the English Novel  (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -6308,6 +6328,7 @@
             <abstract-unit id="P-IAA-L-BMMb"/>
             <abstract-unit id="P-IAA-L-BIMLa"/>
             <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-MKW-L-BAMAGa"/>
         </unit>
         <unit id="120596" title="Writing Immigration - Across the 20th Century (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -6315,6 +6336,7 @@
             </group>
             <abstract-unit id="P-IAA-L-BMMb"/>
             <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
             <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="120082" title="Corpus Linguistics (Vertiefungsseminar)" semester="1,3,5">
@@ -6329,7 +6351,7 @@
             </group>
             <abstract-unit id="P-IAA-L-BMMa"/>
         </unit>
-        <unit id="120596" title="Projects in English Syntax (Vertiefungsseminar)" semester="1,3,5">
+        <unit id="120083" title="Projects in English Syntax (Vertiefungsseminar)" semester="1,3,5">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
@@ -6387,13 +6409,6 @@
             <abstract-unit id="P-IAA-L-BIMLa"/>
             <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
-        <unit id="120594" title="The Female Body in Literature (Vertiefungsseminar)" semester="1,3,5">
-            <group>
-                <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-IAA-L-BIMLa"/>
-            <abstract-unit id="P-IAA-L-BIMLb"/>
-        </unit>
         <unit id="119812" title="Introduction to Middle English (Vertiefungsseminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
@@ -6446,11 +6461,22 @@
               title="Creative Interpretation and Dramatic Writing – eine Kooperation mit dem Düsseldorfer Schauspielhaus (Aufbauseminar)"
               semester="1,3,5">
             <group>
-                <session day="thu" time="2" duration="2" rhythm="0"/>
+                <session day="thu" time="2" duration="4" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BPMb"/>
             <abstract-unit id="P-IAA-L-BAMLa"/>
             <abstract-unit id="P-IAA-L-BAMLb"/>
+        </unit>
+        <unit id="127648"
+              title="Creative Interpretation and Dramatic Writing – eine Kooperation mit dem Düsseldorfer Schauspielhaus (Aufbauseminar)"
+              semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="4" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BPMb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
+            <abstract-unit id="P-MKW-L-BPMMFc"/>
         </unit>
         <unit id="119692" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Seminar)" semester="1,3,5">
             <group>
@@ -6486,6 +6512,7 @@
             </group>
             <abstract-unit id="P-IAA-L-BAMLa"/>
             <abstract-unit id="P-IAA-L-BAMLb"/>
+            <abstract-unit id="P-MKW-L-BAMAGa"/>
         </unit>
         <unit id="119847" title="American Novels from Naturalism to the Present (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -6592,6 +6619,7 @@
             </group>
             <abstract-unit id="P-IAA-L-BAMLa"/>
             <abstract-unit id="P-IAA-L-BAMLb"/>
+            <abstract-unit id="P-MKW-L-BAMAGc"/>
         </unit>
         <unit id="119844" title="Careful Disorderliness and Emergence in American Literature (Aufbauseminar)"
               semester="1,3,5">
@@ -9137,15 +9165,7 @@
             <abstract-unit id="P-KUGE-BBM1b"/>
             <abstract-unit id="P-KUGE-BEFAB2a"/>
         </unit>
-        <unit id="120452" title="Kunst und Natur  (Vorlesung)" semester="1,3,5">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-KUGE-BBM2b"/>
-            <abstract-unit id="P-KUGE-BBM4a"/>
-            <abstract-unit id="P-KUGE-BAM1a"/>
-            <abstract-unit id="P-KUGE-BAM2a"/>
-        </unit>
+
 
         <unit id="125063" title="Frömmigkeit und Moderne. Avantgarde und Kirche im 20. Jahrhundert (Vorlesung)"
               semester="2,4,6">
@@ -9453,6 +9473,138 @@
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-MKW-L-BAMMd"/>
+        </unit>
+
+
+        <unit id="126495" title="Verschränken/Differenzieren/Problematisieren – Forschen im Anthropozän (Aufbauseminar)"
+              semester="2,4,6">
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMKMFb"/>
+            <abstract-unit id="P-MKW-L-BAMKMFc"/>
+        </unit>
+        <unit id="131033" title="Video und Alltagsforschung (2) (Aufbauseminar)" semester="2,4,6">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMKMFb"/>
+            <abstract-unit id="P-MKW-L-BAMKMFc"/>
+        </unit>
+        <unit id="119578" title="Einführung Ästhetik (Basisseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="4" duration="4" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM1a"/>
+        </unit>
+        <unit id="117830" title="Das Denken des Films (Filmclub) (Basisseminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="4" duration="4" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM1e"/>
+        </unit>
+        <unit id="119950"
+              title="Französisch A1.2 (Medien- und Kulturwissenschaft) (French A1.2 MekuWi only) (Sprachkurs)"
+              semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROb"/>
+        </unit>
+        <unit id="121853"
+              title="Französisch A2.2 (Medien- und Kulturwissenschaft) (French A2.2 MekuWi only) (Sprachkurs)"
+              semester="1,3,5">
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROc"/>
+        </unit>
+        <unit id="119952" title="Italienisch A1 (Medien- und Kulturwissenschaft) (Italian A1 Mekuwi only) (Sprachkurs)"
+              semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROb"/>
+        </unit>
+        <unit id="119955" title="Japanisch Ia (Japanese Ia) (Sprachkurs)" semester="1,3,5">
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+                <session day="thu" time="6" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROb"/>
+        </unit>
+        <unit id="119949" title="Spanisch A2 (Medien- und Kulturwissenschaft) / Spanish A2 MeKuWi only(Sprachkurs)"
+              semester="1,3,5">
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0"/>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROc"/>
+        </unit>
+        <unit id="119947" title="Spanisch A2 Parallelkurs (Medien- und Kulturwissenschaft)(Sprachkurs)"
+              semester="1,3,5">
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROc"/>
+        </unit>
+        <unit id="119579"
+              title="Heimat, die Stadt und das Selbst: Eine Geschichte des deutschen Films (Heimat, the City and the Self: A History of German Film)(Aufbauseminar)"
+              semester="1,3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGa"/>
+            <abstract-unit id="P-MKW-L-BAMAGc"/>
+        </unit>
+        <unit id="121090" title="New Materialisms (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGe"/>
+        </unit>
+        <unit id="117951" title="Infotainment (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGc"/>
+        </unit>
+        <unit id="121098"
+              title="Täter und Opfer - Zuschauer und Profiteure. Medienkulturen der (physischen) Gewalt (Aufbauseminar)"
+              semester="1,3,5">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGc"/>
+        </unit>
+        <unit id="119580" title="Medien- und Kulturberufe (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGe"/>
+        </unit>
+        <unit id="126025"
+              title="„Chabos wissen wer der Babo ist“ – Eine Auseinandersetzung mit Identifikationen und kultureller Hybridität (Basisseminar)"
+              semester="1,3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBMVIMc"/>
+        </unit>
+        <unit id="121094" title="Generationalität, Polarerlebnis, (Medien-)Ereignis (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBMVIMd"/>
+        </unit>
+        <unit id="121094" title=" (Basisseminar)" semester="1,3,5">
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBMVIMd"/>
         </unit>
     </units>
 </data>
