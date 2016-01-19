@@ -89,8 +89,8 @@
                     <abstract-unit id="P-PHY-L-MAME1a" title="Mathematische Methoden der Physik I" type="m" semester="3,5" />
                     <abstract-unit id="P-PHY-L-MAME1b" title="Übungen zu Mathematische Methoden der Physik I" type="m" semester="3,5" />
                 </module>
-                <module id="P-PHY-M-GP1" title="Grundpraktikum 1" pordnr="2101" elective-units="0"> <!--In der Vl-freien Zeit-->
-                    <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum 1" type="m" semester="2,4" />
+                <module id="P-PHY-M-GP1" title="Grundpraktikum I" pordnr="2101" elective-units="0"> <!--In der Vl-freien Zeit-->
+                    <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum I" type="m" semester="2,4" />
                 </module>
                 <module id="P-PHY-M-OPT" title="Optik" pordnr="2102" elective-units="0">
                     <abstract-unit id="P-PHY-L-OPTa" title="Optik" type="m" semester="3,5" />
