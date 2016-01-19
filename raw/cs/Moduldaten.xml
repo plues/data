@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <course-module-units>
-        <course id="bsc-cs-hf-2013" title="Bachelor Informatik PO 2013">
+        <course id="bk-cs-hf-2013" title="Bachelor Informatik PO 2013">
             <modules>
                 <module id="P-CS-M-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pordnr="1100" elective-units="0">
                     <abstract-unit id="P-CS-L-INFO1a" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" type="m" semester="1" />
@@ -83,7 +83,7 @@
                 </module>
             </modules>
         </course>
-        <course id="bsc-phy-nf-2013" title="Nebenfach Physik PO 2013">
+        <course id="bk-phy-nf-2013" title="Nebenfach Physik PO 2013">
             <modules>
                 <module id="P-PHY-M-MAME1" title="Mathematische Methoden der Physik I" pordnr="2100" elective-units="0">
                     <abstract-unit id="P-PHY-L-MAME1a" title="Mathematische Methoden der Physik I" type="m" semester="3,5" />
@@ -118,7 +118,7 @@
                 </module>
             </modules>
         </course>
-        <course id="bsc-bio-nf-2013" title="Nebenfach Biologie PO 2013">
+        <course id="bk-bio-nf-2013" title="Nebenfach Biologie PO 2013">
             <modules>
                 <module id="P-BIO-M-BOZOO" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" pordnr="2200" elective-units="0">
                     <abstract-unit id="P-BIO-L-BOZOO" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" type="m" semester="3,5" />
@@ -147,7 +147,7 @@
                 </module>
             </modules>
         </course>
-        <course id="bsc-che-nf-2013" title="Nebenfach Chemie PO 2013">
+        <course id="bk-che-nf-2013" title="Nebenfach Chemie PO 2013">
             <modules>
                 <module id="P-CHE-M-C1" title="Einführung in die Allgemeine und Anorganische Chemie (C1)" pordnr="2300" elective-units="0">
                     <abstract-unit id="P-CHE-L-C1" title="Einführung in die Allgemeine und Anorganische Chemie (C1)" type="m" semester="3,5" />
@@ -174,7 +174,7 @@
                 </module>
             </modules>
         </course>
-        <course id="bsc-math-nf-2013" title="Nebenfach Mathematik PO 2013">
+        <course id="bk-math-nf-2013" title="Nebenfach Mathematik PO 2013">
             <modules>
                 <module id="P-MAT-M-ANA3" title="Analysis III" pordnr="2400" elective-units="0">
                     <abstract-unit id="P-MAT-L-ANA3a" title="Analysis III" type="m" semester="3,5" />
@@ -213,7 +213,7 @@
                 </module>
             </modules>
         </course>
-        <course id="bsc-psy-nf-2013" title="Nebenfach Psychologie PO 2013">
+        <course id="bk-psy-nf-2013" title="Nebenfach Psychologie PO 2013">
             <!-- http://www.cs.hhu.de/studium-lehre-informatik/studiengang-informatik-bachelor-und-master/bachelor/nebenfaecher/psychologie.html -->
             <modules>
                 <module id="P-PSY-M-QM1" title="Quantitative Methoden I" pordnr="2500" elective-units="0">

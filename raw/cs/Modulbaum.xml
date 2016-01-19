@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModulBaum>
-    <b abschl="bsc" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik">
+    <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik">
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
             <l name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" min-cp="10" max-cp="10">
                 <m name="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
@@ -120,7 +120,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bsc" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik" cp="40">
+    <b abschl="bk" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik" cp="40">
         <l name="Mathematische Methoden der Physik" min-cp="7" max-cp="7">
             <m name="Mathematische Methoden der Physik I" pflicht="j" pordnr="2100" cp="7" />
         </l>
@@ -138,7 +138,7 @@
             <m name="Theoretische Elektrodynamik" pordnr="2107" cp="9" />
         </l>
     </b>
-    <b abschl="bsc" stg="bio" kzfa="N" pversion="2015" name="Nebenfach Biologie" cp="40">
+    <b abschl="bk" stg="bio" kzfa="N" pversion="2015" name="Nebenfach Biologie" cp="40">
         <l name="Allgemeine Biologie" min-cp="10" max-cp="10">
             <m name="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" pflicht="j" pordnr="2200" cp="5" />
             <m name="Bio110: Zell- und Molekularbiologie" pflicht="j" pordnr="2201" cp="5" />
@@ -162,7 +162,7 @@
             <m name="Bio230: Biophysik" pflicht="j" pordnr="2207" cp="5" />
         </l>
     </b>
-    <b abschl="bsc" stg="che" kzfa="N" pversion="2013" name="Nebenfach Chemie" cp="40">
+    <b abschl="bk" stg="che" kzfa="N" pversion="2013" name="Nebenfach Chemie" cp="40">
         <l name="Einführung in die Allgemeine und Anorganische Chemie (C1)" min-cp="8" max-cp="8">
             <m name="Einführung in die Allgemeine und Anorganische Chemie (C1)" pflicht="j" pordnr="2300" cp="8" />
         </l>
@@ -181,7 +181,7 @@
             <m name="Biophysik für Biologen (Bio 230)" pordnr="2306" cp="4" />
         </l>2
     </b>
-    <b abschl="bsc" stg="mat" kzfa="N" pversion="2008" name="Nebenfach Mathematik" cp="40">
+    <b abschl="bk" stg="mat" kzfa="N" pversion="2008" name="Nebenfach Mathematik" cp="40">
         <l name="Module" min-cp="40" max-cp="40">
             <m name="Analysis III" pordnr="2400" cp="10" />
             <m name="Lineare Algebra II" pordnr="2401" cp="10" />
@@ -193,7 +193,7 @@
             <m name="Wahrscheinlickeitstheorie" pordnr="2409" cp="10" />
         </l>
     </b>
-    <b abschl="bsc" stg="psy" kzfa="N" pversion="2013" name="Nebenfach Psychologie" cp="40">
+    <b abschl="bk" stg="psy" kzfa="N" pversion="2013" name="Nebenfach Psychologie" cp="40">
         <!-- http://www.cs.hhu.de/studium-lehre-informatik/studiengang-informatik-bachelor-und-master/bachelor/nebenfaecher/psychologie.html -->
         <l name="Modul 1: Quantitative Methoden" min-cp="12" max-cp="12">
             <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
