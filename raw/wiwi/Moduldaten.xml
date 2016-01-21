@@ -45,7 +45,7 @@
                     <abstract-unit title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen" id="W-WIWI-L-BV02b" type="m" semester="2"/>
                 </module>
                 <module title="Wirtschaftspolitik" id="W-WIWI-M-BV03" elective-units="1" type="m" pordnr="40335" cp="4">
-                    <new title="Wirtschaftspolitik" id="W-WIWI-L-BV03" type="m" semester="5"/>
+                    <abstract-unit title="Wirtschaftspolitik" id="W-WIWI-L-BV03" type="m" semester="5"/>
                 </module>
                 <module title="Einführung in die Wirtschaftsinformatik" id="W-WIWI-M-BQ01" elective-units="2" type="m" pordnr="40340" cp="6">
                     <abstract-unit title="Wirtschaftsinformatik: Grundlagen und Anwendungen" id="W-WIWI-L-BQ01a" type="m" semester="3"/>
