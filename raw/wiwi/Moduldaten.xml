@@ -4,7 +4,7 @@
         <!--Bachelor Betriebswirtschaftslehre-->
         <course title="Bachelor Betriebswirtschaftslehre PO 2013" id="ba-bwl-is-2013">
             <modules>
-                <module title="Einführung in die BWL, Finanzbuchführung, Absatz und Beschaffung" id="W-WIWI-M-BB01" elective-units="6" type="m" prodnr="130069" cp="12">
+                <module title="Einführung in die BWL, Finanzbuchführung, Absatz und Beschaffung" id="W-WIWI-M-BB01" elective-units="6" type="m" pordnr="130069" cp="12">
                     <abstract-unit title="Einführung in die Betriebswirtschaftslehre" id="W-WIWI-L-BB01a" type="m" semester="1"/>
                     <abstract-unit title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" id="W-WIWI-L-BB01b" type="m" semester="1"/>
                     <abstract-unit title="Finanzbuchführung" id="W-WIWI-L-BB01c" type="m" semester="1"/>
