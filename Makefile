@@ -34,8 +34,8 @@ philfak-tree=raw/philfak/Modulbaum.xml
 philfak-data=raw/philfak/Moduldaten.xml
 
 # wiwi flavor files
-wiwi-tree=
-wiwi-data=
+wiwi-tree=raw/wiwi/Modulbaum.xml
+wiwi-data=raw/wiwi/Moduldaten.xml
 
 # cs flavor files
 cs-tree=raw/cs/Modulbaum.xml
