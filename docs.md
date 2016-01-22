@@ -81,6 +81,7 @@ Each unit is represented as a `<unit>` node with the following attributes:
 - `id`: Unique identifier.
 - `title` of the unit.
 - `semester`: comma separated list of semesters this unit is offered. Note that this number represents the availability whereas the semester information in the abstract unit represents the recommended semesters according to the curriculum. 
+- `half-semester`: for units that are taught only during the first or second half of a semester. Possible values are "first" or "second".
 
 Each `<unit>` can be associated to one or more abstract units. These references are expressed by `<abstract-unit>` child nodes that refer to the `id` of the actual abstract unit defined in a module.
 E.g. : `<abstract-unit id="P-Phil-L-BPPANb" />`
