@@ -421,7 +421,7 @@
                         </l>
                         <l name="Studienarbeit, Hausarbeit oder Projektarbeit" TM="EI" ART="VS" PART="S" FACH="POL">
                             <m name="1721   Studienarbeit" pnr="1721" pordnr="37621" />
-                            <m name="1724   Hausarbeit" pnr="1724" pordnr="37622)" />
+                            <m name="1724   Hausarbeit" pnr="1724" pordnr="37622" />
                             <m name="1727   Projektarbeit" pnr="1727" pordnr="37623" />
                         </l>
                     </l>
