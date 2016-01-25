@@ -292,7 +292,7 @@
                     <abstract-unit title="Investitions- und Finanzmanagement II" id="W-WIWI-L-BW03c" type="m" semester="3,4,5,6"/>
                     <abstract-unit title="Investitions- und Finanzmanagement III" id="W-WIWI-L-BW03d" type="m" semester="3,4,5,6"/>
                 </module>
-                <module title="Accounting" id="W-WIWI-M-BW05" elective-units="3" type="e" pordnr="40393" vp="12">
+                <module title="Accounting" id="W-WIWI-M-BW05" elective-units="3" type="e" pordnr="40393" cp="12">
                     <abstract-unit title="Einführung in die internationale Rechnungslegung nach IFRS" id="W-WIWI-L-BW05a" type="m" semester="3,4,5,6"/>
                     <abstract-unit title="Konzernrechnungslegung nach HGB und IFRS" id="W-WIWI-L-BW05b" type="m" semester="3,4,5,6"/>
                     <abstract-unit title="Einführung in das Controlling" id="W-WIWI-L-BW05c" type="m" semester="3,4,5,6"/>
@@ -794,7 +794,7 @@
                     <abstract-unit title="Theorie der wirtschaftspolitischen Beratung I" id="W-WIWI-L-MW75a" type="m" semester="2"/>
                     <abstract-unit title="Ausgewählte Felder der wirtschaftspolitischen Beratung in der Praxis I" id="W-WIWI-L-MW75b" type="m" semester="2"/>
                 </module>
-                <module title="Projektarbeit mit Kolloquium" id="W-WIWI-M-MQV01" elective-units="2" type="m">
+                <module title="Projektarbeit mit Kolloquium" id="W-WIWI-M-MQV01" elective-units="2" pordnr="0" type="m">
                     <abstract-unit title="Forschungskurs" id="W-WIWI-L-MQV01a" type="m" semester="1,2,3,4"/>
                     <abstract-unit title="Projektarbeit" id="W-WIWI-L-MQV01b" type="m" semester="1,2,3,4"/>
                 </module>
