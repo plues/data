@@ -21,6 +21,13 @@ B-machine (.mch). Add `flavor=[variant]` to override the default variant (the de
 ```
 make data.sqlite3 flavor=wiwi
 ```
+
+## Schema
+
+The schema of the generated databases is described in this Picture:
+
+![Schema](doc/schema-3.0.png)
+
 ## Dependencies
 
 * sqlite3
