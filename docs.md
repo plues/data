@@ -81,13 +81,14 @@ Each unit is represented as a `<unit>` node with the following attributes:
 - `id`: Unique identifier.
 - `title` of the unit.
 - `semester`: comma separated list of semesters this unit is offered. Note that this number represents the availability whereas the semester information in the abstract unit represents the recommended semesters according to the curriculum. 
-- `half-semester`: for units that are taught only during the first or second half of a semester. Possible values are "first" or "second".
 
 Each `<unit>` can be associated to one or more abstract units. These references are expressed by `<abstract-unit>` child nodes that refer to the `id` of the actual abstract unit defined in a module.
 E.g. : `<abstract-unit id="P-Phil-L-BPPANb" />`
 
-Each `<unit>` can have several `<group>` nodes, each group is a set of events that are considered equivalent, i.e. students have to choose one of the possible groups to complete the unit.
+#### Gruops and sessions
 
+Each `<unit>` can have several `<group>` nodes, each group is a set of events that are considered equivalent, i.e. students have to choose one of the possible groups to complete the unit.
+Each `<gruop>` can have a half-semester attribute. The attribute indicates, that all sessions in the group are only taught for half a semester. The value of the attribute represents in which half of the semester the sessions in the group take place. Possible values are "first" or "second".
 Each `<group>` is composed of several sessions, sessions are represented planned teaching events. Each session has the following attributes:
 
 - `day`: Abbreviated day of the week ("mon", "tue", etc.).
