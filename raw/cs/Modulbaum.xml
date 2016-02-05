@@ -60,8 +60,9 @@
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
                 <m name="Kryptokompletität I" pordnr="1311" cp="10" />
             </l>
-            <l name="Betriebssysteme" min-cp="0" max-cp="10">
-                <m name="Betriebssysteme / Grundlagen verteiler Systeme" pordnr="1307" cp="5" />
+            <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
+                <m name="Betriebssysteme" pordnr="1307" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1308" cp="5" />
             </l>
             <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
                 <m name="Graphenalgorithmen I" pordnr="1309" cp="5" />
@@ -101,8 +102,9 @@
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
                 <m name="Kryptokompletität I" pordnr="1311" cp="10" />
             </l>
-            <l name="Betriebssysteme" min-cp="0" max-cp="10">
-                <m name="Betriebssysteme / Grundlagen verteiler Systeme" pordnr="1307" cp="5" />
+            <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
+                <m name="Betriebssysteme" pordnr="1307" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1308" cp="5" />
             </l>
             <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
                 <m name="Graphenalgorithmen I" pordnr="1309" cp="5" />
