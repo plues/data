@@ -119,7 +119,7 @@
                 <module title="Internationale Wirtschaftsbeziehungen" id="W-WIWI-M-BW12" elective-units="3" type="e" pordnr="40361" cp="12">
                     <abstract-unit title="Internationaler Handel I" id="W-WIWI-L-BW12a" type="m" semester="3,4,5,6"/>
                     <abstract-unit title="Internationale Währungsbeziehungen" id="W-WIWI-L-BW12b" type="m" semester="3,4,5,6"/>
-                    <abstract-unit title="Übung zu &quot;Internationale Wirtschaftsbeziehungen&quot;" id="W-WIWI-L-BW12c" type="m" semester="3,4,5,6"/>
+                    <abstract-unit title="Übung zu 'Internationale Wirtschaftsbeziehungen'" id="W-WIWI-L-BW12c" type="m" semester="3,4,5,6"/>
                     <abstract-unit title="Übung zu Internationale Währungsbeziehungen" id="W-WIWI-L-BW12d" type="m" semester="3,4,5,6"/>
                 </module>
                 <module title="European Competition Policy" id="W-WIWI-M-BW13" elective-units="3" type="e" pordnr="40360" cp="12">
@@ -482,7 +482,7 @@
                     <abstract-unit title="Finanzmärkte und -institutionen" id="W-WIWI-L-MW08a" type="m" semester="2,3"/>
                     <abstract-unit title="Devisenmärkte" id="W-WIWI-L-MW08b" type="m" semester="2,3"/>
                     <abstract-unit title="Empirical Methods of Financial Market Analysis" id="W-WIWI-L-MW08c" type="m" semester="2,3"/>
-                    <abstract-unit title="Forschungsseminar &quot;Internationale Finanzmärkte&quot;" id="W-WIWI-L-MW08d" type="m" semester="2,3"/>
+                    <abstract-unit title="Forschungsseminar 'Internationale Finanzmärkte'" id="W-WIWI-L-MW08d" type="m" semester="2,3"/>
                 </module>
                 <module title="Wirtschaftspsychologie" id="W-WIWI-M-MW11" elective-units="2" type="e" pordnr="40538" cp="16">
                     <abstract-unit title="Allgemeine Psychologie I: Wahrnehmung und Denken" id="W-WIWI-L-MW11a" type="m" semester="2,3"/>
@@ -675,7 +675,7 @@
                     <abstract-unit title="Finanzmärkte und -institutionen" id="W-WIWI-L-MW08a" type="m" semester="2,3"/>
                     <abstract-unit title="Devisenmärkte" id="W-WIWI-L-MW08b" type="m" semester="2,3"/>
                     <abstract-unit title="Empirical Methods of Financial Market Analysis" id="W-WIWI-L-MW08c" type="m" semester="2,3"/>
-                    <abstract-unit title="Forschungsseminar &quot;Internationale Finanzmärkte&quot;" id="W-WIWI-L-MW08d" type="m" semester="2,3"/>
+                    <abstract-unit title="Forschungsseminar 'Internationale Finanzmärkte'" id="W-WIWI-L-MW08d" type="m" semester="2,3"/>
                 </module>
                 <module title="Wirtschaftspsychologie" id="W-WIWI-M-MW11" elective-units="2" type="e" pordnr="40538" cp="16">
                     <abstract-unit title="Allgemeine Psychologie I: Wahrnehmung und Denken" id="W-WIWI-L-MW11a" type="m" semester="2,3"/>
