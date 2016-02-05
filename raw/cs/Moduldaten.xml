@@ -1566,7 +1566,7 @@
             </group>
             <abstract-unit id="P-PSY-L-EMO2" />
         </unit>
-        <unit id="250700" title="Sozialpsychologie I" semester="3,5">
+        <unit id="250701" title="Sozialpsychologie I" semester="3,5">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0" />
             </group>
