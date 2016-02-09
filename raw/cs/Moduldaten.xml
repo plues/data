@@ -21,43 +21,43 @@
                     <abstract-unit id="P-CS-L-INFO4b" title="Übungen zu Grundlangen der Theoretischen Informatik (Informatik IV)" type="m" semester="4" />
                 </module>
                 <module id="P-CS-M-PROPRA" title="Programmierpraktikum" pordnr="1104" elective-units="0">
-                    <abstract-unit id="P-CS-L-PROPRAa" title="Programmierpraktikum" type="m" semester="2,4" />
-                    <abstract-unit id="P-CS-L-PROPRAb" title="Übungen: Programmierpraktikum" type="m" semester="2,4" />
+                    <abstract-unit id="P-CS-L-PROPRAa" title="Programmierpraktikum" type="m" semester="2" />
+                    <abstract-unit id="P-CS-L-PROPRAb" title="Übungen: Programmierpraktikum" type="m" semester="2" />
                 </module>
                 <module id="P-CS-M-ANA1" title="Analysis I" pordnr="1200" elective-units="0">
-                    <abstract-unit id="P-CS-L-ANA1a" title="Analysis I" type="m" semester="1,2" />
-                    <abstract-unit id="P-CS-L-ANA1b" title="Analysis I - Übungen" type="m" semester="1,2" />
-                    <abstract-unit id="P-CS-L-ANA1c" title="Analysis I - Tutorium" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-ANA1a" title="Analysis I" type="m" semester="1" />
+                    <abstract-unit id="P-CS-L-ANA1b" title="Analysis I - Übungen" type="m" semester="1" />
+                    <abstract-unit id="P-CS-L-ANA1c" title="Analysis I - Tutorium" type="m" semester="1" />
                 </module>
                 <module id="P-CS-M-LA1" title="Lineare Algebra I" pordnr="1201" elective-units="0">
-                    <abstract-unit id="P-CS-L-LA1a" title="Lineare Algebra I" type="m" semester="1,2" />
-                    <abstract-unit id="P-CS-L-LA1b" title="Lineare Algebra I - Übungen" type="m" semester="1,2" />
-                    <abstract-unit id="P-CS-L-LA1c" title="Lineare Algebra I - Tutorium" type="m" semester="1,2" />
+                    <abstract-unit id="P-CS-L-LA1a" title="Lineare Algebra I" type="m" semester="1" />
+                    <abstract-unit id="P-CS-L-LA1b" title="Lineare Algebra I - Übungen" type="m" semester="1" />
+                    <abstract-unit id="P-CS-L-LA1c" title="Lineare Algebra I - Tutorium" type="m" semester="1" />
                 </module>
                 <module id="P-CS-M-ANA2" title="Analysis II" pordnr="1202" elective-units="0">
-                    <abstract-unit id="P-CS-L-ANA2a" title="Analysis II" type="m" semester="2,3" />
-                    <abstract-unit id="P-CS-L-ANA2b" title="Analysis II - Übungen" type="m" semester="2,3" />
-                    <abstract-unit id="P-CS-L-ANA2c" title="Analysis II - Tutorium" type="m" semester="2,3" />
+                    <abstract-unit id="P-CS-L-ANA2a" title="Analysis II" type="m" semester="2" />
+                    <abstract-unit id="P-CS-L-ANA2b" title="Analysis II - Übungen" type="m" semester="2" />
+                    <abstract-unit id="P-CS-L-ANA2c" title="Analysis II - Tutorium" type="m" semester="2" />
                 </module>
                 <module id="P-CS-M-NUM1" title="Numerik I" pordnr="1203" elective-units="1">
-                    <abstract-unit id="P-CS-L-NUM1a" title="Numerik I" type="e" semester="4" />
+                    <abstract-unit id="P-CS-L-NUM1a" title="Numerik I" type="m" semester="4" />
                     <abstract-unit id="P-CS-L-NUM1b" title="Numerik I - Übungen" type="e" semester="4" />
                     <abstract-unit id="P-CS-L-NUM1c" title="Numerik I - Praktische Übungen" type="e" semester="4" />
                 </module>
-                <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="1">
-                    <abstract-unit id="P-CS-L-STOa" title="Einführung in die Stochastik" type="e" semester="3" />
-                    <abstract-unit id="P-CS-L-STOb" title="Übungen zu Einführung in die Stochastik" type="e" semester="3" />
+                <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="0">
+                    <abstract-unit id="P-CS-L-STOa" title="Einführung in die Stochastik" type="m" semester="3" />
+                    <abstract-unit id="P-CS-L-STOb" title="Übungen zu Einführung in die Stochastik" type="m" semester="3" />
                 </module>
                 <module id="P-CS-M-DBS" title="Datenbanksysteme (für BA Informatik)" pordnr="1300" elective-units="0">
-                    <abstract-unit id="P-CS-L-DBSa" title="Datenbanksysteme (für BA Informatik)" type="m" semester="3,5" />
-                    <abstract-unit id="P-CS-L-DBSb" title="Datenbanksysteme (für BA Informatik) - Übungen" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-DBSa" title="Datenbanksysteme (für BA Informatik)" type="m" semester="5" />
+                    <abstract-unit id="P-CS-L-DBSb" title="Datenbanksysteme (für BA Informatik) - Übungen" type="m" semester="5" />
                 </module>
                 <module id="P-CS-M-RN" title="Rechnernetze" pordnr="1301" elective-units="0">
-                    <abstract-unit id="P-CS-L-RNa" title="Rechnernetze" type="m" semester="3,5" />
-                    <abstract-unit id="P-CS-L-RNb" title="Rechnernetze - Hörsaalübung" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-RNa" title="Rechnernetze" type="m" semester="5" />
+                    <abstract-unit id="P-CS-L-RNb" title="Rechnernetze - Hörsaalübung" type="m" semester="5" />
                 </module>
                 <module id="P-CS-M-PROLOG" title="Einführung in die logische Programmierung" pordnr="1302" elective-units="0">
-                    <abstract-unit id="P-CS-L-PROLOG" title="Einführung in die logische Programmierung" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-PROLOG" title="Einführung in die logische Programmierung" type="m" semester="5" />
                 </module>
                 <module id="P-CS-M-CBAU" title="Compilerbau" pordnr="1303" elective-units="0">
                     <abstract-unit id="P-CS-L-CBAU" title="Compilerbau" type="m" semester="4,6" />
@@ -66,20 +66,20 @@
                     <abstract-unit id="P-CS-L-NAND" title="From NAND to Tetris" type="m" semester="4,6" />
                 </module>
                 <module id="P-CS-M-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" elective-units="0">
-                    <abstract-unit id="P-CS-L-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-KOLL" title="Verfahren zur kollektiven Entscheidungsfindung" type="m" semester="5" />
                 </module>
                 <module id="P-CS-M-WAHL" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" elective-units="0">
                     <abstract-unit id="P-CS-L-WAHLa" title="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" type="m" semester="4,6" />
                     <abstract-unit id="P-CS-L-WAHLb" title="Übungen zu Präferenzaggregation durch Wählen: Algorithmik und Komplexität" type="m" semester="4,6" />
                 </module>
                 <module id="P-CS-M-BS" title="Betriesbssysteme" pordnr="1307" elective-units="0">
-                    <abstract-unit id="P-CS-L-BS" title="Betriebssysteme" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-BS" title="Betriebssysteme" type="m" semester="5" />
                 </module>
                 <module id="P-CS-M-VS" title="Grundlagen verteilter Systeme" pordnr="1308" elective-units="0">
-                    <abstract-unit id="P-CS-L-VS" title="Grundlagen verteilter Systeme" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-VS" title="Grundlagen verteilter Systeme" type="m" semester="5" />
                 </module>
                 <module id="P-CS-M-GALGO1" title="Graphenalgorithmen I" pordnr="1309" elective-units="0">
-                    <abstract-unit id="P-CS-L-GALGO1" title="Graphenalgorithmen I" type="m" semester="3,5" />
+                    <abstract-unit id="P-CS-L-GALGO1" title="Graphenalgorithmen I" type="m" semester="5" />
                 </module>
                 <module id="P-CS-M-BIOINF" title="Algorithmen in der Bioinformatik" pordnr="1310" elective-units="0">
                     <abstract-unit id="P-CS-L-BIOINF" title="Algorithmen in der Bioinformatik" type="m" semester="4,6" />
