@@ -39,10 +39,10 @@
                     <abstract-unit id="P-CS-L-ANA2b" title="Analysis II - Übungen" type="m" semester="2" />
                     <abstract-unit id="P-CS-L-ANA2c" title="Analysis II - Tutorium" type="m" semester="2" />
                 </module>
-                <module id="P-CS-M-NUM1" title="Numerik I" pordnr="1203" elective-units="1">
+                <module id="P-CS-M-NUM1" title="Numerik I" pordnr="1203" elective-units="0">
                     <abstract-unit id="P-CS-L-NUM1a" title="Numerik I" type="m" semester="4" />
-                    <abstract-unit id="P-CS-L-NUM1b" title="Numerik I - Übungen" type="e" semester="4" />
-                    <abstract-unit id="P-CS-L-NUM1c" title="Numerik I - Praktische Übungen" type="e" semester="4" />
+                    <abstract-unit id="P-CS-L-NUM1b" title="Numerik I - Übungen" type="m" semester="4" />
+                    <abstract-unit id="P-CS-L-NUM1c" title="Numerik I - Praktische Übungen" type="m" semester="4" />
                 </module>
                 <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="0">
                     <abstract-unit id="P-CS-L-STOa" title="Einführung in die Stochastik" type="m" semester="3" />
