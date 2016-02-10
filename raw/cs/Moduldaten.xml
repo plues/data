@@ -84,6 +84,21 @@
                 <module id="P-CS-M-BIOINF" title="Algorithmen in der Bioinformatik" pordnr="1310" elective-units="0">
                     <abstract-unit id="P-CS-L-BIOINF" title="Algorithmen in der Bioinformatik" type="m" semester="4,6" />
                 </module>
+                <module id="P-CS-M-KRYP" title="Kryptokomplexität I" pordnr="1311" elective-units="0">
+                    <abstract-unit id="P-CS-L-KRYP" title="Kryptokomplexität I" type="m" semesters="4,6">
+                </module>
+                <module id="P-CS-M-ATHEO" title="Algorithmentheorie I" pordnr="1312" elective-units="0">
+                    <abstract-unit id="P-CS-L-ATHEO" title="Algorithmentheorie I" type="m" semesters="3,5">
+                </module>
+                <module id="P-CS-M-HUMAN" title="Human-Genomik und biologische Datenanalyse" pordnr="1313" elective-units="0">
+                    <abstract-unit id="P-CS-L-HUMAN" title="Human-Genomik und biologische Datenanaylse" type="m" semesters="4,6">
+                </module>
+                <module id="P-CS-M-MASCH" title="Maschine Learning" pordnr="1314" elective-units="0">
+                    <abstract-unit id="P-CS-L-MASCH" title="Maschine Learning" type="m" semesters="4,6">
+                </module>
+                <module id="P-CS-M-NETW" title="Networks, Crowds and Markets" pordnr="1315" elective-units="0">
+                    <abstract-unit id="P-CS-L-NETW" title="Networks, Crowds and Markets" type="m" semesters="3,5">
+                </module>
             </modules>
         </course>
         <course id="bk-phy-nf-2013" title="Nebenfach Physik PO 2013">
