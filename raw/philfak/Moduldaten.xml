@@ -54,7 +54,7 @@
                                    semester="2,3,4,5,6"/>
                 </module>
                 <module id="P-IAA-M-BIMSD1" title="Intermediate Module – Sprachwissenschaft Entwicklung 1"
-                        pordnr="34131" elective-units="2">
+                        pordnr="341311" elective-units="2">
                     <abstract-unit id="P-IAA-L-BIMSa"
                                    title="Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e"
                                    semester="2,3,4,5,6"/>
@@ -103,7 +103,7 @@
                                    title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)"
                                    type="e" semester="4,5,6"/>
                 </module>
-                <module id="P-IAA-M-BAML1" title="Advanced Module – Literaturwissenschaft 1" pordnr="34134"
+                <module id="P-IAA-M-BAML1" title="Advanced Module – Literaturwissenschaft 1" pordnr="341341"
                         elective-units="2">
                     <abstract-unit id="P-IAA-L-BAMLa"
                                    title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)"
@@ -112,7 +112,7 @@
                                    title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)"
                                    type="e" semester="4,5,6"/>
                 </module>
-                <module id="P-IAA-M-BAML2" title="Advanced Module – Literaturwissenschaft 2" pordnr="34135"
+                <module id="P-IAA-M-BAML2" title="Advanced Module – Literaturwissenschaft 2" pordnr="34136"
                         elective-units="2">
                     <abstract-unit id="P-IAA-L-BAMLa"
                                    title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)"
@@ -130,7 +130,7 @@
                                    title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)"
                                    type="e" semester="5,6"/>
                 </module>
-                <module id="P-IAA-M-BAML3" title="Advanced Module – Literaturwissenschaft 3" pordnr="35045"
+                <module id="P-IAA-M-BAML3" title="Advanced Module – Literaturwissenschaft 3" pordnr="35046"
                         elective-units="2">
                     <abstract-unit id="P-IAA-L-BAMLa"
                                    title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)"
@@ -816,7 +816,7 @@
                                    semester="4,5"/>
                 </module>
                 <module id="P-ROM-M-BARS2" title="Aufbaumodul romanistische Sprachwissenschaft (mit Bachelorarbeit)"
-                        pordnr="34599" elective-units="3">
+                        pordnr="345991" elective-units="3">
                     <abstract-unit id="P-ROM-L-BARS1a"
                                    title="Vorlesung oder Aufbauseminar BASR1a (Vorlesung oder Aufbauseminar)" type="e"
                                    semester="4,5,6"/>
@@ -845,7 +845,7 @@
                                    semester="3,4"/>
                 </module>
                 <module id="P-ROM-M-BALWB" title="Aufbaumodul romanistische Literaturwissenschaft (mit Bachelorarbeit)"
-                        pordnr="34600" elective-units="3">
+                        pordnr="346001" elective-units="3">
                     <abstract-unit id="P-ROM-L-BALW1a"
                                    title="Vorlesung oder Aufbauseminar BALW1a (Vorlesung oder Aufbauseminar)" type="e"
                                    semester="4,5,6"/>
@@ -987,7 +987,7 @@
                                    semester="2,3,4,5,6"/>
                 </module>
                 <module id="P-IAA-M-BIMSD1" title="Intermediate Module – Sprachwissenschaft Entwicklung 1"
-                        pordnr="34680" elective-units="2">
+                        pordnr="346801" elective-units="2">
                     <abstract-unit id="P-IAA-L-BIMSa"
                                    title="Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)" type="e"
                                    semester="2,3,4,5,6"/>
@@ -996,7 +996,7 @@
                                    semester="2,3,4,5,6"/>
                 </module>
                 <module id="P-IAA-M-BIMSD2" title="Intermediate Module – Sprachwissenschaft Entwicklung 2"
-                        pordnr="34681" elective-units="3">
+                        pordnr="346811" elective-units="3">
                     <abstract-unit id="P-IAA-L-BIMSa"
                                    title="Thematisch andere Vorlesung zu Struktur oder Entwicklung des Englischen (Vorlesung)"
                                    type="e" semester="2,3,4,5,6"/>
@@ -1034,7 +1034,7 @@
                                    title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)"
                                    type="e" semester="4,5,6"/>
                 </module>
-                <module id="P-IAA-M-BAML1" title="Advanced Module – Literaturwissenschaft 1" pordnr="34682"
+                <module id="P-IAA-M-BAML1" title="Advanced Module – Literaturwissenschaft 1" pordnr="346821"
                         elective-units="2">
                     <abstract-unit id="P-IAA-L-BAMLa"
                                    title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)"
@@ -1043,7 +1043,7 @@
                                    title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)"
                                    type="e" semester="4,5,6"/>
                 </module>
-                <module id="P-IAA-M-BAMS3" title="Advanced Module – Sprachwissenschaft 3 (ohne AP)" pordnr="34682"
+                <module id="P-IAA-M-BAMS3" title="Advanced Module – Sprachwissenschaft 3 (ohne AP)" pordnr="346823"
                         elective-units="2">
                     <abstract-unit id="P-IAA-L-BAMSa"
                                    title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)"
@@ -1052,7 +1052,7 @@
                                    title="Seminar zu Entwicklung, Variation oder Gebrauch der englischen Sprache (Seminar)"
                                    type="e" semester="5,6"/>
                 </module>
-                <module id="P-IAA-M-BAML3" title="Advanced Module – Literaturwissenschaft 3 (ohne AP)" pordnr="34682"
+                <module id="P-IAA-M-BAML3" title="Advanced Module – Literaturwissenschaft 3 (ohne AP)" pordnr="346824"
                         elective-units="2">
                     <abstract-unit id="P-IAA-L-BAMLa"
                                    title="Veranstaltung zur Funktion, Geschichte und/oder Struktur der englischsprachigen Literatur und Kultur (Seminar)"
@@ -2120,7 +2120,7 @@
                 </module>
                 <module id="P-ROM-M-BALWEF"
                         title="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)"
-                        pordnr="34787" elective-units="4">
+                        pordnr="347871" elective-units="4">
                     <abstract-unit id="P-ROM-L-BALWEF4a"
                                    title="Vorlesung oder Projektseminar BALWEF4a (Vorlesung oder Projektseminar)"
                                    type="e" semester="2,3"/>
@@ -2244,7 +2244,7 @@
                     <abstract-unit id="P-ISI-L-BLb3" title="Semantik und Pragmatik (Vorlesung)" type="e"
                                    semester="1,2"/>
                 </module>
-                <module id="P-ISI-M-BCL1" title="CL1 Basismodul „Computerlinguistik“" pordnr="33939" elective-units="3">
+                <module id="P-ISI-M-BCL1" title="CL1 Basismodul „Computerlinguistik“" pordnr="33940" elective-units="3">
                     <abstract-unit id="P-ISI-L-BCL1a" title="Einführung in die Computerlinguistik (Basisseminar)"
                                    type="m" semester="2,3"/>
                     <abstract-unit id="P-ISI-L-BCL1b" title="Grundkurs Prolog (Seminar)" type="m" semester="2,3"/>
@@ -6201,15 +6201,15 @@
         <unit id="119669"
               title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)"
               semester="1,3,5">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
+            <group half-semester="first">
+              <session day="mon" time="3" duration="2" rhythm="0" />
             </group>
             <abstract-unit id="P-IAA-L-BBM3b"/>
         </unit>
         <unit id="119671"
               title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)"
               semester="1,3,5">
-            <group>
+              <group half-semester="first"> <!-- half-semester="first"-semester="second" -->
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3b"/>
@@ -6217,7 +6217,7 @@
         <unit id="119668"
               title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="first">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3b"/>
@@ -6225,7 +6225,7 @@
         <unit id="119670"
               title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="second">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3b"/>
@@ -6233,7 +6233,7 @@
         <unit id="119663"
               title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="first">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3a"/>
@@ -6241,7 +6241,7 @@
         <unit id="119662"
               title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="second">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3a"/>
@@ -6249,7 +6249,7 @@
         <unit id="119667"
               title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="first">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3a"/>
@@ -6257,7 +6257,7 @@
         <unit id="119666"
               title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="second">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3a"/>
@@ -6265,7 +6265,7 @@
         <unit id="119661"
               title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="first">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3c"/>
@@ -6273,7 +6273,7 @@
         <unit id="119658"
               title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="second">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3c"/>
@@ -6281,7 +6281,7 @@
         <unit id="119660"
               title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="first">
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3c"/>
@@ -6289,7 +6289,7 @@
         <unit id="119661"
               title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="second">
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3c"/>
@@ -6297,7 +6297,7 @@
         <unit id="119665"
               title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="first">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3d"/>
@@ -6305,7 +6305,7 @@
         <unit id="119664"
               title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="second">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3d"/>
@@ -6313,7 +6313,7 @@
         <unit id="119657"
               title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="first">
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3d"/>
@@ -6321,7 +6321,7 @@
         <unit id="119656"
               title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)"
               semester="1,3,5">
-            <group>
+            <group half-semester="second">
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BBM3d"/>
@@ -6983,7 +6983,7 @@
         <unit id="124957"
               title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="first">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3b"/>
@@ -6991,7 +6991,7 @@
         <unit id="123713"
               title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="second">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3b"/>
@@ -7015,7 +7015,7 @@
         <unit id="124726"
               title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="first">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3a"/>
@@ -7023,7 +7023,7 @@
         <unit id="124893"
               title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="second">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3a"/>
@@ -7047,7 +7047,7 @@
         <unit id="124725"
               title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="first">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3c"/>
@@ -7055,7 +7055,7 @@
         <unit id="123591"
               title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="second">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3c"/>
@@ -7063,7 +7063,7 @@
         <unit id="124955"
               title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="first">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3d"/>
@@ -7071,7 +7071,7 @@
         <unit id="124956"
               title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)"
               semester="2,4,6">
-            <group>
+            <group half-semester="second">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLM3d"/>
@@ -11696,7 +11696,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVf"/>
-            <abstract-unit id="P-SOWI-L-BTMBP-SVc"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SVg"/>
         </unit>
         <unit id="119735" title="Demokratie und Krieg (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11708,6 +11708,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PVg"/>
         </unit>
         <unit id="119621"
               title="Empirische Forschungspraxis Politische Kommunikation: Skandale (Vertiefungsseminar)"
@@ -11721,6 +11722,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-PVg"/>
         </unit>
         <unit id="119356" title="European Union Security and Defense Policy  (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11732,6 +11734,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PVg"/>
         </unit>
         <unit id="118726"
               title="Fragmentierung der Zuwendung zu politischen Informationsangeboten (Vertiefungsseminar)"
@@ -11745,6 +11748,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PVg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KVc"/>
         </unit>
         <unit id="118860" title="Framing Effects (Vertiefungsseminar)" semester="1,3,5">
@@ -11757,6 +11761,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SVg"/>
         </unit>
         <unit id="122664"
               title="From Pragmatism to Polarization? The Place of Political Ideas in American Politics (Vertiefungsseminar)"
@@ -11770,6 +11775,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PVg"/>
         </unit>
         <unit id="119980" title="Gesundheitliche Ungleichheit (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11781,6 +11787,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SVg"/>
         </unit>
         <unit id="118752" title="Haushalts- und Finanzpolitik (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11792,6 +11799,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PVg"/>
         </unit>
         <unit id="119488" title="Kultivierungsforschung (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11803,6 +11811,8 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
         </unit>
         <unit id="118882" title="Lektürekurs: Leben im Netz (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11814,6 +11824,8 @@
             <abstract-unit id="P-SOWI-L-BTMIG-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
         </unit>
         <unit id="119376" title="Macht, Status, Geschlecht (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11825,7 +11837,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVf"/>
-            <abstract-unit id="P-SOWI-L-BTMBP-SVc"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SVg"/>
         </unit>
         <unit id="119560" title="Medien und Gewalt(Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11837,6 +11849,8 @@
             <abstract-unit id="P-SOWI-L-BTMIG-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
         </unit>
         <unit id="118826" title="Medien und Internationales (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11848,6 +11862,9 @@
             <abstract-unit id="P-SOWI-L-BTMEI-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-KAb"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-KVc"/>
         </unit>
         <unit id="119533" title="Nachrichtenauswahl (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11859,6 +11876,8 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
         </unit>
         <unit id="119519" title="Neofaschismus und Rechtspopulismus (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11870,6 +11889,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-PVg"/>
         </unit>
         <unit id="119534" title="Öffentlichkeit und Vielfalt (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11881,6 +11901,8 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KVc"/>
         </unit>
         <unit id="119437" title="Organisationstheorien (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11892,6 +11914,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SVg"/>
         </unit>
         <unit id="118881" title="Popularisierung der Medien (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11903,6 +11926,8 @@
             <abstract-unit id="P-SOWI-L-BTMBP-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KVc"/>
         </unit>
         <unit id="126125" title="Religionssoziologie (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11914,6 +11939,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SVg"/>
         </unit>
         <unit id="122117" title="Slumdogs, pink Saris und Tata: Gesellschaft in Indien (Vertiefungsseminar)"
               semester="1,3,5">
@@ -11926,6 +11952,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-SVg"/>
         </unit>
         <unit id="126126" title="Soziale Probleme (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11937,6 +11964,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SVg"/>
         </unit>
         <unit id="118740" title="Sozialwissenschaftliche Verhaltensmodelle (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11948,6 +11976,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SVg"/>
         </unit>
         <unit id="119436" title="Soziologie des Internets (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11959,6 +11988,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-SVg"/>
         </unit>
         <unit id="118396" title="Strategische politische Kommunikation (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11970,6 +12000,9 @@
             <abstract-unit id="P-SOWI-L-BTMBP-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-KVg"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-KAb"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-KAc"/>
         </unit>
         <unit id="118810"
               title="The EU-Policy Process - Who does what and how in the European Union? (Vertiefungsseminar)"
@@ -11983,6 +12016,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-KVg"/>
         </unit>
         <unit id="121826" title="Wandel von Parteiensystemen (Vertiefungsseminar)" semester="1,3,5">
             <group>
@@ -11994,6 +12028,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PVg"/>
         </unit>
         <unit id="118365" title="Analyseverfahren I und II (Vorlesung)" semester="1,3,5">
             <group>
@@ -12011,6 +12046,11 @@
             <abstract-unit id="P-SOWI-L-BTMIG-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
         <unit id="120072" title="Demokratien im Vergleich (Vorlesung)" semester="1,3,5">
             <group>
@@ -12022,6 +12062,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PAg"/>
         </unit>
         <unit id="118220" title="Einführung in das Mediensystem in Deutschland (Vorlesung)" semester="1,3,5">
             <group>
@@ -12051,6 +12092,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="119447" title="Grundlagen der Online-Partizipation (Vorlesung)" semester="1,3,5">
             <group>
@@ -12064,6 +12106,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
@@ -12083,6 +12126,9 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KAg"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
         <unit id="118749" title="Kleine Weltgeschichte des demokratischen Zeitalters II (Vorlesung)"
               semester="1,3,5">
@@ -12095,6 +12141,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="118132" title="Medienwirkung (Vorlesung)" semester="1,3,5">
             <group>
@@ -12106,6 +12153,9 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KAg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
         <unit id="119374" title="Online-Partizipation: Empirische Fallstudien (Vorlesung)" semester="1,3,5">
             <group>
@@ -12117,6 +12167,9 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KAg"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
         <unit id="118748" title="Parlamente (Vorlesung)" semester="1,3,5">
             <group>
@@ -12128,6 +12181,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAg"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAa"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAb"/>
         </unit>
@@ -12141,6 +12195,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-SAg"/>
         </unit>
         <unit id="118830" title="Berufsfeldkurs 4 Online-Radiojournalismus Mennicken' (Übung)" semester="1,3,5">
             <group>
@@ -12230,6 +12285,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAg"/>
         </unit>
         <unit id="118952" title="Einführung in die internationale Umweltpolitik (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12241,6 +12297,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="118784" title="Einführung in die Organisationstheorie (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12252,6 +12309,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SAg"/>
         </unit>
         <unit id="119438" title="Einführung in die Systemtheorie (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12263,6 +12321,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SAg"/>
         </unit>
         <unit id="118771" title="European Parliament (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12274,6 +12333,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="122121" title="Freizeitsoziologie (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12285,6 +12345,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-SAg"/>
         </unit>
         <unit id="122306" title="Graue Theorie? Einführung in die soziologische Alter(n)sforschung(Aufbauseminar)"
               semester="1,3,5">
@@ -12297,6 +12358,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SAg"/>
         </unit>
         <unit id="121315" title="Grundlagentexte zur Methodologie qualitativer Sozialforschung(Aufbauseminar)"
               semester="1,3,5">
@@ -12309,6 +12371,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SAg"/>
         </unit>
         <unit id="118679" title="Gute Arbeit aus sozialwissenschaftlicher Sicht (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12320,6 +12383,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SAg"/>
         </unit>
         <unit id="119996" title="Lektüre klassischer empirischer Arbeiten aus der Sozialforschung (Aufbauseminar)"
               semester="1,3,5">
@@ -12332,6 +12396,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
         </unit>
         <unit id="119396" title="Medien-Alltag-soziale Identität (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12343,6 +12408,9 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
         <unit id="119402" title="Medienauswahl (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12354,6 +12422,9 @@
             <abstract-unit id="P-SOWI-L-BTMIG-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
         <unit id="119440" title="Online-Befragungen zu Themen der gesellschaftlichen Partizipation (Aufbauseminar)"
               semester="1,3,5">
@@ -12366,6 +12437,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
         </unit>
         <unit id="119008" title="Political Behavior in a Comparative Perspective (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12377,6 +12449,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAa"/>
         </unit>
         <unit id="118838" title="Political Marketing American Style (Aufbauseminar)" semester="1,3,5">
@@ -12389,7 +12462,9 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
         <unit id="118393" title="Politik und Unterhaltung (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12401,7 +12476,9 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMAP-PAa"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-PAb"/>
         </unit>
         <unit id="120075" title="Politische Parteien in der Europäischen Union (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12413,6 +12490,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAa"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAb"/>
         </unit>
@@ -12426,6 +12504,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SAg"/>
         </unit>
         <unit id="119874"
               title="Salafismus – Hintergründe, Inhalte, Ziele und Strategien salafistischer Ideologie (Aufbauseminar)"
@@ -12439,6 +12518,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAg"/>
         </unit>
         <unit id="118837" title="Social Campaigning (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12450,7 +12530,9 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
         <unit id="120314" title="State-Society Relations and Prospect of Change in the Middle East (Aufbauseminar)"
               semester="1,3,5">
@@ -12463,6 +12545,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAg"/>
         </unit>
         <unit id="122075" title="Veränderung der Mediennutzung (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12474,6 +12557,9 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
         <unit id="120073"
               title="Die Vermessung der Demokratie: Typen, Indikatoren, Konzepte (Teil 2) (Forschungsprojekt)"
@@ -12591,6 +12677,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="124590" title="Einführung in das politische System Deutschlands (Vorlesung)" semester="2,4,6">
             <group>
@@ -12611,29 +12698,6 @@
             </group>
             <abstract-unit id="P-SOWI-L-BMMEb"/>
         </unit>
-        <unit id="125625" title="Parteien in modernen Demokratien. Ein internationaler Vergleich. (Vorlesung)"
-              semester="2,4,6">
-            <group>
-                <session day="mon" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BTMIG-PAa"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-PAb"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-PAc"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-PAd"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-PAe"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-PAf"/>
-        </unit>
-        <unit id="124537" title="Politische Kommunikation (Vorlesung)" semester="2,4,6">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAa"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAb"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAc"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAd"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAe"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAf"/>
-        </unit>
         <unit id="124920" title="Sozialstruktur der Bundesrepublik Deutschland (Vorlesung)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
@@ -12650,29 +12714,20 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
-        </unit>
-        <unit id="125276" title="Theorien der Kommunikation (Vorlesung)" semester="2,4,6">
-            <group>
-                <session day="mon" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BTMIG-SAa"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-SAb"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-SAc"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
-            <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
         </unit>
         <unit id="124905" title="Kleine Weltgeschichte des demokratischen Zeitalters I (Vorlesung)"
               semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BTMEI-PAa"/>
-            <abstract-unit id="P-SOWI-L-BTMEI-PAb"/>
-            <abstract-unit id="P-SOWI-L-BTMEI-PAc"/>
-            <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
-            <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
-            <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAa"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAb"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAc"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAd"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAe"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAg"/>
         </unit>
         <unit id="124038" title="Berufsfeldkurs 'Werbung - ein Marketinginstrument'(Seminar)" semester="2,4,6">
             <group>
@@ -12755,6 +12810,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMAP-KAa"/>
         </unit>
         <unit id="125797" title="Democracy in the European Union (Aufbauseminar)" semester="2,4,6">
@@ -12767,6 +12823,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="124029" title="Devianz (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -12778,6 +12835,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SAg"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAc"/>
         </unit>
         <unit id="125446" title="Einführung in die (Online-)Marktforschung (Aufbauseminar)" semester="2,4,6">
@@ -12790,6 +12848,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAg"/>
         </unit>
         <unit id="124907" title="Föderalismus und Föderalismusreformen (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -12801,6 +12860,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PAg"/>
         </unit>
         <unit id="126287" title="Fragmentierung der Mediennutzung (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -12812,6 +12872,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KAg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
@@ -12825,6 +12886,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAg"/>
         </unit>
         <unit id="126066" title="Herausforderung Islam – Sozialwissenschaftliche Perspektiven(Aufbauseminar)"
               semester="2,4,6">
@@ -12837,6 +12899,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
         </unit>
         <unit id="126067" title="International vergleichende Bildungsforschung (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -12848,6 +12911,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="127719" title="Internet und Demokratie (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -12859,6 +12923,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
@@ -12872,7 +12937,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAf"/>
-            <abstract-unit id="P-SOWI-L-BTMBP-SAc"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SAg"/>
         </unit>
         <unit id="132328" title="Kultursoziologie  (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -12884,6 +12949,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PAg"/>
         </unit>
         <unit id="126825" title="Lektüre klassischer empirischer Arbeiten aus der Sozialforschung (Aufbauseminar)"
               semester="2,4,6">
@@ -12896,6 +12962,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
         </unit>
         <unit id="126356" title="Parlamentarismus in Deutschland (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -12907,7 +12974,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAf"/>
-            <abstract-unit id="P-SOWI-L-BTMBP-PAc"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PAg"/>
         </unit>
         <unit id="125795" title="Parteien im Internet - Das Internet in Parteien (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -12919,7 +12986,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAf"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAc"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAa"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAb"/>
         </unit>
@@ -12934,6 +13001,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAa"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAb"/>
         </unit>
@@ -12947,7 +13015,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SAf"/>
-            <abstract-unit id="P-SOWI-L-BTMBP-SAc"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SAg"/>
         </unit>
         <unit id="124537" title="Politische Kommunikation (Vorlesung)" semester="2,4,6">
             <group>
@@ -12959,11 +13027,11 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAf"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAc"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
-        <unit id="124537" title="Politische Medienwirkungen online/offline (Aufbauseminar)" semester="2,4,6">
+        <unit id="126220" title="Politische Medienwirkungen online/offline (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
@@ -12973,7 +13041,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAf"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAc"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
@@ -12987,6 +13055,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
@@ -13000,6 +13069,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PAg"/>
         </unit>
         <unit id="126204" title="Soziale Integration und Medien (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -13011,6 +13081,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KAb"/>
         </unit>
@@ -13025,6 +13096,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PAg"/>
         </unit>
         <unit id="126103"
               title="Stress und Stressmanagement- Umgang mit einem gesellschaftlichen Massenphänomen (Aufbauseminar)"
@@ -13038,6 +13110,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
         </unit>
         <unit id="125276" title="Theorien der Kommunikation (Vorlesung)" semester="2,4,6">
             <group>
@@ -13049,6 +13122,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
@@ -13062,6 +13136,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SAg"/>
         </unit>
         <unit id="125418" title="Verstehen und Fremdverstehen (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -13073,6 +13148,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SAd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SAg"/>
         </unit>
         <unit id="126245" title="Wahlhilfen im Internet (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -13084,7 +13160,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PAf"/>
-            <abstract-unit id="P-SOWI-L-BTMMK-PAc"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-PAg"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAa"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PAb"/>
         </unit>
@@ -13098,6 +13174,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PAd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PAf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PAg"/>
         </unit>
         <unit id="128224" title="Was leisten die Medien ? (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -13109,7 +13186,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-KAd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KAe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KAf"/>
-            <abstract-unit id="P-SOWI-L-BTMBP-KAc"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-KAg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAa"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KAb"/>
         </unit>
@@ -13123,6 +13200,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PVg"/>
         </unit>
         <unit id="126358" title="Formierungsprozess neuer Parteien - Gründung und Erfolg (Vertiefungsseminar)"
               semester="2,4,6">
@@ -13135,6 +13213,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-PVg"/>
         </unit>
         <unit id="126100"
               title="Friedliche Muslime und gewalttätige Islamisten: feindliche Brüder oder Brüder im Geiste? (Vertiefungsseminar)"
@@ -13148,6 +13227,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-PVg"/>
         </unit>
         <unit id="126196" title="Gefahren in den Medien (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13159,6 +13239,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-KVg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KVc"/>
         </unit>
         <unit id="128223" title="Gesellschaftliche Kommunikation im Wandel (Vertiefungsseminar)" semester="2,4,6">
@@ -13171,6 +13252,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KVg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KVc"/>
         </unit>
         <unit id="125615" title="Grenzfragen am Anfang und Ende des Lebens (Vertiefungsseminar)" semester="2,4,6">
@@ -13183,6 +13265,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SVg"/>
         </unit>
         <unit id="125292" title="Haushalts- und Finanzpolitik in der Bundesrepublik Deutschland (Vertiefungsseminar)"
               semester="2,4,6">
@@ -13195,6 +13278,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PVg"/>
         </unit>
         <unit id="125445" title="Human Resource Management (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13206,6 +13290,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SVg"/>
         </unit>
         <unit id="124079" title="Islamfeindlichkeit (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13217,6 +13302,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SVg"/>
         </unit>
         <unit id="126219" title="Journalismus in der Fiktion (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13228,6 +13314,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-KVg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KVc"/>
         </unit>
         <unit id="126208" title="Kriegskommunikation (Vertiefungsseminar)" semester="2,4,6">
@@ -13240,6 +13327,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KVg"/>
             <abstract-unit id="P-SOWI-L-BTMMG-KVc"/>
         </unit>
         <unit id="124937" title="Mechanismen normativer Integration (Vertiefungsseminar)" semester="2,4,6">
@@ -13252,6 +13340,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SVg"/>
         </unit>
         <unit id="128501" title="Mediale Repräsentation politischer Parteien (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13263,6 +13352,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-SVg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
         </unit>
         <unit id="126345" title="New Perspectives on Party Research (Vertiefungsseminar)" semester="2,4,6">
@@ -13275,6 +13365,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SVg"/>
         </unit>
         <unit id="125376" title="Online-Partizipation (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13286,6 +13377,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-SVg"/>
         </unit>
         <unit id="125010" title="Organisationskommunikation (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13297,6 +13389,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SVg"/>
         </unit>
         <unit id="126359" title="Parteien und Staatstätigkeit (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13308,6 +13401,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-PVg"/>
         </unit>
         <unit id="126201" title="Politainment (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13319,6 +13413,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-KVg"/>
         </unit>
         <unit id="126206" title="Popularisierung der Medien (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13330,6 +13425,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-KVg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
         </unit>
         <unit id="126065" title="Reformpädagogik  (Vertiefungsseminar)" semester="2,4,6">
@@ -13342,6 +13438,7 @@
             <abstract-unit id="P-SOWI-L-BTMSS-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMSS-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMSS-SVg"/>
         </unit>
         <unit id="125319" title="Rüstungsexporte (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13351,8 +13448,9 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PVb"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVc"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVd"/>
-            <abstract-unit id="P-SOWI-L-BTMEI-KVe"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-PVg"/>
         </unit>
         <unit id="126068" title="Sozialwissenschaftliche Jugendforschung (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13364,6 +13462,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-SVg"/>
         </unit>
         <unit id="126202" title="Sport und Medien (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13375,6 +13474,8 @@
             <abstract-unit id="P-SOWI-L-BTMMK-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMMK-SVg"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-KAb"/>
             <abstract-unit id="P-SOWI-L-BTMAP-KVc"/>
         </unit>
         <unit id="126199" title="Strategische politische Kommunikation (Vertiefungsseminar)" semester="2,4,6">
@@ -13387,6 +13488,7 @@
             <abstract-unit id="P-SOWI-L-BTMMK-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMMK-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-KAb"/>
             <abstract-unit id="P-SOWI-L-BTMAP-KVc"/>
         </unit>
         <unit id="125261" title="The New Sociology of Nonreligion and Secularity (Vertiefungsseminar)" semester="2,4,6">
@@ -13399,6 +13501,7 @@
             <abstract-unit id="P-SOWI-L-BTMBP-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMBP-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMBP-SVg"/>
         </unit>
         <unit id="126354" title="Transformation politischer Systeme (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13410,6 +13513,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-PVg"/>
             <abstract-unit id="P-SOWI-L-BTMBP-PVc"/>
         </unit>
         <unit id="125317" title="Vergleichende Einstellungsforschung (Vertiefungsseminar)" semester="2,4,6">
@@ -13422,6 +13526,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-SVg"/>
         </unit>
         <unit id="131208" title="Vergleichende Regionenforschung (Vertiefungsseminar)" semester="2,4,6">
             <group>
@@ -13433,6 +13538,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-PVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-PVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-PVg"/>
             <abstract-unit id="P-SOWI-L-BTMSS-PVc"/>
         </unit>
         <unit id="126209" title="Werbewirkungsforschung (Vertiefungsseminar)" semester="2,4,6">
@@ -13445,6 +13551,7 @@
             <abstract-unit id="P-SOWI-L-BTMIG-KVd"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KVe"/>
             <abstract-unit id="P-SOWI-L-BTMIG-KVf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KVg"/>
             <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
         </unit>
         <unit id="125422" title="Wirtschaft und Gesellschaft in China (Vertiefungsseminar)" semester="2,4,6">
@@ -13457,6 +13564,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-SVg"/>
         </unit>
         <unit id="125922" title="Zur gesellschaftlichen Konstruktion von Geschlecht (Vertiefungsseminar)"
               semester="2,4,6">
@@ -13469,6 +13577,7 @@
             <abstract-unit id="P-SOWI-L-BTMEI-SVd"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVe"/>
             <abstract-unit id="P-SOWI-L-BTMEI-SVf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-SVg"/>
         </unit>
         <unit id="128083"
               title="LFP: „Wahlkampf und Wahl. Empirische Analysen der Wählerschaft vor und nach der Bundestagswahl 2013“ (Forschungsprojekt)"
@@ -14863,6 +14972,39 @@
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ISI-L-BI4b"/>
+        </unit>
+        <unit id="119491" title="Mediensysteme im internationalen Vergleich (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-SOWI-L-BTMAP-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMAP-KAb"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAb"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAc"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAd"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAe"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMEI-KAg"/>
+        </unit>
+        <unit id="118673" title="Methoden der Sozialwissenschaften I (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-SOWI-L-BMMa"/>
+        </unit>
+        <unit id="124061" title="Familie und Medien (Vertiefungsseminar)" semester="1,3,5">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-SOWI-L-BTMMI-KVc"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAa"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAb"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAc"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAd"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAe"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAf"/>
+            <abstract-unit id="P-SOWI-L-BTMIG-KAg"/>
         </unit>
     </units>
 </data>
