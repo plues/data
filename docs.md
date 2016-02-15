@@ -43,22 +43,16 @@ Modules are represented by two attributes
 
 ### Module Data
 
-Module data is composed of two things. First the information how modules are structured, i.e. which abstract units compose a module. Second how units are structured, which groups and sessions compose then as well as the to which abstract units they are linked.
+Module data is composed of two things. First the information how modules are
+structured, i.e. which abstract units compose a module. Second how units are
+structured, which groups and sessions compose then as well as the to which
+abstract units they are linked.
 
-The information is grouped below the root level `<data>`.
-Each course is represent by a `<course>` node with attributes:
-
-- `id`: Unique ID for the course, composed of the fields `abschl`-`std`-[`KF`, `IS`, `EF` (depending on the type of course)]-`pversion` as described above. Below each course, grouped in a `<modules>` node is a list of the modules of that course.
-
-Each module is represented by a `<module>` node with the following 
-
-  <modules>
+The information is grouped below the root level `<data>`.  Modules are group
+below a `<modules>` node.
 
 #### Modules
-
-The first kind of child element is `<course-module-units>` which represents the relationships between courses, modules and units.
-
-`<modules>` are organized below the `<course-module-unit>` node, each `<module>` has the following attributes:
+Each module is represented by a single `<module>` node and has the following attributes:
 
 - `id`: Globally unique identifier for the module following a specific schema (XXX add a ref to the schema)
 - `title`: The title of the module.
