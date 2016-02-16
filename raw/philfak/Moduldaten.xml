@@ -1067,25 +1067,6 @@
             <abstract-unit id="P-KLAS-L-BSPLÜB-G" title="1 Griechische Lektüreübung (Übung)" type="m"
                            semester="1,2,3,4"/>
         </module>
-        <module id="P-KLAS-M-BSPM" title="Sprachpraxismodul (Latein oder Griechisch)" pordnr="34669"
-                elective-units="8">
-            <abstract-unit id="P-KLAS-L-BSPM-L" title="1 Sprachkurs Latein III  (Sprachkurs)" type="e"
-                           semester="1,2,3,4"/>
-            <abstract-unit id="P-KLAS-L-BSPM-G" title="1 Sprachkurs Griechisch III  (Sprachkurs)" type="e"
-                           semester="1,2,3,4"/>
-            <abstract-unit id="P-KLAS-L-BSPRÜB-L1" title="1 Lektüre-Sprachvertiefungsübung Lateinisch (Übung)"
-                           type="e" semester="1,2,3,4"/>
-            <abstract-unit id="P-KLAS-L-BSPRÜB-L2" title="1 Lektüre-Sprachvertiefungsübung Lateinisch (Übung)"
-                           type="e" semester="1,2,3,4"/>
-            <abstract-unit id="P-KLAS-L-BSPRÜB-G1" title="1 Lektüre-Sprachvertiefungsübung Griechisch (Übung)"
-                           type="e" semester="1,2,3,4"/>
-            <abstract-unit id="P-KLAS-L-BSPRÜB-G2" title="1 Lektüre-Sprachvertiefungsübung Griechisch (Übung)"
-                           type="e" semester="1,2,3,4"/>
-            <abstract-unit id="P-KLAS-L-BSPLÜB-L" title="1 Lateinische Lektüreübung (Übung)" type="m"
-                           semester="1,2,3,4"/>
-            <abstract-unit id="P-KLAS-L-BSPLÜB-G" title="1 Griechische Lektüreübung (Übung)" type="m"
-                           semester="1,2,3,4"/>
-        </module>
         <module id="P-KLAS-M-BAM1" title="Aufbaumodul 1: Griechische Antike" pordnr="34671" elective-units="2">
             <abstract-unit id="P-KLAS-L-BAM1a"
                            title="Klass. Philologie, Alte Geschichte oder antike Philosophie (Vorlesung)"
@@ -1926,71 +1907,6 @@
                            semester="4,5"/>
             <abstract-unit id="P-ROM-L-BALW1b" title="Aufbauseminar BALWE3b (Aufbauseminar)" type="e"
                            semester="4,5"/>
-        </module>
-        <module id="P-ROM-M-BSPF" title="Basismodul Sprachpraxis Französisch" pordnr="34773" elective-units="4">
-            <abstract-unit id="P-ROM-L-BSPFa" title="Sprachbasisseminar A (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPFb" title="Sprachbasisseminar B (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPFc" title="Sprachaufbauseminar A (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPFd" title="Sprachaufbauseminar B (Sprachkurs)" type="e"
-                           semester="1,2"/>
-        </module>
-        <module id="P-ROM-M-BSPI" title="Basismodul Sprachpraxis Italienisch" pordnr="34774" elective-units="4">
-            <abstract-unit id="P-ROM-L-BSPIa" title="Sprachbasisseminar A (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPIb" title="Sprachbasisseminar B (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPIc" title="Sprachaufbauseminar A (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPId" title="Sprachaufbauseminar B (Sprachkurs)" type="e"
-                           semester="1,2"/>
-        </module>
-        <module id="P-ROM-M-BSPS" title="Basismodul Sprachpraxis Spanisch" pordnr="34775" elective-units="4">
-            <abstract-unit id="P-ROM-L-BSPSa" title="Sprachbasisseminar A (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPSb" title="Sprachbasisseminar B (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPSc" title="Sprachaufbauseminar A (Sprachkurs)" type="e"
-                           semester="1,2"/>
-            <abstract-unit id="P-ROM-L-BSPSd" title="Sprachaufbauseminar B (Sprachkurs)" type="e"
-                           semester="1,2"/>
-        </module>
-        <module id="P-ROM-M-BVSF" title="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776"
-                elective-units="2">
-            <abstract-unit id="P-ROM-L-BVSFa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3"/>
-            <abstract-unit id="P-ROM-L-BVSFb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3"/>
-        </module>
-        <module id="P-ROM-M-BVSI" title="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777"
-                elective-units="2">
-            <abstract-unit id="P-ROM-L-BVSIa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3"/>
-            <abstract-unit id="P-ROM-L-BVSIb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3"/>
-        </module>
-        <module id="P-ROM-M-BVSS" title="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778"
-                elective-units="2">
-            <abstract-unit id="P-ROM-L-BVSSa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3"/>
-            <abstract-unit id="P-ROM-L-BVSSb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3"/>
-        </module>
-        <module id="P-ROM-M-BASF" title="Aufbaumodul Sprachpraxis Französisch" pordnr="34779"
-                elective-units="2">
-            <abstract-unit id="P-ROM-L-BASFa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e"
-                           semester="4,5"/>
-            <abstract-unit id="P-ROM-L-BASFb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)"
-                           type="e" semester="4,5"/>
-        </module>
-        <module id="P-ROM-M-BASI" title="Aufbaumodul Sprachpraxis Italienisch" pordnr="34780"
-                elective-units="2">
-            <abstract-unit id="P-ROM-L-BASIa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e"
-                           semester="4,5"/>
-            <abstract-unit id="P-ROM-L-BASIb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)"
-                           type="e" semester="4,5"/>
-        </module>
-        <module id="P-ROM-M-BASS" title="Aufbaumodul Sprachpraxis Spanisch" pordnr="34781" elective-units="2">
-            <abstract-unit id="P-ROM-L-BASSa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e"
-                           semester="4,5"/>
-            <abstract-unit id="P-ROM-L-BASSb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)"
-                           type="e" semester="4,5"/>
         </module>
         <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft" pordnr="34782"
                 elective-units="4">
