@@ -72,12 +72,14 @@
                 <m name="Algorithmen in der Bioinformatik" pordnr="1310" cp="5" />
                 <m name="Human-Genomik und biologische Datenanalyse" pordnr="1313" cp="5" />
             </l>
+            <!-- these currently do not have any abstract units
             <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
                 <m name="Machine Learning" pordnr="1314" cp="5" />
             </l>
             <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
                 <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
             </l>
+            -->
         </l>
         <l name="Wahlpflicht" min-cp="20" max-cp="20">
             <l name="Datenbanken und Informationssysteme" min-cp="0" max-cp="10">
