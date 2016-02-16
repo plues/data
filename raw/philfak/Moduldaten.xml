@@ -3333,15 +3333,6 @@
             <abstract-unit id="P-Phil-L-BPPBEb"/>
             <abstract-unit id="P-Phil-L-BGPAb"/>
         </unit>
-        <unit id="128721" title="Jenseits von Wort und Beweis: Mythos und Logos in der Antike (Basisseminar)"
-              semester="2,4,6">
-            <group>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-Phil-L-BGPMb"/>
-            <abstract-unit id="P-Phil-L-BPPBEb"/>
-            <abstract-unit id="P-MKW-L-BAMMGEa"/>
-        </unit>
         <unit id="124092" title="Homo faber und Homo sapiens(Basisseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="6" duration="2" rhythm="0"/>
@@ -3883,12 +3874,6 @@
               semester="2,4,6">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-HIST-L-BBMNOc"/>
-        </unit>
-        <unit id="125050" title="Einführung in die Geschichte Russlands und der Sowjetunion (Vorlesung)"
-              semester="2,4,6">
-            <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-HIST-L-BBMNOc"/>
@@ -3958,7 +3943,7 @@
             <abstract-unit id="P-HIST-L-BVM2a"/>
             <abstract-unit id="P-HIST-L-BAM2b"/>
         </unit>
-        <unit id="126508"
+        <unit id="125041"
               title="Die Republik von Weimar. Politik, Wirtschaft und Gesellschaft in Deutschland 1918-1933 (Vorlesung)"
               semester="2,4,6">
             <group>
@@ -4188,20 +4173,6 @@
             <abstract-unit id="P-HIST-L-BAM1c"/>
             <abstract-unit id="P-HIST-L-BPMb"/>
         </unit>
-        <unit id="126940" title="Sprach- und Übersetzungsübung an mittelalterlichen lateinischen Quellen (Übung)"
-              semester="2,4,6">
-            <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-HIST-L-BVM1b"/>
-            <abstract-unit id="P-HIST-L-BVM1c"/>
-            <abstract-unit id="P-HIST-L-BVM1d"/>
-            <abstract-unit id="P-HIST-L-BVM2b"/>
-            <abstract-unit id="P-HIST-L-BVM2c"/>
-            <abstract-unit id="P-HIST-L-BVM2d"/>
-            <abstract-unit id="P-HIST-L-BAM1c"/>
-            <abstract-unit id="P-HIST-L-BPMb"/>
-        </unit>
         <unit id="127429" title="Menschen vor Gericht (Übung)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
@@ -4393,7 +4364,7 @@
             <abstract-unit id="P-HIST-L-BAM2d"/>
             <abstract-unit id="P-HIST-L-BPMb"/>
         </unit>
-        <unit id="127422"
+        <unit id="127432"
               title="Schwierige Erinnerung: Stalinismus und Zweiter Weltkrieg als Gegenstände (post-) sowjetischer Erinnerungskultur und Gedenkpolitik (Übung)"
               semester="2,4,6">
             <group>
@@ -4445,21 +4416,6 @@
         <unit id="127495" title="Chinas Weg in die Moderne (Übung)" semester="2,4,6">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-HIST-L-BVM1b"/>
-            <abstract-unit id="P-HIST-L-BVM1c"/>
-            <abstract-unit id="P-HIST-L-BVM1d"/>
-            <abstract-unit id="P-HIST-L-BVM2b"/>
-            <abstract-unit id="P-HIST-L-BVM2c"/>
-            <abstract-unit id="P-HIST-L-BVM2d"/>
-            <abstract-unit id="P-HIST-L-BAM2b"/>
-            <abstract-unit id="P-HIST-L-BAM2c"/>
-            <abstract-unit id="P-HIST-L-BAM2d"/>
-            <abstract-unit id="P-HIST-L-BPMb"/>
-        </unit>
-        <unit id="127494" title="Theorien und Themen der Globalgeschichte (Übung)" semester="2,4,6">
-            <group>
-                <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-HIST-L-BVM1b"/>
             <abstract-unit id="P-HIST-L-BVM1c"/>
@@ -4583,7 +4539,7 @@
             <abstract-unit id="P-HIST-L-BAM2d"/>
             <abstract-unit id="P-HIST-L-BPMb"/>
         </unit>
-        <unit id="127503" title="Neutrale Staaten während des Ersten Weltkriegs (Übung)" semester="2,4,6">
+        <unit id="128243" title="Neutrale Staaten während des Ersten Weltkriegs (Übung)" semester="2,4,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
@@ -4815,12 +4771,6 @@
             </group>
             <abstract-unit id="P-HIST-L-BPMa"/>
         </unit>
-        <unit id="127194" title="Erstellung einer textkritischen Edition (Projektseminar)" semester="2,4,6">
-            <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-HIST-L-BPMa"/>
-        </unit>
         <unit id="126960" title="Philosoph, Dichter und Politiker - Dante Alighieri und die Monarchia (Projektseminar)"
               semester="2,4,6">
             <group>
@@ -4878,20 +4828,12 @@
             </group>
             <abstract-unit id="P-HIST-L-BPMa"/>
         </unit>
-        <unit id="119636" title="Einführung in die Alte Geschichte (Vorlesung)" semester="1,3,5">
+        <unit id="119634" title="Einführung in die Alte Geschichte (Vorlesung)" semester="1,3,5">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-HIST-L-BBMAMa"/>
             <abstract-unit id="P-KLAS-L-BBM2a"/>
-        </unit>
-        <unit id="121400" title="Römisches Handwerk (Vorlesung)" semester="1,3,5">
-            <group>
-                <session day="thu" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-HIST-L-BAM1b"/>
-            <abstract-unit id="P-HIST-L-BVM1b"/>
-            <abstract-unit id="P-HIST-L-BVM2a"/>
         </unit>
         <unit id="119635" title="Urgeschichte des Rheinlandes bis zum Auftreten der Kelten (Vorlesung)"
               semester="1,3,5">
@@ -5185,6 +5127,9 @@
             <abstract-unit id="P-HIST-L-BVM2c"/>
             <abstract-unit id="P-HIST-L-BVM2d"/>
             <abstract-unit id="P-HIST-L-BPMb"/>
+            <abstract-unit id="P-KLAS-L-BAM1b"/>
+            <abstract-unit id="P-KLAS-L-BAM2b"/>
+            <abstract-unit id="P-KLAS-L-BBM1b"/>
         </unit>
         <unit id="121630" title="Thukydides und der Peloponnesische Krieg (Übung)" semester="1,3,5">
             <group>
@@ -5212,8 +5157,8 @@
             <abstract-unit id="P-HIST-L-BVM2d"/>
             <abstract-unit id="P-HIST-L-BPMb"/>
         </unit>
-        <unit id="121406"
-              title="Das Kosntanzer Konzil 1414-1418 oder: Von Fliehenden Päpsten und verbrannten Häretikern, von Prostituierten und Büchernsammlern (Übung)"
+        <unit id="121638"
+              title="Das Konstanzer Konzil 1414-1418 oder: Von Fliehenden Päpsten und verbrannten Häretikern, von Prostituierten und Büchernsammlern (Übung)"
               semester="1,3,5">
             <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
@@ -5799,7 +5744,7 @@
             </group>
             <abstract-unit id="P-HIST-L-BPMa"/>
         </unit>
-        <unit id="121647"
+        <unit id="122187"
               title="Familienunternehmen im Rheinland. Das Beispiel der Henkel AG und Co. KGaA (Projektseminar)"
               semester="1,3,5">
             <group>
@@ -5940,7 +5885,7 @@
             <abstract-unit id="P-ISI-L-BS1c"/>
             <abstract-unit id="P-ISI-L-BS1d"/>
         </unit>
-        <unit id="119695" title="Translation for Beginners (Übung)" semester="1,3,5">
+        <unit id="119690" title="Translation for Beginners (Übung)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
@@ -6224,7 +6169,7 @@
             <abstract-unit id="P-IAA-L-BIMLa"/>
             <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
-        <unit id="119684" title="Asian American Literature (Vertiefungsseminar)" semester="1,3,5">
+        <unit id="120692" title="Asian American Literature (Vertiefungsseminar)" semester="1,3,5">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
@@ -6979,6 +6924,8 @@
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAAL-BIMLa"/>
+            <abstract-unit id="P-IAAL-BIMLb"/>
         </unit>
         <unit id="123600" title="The Way We War: American Representations of War and Trauma (Vertiefungsseminar)"
               semester="2,4,6">
@@ -7092,14 +7039,6 @@
             <abstract-unit id="P-IAAL-BIMLa"/>
             <abstract-unit id="P-IAAL-BIMLb"/>
         </unit>
-        <unit id="123628" title="Revolution in Literature – ‘Revolutioning’ Literature (Vertiefungsseminar)"
-              semester="2,4,6">
-            <group>
-                <session day="mon" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-        </unit>
         <unit id="123719" title="Editing and Translating Old English Riddles (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
@@ -7186,7 +7125,7 @@
             </group>
             <abstract-unit id="P-IAAL-BIMSS"/>
         </unit>
-        <unit id="127248" title="Syntax (Vertiefungsseminar)" semester="2,4,6">
+        <unit id="127233" title="Syntax (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
@@ -7827,12 +7766,6 @@
             </group>
             <abstract-unit id="P-GERM-L-BBM3b"/>
         </unit>
-        <unit id="133425" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
         <unit id="121535" title="Hartmann von Aue: Gregorius und Armer Heinrich (Seminar)" semester="1,3,5">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
@@ -7895,12 +7828,6 @@
             </group>
             <abstract-unit id="P-GERM-L-BBM4b"/>
         </unit>
-        <unit id="120581" title="Einführungsseminar Schriftlichkeit (Basisseminar)" semester="1,3,5">
-            <group>
-                <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM4b"/>
-        </unit>
         <unit id="120583" title="Einführungsseminar Schriftlichkeit (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
@@ -7931,7 +7858,7 @@
             </group>
             <abstract-unit id="P-GERM-L-BBM4d"/>
         </unit>
-        <unit id="121275" title="Von der Nachricht bis zur Moderation (Seminar)" semester="1,3,5">
+        <unit id="121277" title="Von der Nachricht bis zur Moderation (Seminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
@@ -8628,13 +8555,6 @@
             <abstract-unit id="P-ISI-L-BSKF5a"/>
             <abstract-unit id="P-ISI-L-BSKF5b"/>
         </unit>
-        <unit id="118432" title="Bibelhebräisch I - (Sprachkurs)" semester="1,3,5">
-            <group>
-                <session day="mon" time="4" duration="2" rhythm="0"/>
-                <session day="thu" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-IJS-L-BA0201"/>
-        </unit>
         <unit id="118104" title="Modernhebräisch I - (Sprachkurs)" semester="1,3,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
@@ -8751,14 +8671,6 @@
             <abstract-unit id="P-IJS-L-BA0902"/>
             <abstract-unit id="P-IJS-L-BA0903"/>
         </unit>
-        <unit id="119481" title="Das politische Parteiensystem in Israel  - (Seminar)" semester="1,3,5">
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-IJS-L-BA0901"/>
-            <abstract-unit id="P-IJS-L-BA0902"/>
-            <abstract-unit id="P-IJS-L-BA0903"/>
-        </unit>
         <unit id="118861"
               title="Die jiddische Sprache und ihre Rolle in der aschkenasischen Kultur / The Yiddish Language and Its Role in Ashkenazic Culture - (Übung)"
               semester="1,3,5">
@@ -8828,6 +8740,9 @@
             </group>
             <abstract-unit id="P-KLAS-L-BAM1a"/>
             <abstract-unit id="P-KLAS-L-BAM2a"/>
+            <abstract-unit id="P-HIST-L-BAM1b"/>
+            <abstract-unit id="P-HIST-L-BVM1b"/>
+            <abstract-unit id="P-HIST-L-BVM2a"/>
         </unit>
         <unit id="120275" title="Alltagsleben in der Antike - (Seminar)" semester="1,3,5">
             <group>
@@ -8859,14 +8774,6 @@
             </group>
             <abstract-unit id="P-KLAS-L-BAM1b"/>
             <abstract-unit id="P-KLAS-L-BAM2b"/>
-        </unit>
-        <unit id="121406" title="Begräbnisreden in der griechisch-römischen Antike (Übung)" semester="1,3,5">
-            <group>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-KLAS-L-BAM1b"/>
-            <abstract-unit id="P-KLAS-L-BAM2b"/>
-            <abstract-unit id="P-KLAS-L-BBM1b"/>
         </unit>
         <unit id="120183" title="Psychoanalytische Interpretationen antiker Literatur (Aufbauseminar)"
               semester="1,3,5">
@@ -8908,7 +8815,7 @@
             <abstract-unit id="P-KLAS-L-BSPRÜB-L1"/>
             <abstract-unit id="P-KLAS-L-BSPRÜB-L2"/>
         </unit>
-        <unit id="120172" title="Lektüreübung: Seneca  (Sprachkurs)" semester="1,3,5">
+        <unit id="121370" title="Lektüreübung: Seneca  (Sprachkurs)" semester="1,3,5">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
@@ -8943,20 +8850,6 @@
             </group>
             <abstract-unit id="P-KLAS-L-BSPM-L"/>
         </unit>
-        <unit id="120189" title="Latein I (Sprachkurs)" semester="1,3,5">
-            <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
-                <session day="fri" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-KLAS-L-BSPM-L"/>
-        </unit>
-        <unit id="120193" title="Latein III + 12 EÜS (Sprachkurs)" semester="1,3,5">
-            <group>
-                <session day="tue" time="6" duration="2" rhythm="0"/>
-                <session day="thu" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-KLAS-L-BSPM-L"/>
-        </unit>
         <unit id="120193" title="Latein III + 12 EÜS (Sprachkurs)" semester="1,3,5">
             <group>
                 <session day="tue" time="6" duration="2" rhythm="0"/>
@@ -8975,13 +8868,6 @@
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
                 <session day="fri" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-KLAS-L-BSPM-L"/>
-        </unit>
-        <unit id="120190" title="Latein I  (Sprachkurs)" semester="1,3,5">
-            <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
-                <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-KLAS-L-BSPM-L"/>
         </unit>
@@ -9027,6 +8913,9 @@
             </group>
             <abstract-unit id="P-KLAS-L-BBM1b"/>
             <abstract-unit id="P-PHIL-L-BGPAb"/>
+            <abstract-unit id="P-Phil-L-BGPMb"/>
+            <abstract-unit id="P-Phil-L-BPPBEb"/>
+            <abstract-unit id="P-MKW-L-BAMMGEa"/>
         </unit>
         <unit id="132301" title="Lateinische Briefliteratur (Seminar)" semester="2,4,6">
             <group>
@@ -9105,6 +8994,8 @@
             <abstract-unit id="P-KUGE-LBBM3a"/>
             <abstract-unit id="P-KUGE-LBAM1a"/>
             <abstract-unit id="P-KUGE-LBAM2a"/>
+            <abstract-unit id="P-KUGE-BBM1b"/>
+            <abstract-unit id="P-KUGE-BEFAB2a"/>
         </unit>
         <unit id="120452" title="Kunst und Natur (Vorlesung)" semester="1,3,5">
             <group>
@@ -9218,13 +9109,6 @@
             <abstract-unit id="P-KUGE-BEFAM1b"/>
             <abstract-unit id="P-KUGE-BEFAM1c"/>
             <abstract-unit id="P-KUGE-BAM2b"/>
-        </unit>
-        <unit id="120428" title="Buchmalerei des Mittelalters (Vorlesung)" semester="1,3,5">
-            <group>
-                <session day="wed" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-KUGE-BBM1b"/>
-            <abstract-unit id="P-KUGE-BEFAB2a"/>
         </unit>
         <unit id="125063" title="Frömmigkeit und Moderne. Avantgarde und Kirche im 20. Jahrhundert (Vorlesung)"
               semester="2,4,6">
@@ -10056,7 +9940,7 @@
             </group>
             <abstract-unit id="P-MOJA-L-BPMa"/>
         </unit>
-        <unit id="126705"
+        <unit id="123534"
               title="Studentisches Filmübersetzungs- und Untertitelungsprojekt - 'Der letzte Wille' (Seminar)"
               semester="2,4,6">
             <group>
@@ -10258,6 +10142,7 @@
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BRLWb"/>
+            <abstract-unit id="P-ROM-L-BOMK5b"/>
         </unit>
         <unit id="126666" title="Stendhal, Le Rouge et le Noir (Basisseminar)" semester="2,4,6">
             <group>
@@ -10652,12 +10537,6 @@
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
                 <session day="tue" time="3" duration="2" rhythm="0"/> <!-- ABER NUR VOM 29.05. bis 14.07. ???? -->
-            </group>
-            <abstract-unit id="P-ROM-L-BOMK5b"/>
-        </unit>
-        <unit id="132669" title="Böse Komödien (Leitung: Barbara Noth) (Seminar)" semester="2,4,6">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BOMK5b"/>
         </unit>
@@ -11469,12 +11348,6 @@
               semester="1,3,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ROM-L-BOTab"/>
-        </unit>
-        <unit id="120833" title="Übersetzen literarischer Texte: Italienisch-Deutsch (Seminar)" semester="1,3,5">
-            <group>
-                <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BOTab"/>
         </unit>
@@ -13739,6 +13612,8 @@
             </group>
             <abstract-unit id="P-ISI-L-BA2a"/>
             <abstract-unit id="P-ISI-L-BA2b"/>
+            <abstract-unit id="P-ISI-L-BA3a"/>
+            <abstract-unit id="P-ISI-L-BA3b"/>
         </unit>
         <unit id="122036" title="Geheim- und Tabusprachen (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -13819,14 +13694,6 @@
             </group>
             <abstract-unit id="P-ISI-L-BA2a"/>
             <abstract-unit id="P-ISI-L-BA2b"/>
-        </unit>
-        <unit id="120245" title="Ereignisstruktur: Verbbedeutung und Argumentrealisierung (Aufbauseminar)"
-              semester="1,3,5">
-            <group>
-                <session day="thu" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BA3a"/>
-            <abstract-unit id="P-ISI-L-BA3b"/>
         </unit>
         <unit id="121996" title="Implikatur und Präsupposition (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -14657,17 +14524,6 @@
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
         </unit>
-        <unit id="126784"
-              title="Interkulturelle Kommunikation (Italienisch) (Mündlichkeit III) (Buchstaben A-M) (Sprachkurs)"
-              semester="2,4,6">
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BS2a"/>
-            <abstract-unit id="P-ISI-L-BS2b"/>
-            <abstract-unit id="P-ISI-L-BS2c"/>
-            <abstract-unit id="P-ISI-L-BS2d"/>
-        </unit>
         <unit id="126785"
               title="Interkulturelle Kommunikation (Italienisch) (Mündlichkeit III) (Buchstaben A-M) (Sprachkurs)"
               semester="2,4,6">
@@ -14679,7 +14535,7 @@
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
         </unit>
-        <unit id="126785" title="Textproduktion in Themen- und Berufsfeldern (Italienisch) (Sprachkurs)"
+        <unit id="126786" title="Textproduktion in Themen- und Berufsfeldern (Italienisch) (Sprachkurs)"
               semester="2,4,6">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
@@ -14791,7 +14647,7 @@
             </group>
             <abstract-unit id="P-ISI-L-BI2a"/>
         </unit>
-        <unit id="124651" title="Wissensrepräsentation (Vorlesung)" semester="2,4,6">
+        <unit id="124439" title="Wissensrepräsentation (Vorlesung)" semester="2,4,6">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="0"/>
             </group>
