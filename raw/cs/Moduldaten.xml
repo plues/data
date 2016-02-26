@@ -1535,7 +1535,7 @@
             </group>
             <abstract-unit id="P-MAT-L-WAHRa"/>
         </unit>
-        <unit id="²40901" title="Übungen zu Wahrscheinlickeitstheorie" semester="3,5">
+        <unit id="240901" title="Übungen zu Wahrscheinlickeitstheorie" semester="3,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
