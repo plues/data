@@ -239,17 +239,7 @@
             <abstract-unit id="P-MAT-L-CLAb" title="Übungen zu Computergestützte Lineare Algebra" type="m"
                            semester="3,5"/>
         </module>
-        <module id="P-MAT-M-NUM1" title="Numerik I" pordnr="2404" elective-units="0">
-            <abstract-unit id="P-MAT-L-NUM1a" title="Numerik I" type="m" semester="4,6"/>
-            <abstract-unit id="P-MAT-L-NUM1b" title="Numerik I - Übungen" type="m" semester="4,6"/>
-            <abstract-unit id="P-MAT-L-NUM1c" title="Numerik I- Praktische Übungen" type="m" semester="4,6"/>
-        </module>
-        <module id="P-MAT-M-STO" title="Einführung in die Stochastik" pordnr="2405" elective-units="0">
-            <abstract-unit id="P-MAT-L-STOCHAa" title="Einführung in die Stochastik" type="m" semester="3,5"/>
-            <abstract-unit id="P-MAT-L-STOCHAb" title="Übungen zu Einführung in die Stochastik" type="m"
-                           semester="3,5"/>
-        </module>
-        <module id="P-MAT-M-NUM2" title="Numerik II" pordnr="24" elective-units="0">
+        <module id="P-MAT-M-NUM2" title="Numerik II" pordnr="2408" elective-units="0">
             <abstract-unit id="P-MAT-L-NUM2a" title="Numerik II" type="m" semester="3,5"/>
             <abstract-unit id="P-MAT-L-NUM2b" title="Übungen zu Numerik II" type="m" semester="3,5"/>
         </module>
