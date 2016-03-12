@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModulBaum>
-    <b abschl="bk" stg="aua" kzfa="H" pversion="2013"
+    <b abschl="bk" stg="aua-lang" kzfa="H" pversion="2013"
        name="Kernfach Anglistik und Amerikanistik - Vertiefung Bereich Sprachwissenschaft">
         <l name="Pflichtmodule" min="7" max="7">
             <m name="Language Skills I" pordnr="34125"/>
@@ -28,7 +28,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bk" stg="aua" kzfa="H" pversion="2013"
+    <b abschl="bk" stg="aua-lit" kzfa="H" pversion="2013"
        name="Kernfach Anglistik und Amerikanistik - Vertiefung Bereich Literaturwissenschaft">
         <l name="Pflichtmodule" min="7" max="7">
             <m name="Language Skills I" pordnr="34125"/>
@@ -296,7 +296,7 @@
     </b>
 
 
-    <b abschl="bk" stg="rom" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Französisch">
+    <b abschl="bk" stg="rom-fr" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Französisch">
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34586"/>
             <m name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34589"/>
@@ -324,7 +324,7 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Italienisch">
+    <b abschl="bk" stg="rom-it" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Italienisch">
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34587"/>
             <m name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34590"/>
@@ -352,7 +352,7 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Spanisch">
+    <b abschl="bk" stg="rom-es" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Spanisch">
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34588"/>
             <m name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34591"/>
@@ -380,7 +380,7 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-rom-fr" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
@@ -396,7 +396,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-rom-it" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
@@ -412,7 +412,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-rom-es" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
@@ -428,7 +428,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-fr" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
@@ -444,7 +444,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-it" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
@@ -460,7 +460,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-es" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
@@ -536,7 +536,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bk" stg="lin" kzfa="N" pversion="2013" name="Ergänzungsfach Linguistik mit KF Germanistik">
+    <b abschl="bk" stg="lin-ger" kzfa="N" pversion="2013" name="Ergänzungsfach Linguistik mit KF Germanistik">
         <l name="Basispflichtmodule" min="2" max="2">
             <m name="BBM „Basismodul Methoden Linguistik“ (anstelle des Moduls BG für Studierende mit dem Kernfach Germanistik)"
                pordnr="34735"/>
