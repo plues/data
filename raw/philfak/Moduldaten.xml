@@ -512,8 +512,8 @@
         </module>
         <module id="P-MOJA-M-BPM" title="Projektmodul (PM)" pordnr="36757" elective-units="2">
             <abstract-unit id="P-MOJA-L-BPMa" title="Lektürekurs für Fortgeschrittene (Seminar)" type="m"
-                           semester="5,7"/>
-            <abstract-unit id="P-MOJA-L-BPMb" title="Projektkolloquium (Kolloquium)" type="m" semester="5,7"/>
+                           semester="5"/>
+            <abstract-unit id="P-MOJA-L-BPMb" title="Projektkolloquium (Kolloquium)" type="m" semester="5"/>
         </module>
         <module id="P-MOJA-M-BES1" title="Bachelor Plus: Modul Erweiterte Sprachpraxis 1 (ES1)" pordnr="36809"
                 elective-units="1">
