@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModulBaum>
-    <b abschl="bk" stg="aua-lang" kzfa="H" pversion="2013"
-       name="Kernfach Anglistik und Amerikanistik - Vertiefung Bereich Sprachwissenschaft">
+    <b abschl="bk" stg="aua" kzfa="H" pversion="2013"
+       name="Kernfach Anglistik und Amerikanistik">
         <l name="Pflichtmodule" min="7" max="7">
             <m name="Language Skills I" pordnr="34125"/>
             <m name="Basic Module I - Ältere Anglistik" pordnr="34125"/>
@@ -21,35 +21,10 @@
             </l>
         </l>
         <l name="Vertiefungsmodule" min="3" max="3">
-            <l name="Bereich Sprachwissenschaft" min="0" max="3">
+            <l name="Bereich Sprachwissenschaft" min="3" max="3">
                 <m name="Advanced Module – Sprachwissenschaft 1" pordnr="34134"/>
                 <m name="Advanced Module – Sprachwissenschaft 2" pordnr="34135"/>
                 <m name="Advanced Module – Sprachwissenschaft 3" pordnr="35045"/>
-            </l>
-        </l>
-    </b>
-    <b abschl="bk" stg="aua-lit" kzfa="H" pversion="2013"
-       name="Kernfach Anglistik und Amerikanistik - Vertiefung Bereich Literaturwissenschaft">
-        <l name="Pflichtmodule" min="7" max="7">
-            <m name="Language Skills I" pordnr="34125"/>
-            <m name="Basic Module I - Ältere Anglistik" pordnr="34125"/>
-            <m name="Basic Module II - Sprachwissenschaft" pordnr="34128"/>
-            <m name="Basic Module III - Literaturwissenschaft" pordnr="34129"/>
-            <m name="Language Skills II" pordnr="34126"/>
-            <m name="Methodenmodul" pordnr="34132"/>
-            <m name="Praxismodul" pordnr="34133"/>
-        </l>
-        <l name="Aufbaumodule" min="2" max="2">
-            <l name="Bereich Sprachwissenschaft" min="1" max="1">
-                <m name="Intermediate Module – Sprachwissenschaft Struktur 1" pordnr="34131"/>
-                <m name="Intermediate Module – Sprachwissenschaft Entwicklung 1" pordnr="341311"/>
-            </l>
-            <l name="Bereich Literaturwissenschaft" min="1" max="1">
-                <m name="Intermediate Module – Literaturwissenschaft 1" pordnr="34130"/>
-            </l>
-        </l>
-        <l name="Vertiefungsmodule" min="3" max="3">
-            <l name="Bereich Literaturwissenschaft" min="0" max="3">
                 <m name="Advanced Module – Literaturwissenschaft 1" pordnr="341341"/>
                 <m name="Advanced Module – Literaturwissenschaft 2" pordnr="34136"/>
                 <m name="Advanced Module – Literaturwissenschaft 3" pordnr="35046"/>
@@ -97,12 +72,44 @@
             <m name="Bachelorarbeit-Modul" pordnr="34249"/>
         </l>
     </b>
-    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik">
-        <l name="Pflichtmodule" min="3" max="3">
+    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Sprachwissenschaft">
+        <l name="Schwerpunktmodul" min="1" max="1">
             <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34684"/>
+        </l>
+        <l name="Wahlpflichtmodule" min="2" max="2">
             <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34685"/>
             <m name="Basismodul 3: Germanistische Mediävistik" pordnr="34686"/>
             <m name="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" pordnr="34687"/>
+        </l>
+    </b>
+    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Literaturwissenschaft">
+        <l name="Schwerpunktmodul" min="1" max="1">
+            <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34685"/>
+        </l>
+        <l name="Wahlpflichtmodule" min="2" max="2">
+            <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34684"/>
+            <m name="Basismodul 3: Germanistische Mediävistik" pordnr="34686"/>
+            <m name="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" pordnr="34687"/>
+        </l>
+    </b>
+    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Schwerpunkt Mediävistik">
+        <l name="Schwerpunktmodul" min="1" max="1">
+            <m name="Basismodul 3: Germanistische Mediävistik" pordnr="34686"/>
+        </l>
+        <l name="Wahlpflichtmodule" min="2" max="2">
+            <m name="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" pordnr="34687"/>
+            <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34684"/>
+            <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34685"/>
+        </l>
+    </b>
+    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Kommunikation">
+        <l name="Schwerpunktmodul" min="1" max="1">
+            <m name="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" pordnr="34687"/>
+        </l>
+        <l name="Wahlpflichtmodule" min="2" max="2">
+            <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34684"/>
+            <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34685"/>
+            <m name="Basismodul 3: Germanistische Mediävistik" pordnr="34686"/>
         </l>
     </b>
     <b abschl="bk" stg="ges" kzfa="H" pversion="2013" name="Kernfach Geschichte">
@@ -161,32 +168,29 @@
             <m name="Aufbaumodul E: Israel – Staat und Gesellschaft" pordnr="34714"/>
         </l>
     </b>
-    <!-- NOCH REGEL ERSTELLEN KUGE! -->
     <b abschl="bk" stg="kun" kzfa="H" pversion="2013" name="Kernfach Kunstgeschichte">
         <l name="Basispflichtmodule" min="3" max="3">
             <m name="Basismodul 1: Einführung in die spätantike und mittelalterliche Kunstgeschichte" pordnr="34385"/>
             <m name="Basismodul 2: Einführung in die neuere und neueste Kunstgeschichte" pordnr="34386"/>
-            <m name="Basismodul 3: Themenmodul zur spätantiken und mittelalterlichen Kunstgeschichte" pordnr="34387"/>
-            <m name="Basismodul 4: Themenmodul zur neueren und neuesten Kunstgeschichte" pordnr="34388"/>
             <m name="Basismodul 5: Regionalwissenschaftliche und praxisbezogene Studien" pordnr="34389"/>
         </l>
-        <l name="Aufbaupflichtmodule" min="2" max="2">
-          <m name="Platzhalter" pordnr="12345" />
+        <l name="Basiswahlpflichtmodule" min="1" max="1">
+            <m name="Basismodul 3: Themenmodul zur spätantiken und mittelalterlichen Kunstgeschichte" pordnr="34387"/>
+            <m name="Basismodul 4: Themenmodul zur neueren und neuesten Kunstgeschichte" pordnr="34388"/>
         </l>
-
-        <l name="Aufbauwahlpflichtmodule" min="3" max="3">
-            <m name="Aufbaumodul 1: Wissenschaftlich vertiefte kunstgeschichtliche Studien 1" pordnr="34390"/>
-            <m name="Aufbaumodul 2: Wissenschaftlich vertiefte kunstgeschichtliche Studien 2" pordnr="34391"/>
-            <m name="Aufbaumodul 3: Regionalwissenschaftliche und praxisbezogene Studien" pordnr="34392"/>
+        <l name="Aufbauwahlpflichtmodule" min="2" max="3">
+          <m name="Aufbaumodul 1: Wissenschaftlich vertiefte kunstgeschichtliche Studien 1" pordnr="34390"/>
+          <m name="Aufbaumodul 2: Wissenschaftlich vertiefte kunstgeschichtliche Studien 2" pordnr="34391"/>
+          <m name="Aufbaumodul 3: Regionalwissenschaftliche und praxisbezogene Studien" pordnr="34392"/>
         </l>
     </b>
     <b abschl="bk" stg="kun" kzfa="N" pversion="2013" name="Ergänzungsfach Kunstgeschichte">
-        <l name="Basispflichtmodule" min="3" max="3">
+        <l name="Basispflichtmodule" min="2" max="3">
             <m name="Basismodul 1: Einführung in die spätantike und mittelalterliche Kunstgeschichte" pordnr="34728"/>
             <m name="Basismodul 2: Einführung in die neuere und neueste Kunstgeschichte" pordnr="34729"/>
             <m name="Basismodul 3: Thematische und berufspraktische Spezialisierung" pordnr="34730"/>
         </l>
-        <l name="Aufbauwahlpflichtmodule" min="2" max="2">
+        <l name="Aufbauwahlpflichtmodule" min="1" max="2">
             <m name="Aufbaumodul 1: Wissenschaftlich vertiefte kunstgeschichtliche Studien" pordnr="34731"/>
             <m name="Aufbaumodul 2: Thematische und berufspraktische Spezialisierung" pordnr="34732"/>
         </l>
@@ -201,7 +205,18 @@
             <m name="Kulturwissenschaftliches Themenmodul (KTM)" pordnr="36755"/>
             <m name="Sozialwissenschaftliches Themenmodul (STM)" pordnr="36756"/>
             <m name="Projektmodul (PM)" pordnr="36757"/>
-            <!-- PETER FRAGEN! -->
+        </l>
+    </b>
+    <b abschl="bk" stg="mod-plu" kzfa="H" pversion="2013" name="Kernfach Modernes Japan Bachelor Plus">
+        <l name="Pflichtmodule" min="8" max="8">
+            <m name="Sprachmodul 1 (SM1)" pordnr="36750"/>
+            <m name="Sprachmodul 2 (SM2)" pordnr="36751"/>
+            <m name="Sprachmodul 3 (SM3)" pordnr="36752"/>
+            <m name="Sprachmodul 4 (SM4)" pordnr="36753"/>
+            <m name="Modul Regionalwissenschaftliche Grundlagen (MRG)" pordnr="36754"/>
+            <m name="Kulturwissenschaftliches Themenmodul (KTM)" pordnr="36755"/>
+            <m name="Sozialwissenschaftliches Themenmodul (STM)" pordnr="36756"/>
+            <m name="Projektmodul (PM)" pordnr="36757"/>
             <m name="Bachelor Plus: Modul Erweiterte Sprachpraxis 1 (ES1)" pordnr="36809"/>
             <m name="Bachelor Plus: Modul Erweiterte Sprachpraxis 2 (ES2)" pordnr="36810"/>
             <m name="Bachelor Plus: Modul Empirische Japanforschung 1 – eLearning (EJ1)" pordnr="36811"/>
@@ -294,15 +309,13 @@
             <m name="Politische Philosophie/Rechtsphilosophie" pordnr="36164"/>
         </l>
     </b>
-
-
-    <b abschl="bk" stg="rom-fr" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Französisch">
+    <b abschl="bk" stg="rom-frz" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Französisch">
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34586"/>
             <m name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34589"/>
             <m name="Aufbaumodul Sprachpraxis Französisch" pordnr="34592"/>
         </l>
-        <l name="Pflichtmodule" min="2" max="2">
+        <l name="Pflichtmodule" min="3" max="3">
             <m name="Basismodul romanistische Sprachwissenschaft" pordnr="34595"/>
             <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34597"/>
             <m name="Basismodul romanistische Literaturwissenschaft" pordnr="34596"/>
@@ -324,13 +337,13 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-it" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Italienisch">
+    <b abschl="bk" stg="rom-ita" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Italienisch">
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34587"/>
             <m name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34590"/>
             <m name="Aufbaumodul Sprachpraxis Italienisch" pordnr="34593"/>
         </l>
-        <l name="Pflichtmodule" min="2" max="2">
+        <l name="Pflichtmodule" min="3" max="3">
             <m name="Basismodul romanistische Sprachwissenschaft" pordnr="34595"/>
             <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34597"/>
             <m name="Basismodul romanistische Literaturwissenschaft" pordnr="34596"/>
@@ -343,7 +356,7 @@
             <m name="Aufbaumodul romanistische Literaturwissenschaft (ohne Bachelorarbeit)" pordnr="34600"/>
             <m name="Aufbaumodul romanistische Literaturwissenschaft (mit Bachelorarbeit)" pordnr="346001"/>
         </l>
-        <l name="Optionsmodule" min="2" max="2">
+        <l name="Optionsmodule" min="3" max="3">
             <m name="Optionsmodul: Basismodul Sprachpraxis Italienisch" pordnr="34605"/>
             <m name="Optionsmodul: Sprache Italienisch" pordnr="34602"/>
             <m name="Optionsmodul: Kultur- und Regionalwissenschaft" pordnr="34607"/>
@@ -352,13 +365,13 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-es" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Spanisch">
+    <b abschl="bk" stg="rom-spa" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Spanisch">
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34588"/>
             <m name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34591"/>
             <m name="Aufbaumodul Sprachpraxis Spanisch" pordnr="34594"/>
         </l>
-        <l name="Pflichtmodule" min="2" max="2">
+        <l name="Pflichtmodule" min="3" max="3">
             <m name="Basismodul romanistische Sprachwissenschaft" pordnr="34595"/>
             <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34597"/>
             <m name="Basismodul romanistische Literaturwissenschaft" pordnr="34596"/>
@@ -380,7 +393,7 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-rom-fr" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-frz" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
@@ -396,7 +409,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-rom-it" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-ita" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
@@ -412,7 +425,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-rom-es" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-spa" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
@@ -428,7 +441,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-fr" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-fra" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
@@ -444,7 +457,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-it" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-ita" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
@@ -460,7 +473,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-es" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="rom-spa" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
@@ -476,13 +489,12 @@
                pordnr="34787"/>
         </l>
     </b>
-
     <b abschl="bk" stg="ant" kzfa="N" pversion="2013" name="Ergänzungsfach Antike Kultur">
         <l name="Pflichtmodule" min="6" max="6">
             <m name="Basismodul 1: Klassische Philologie" pordnr="34666"/>
             <m name="Basismodul 2: Antike Lebenswelten und historische Anthropologie" pordnr="34668"/>
             <m name="Basismodul 3: Antike Philosophie" pordnr="34667"/>
-            <m name="Sprachpraxismodul (Latein oder Griechisch)" pordnr="0000"/> <!-- XXX Missing pordnr -->
+            <m name="Sprachpraxismodul (Latein oder Griechisch)" pordnr="34669"/>
             <m name="Aufbaumodul 1: Griechische Antike" pordnr="34671"/>
             <m name="Aufbaumodul 2: Römische Antike" pordnr="34672"/>
         </l>
@@ -504,11 +516,9 @@
         </l>
     </b>
     <b abschl="bk" stg="kom" kzfa="N" pversion="2013" name="Ergänzungsfach Kommunikations- und Medienwissenschaften">
-        <l name="Pflichtmodule" min="2" max="2">
+        <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Kommunikations- und Medienwissenschaft" pordnr="34716"/>
             <m name="Modul Methoden der Sozialwissenschaften" pordnr="34717"/>
-        </l>
-        <l name="Wahlpflichtmodule" min="3" max="3">
             <m name="Themenmodul Medien + Individuum" pordnr="34718"/>
             <m name="Themenmodul Medien + Gesellschaft" pordnr="34722"/>
             <m name="Themenmodul Akteure + Prozesse professioneller Kommunikation" pordnr="34725"/>
@@ -558,19 +568,166 @@
             </l>
         </l>
     </b>
-    <!-- POLITIK FERTIG MACHEN -->
     <b abschl="bk" stg="pol" kzfa="N" pversion="2013" name="Ergänzungsfach Politikwissenschaft">
-        <l name="Basispflichtmodule" min="2" max="2">
+        <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Politikwissenschaft" pordnr="34761"/>
             <m name="Modul Methoden der Sozialwissenschaften" pordnr="34762"/>
-
             <m name="Themenmodul Systeme + Strukturen (Politikwissenschaft)" pordnr="34763"/>
             <m name="Themenmodul Bereiche + Prozesse (Politikwissenschaft)" pordnr="34764"/>
+            <m name="Themenmodul Europa + Internationale Studien (Politikwissenschaft)" pordnr="34765"/>
         </l>
-        <l name="Vertiefungsbereich" min="2" max="2">
-            <l name="Vertiefungswahlpflichtmodule 1" min="1" max="2">
-                <m name="Themenmodul Europa + Internationale Studien (Politikwissenschaft)" pordnr="34765"/>
-            </l>
+    </b>
+    <b abschl="bk" stg="soz" kzfa="N" pversion="2013" name="Ergänzungsfach Soziologie">
+        <l name="Pflichtmodule" min="5" max="5">
+            <m name="Basismodul Soziologie" pordnr="36725"/>
+            <m name="Modul Methoden der Sozialwissenschaften" pordnr="36726"/>
+            <m name="Themenmodul Individuum + Gesellschaft (Mikrosoziologie)" pordnr="36727"/>
+            <m name="Themenmodul Systeme + Strukturen (Makrosoziologie)" pordnr="36728"/>
+            <m name="Themenmodul Bereiche + Prozesse (Spezielle Soziologien)" pordnr="36729"/>
         </l>
+    </b>
+    <b abschl="bk" stg="iws" kzfa="H" pversion="2013" name="Kernfach IS Informationswissenschaft und Sprachtechnologie">
+        <l name="Basispflichtmodule" min="6" max="6">
+            <m name="I1 Basismodul „Information Retrieval“" pordnr="33937"/>
+            <m name="I2 Basismodul „Wissensrepräsentation“" pordnr="33938"/>
+            <m name="L Basismodul „Linguistik“" pordnr="33939"/>
+            <m name="P Basismodul „Propädeutik der Sprachtechnologie“" pordnr="38900"/>
+            <m name="CL1 Basismodul „Computerlinguistik“" pordnr="33940"/>
+            <m name="D1 Basismodul „Grundlagen der Softwareentwicklung und Programmierung“" pordnr="33941"/>
+            <m name="D2 Basismodul „Programmierpraktikum“" pordnr="38901"/>
+        </l>
+        <l name="Aufbaupflichtmodule" min="5" max="5">
+            <m name="I3 Aufbaumodul „Informetrie“" pordnr="33942"/>
+            <m name="I4 Aufbaumodul „Angewandte Informationswissenschaft“" pordnr="33943"/>
+            <m name="CL2 Aufbaumodul „Theoretische Computerlinguistik“" pordnr="33944"/>
+            <m name="CL3 Aufbaumodul „Natural Language Processing“" pordnr="33945"/>
+            <m name="D3 Aufbaumodul „Datenbanksysteme“" pordnr="33946"/>
+        </l>
+    </b>
+    <b abschl="bk" stg="lin-spr" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Sprachen">
+        <l name="Pflichtmodule" min="11" max="11">
+            <m name="BB1 Basismodul „Phonetik und Phonologie“" pordnr="36556"/>
+            <m name="BB2 Basismodul „Morphologie und Syntax“" pordnr="36557"/>
+            <m name="BB3 Basismodul „Semantik und Pragmatik“" pordnr="36558"/>
+            <m name="BA1 Aufbaumodul „Phonetik und Phonologie“" pordnr="36559"/>
+            <m name="BA2 Aufbaumodul „Morphologie und Syntax“" pordnr="36560"/>
+            <m name="BA3 Aufbaumodul „Semantik und Pragmatik“" pordnr="36561"/>
+            <m name="BS1 Basismodul „Große Fremdsprache 1“" pordnr="36580"/>
+            <m name="BS2 Aufbaumodul „Große Fremdsprache 2“" pordnr="36581"/>
+            <m name="BS3 Aufbaumodul „Große Fremdsprache: Linguistik“" pordnr="36582"/>
+            <m name="BS5 Aufbaumodul „Kleine Fremdsprache 2 (Romanistik)“" pordnr="37382"/>
+            <m name="BS6 Aufbaumodul „Kleine Fremdsprache 3“" pordnr="36585"/>
+            <m name="BG „Grundkurs Linguistik“" pordnr="38985"/>
+        </l>
+        <l name="Sprachwahlpflichtmodule" min="1" max="1">
+            <m name="BS4 Basismodul „Kleine Fremdsprache 1“" pordnr="36583"/>
+            <m name="BS4 Basismodul „Kleine Fremdsprache 1 (Romanistik)“" pordnr="37381"/>
+        </l>
+        <l name="Wahlpflichtmodule" min="1" max="1">
+            <m name="BSG1 Aufbaumodul Sprachliche Diversität“" pordnr="36562"/>
+            <m name="BSG2 Aufbaumodul „Psycho- und Neurolinguistik“" pordnr="36563"/>
+            <m name="BSG3 Aufbaumodul „Computerlinguistik“" pordnr="36564"/>
+            <m name="BSG4 Aufbaumodul „Historische Linguistik“" pordnr="36565"/>
+        </l>
+      </b>
+    <b abschl="bk" stg="lin-gru" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Grundlagen">
+        <l name="Pflichtmodule" min="11" max="11">
+            <m name="BG „Grundkurs Linguistik“" pordnr="38985"/>
+            <m name="BB1 Basismodul „Phonetik und Phonologie“" pordnr="36556"/>
+            <m name="BB2 Basismodul „Morphologie und Syntax“" pordnr="36557"/>
+            <m name="BB3 Basismodul „Semantik und Pragmatik“" pordnr="36558"/>
+            <m name="BA1 Aufbaumodul „Phonetik und Phonologie“" pordnr="36559"/>
+            <m name="BA2 Aufbaumodul „Morphologie und Syntax“" pordnr="36560"/>
+            <m name="BA3 Aufbaumodul „Semantik und Pragmatik“" pordnr="36561"/>
+            <m name="BS1 Basismodul „Große Fremdsprache 1“" pordnr="36580"/>
+            <m name="BS2 Aufbaumodul „Große Fremdsprache 2“" pordnr="36581"/>
+            <m name="BS3 Aufbaumodul „Große Fremdsprache: Linguistik“" pordnr="36582"/>
+            <m name="BP1 Basismodul „Theorie und Praxis der Argumentation“" pordnr="36575"/>
+        </l>
+        <l name="Wahlpflichtmodul 1" min="1" max="1">
+            <m name="BP2 Aufbaumodul „Sprachphilosophie“" pordnr="36576"/>
+            <m name="BP3 Aufbaumodul „Kognitionswissenschaft“" pordnr="36577"/>
+        </l>
+        <l name="Wahlpflichtmodul 2" min="1" max="1">
+            <m name="BSG1 Aufbaumodul Sprachliche Diversität“" pordnr="36562"/>
+            <m name="BSG2 Aufbaumodul „Psycho- und Neurolinguistik“" pordnr="36563"/>
+            <m name="BSG3 Aufbaumodul „Computerlinguistik“" pordnr="36564"/>
+            <m name="BSG4 Aufbaumodul „Historische Linguistik“" pordnr="36565"/>
+        </l>
+      </b>
+    <b abschl="bk" stg="lin-psy" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Psycholinguistik">
+        <l name="Pflichtmodule" min="10" max="10">
+            <m name="BG „Grundkurs Linguistik“" pordnr="38985"/>
+            <m name="BB1 Basismodul „Phonetik und Phonologie“" pordnr="36556"/>
+            <m name="BB2 Basismodul „Morphologie und Syntax“" pordnr="36557"/>
+            <m name="BB3 Basismodul „Semantik und Pragmatik“" pordnr="36558"/>
+            <m name="BA1 Aufbaumodul „Phonetik und Phonologie“" pordnr="36559"/>
+            <m name="BA2 Aufbaumodul „Morphologie und Syntax“" pordnr="36560"/>
+            <m name="BA3 Aufbaumodul „Semantik und Pragmatik“" pordnr="36561"/>
+            <m name="BS1 Basismodul „Große Fremdsprache 1“" pordnr="36580"/>
+            <m name="BS2 Aufbaumodul „Große Fremdsprache 2“" pordnr="36581"/>
+            <m name="BS3 Aufbaumodul „Große Fremdsprache: Linguistik“" pordnr="36582"/>
+            <m name="BPL1 Basismodul „Psycholinguistik“" pordnr="36578" />
+            <m name="BPL2 Aufbaumodul „Psycholinguistik“" pordnr="36579"/>
+        </l>
+        <l name="Wahlpflichtmodul" min="1" max="1">
+            <m name="BSG1 Aufbaumodul Sprachliche Diversität“" pordnr="36562"/>
+            <m name="BSG2 Aufbaumodul „Psycho- und Neurolinguistik“" pordnr="36563"/>
+            <m name="BSG3 Aufbaumodul „Computerlinguistik“" pordnr="36564"/>
+            <m name="BSG4 Aufbaumodul „Historische Linguistik“" pordnr="36565"/>
+        </l>
+    </b>
+    <b abschl="bk" stg="lin-com" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Computerlinguistik">
+        <l name="Pflichtmodule" min="10" max="10">
+            <m name="BG „Grundkurs Linguistik“" pordnr="38985"/>
+            <m name="BD1 Basismodul „Informatik 1“" pordnr="36574"/>
+            <m name="BD2 Basismodul „Programmierpraktikum“" pordnr="38984"/>
+            <m name="BB1 Basismodul „Phonetik und Phonologie“" pordnr="36556"/>
+            <m name="BB2 Basismodul „Morphologie und Syntax“" pordnr="36557"/>
+            <m name="BB3 Basismodul „Semantik und Pragmatik“" pordnr="36558"/>
+            <m name="BAK Aufbaumodul „Linguistische Kernbereiche“" pordnr="36566"/>
+            <m name="BC1 Aufbaumodul „Grundwissen Computerlinguistik“" pordnr="36569"/>
+            <m name="BC2 Aufbaumodul „Computerlinguistische Programmierung“" pordnr="36570"/>
+            <m name="BC3 Aufbaumodul „Sprachtechnologie“" pordnr="36571"/>
+            <m name="BC4 Aufbaumodul „Theoretische Computerlinguistik“" pordnr="36572"/>
+            <m name="BS5 Aufbaumodul „Kleine Fremdsprache 2 (Romanistik)“" pordnr="37382"/>
+            <m name="BS6 Aufbaumodul „Kleine Fremdsprache 3“" pordnr="36585"/>
+        </l>
+        <l name="Sprachwahlpflichtmodule" min="1" max="1">
+            <m name="BS4 Basismodul „Kleine Fremdsprache 1“" pordnr="36583"/>
+            <m name="BS4 Basismodul „Kleine Fremdsprache 1 (Romanistik)“" pordnr="37381"/>
+        </l>
+    </b>
+    <b abschl="bk" stg="kul" kzfa="H" pversion="2013" name="Kernfach IS Medien- und Kulturwissenschaft">
+        <l name="Pflichtmodule" min="9" max="9">
+            <m name="Basismodul I" pordnr="36535"/>
+            <m name="Basismodul II" pordnr="36536"/>
+            <m name="Basismodul Vergleichende und interkulturelle Medienkulturwissenschaft" pordnr="36537"/>
+            <m name="Propädeutikum" pordnr="36549"/>
+            <m name="Aufbaumodul Medien, Alltag, Gesellschaft" pordnr="36539"/>
+            <m name="Aufbaumodul Medienformen" pordnr="36542"/>
+            <m name="Praxismodul Medienformen" pordnr="37504"/>
+            <m name="Aufbaumodul Medien, Gesellschaft, Ethik" pordnr="36545"/>
+            <m name="Aufbaumodul Kultur- und medienwissenschaftliche Forschungsmethoden" pordnr="37502"/>
+       </l>
+    </b>
+    <b abschl="bk" stg="smp" kzfa="H" pversion="2013" name="Kernfach IS Sozialwissenschaften- Medien, Politik, Gesellschaft">
+        <l name="Pflichtmodule" min="8" max="8">
+            <m name="Praxismodul Propädeutik" pordnr="37629"/>
+            <m name="Basismodul Soziologie" pordnr="36657"/>
+            <m name="Basismodul Politikwissenschaft" pordnr="36658"/>
+            <m name="Basismodul Kommunikations- und Medienwissenschaft" pordnr="36659"/>
+            <m name="Methodenmodul Erhebungsverfahren" pordnr="36660"/>
+            <m name="Methodenmodul Analyseverfahren" pordnr="36661"/>
+            <m name="Methodenmodul Lehrforschungsprojekt" pordnr="36665"/>
+            <m name="Praxismodul Praktikum" pordnr="37630"/>
+
+        <!-- JO FRAGEN BEZÜGLICH PFLICHT UND WAHLPFLICHT! GGF ÜBER CPs-->
+            <m name="Themenmodul Individuum + Gesellschaft" pordnr="36666"/>
+            <m name="Themenmodul Systeme + Strukturen" pordnr="37566"/>
+            <m name="Themenmodul Bereiche + Prozesse" pordnr="37567"/>
+            <m name="Themenmodul Medien + Kommunikation" pordnr="37568"/>
+            <m name="Themenmodul Europa + Internationale Studien" pordnr="37569"/>
+       </l>
     </b>
 </ModulBaum>
