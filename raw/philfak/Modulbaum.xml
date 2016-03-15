@@ -72,7 +72,7 @@
             <m name="Bachelorarbeit-Modul" pordnr="34249"/>
         </l>
     </b>
-    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Sprachwissenschaft">
+    <b abschl="bk" stg="ger-lang" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Sprachwissenschaft">
         <l name="Schwerpunktmodul" min="1" max="1">
             <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34684"/>
         </l>
@@ -82,7 +82,7 @@
             <m name="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" pordnr="34687"/>
         </l>
     </b>
-    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Literaturwissenschaft">
+    <b abschl="bk" stg="ger-lit" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Literaturwissenschaft">
         <l name="Schwerpunktmodul" min="1" max="1">
             <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34685"/>
         </l>
@@ -92,7 +92,7 @@
             <m name="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" pordnr="34687"/>
         </l>
     </b>
-    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Schwerpunkt Mediävistik">
+    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Mediävistik">
         <l name="Schwerpunktmodul" min="1" max="1">
             <m name="Basismodul 3: Germanistische Mediävistik" pordnr="34686"/>
         </l>
@@ -102,7 +102,7 @@
             <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34685"/>
         </l>
     </b>
-    <b abschl="bk" stg="ger" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Kommunikation">
+    <b abschl="bk" stg="ger-kom" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Kommunikation">
         <l name="Schwerpunktmodul" min="1" max="1">
             <m name="Basismodul 4: Theorie und Geschichte mündlicher und schriftlicher Kommunikation" pordnr="34687"/>
         </l>
@@ -309,7 +309,7 @@
             <m name="Politische Philosophie/Rechtsphilosophie" pordnr="36164"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-frz" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Französisch">
+    <b abschl="bk" stg="rom-fra" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Französisch">
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34586"/>
             <m name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34589"/>
@@ -393,7 +393,7 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-frz" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="romrom-fra" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
@@ -409,7 +409,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-ita" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="romrom-ita" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
@@ -425,7 +425,7 @@
                pordnr="34787"/>
         </l>
     </b>
-    <b abschl="bk" stg="rom-spa" kzfa="N" pversion="2013"
+    <b abschl="bk" stg="romrom-spa" kzfa="N" pversion="2013"
        name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
