@@ -1,40 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <data>
     <modules>
-        <module id="P-CS-M-INFO1" title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)"
+        <module id="P-CS-M-INFO1" title="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)"
                 pordnr="1100" elective-units="0">
             <abstract-unit id="P-CS-L-INFO1a"
-                           title="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)"
+                           title="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)"
                            type="m" semester="1"/>
             <abstract-unit id="P-CS-L-INFO1b"
-                           title="Übungen zu Grundlangen der Softwareentwicklung und Programmierung (Informatik I)"
+                           title="Übungen zu Grundlagen der Softwareentwicklung und Programmierung (Informatik I)"
                            type="m"
                            semester="1"/>
             <abstract-unit id="P-CS-L-INFO1c"
-                           title="Praktische Übungen Grundlangen der Softwareentwicklung und Programmierung (Informatik I)"
+                           title="Praktische Übungen Grundlagen der Softwareentwicklung und Programmierung (Informatik I)"
                            type="m" semester="1"/>
         </module>
-        <module id="P-CS-M-INFO2" title="Grundlangen der Technischen Informatik (Informatik II)" pordnr="1101"
+        <module id="P-CS-M-INFO2" title="Grundlagen der Technischen Informatik (Informatik II)" pordnr="1101"
                 elective-units="0">
-            <abstract-unit id="P-CS-L-INFO2a" title="Grundlangen der Technischen Informatik (Informatik II)" type="m"
+            <abstract-unit id="P-CS-L-INFO2a" title="Grundlagen der Technischen Informatik (Informatik II)" type="m"
                            semester="2"/>
-            <abstract-unit id="P-CS-L-INFO2b" title="Übungen zu Grundlangen der Technischen Informatik (Informatik II)"
+            <abstract-unit id="P-CS-L-INFO2b" title="Übungen zu Grundlagen der Technischen Informatik (Informatik II)"
                            type="m" semester="2"/>
         </module>
-        <module id="P-CS-M-INFO3" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" pordnr="1102"
+        <module id="P-CS-M-INFO3" title="Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" pordnr="1102"
                 elective-units="0">
-            <abstract-unit id="P-CS-L-INFO3a" title="Grundlangen der Algorithmen und Datenstrukturen (Informatik III)"
+            <abstract-unit id="P-CS-L-INFO3a" title="Grundlagen der Algorithmen und Datenstrukturen (Informatik III)"
                            type="m" semester="3"/>
             <abstract-unit id="P-CS-L-INFO3b"
-                           title="Übungen zu Grundlangen der Algorithmen und Datenstrukturen (Informatik III)" type="m"
+                           title="Übungen zu Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" type="m"
                            semester="3"/>
         </module>
-        <module id="P-CS-M-INFO4" title="Grundlangen der Theoretischen Informatik (Informatik IV)" pordnr="1103"
+        <module id="P-CS-M-INFO4" title="Grundlagen der Theoretischen Informatik (Informatik IV)" pordnr="1103"
                 elective-units="0">
-            <abstract-unit id="P-CS-L-INFO4a" title="Grundlangen der Theoretischen Informatik (Informatik IV)" type="m"
+            <abstract-unit id="P-CS-L-INFO4a" title="Grundlagen der Theoretischen Informatik (Informatik IV)" type="m"
                            semester="4"/>
             <abstract-unit id="P-CS-L-INFO4b"
-                           title="Übungen zu Grundlangen der Theoretischen Informatik (Informatik IV)"
+                           title="Übungen zu Grundlagen der Theoretischen Informatik (Informatik IV)"
                            type="m" semester="4"/>
         </module>
         <module id="P-CS-M-PROPRA" title="Programmierpraktikum" pordnr="1104" elective-units="0">
@@ -97,7 +97,7 @@
                            title="Übungen zu Präferenzaggregation durch Wählen: Algorithmik und Komplexität" type="m"
                            semester="4,6"/>
         </module>
-        <module id="P-CS-M-BS" title="Betriesbssysteme" pordnr="1307" elective-units="0">
+        <module id="P-CS-M-BS" title="Betriebssysteme" pordnr="1307" elective-units="0">
             <abstract-unit id="P-CS-L-BS" title="Betriebssysteme" type="m" semester="5"/>
         </module>
         <module id="P-CS-MvS" title="Grundlagen verteilter Systeme" pordnr="1308" elective-units="0">
@@ -119,8 +119,8 @@
             <abstract-unit id="P-CS-L-HUMAN" title="Human-Genomik und biologische Datenanaylse" type="m"
                            semester="4,6"/>
         </module>
-        <module id="P-CS-M-MASCH" title="Maschine Learning" pordnr="1314" elective-units="0">
-            <abstract-unit id="P-CS-L-MASCH" title="Maschine Learning" type="m" semester="4,6"/>
+        <module id="P-CS-M-MASCH" title="Machine Learning" pordnr="1314" elective-units="0">
+            <abstract-unit id="P-CS-L-MASCH" title="Machine Learning" type="m" semester="4,6"/>
         </module>
         <module id="P-CS-M-NETW" title="Networks, Crowds and Markets" pordnr="1315" elective-units="0">
             <abstract-unit id="P-CS-L-NETW" title="Networks, Crowds and Markets" type="m" semester="3,5"/>
@@ -182,9 +182,9 @@
         <module id="P-BIO-M-210" title="Bio210: Biochemie" pordnr="2206" elective-units="0">
             <abstract-unit id="P-BIO-L-210" title="Bio210: Biochemie" type="m" semester="3,5"/>
         </module>
-        <module id="P-BIO-M-230" title="Bio230: Biphysik" pordnr="2207" elective-units="0">
-            <abstract-unit id="P-BIO-L-230a" title="Bio230: Biphysik" type="m" semester="3,5"/>
-            <abstract-unit id="P-BIO-L-230b" title="Übungen zu Bio230: Biphysik" type="m" semester="3,5"/>
+        <module id="P-BIO-M-230" title="Bio230: Biophysik" pordnr="2207" elective-units="0">
+            <abstract-unit id="P-BIO-L-230a" title="Bio230: Biophysik" type="m" semester="3,5"/>
+            <abstract-unit id="P-BIO-L-230b" title="Übungen zu Bio230: Biophysik" type="m" semester="3,5"/>
         </module>
         <module id="P-CHE-M-C1" title="Einführung in die Allgemeine und Anorganische Chemie (C1)" pordnr="2300"
                 elective-units="0">
@@ -251,11 +251,11 @@
         <module id="P-PSY-M-QM1" title="Quantitative Methoden I" pordnr="2500" elective-units="0">
             <abstract-unit id="P-PSY-L-QM1" title="Quantitative Methoden I" type="m" semester="3"/>
         </module>
-        <module id="P-PSY-M-QM2" title="Quantitavie Methoden II" pordnr="2501" elective-units="0">
-            <abstract-unit id="P-PSY-L-QM2" title="Quantitavie Methoden II" type="m" semester="4"/>
+        <module id="P-PSY-M-QM2" title="Quantitative Methoden II" pordnr="2501" elective-units="0">
+            <abstract-unit id="P-PSY-L-QM2" title="Quantitative Methoden II" type="m" semester="4"/>
         </module>
-        <module id="P-PSY-MvER1" title="Physiologischhe Grundlagen des Verhaltens I" pordnr="2502" elective-units="0">
-            <abstract-unit id="P-PSY-LvER1" title="Physiologischhe Grundlagen des Verhaltens I" type="m" semester="3"/>
+        <module id="P-PSY-MvER1" title="Physiologische Grundlagen des Verhaltens I" pordnr="2502" elective-units="0">
+            <abstract-unit id="P-PSY-LvER1" title="Physiologische Grundlagen des Verhaltens I" type="m" semester="3"/>
         </module>
         <module id="P-PSY-MvER2" title="Physiologische Grundlagen des Verhaltens II" pordnr="2503" elective-units="0">
             <abstract-unit id="P-PSY-LvER2" title="Physiologische Grundlagen des Verhaltens II" type="m" semester="3"/>
@@ -272,7 +272,7 @@
                            type="m" semester="3"/>
         </module>
         <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II"
-                pordnr="2507" elective-units="0">
+                pordnr="2508" elective-units="0">
             <abstract-unit id="P-PSY-L-EMO2"
                            title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" type="m"
                            semester="4"/>
@@ -1525,7 +1525,7 @@
             </group>
             <abstract-unit id="P-MAT-L-WAHRa"/>
         </unit>
-        <unit id="WAHRu" title="Übungen zu Wahrscheinlickeitstheorie" semester="3,5">
+        <unit id="WAHRu" title="Übungen zu Wahrscheinlichkeitstheorie" semester="3,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>

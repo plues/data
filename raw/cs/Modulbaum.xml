@@ -3,7 +3,7 @@
     <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik">
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
             <l name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" min-cp="10" max-cp="10">
-                <m name="Grundlangen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
+                <m name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
             </l>
             <l name="Grundlagen der Technischen Informatik (Informatik II)" min-cp="10" max-cp="10">
                 <m name="Grundlagen der Technischen Informatik (Informatik II)" pflicht="j" pordnr="1101" cp="10" />
@@ -58,7 +58,7 @@
             <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
                 <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" cp="10" />
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
-                <m name="Kryptokompletität I" pordnr="1311" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
             </l>
             <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
                 <m name="Betriebssysteme" pordnr="1307" cp="5" />
@@ -102,7 +102,7 @@
             <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
                 <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" cp="10" />
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
-                <m name="Kryptokompletität I" pordnr="1311" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
             </l>
             <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
                 <m name="Betriebssysteme" pordnr="1307" cp="5" />
@@ -194,7 +194,7 @@
             <m name="Numerik I" pordnr="1203" cp="10" />
             <m name="Einführung in die Stochastik" pordnr="1204" cp="10" />
             <m name="Numerik II" pordnr="2408" cp="10" />
-            <m name="Wahrscheinlickeitstheorie" pordnr="2409" cp="10" />
+            <m name="Wahrscheinlichkeitstheorie" pordnr="2409" cp="10" />
         </l>
     </b>
     <b abschl="bk" stg="psy" kzfa="N" pversion="2013" name="Nebenfach Psychologie" cp="40">
@@ -253,7 +253,7 @@
             <m name="Mobilkommunikation" pordnr="3033" cp="5" />
             <m name="Opportunistische und P2P-basierte Netzwerke" pordnr="3034" cp="5" />
             <m name="Primzahltests und das Faktorisierungsproblem" pordnr="3035" cp="5" />
-            <m name="Randomisierte Algorithmen und Kompletitätsklassen" pordnr="3036" cp="5" />
+            <m name="Randomisierte Algorithmen und Komplexitätsklassen" pordnr="3036" cp="5" />
             <m name="Systemprogrammierung" pordnr="3037" cp="5" />
             <m name="Theorie und Praxis der Online-Partizipation" pordnr="3038" cp="5" />
             <m name="Transaktionsverwaltung" pordnr="3039" cp="5" />
@@ -306,7 +306,7 @@
             <m name="Effiziente Algorithmen" pordnr="3030" cp="5" />
             <m name="Judgement Aggregation" pordnr="3031" cp="5" />
             <m name="Primzahltests und das Faktorisierungsproblem" pordnr="3035" cp="5" />
-            <m name="Randomisierte Algorithmen und Kompletitätsklassen" pordnr="3036" cp="5" />
+            <m name="Randomisierte Algorithmen und Komplexitätsklassen" pordnr="3036" cp="5" />
         </l>
     </b>
 </ModulBaum>
