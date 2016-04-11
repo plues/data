@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModulBaum>
-    <b cp="146" abschl="ba" stg="wichem" kzfa="h" pversion="2013" name="Wirtschaftschemie Bachelor">
+    <b cp="146" abschl="ba" stg="wichem" kzfa="H" pversion="2013" name="Wirtschaftschemie Bachelor">
         <l name="Pflichtmodule" min-cp="146" max-cp="146">
             <m cp="10" name="C1-WiC: Einführung in die Allgemeine und Anorganische Chemie" pordnr="33630"/>
             <m cp="8" name="PCO-WiC: Mathematische Methoden und Einführung in die PC" pordnr="33633"/>
@@ -21,7 +21,7 @@
             <m cp="6" name="BV02: Grundlagen der Volkswirtschaftslehre II (Makroökonomie)" pordnr="33765"/>
         </l>
     </b>
-    <b cp="64" abschl="ms" stg="Wichem" kzfa="h" pversion="2013" name="Wirtschaftschemie Master">
+    <b cp="64" abschl="ms" stg="wichem" kzfa="H" pversion="2013" name="Wirtschaftschemie Master">
         <l name="Pflichtmodule" min-cp="40" max-cp="40">
             <m cp="8" name="MoPoS: Monomere und polymere organische Stoffe" pordnr="33687"/>
             <m cp="6" name="MV02: Allgemeine Volkswirtschaftslehre II" pordnr="33690"/>
