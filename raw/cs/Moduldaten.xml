@@ -272,7 +272,7 @@
                            type="m" semester="3"/>
         </module>
         <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II"
-                pordnr="2508" elective-units="0">
+                pordnr="2507" elective-units="0">
             <abstract-unit id="P-PSY-L-EMO2"
                            title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" type="m"
                            semester="4"/>
