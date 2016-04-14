@@ -879,6 +879,7 @@
                            semester="2,3"/>
             <abstract-unit title="Arbeitspsychologie und Ergonomie" id="W-WIWI-L-MW11b" type="m" semester="2,3"/>
         </module>
+        <!-- repeated entry
         <module title="Kunst- und Kulturmanagement" id="W-WIWI-M-MW12" elective-units="3" type="e" pordnr="40539"
                 cp="16">
             <abstract-unit title="Methoden und Formenlehre - Teil Neuzeit" id="W-WIWI-L-MW12a" type="m"
@@ -887,6 +888,7 @@
             <abstract-unit title="Kunstproduktion, Kunsthandel und Kunstrezeption" id="W-WIWI-L-MW12c" type="m"
                            semester="1,2,3,4"/>
         </module>
+        -->
         <module title="Monetäre Ökonomik" id="W-WIWI-M-MW14" elective-units="3" type="e" pordnr="40570" cp="16">
             <abstract-unit title="Monetäre Ökonomik" id="W-WIWI-L-MW14a" type="m" semester="1,3"/>
             <abstract-unit title="Monetäre Ökonomik - Übung" id="W-WIWI-L-MW14b" type="m" semester="1,3"/>
