@@ -78,7 +78,7 @@
             <abstract-unit id="P-CS-L-PROLOG" title="Einführung in die logische Programmierung" type="m" semester="5"/>
         </module>
         <module id="P-CS-M-CBAU" title="Compilerbau" pordnr="1303" elective-units="0">
-            <abstract-unit id="P-CS-L-CBAU" title="Compilerbau" type="m" semester="4,6"/>
+            <abstract-unit id="P-CS-L-CBAU" title="Compilerbau" type="m" semester="5"/>
         </module>
         <module id="P-CS-M-NAND" title="From NAND to Tetris" pordnr="1304" elective-units="0">
             <abstract-unit id="P-CS-L-NAND" title="From NAND to Tetris" type="m" semester="4,6"/>
@@ -923,24 +923,24 @@
         <unit id="PLOG" title="Einführung in die logische Programmierung" semester="3,5">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
-                <session day="tue" time="5" duration="2" rhythm="0"/>
+                <!-- <session day="tue" time="4" duration="2" rhythm="0"/> -->
+                <!-- <session day="tue" time="5" duration="2" rhythm="0"/> -->
             </group>
             <abstract-unit id="P-CS-L-PROLOG"/>
         </unit>
-        <unit id="CBAU" title="Compilerbau" semester="3,5">
+        <unit id="CBAU" title="Compilerbau" semester="5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
+                <!-- <session day="wed" time="3" duration="2" rhythm="0"/> -->
+                <!-- <session day="wed" time="4" duration="2" rhythm="0"/> -->
             </group>
             <abstract-unit id="P-CS-L-CBAU"/>
         </unit>
         <unit id="NAND" title="From NAND to Tetris" semester="4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
-                <session day="mon" time="4" duration="2" rhythm="0"/>
+                <!-- <session day="mon" time="3" duration="2" rhythm="0"/> -->
+                <!-- <session day="mon" time="4" duration="2" rhythm="0"/> -->
             </group>
             <abstract-unit id="P-CS-L-NAND"/>
         </unit>
