@@ -646,7 +646,7 @@
             <group>
                 <session day="fri" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-CS-L-PROPPRAb"/>
+            <abstract-unit id="P-CS-L-PROPRAb"/>
         </unit>
         <unit id="ANA1v" title="Analysis I" semester="1,2">
             <group>
