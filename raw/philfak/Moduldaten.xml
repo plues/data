@@ -11749,35 +11749,44 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="P-SOWI-L-BMMAc"/>
         </unit>
-        <unit id="121313" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="1,3,5">
+        <unit id="131224" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="2,4,6">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-SOWI-L-BMMAc"/>
         </unit>
-        <unit id="122035" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="1,3,5">
-            <group>
-                <session day="tue" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BMMAc"/>
-        </unit>
-        <unit id="122067" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="1,3,5">
+        <unit id="131228" title="DATA plus mit R (Übung)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BMMAc"/>
-        </unit>
-        <unit id="122386" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="1,3,5">
-            <group>
-                <session day="thu" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BMMAc"/>
-        </unit>
-        <unit id="122217" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="1,3,5">
-            <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-SOWI-L-BMMAc"/>
         </unit>
@@ -11787,25 +11796,16 @@
             </group>
             <abstract-unit id="P-SOWI-L-BMMAc"/>
         </unit>
-        <unit id="119407" title="Praktikumskurs A (Seminar)" semester="1,3,5">
+        <unit id="119407" title="Praktikumskurs (Seminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BPRAb"/>
-        </unit>
-        <unit id="119409" title="Praktikumskurs B (Seminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BPRAb"/>
-        </unit>
-        <unit id="119406" title="Praktikumskurs C (Seminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BPRAb"/>
-        </unit>
-        <unit id="119408" title="Praktikumskurs D (Seminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
@@ -12168,9 +12168,6 @@
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
             <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
-            </group>
-            <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
             <group>
@@ -12277,33 +12274,6 @@
             </group>
             <abstract-unit id="P-SOWI-L-BPRAa"/>
         </unit>
-        <unit id="131224" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="2,4,6">
-            <group>
-                <session day="mon" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BMMAc"/>
-        </unit>
-        <unit id="127784" title="Computergestützte Datenanalyse: DATA-Übung mit SPSS (Übung)" semester="2,4,6">
-            <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="tue" time="5" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="thu" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BMMAc"/>
-        </unit>
-        <unit id="131228" title="DATA plus mit R (Übung)" semester="2,4,6">
-            <group>
-                <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-SOWI-L-BMMAc"/>
-        </unit>
         <unit id="125421" title="Kommunikative Kompetenz: Supervision, Coaching und Mediation (Übung)"
               semester="2,4,6">
             <group>
@@ -12311,32 +12281,20 @@
             </group>
             <abstract-unit id="P-SOWI-L-BPROc"/>
         </unit>
-        <unit id="133102" title="Praktikumskurs als Alternative für Einzelgespräche/Kleingruppen Do 16.30 (Seminar)"
+        <unit id="133102" title="Praktikumskurs als Alternative für Einzelgespräche/Kleingruppen (Seminar)"
               semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BPRAb"/>
-        </unit>
-        <unit id="124035" title="Praktikumskurs A: Mi 16.30 - 18 Uhr (Seminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BPRAb"/>
-        </unit>
-        <unit id="124037" title="Praktikumskurs B: Do. 12.30 - 14 Uhr (Seminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BPRAb"/>
-        </unit>
-        <unit id="124034" title="Praktikumskurs C: Do. 14.30 -16 Uhr (Seminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-SOWI-L-BPRAb"/>
-        </unit>
-        <unit id="125164" title="Praktikumskurs D: Do. 16.30 - 18 Uhr (Seminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
@@ -13158,129 +13116,36 @@
             <abstract-unit id="P-ISI-L-BGa"/>
             <abstract-unit id="P-ISI-L-BPd"/>
         </unit>
-        <unit id="122571" title="Tutorium 12 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
+        <unit id="122571" title="Tutorium zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122572" title="Tutorium 13 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122573" title="Tutorium 14 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122574" title="Tutorium 15 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122575" title="Tutorium 16 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122609" title="Tutorium 17 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
-                <session day="fri" time="2" duration="2" rhythm="0"/>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122612" title="Tutorium 18 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
-                <session day="fri" time="3" duration="2" rhythm="0"/>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122613" title="Tutorium 19 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
-                <session day="mon" time="2" duration="2" rhythm="0"/>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122323" title="Tutorium 1 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="mon" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122922" title="Tutorium 20 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122923" title="Tutorium 21 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122924" title="Tutorium 22 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="125952" title="Tutorium 23 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122325" title="Tutorium 2 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122326" title="Tutorium 3 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122327" title="Tutorium 4 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122328" title="Tutorium 5 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122329" title="Tutorium 6 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122330" title="Tutorium 7 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122332" title="Tutorium 8 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
-            <group>
-                <session day="mon" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BGb"/>
-        </unit>
-        <unit id="122333" title="Tutorium 9 zum Grundkurs Linguistik (Tutorium)" semester="1,3,5">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ISI-L-BGb"/>
         </unit>
@@ -13851,63 +13716,24 @@
             </group>
             <abstract-unit id="P-ISI-L-BB1c"/>
         </unit>
-        <unit id="127751" title="Tutorium 10 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127740" title="Tutorium 1 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
+        <unit id="127740" title="Tutorium zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127741" title="Tutorium 2 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127742" title="Tutorium 3 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127744" title="Tutorium 4 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127745" title="Tutorium 5 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
-            <group>
-                <session day="tue" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127746" title="Tutorium 6 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127747" title="Tutorium 7 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
-            <group>
-                <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127748" title="Tutorium 8 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB1d"/>
-        </unit>
-        <unit id="127749" title="Tutorium 9 zum Methodenkurs Phonetik und Phonologie (Tutorium)" semester="2,4,6">
             <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
+                <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ISI-L-BB1d"/>
         </unit>
@@ -13917,81 +13743,30 @@
             </group>
             <abstract-unit id="P-ISI-L-BB2c"/>
         </unit>
-        <unit id="127761" title="Tutorium 10 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="133110" title="Tutorium 11 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="thu" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="133111" title="Tutorium 12 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="133549" title="Tutorium 13 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127752" title="Tutorium 1 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
+        <unit id="127752" title="Tutorium zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127753" title="Tutorium 2 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127754" title="Tutorium 3 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127755" title="Tutorium 4 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127756" title="Tutorium 5 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127757" title="Tutorium 6 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127758" title="Tutorium 7 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127759" title="Tutorium 8 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
-            <group>
-                <session day="tue" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BB2d"/>
-        </unit>
-        <unit id="127760" title="Tutorium 9 zum Methodenkurs Grammatische Methoden (Methodenkurs)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ISI-L-BB2d"/>
         </unit>
@@ -14114,10 +13889,6 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BC1b"/>
-            <abstract-unit id="P-ISI-L-BCL1a"/>
-        </unit>
-        <unit id="133236" title="Übung 2 zur Einführung in die Computerlinguistik (Übung)" semester="2,4,6">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
@@ -14374,17 +14145,13 @@
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
             <group>
-                <session day="fri" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-ISI-L-BSKF5a"/>
-            <abstract-unit id="P-ISI-L-BSKF5b"/>
-        </unit>
-        <unit id="124745" title="Latein II (Sprachkurs)" semester="2,4,6">
-            <group>
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ISI-L-BSKF5a"/>
             <abstract-unit id="P-ISI-L-BSKF5b"/>
@@ -14425,12 +14192,6 @@
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <group>
-                <session day="fri" time="2" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="0"/>
-            </group>
-            <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ISI-L-BI2a"/>
@@ -14445,15 +14206,9 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BI3c"/>
-        </unit>
-        <unit id="125062" title="Aufbauseminar Informetrie - Gruppe 2 (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ISI-L-BI3c"/>
-        </unit>
-        <unit id="125248" title="Aufbauseminar Informetrie - Gruppe 3 (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
