@@ -7409,9 +7409,6 @@
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1b"/>
-        </unit>
-        <unit id="118372" title="Grammatik der deutschen Sprache (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
@@ -7421,21 +7418,12 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1b"/>
-        </unit>
-        <unit id="121006" title="Semantik (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1b"/>
-        </unit>
-        <unit id="118368" title="Semantik (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1b"/>
-        </unit>
-        <unit id="120681" title="Semantik (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
@@ -7445,21 +7433,12 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1b"/>
-        </unit>
-        <unit id="118376" title="Pragmatik  (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1b"/>
-        </unit>
-        <unit id="118378" title="Pragmatik  (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1b"/>
-        </unit>
-        <unit id="120694" title="Pragmatik  (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
@@ -7469,9 +7448,6 @@
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM2a"/>
-        </unit>
-        <unit id="119146" title="Einführung in die Literaturwissenschaft  (Vorlesung)" semester="1,3,5">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
@@ -7481,15 +7457,9 @@
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM2b"/>
-        </unit>
-        <unit id="120757" title="Einführungsseminar Gattung: Novelle  (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM2b"/>
-        </unit>
-        <unit id="120775" title="Einführungsseminar Novelle  (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
@@ -7505,15 +7475,9 @@
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM2b"/>
-        </unit>
-        <unit id="120764" title="Einführungsseminar Ballade  (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM2b"/>
-        </unit>
-        <unit id="120766" title="Einführungsseminar Ballade  (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
@@ -7912,15 +7876,9 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1c"/>
-        </unit>
-        <unit id="125194" title="Sprachgeschichte  (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1c"/>
-        </unit>
-        <unit id="125202" title="Sprachgeschichte  (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
@@ -7930,9 +7888,6 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1c"/>
-        </unit>
-        <unit id="124507" title="Textlinguistik   (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
@@ -7948,15 +7903,9 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1c"/>
-        </unit>
-        <unit id="124165" title="Soziolinguistik    (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM1c"/>
-        </unit>
-        <unit id="126892" title="Soziolinguistik    (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
@@ -8014,9 +7963,6 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM2c"/>
-        </unit>
-        <unit id="126965" title="Franz Kafka - Erzählungen (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
@@ -8026,9 +7972,6 @@
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM2c"/>
-        </unit>
-        <unit id="123256" title="Koloniale Diskurse in der deutschsprachigen Literatur (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
