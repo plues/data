@@ -7601,79 +7601,37 @@
         </unit>
         <unit id="121549" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
             <group>
-                <session day="fri" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121543" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="thu" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="133420" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121540" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121445" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="mon" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121546" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="thu" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="133422" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="mon" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="133433" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="thu" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121542" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121441" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
-            <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121446" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
+            </group>
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="121537" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+            </group>
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-GERM-L-BBM3b"/>
-        </unit>
-        <unit id="133425" title="Einführung in die ältere deutsche Sprache und Literatur (Seminar)" semester="1,3,5">
             <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-GERM-L-BBM3b"/>
         </unit>
