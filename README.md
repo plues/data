@@ -1,54 +1,42 @@
 # PlüS Data
 
 This repository is part of the [PlüS Project](https://github.com/plues) and
-contains:
+contains the tools to generate sqlite3 databases and .mch files from raw timetable
+input data as provided by the faculties of Humanities and Economics at [Heinrich-Heine University Düsseldorf](http://hhu.de).
 
-* Timetabling data provided by the participating faculties of
-  Humanities and Economics at the [Heinrich-Heine University Düsseldorf](http://hhu.de).
-* Tools to generate a SQLite database from the raw data and to generate
-  different target formats from the database using
-  [model-generator](https://github.com/plues/model-generator).
+This repository contains sample data for each faculty in `raw/[faculty name]/`.
+
+## Documentation
+
+See [Documentation](docs.md) for a description of the data format.
 
 ## Generating data
 
 To generate the sql data representations or an already seeded SQLite database
 use the provided makefile targets.
 
-Call `make data.sql` or `make data.sqlite3` to generate the corresponding files
-with the data of the faculty of humanities.
+Call `make data.sqlite3` or `make data.mch` to generate either a database or a
+B-machine (.mch). Add `flavor=[variant]` to override the default variant (the default is `philfak`), e.g:
 
-Call `make wiwi_data.sql` or `make wiwi_data.sqlite3` to generate the
-data for the facutlty of economics.
+```
+make data.sqlite3 flavor=wiwi
+```
 
-**Note**: The tools used to generate the `.sql` files are implemented in Python
-and are thus subject to Python's hash randomization which affects the order of
-the elements in the generated database. The used seed for the randomization is
-stored in the genrated database.
+## Schema
 
-To override this behaviour or to re-generate a specific
-order in the generated data pass the `HASHSEED` variable to the `Makefile`
-targets, e.g.: `make wiwi_data.sqlite3 HASHSEED=x`.
+The schema of the generated databases is described in this Picture:
 
-Call `make random.sql` or `make random.sqlite3` to generate a database seed
-with random values, the hashseed is printed and stored in the generated file.
-The `RANDOMSEED` variable can be passed to the makefile to regenerated a
-certain dataset, e.g. `make random.slite3 RANDOMSEED=x`.
-
-### Schema
-
-The schema of the generated database is described in [`schema.sql`](schema.sql):
-
-![Schema](doc/schema.png)
+![Schema](doc/schema-3.0.png)
 
 ## Dependencies
 
-* python3
-* virtualenv
 * sqlite3
-* java (for the model-generator)
+* JVM
 
-For further dependencies (installed automatically) see [requirements.txt](requirements.txt).
+This project depends on the following tools, that are part of the [PlÜS project](http://tuatara.cs.uni-duesseldorf.de/groups/slottool).
 
+* [model-generator](https://github.com/plues/model-generator)
+* [mincer](https://github.com/plues/mincer)
 
 ## LICENSE
 
