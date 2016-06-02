@@ -314,7 +314,7 @@ def main(argv):
     # lower() turns '' into NaN which are dropped bellow
     table['Alternative'] = table['Alternative'].fillna('').applymap(lambda x: str(x).lower())
     table['Slot'] = table['Slot'].str.lower()
-    table['Slot2'] = table['Slot2'].str.lower()
+    table['Slot2'] = table['Slot2'].fillna('').str.lower()
 
     # drop 'empty' rows -> no slot information
     table = table[(table.Slot.str.startswith('noch') == False) & (table.Slot.isnull() == False)]
