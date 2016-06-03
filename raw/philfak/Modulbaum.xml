@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ModulBaum>
+<ModulBaum short-name="philfak" name="Philosophische Fakultät der Heinrich-Heine-Universität">
     <b abschl="bk" stg="aua" kzfa="H" pversion="2013"
        name="Kernfach Anglistik und Amerikanistik">
         <l name="Pflichtmodule" min="7" max="7">

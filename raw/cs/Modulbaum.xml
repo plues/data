@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ModulBaum>
+<ModulBaum short-name="cs" name="Institut für Informatik">
     <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik">
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
             <l name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" min-cp="10" max-cp="10">

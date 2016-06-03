@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ModulBaum>
+<ModulBaum short-name="wiwi" name="Wirtschaftswissenschaftliche Fakultät der HHU Düsseldorf">
     <b cp="146" abschl="ba" stg="wichem" kzfa="H" pversion="2013" name="Wirtschaftschemie Bachelor">
         <l name="Pflichtmodule" min-cp="146" max-cp="146">
             <m cp="10" name="C1-WiC: Einführung in die Allgemeine und Anorganische Chemie" pordnr="33630"/>
