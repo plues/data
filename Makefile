@@ -1,4 +1,4 @@
-MODEL_GENERATOR_VERSION=1.0.0
+MODEL_GENERATOR_VERSION=1.0.2
 modelgenerator=bin/modelgenerator-$(MODEL_GENERATOR_VERSION).jar
 
 # path to put the virtualenv in case we create a new one
