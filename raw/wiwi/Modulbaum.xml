@@ -1425,10 +1425,10 @@
             <m cp="9" name="MB03: Betriebswirtschaftliche Theorie" pordnr="40556"/>
         </l>
         <l name="Wahlpflichtmodule Schwerpunkt" min-cp="32" max-cp="64">
-            <1 name="Wahlpflichtmodule Schwerpunkt VWL" min-cp="16" max-cp="48">
             <m cp="16" name="MW08: Internationale Finanzmärkte" pordnr="40569"/>
             <m cp="16" name="MW14: Monetäre Ökonomik" pordnr="40570"/>
             <m cp="16" name="MW31: Advanced Economic Theory" pordnr="40573"/>
+            <l name="Wahlpflichtmodule Schwerpunkt VWL" min-cp="16" max-cp="48">
         </l>
         <l name="Wahlpflichtmodule Schwerpunkt BWL" min-cp="0" max-cp="16">
             <m cp="16" name="MW03: Theorie der Finanzdienstleistungen" pordnr="40558"/>
