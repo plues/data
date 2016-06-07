@@ -1948,7 +1948,7 @@
             <abstract-unit id="W-WIWI-L-BV01a"/>
             <abstract-unit id="W-WICHEM-L-BV01a"/>
         </unit>
-        <unit id="129329" title="Märkte und Preise" semester="1">
+        <unit id="129329-0" title="Märkte und Preise" semester="1">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="2"/>
             </group>
