@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+
 import argparse
 import numpy
 import os
@@ -90,7 +91,8 @@ def extract_modules(data):
         module['name'] = name
         module['frequency'] = row['Angebot']
         module['type'] = 'm' if row['Modultyp'] == 'P' else 'e'
-        module['courses'].add(course_map[row['verwenbar']])
+        if row['verwenbar'] in course_map:
+            module['courses'].add(course_map[row['verwenbar']])
     return modules
 
 course_map = {
@@ -300,9 +302,18 @@ def main(argv):
     # propagate module information before dropping rows
     table['Modul'] = table['Modul'].fillna(method='ffill')
 
+    modules = extract_modules(table[['Modul', 'Modultyp', 'Angebot', 'verwenbar']].drop_duplicates())
+    rcprint("Extracted module information")
+    #
     # drop block seminars
     table = table[table.Rhythmus < 3]
     table['Alternative'] = table['Alternative'].replace(0, numpy.nan).replace(3, numpy.nan)
+    rcprint("Dropped block seminar rows")
+    #
+    # drop 'empty' rows -> no slot information
+    table = table[(table.Slot.str.startswith('noch') == False) & (table.Slot.isnull() == False)]
+    rcprint("dropped invalid rows")
+    #
 
     # drop column
     try:
@@ -316,9 +327,6 @@ def main(argv):
     table['Slot'] = table['Slot'].str.lower()
     table['Slot2'] = table['Slot2'].fillna('').str.lower()
 
-    # drop 'empty' rows -> no slot information
-    table = table[(table.Slot.str.startswith('noch') == False) & (table.Slot.isnull() == False)]
-    rcprint("dropped invalid rows")
 
     table[['Slot', 'Slot2']] = table[['Slot', 'Slot2']].fillna('').applymap(
                                     lambda x: x[:2] if isinstance(x, str) else x)
@@ -327,6 +335,7 @@ def main(argv):
 
     table['Schwerpunkte'] = pandas.Series([[s for s in row if s > 0] for row in table['Schwerpunkt'].values], index=table.index)
     rcprint("Cleaned up focus areas")
+    #
 
     # Fill remaining empty cells with values above in the same column
     table = table.fillna(method='ffill')
@@ -337,17 +346,14 @@ def main(argv):
         'vwl_semester', 'vwl_alt_semester',
         'wichem_semester', 'wichem_alt_semester']].applymap(lambda x: int(x[0]) if isinstance(x, str) else int(x))
 
+    table['N:Title'] = table.apply(normalized_title, axis=1)
+    rcprint("Normalized input")
+    #
     # data transformations
     table['Anzahl SWS'] = table['Anzahl SWS'].map(lambda x: int(x.split()[0]))
     table['Valt'] = table['Valt'].map(bool)
     table['Rhythmus'] = table['Rhythmus'].map(int)
     table['Kursnummer'] = table['Kursnummer'].map(lambda x: int(x.split()[-1]))
-
-    table['N:Title'] = table.apply(normalized_title, axis=1)
-    rcprint("Normalized input")
-    #
-    modules = extract_modules(table[['Modul', 'Modultyp', 'Angebot', 'verwenbar']].drop_duplicates())
-    rcprint("Extracted module information")
     #
     units, map = extract_units(table.groupby('N:Title', axis=0))
     rcprint("Extracted unit information")
