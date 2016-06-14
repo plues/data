@@ -1226,52 +1226,15 @@
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01b"/>
-            <abstract-unit id="W-WICHEM-L-BB01b"/>
-        </unit>
-        <unit id="129990-2" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01b"/>
-            <abstract-unit id="W-WICHEM-L-BB01b"/>
-        </unit>
-        <unit id="129990-3" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB01b"/>
-            <abstract-unit id="W-WICHEM-L-BB01b"/>
-        </unit>
-        <unit id="129990-4" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01b"/>
-            <abstract-unit id="W-WICHEM-L-BB01b"/>
-        </unit>
-        <unit id="129990-5" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01b"/>
-            <abstract-unit id="W-WICHEM-L-BB01b"/>
-        </unit>
-        <unit id="129990-6" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB01b"/>
-            <abstract-unit id="W-WICHEM-L-BB01b"/>
-        </unit>
-        <unit id="129990-7" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB01b"/>
-            <abstract-unit id="W-WICHEM-L-BB01b"/>
-        </unit>
-        <unit id="129990-8" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
@@ -1289,52 +1252,15 @@
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01d"/>
-            <abstract-unit id="W-WICHEM-L-BB01d"/>
-        </unit>
-        <unit id="129796-2" title="Finanzbuchführung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01d"/>
-            <abstract-unit id="W-WICHEM-L-BB01d"/>
-        </unit>
-        <unit id="129796-3" title="Finanzbuchführung - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB01d"/>
-            <abstract-unit id="W-WICHEM-L-BB01d"/>
-        </unit>
-        <unit id="129796-4" title="Finanzbuchführung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01d"/>
-            <abstract-unit id="W-WICHEM-L-BB01d"/>
-        </unit>
-        <unit id="129796-5" title="Finanzbuchführung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01d"/>
-            <abstract-unit id="W-WICHEM-L-BB01d"/>
-        </unit>
-        <unit id="129796-6" title="Finanzbuchführung - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB01d"/>
-            <abstract-unit id="W-WICHEM-L-BB01d"/>
-        </unit>
-        <unit id="129796-7" title="Finanzbuchführung - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB01d"/>
-            <abstract-unit id="W-WICHEM-L-BB01d"/>
-        </unit>
-        <unit id="129796-8" title="Finanzbuchführung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
@@ -1352,38 +1278,18 @@
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01f"/>
-            <abstract-unit id="W-WICHEM-L-BB01f"/>
-        </unit>
-        <unit id="130190-2" title="Absatz und Beschaffung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01f"/>
-            <abstract-unit id="W-WICHEM-L-BB01f"/>
-        </unit>
-        <unit id="130190-3" title="Absatz und Beschaffung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01f"/>
-            <abstract-unit id="W-WICHEM-L-BB01f"/>
-        </unit>
-        <unit id="130190-4" title="Absatz und Beschaffung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01f"/>
-            <abstract-unit id="W-WICHEM-L-BB01f"/>
-        </unit>
-        <unit id="130190-" title="Absatz und Beschaffung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB01f"/>
-            <abstract-unit id="W-WICHEM-L-BB01f"/>
-        </unit>
-        <unit id="130190-6" title="Absatz und Beschaffung - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
@@ -1400,77 +1306,8 @@
         <unit id="137731-1" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
               semester="2">
             <group>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-2" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-3" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-4" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-5" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-6" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="wed" time="3" duration="5" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-7" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-8" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-9" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02b"/>
-            <abstract-unit id="W-WICHEM-L-BB02b"/>
-        </unit>
-        <unit id="137731-10" title="Externes Rechnungswesen nach Handels- und  Steuerrecht - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
@@ -1490,129 +1327,30 @@
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-2"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-3"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-4"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-5"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="thu" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-6"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-7"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="thu" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-8"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-9"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-10"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-11"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-12"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="fri" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-13"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-14"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
-            <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB02d"/>
-            <abstract-unit id="W-WICHEM-L-BB02d"/>
-        </unit>
-        <unit id="137749-15"
-              title="Internes Rechnungswesen: Kostenrechnung und  Kostenmanagement - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
@@ -1630,52 +1368,12 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB03b"/>
-            <abstract-unit id="W-WICHEM-L-BB03b"/>
-        </unit>
-        <unit id="130745-2" title="Finanzierung, Finanz- und Jahresabschlussanalyse - Gruppenanalyse" semester="3">
-            <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB03b"/>
-            <abstract-unit id="W-WICHEM-L-BB03b"/>
-        </unit>
-        <unit id="130745-3" title="Finanzierung, Finanz- und Jahresabschlussanalyse - Gruppenanalyse" semester="3">
-            <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB03b"/>
-            <abstract-unit id="W-WICHEM-L-BB03b"/>
-        </unit>
-        <unit id="130745-4" title="Finanzierung, Finanz- und Jahresabschlussanalyse - Gruppenanalyse" semester="3">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB03b"/>
-            <abstract-unit id="W-WICHEM-L-BB03b"/>
-        </unit>
-        <unit id="130745-5" title="Finanzierung, Finanz- und Jahresabschlussanalyse - Gruppenanalyse" semester="3">
-            <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB03b"/>
-            <abstract-unit id="W-WICHEM-L-BB03b"/>
-        </unit>
-        <unit id="130745-6" title="Finanzierung, Finanz- und Jahresabschlussanalyse - Gruppenanalyse" semester="3">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB03b"/>
-            <abstract-unit id="W-WICHEM-L-BB03b"/>
-        </unit>
-        <unit id="130745-7" title="Finanzierung, Finanz- und Jahresabschlussanalyse - Gruppenanalyse" semester="3">
-            <group>
-                <session day="wed" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB03b"/>
-            <abstract-unit id="W-WICHEM-L-BB03b"/>
-        </unit>
-        <unit id="130745-8" title="Finanzierung, Finanz- und Jahresabschlussanalyse - Gruppenanalyse" semester="3">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
@@ -1691,35 +1389,19 @@
         </unit>
         <unit id="129401-1" title="Grundlagen der Unternehmensführung - Gruppenveranstaltungen" semester="3">
             <group>
+                <session day="mon" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB03d"/>
-            <abstract-unit id="W-WICHEM-L-BB03d"/>
-        </unit>
-        <unit id="129401-2" title="Grundlagen der Unternehmensführung - Gruppenveranstaltungen" semester="3">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB03d"/>
-            <abstract-unit id="W-WICHEM-L-BB03d"/>
-        </unit>
-        <unit id="129401-3" title="Grundlagen der Unternehmensführung - Gruppenveranstaltungen" semester="3">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB03d"/>
-            <abstract-unit id="W-WICHEM-L-BB03d"/>
-        </unit>
-        <unit id="129401-4" title="Grundlagen der Unternehmensführung - Gruppenveranstaltungen" semester="3">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BB03d"/>
-            <abstract-unit id="W-WICHEM-L-BB03d"/>
-        </unit>
-        <unit id="129401-5" title="Grundlagen der Unternehmensführung - Gruppenveranstaltungen" semester="3">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BB03d"/>
             <abstract-unit id="W-WICHEM-L-BB03d"/>
@@ -1734,45 +1416,24 @@
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB04b"/>
-        </unit>
-        <unit id="137750-2" title="Produktion und Logistik - Gruppenveranstaltungen" semester="4">
             <group>
                 <session day="mon" time="6" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB04b"/>
-        </unit>
-        <unit id="137750-3" title="Produktion und Logistik - Gruppenveranstaltungen" semester="4">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB04b"/>
-        </unit>
-        <unit id="137750-4" title="Produktion und Logistik - Gruppenveranstaltungen" semester="4">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB04b"/>
-        </unit>
-        <unit id="137750-5" title="Produktion und Logistik - Gruppenveranstaltungen" semester="4">
             <group>
                 <session day="wed" time="6" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB04b"/>
-        </unit>
-        <unit id="137750-6" title="Produktion und Logistik - Gruppenveranstaltungen" semester="4">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB04b"/>
-        </unit>
-        <unit id="137750-7" title="Produktion und Logistik - Gruppenveranstaltungen" semester="4">
             <group>
                 <session day="thu" time="6" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BB04b"/>
-        </unit>
-        <unit id="137750-8" title="Produktion und Logistik - Gruppenveranstaltungen" semester="4">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
@@ -1782,10 +1443,6 @@
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS01a"/>
-            <abstract-unit id="W-WICHEM-L-BS01a"/>
-        </unit>
-        <unit id="131000-1" title="Statistische Methoden I" semester="1">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="1"/>
             </group>
@@ -1796,117 +1453,39 @@
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-2" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="mon" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-3" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-4" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="mon" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-5" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-6" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-7" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="wed" time="6" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-8" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="wed" time="6" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-9" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="thu" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-10" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="thu" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-11" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="thu" time="5" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-12" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-13" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-14" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="wed" time="2" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-15" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-16" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="6" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS01b"/>
-            <abstract-unit id="W-WICHEM-L-BS01b"/>
-        </unit>
-        <unit id="130415-17" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
+
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
+            </group>
             <group>
                 <session day="tue" time="6" duration="2" rhythm="0"/>
+            </group>
+
+            <group>
+                <session day="wed" time="6" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
+
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="1" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
+
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BS01b"/>
             <abstract-unit id="W-WICHEM-L-BS01b"/>
@@ -1927,39 +1506,21 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS02b"/>
-        </unit>
-        <unit id="137676-2" title="Statistische Methoden II - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS02b"/>
-        </unit>
-        <unit id="137676-3" title="Statistische Methoden II - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS02b"/>
-        </unit>
-        <unit id="137676-4" title="Statistische Methoden II - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS02b"/>
-        </unit>
-        <unit id="137676-5" title="Statistische Methoden II - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS02b"/>
-        </unit>
-        <unit id="137676-6" title="Statistische Methoden II - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS02b"/>
-        </unit>
-        <unit id="137676-7" title="Statistische Methoden II - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
@@ -1982,52 +1543,15 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV01b"/>
-            <abstract-unit id="W-WICHEM-L-BV01b"/>
-        </unit>
-        <unit id="129793-2" title="Übung zu Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="tue" time="4" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV01b"/>
-            <abstract-unit id="W-WICHEM-L-BV01b"/>
-        </unit>
-        <unit id="129793-3" title="Übung zu Märkte und Preise - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV01b"/>
-            <abstract-unit id="W-WICHEM-L-BV01b"/>
-        </unit>
-        <unit id="129793-4" title="Übung zu Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="tue" time="5" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV01b"/>
-            <abstract-unit id="W-WICHEM-L-BV01b"/>
-        </unit>
-        <unit id="129793-5" title="Übung zu Märkte und Preise - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV01b"/>
-            <abstract-unit id="W-WICHEM-L-BV01b"/>
-        </unit>
-        <unit id="129793-6" title="Übung zu Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="wed" time="3" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV01b"/>
-            <abstract-unit id="W-WICHEM-L-BV01b"/>
-        </unit>
-        <unit id="129793-7" title="Übung zu Märkte und Preise - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV01b"/>
-            <abstract-unit id="W-WICHEM-L-BV01b"/>
-        </unit>
-        <unit id="129793-8" title="Übung zu Märkte und Preise - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="1"/>
             </group>
@@ -2038,11 +1562,6 @@
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05a"/>
-            <abstract-unit id="W-WIWI-L-BV02a"/>
-            <abstract-unit id="W-WICHEM-L-BV02a"/>
-        </unit>
-        <unit id="137511-1" title="Einkommen, Beschäftigung und Preisniveau" semester="2">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="2"/>
             </group>
@@ -2054,11 +1573,6 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05a"/>
-            <abstract-unit id="W-WIWI-L-BV02a"/>
-            <abstract-unit id="W-WICHEM-L-BV02a"/>
-        </unit>
-        <unit id="137574-1" title="Einkommen, Beschäftigung und Preisniveau (englisch)" semester="2">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="1"/>
             </group>
@@ -2072,53 +1586,18 @@
             <group>
                 <session day="mon" time="2" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05b"/>
-            <abstract-unit id="W-WIWI-L-BV02b"/>
-            <abstract-unit id="W-WICHEM-L-BV02b"/>
-        </unit>
-        <unit id="137662-2"
-              title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05b"/>
-            <abstract-unit id="W-WIWI-L-BV02b"/>
-            <abstract-unit id="W-WICHEM-L-BV02b"/>
-        </unit>
-        <unit id="137662-3"
-              title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05b"/>
-            <abstract-unit id="W-WIWI-L-BV02b"/>
-            <abstract-unit id="W-WICHEM-L-BV02b"/>
-        </unit>
-        <unit id="137662-4"
-              title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05b"/>
-            <abstract-unit id="W-WIWI-L-BV02b"/>
-            <abstract-unit id="W-WICHEM-L-BV02b"/>
-        </unit>
-        <unit id="137662-5"
-              title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05b"/>
-            <abstract-unit id="W-WIWI-L-BV02b"/>
-            <abstract-unit id="W-WICHEM-L-BV02b"/>
-        </unit>
-        <unit id="137662-6"
-              title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen"
-              semester="2">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="1"/>
             </group>
@@ -2132,13 +1611,6 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="2"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV05b"/>
-            <abstract-unit id="W-WIWI-L-BV02b"/>
-            <abstract-unit id="W-WICHEM-L-BV02b"/>
-        </unit>
-        <unit id="137559-2"
-              title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen (englisch)"
-              semester="2">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="2"/>
             </group>
@@ -2174,21 +1646,12 @@
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BR01b"/>
-        </unit>
-        <unit id="137462-2" title="Übung zum Bürgerlichen Recht - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BR01b"/>
-        </unit>
-        <unit id="137462-3" title="Übung zum Bürgerlichen Recht - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BR01b"/>
-        </unit>
-        <unit id="137462-4" title="Übung zum Bürgerlichen Recht - Gruppenveranstaltungen" semester="2">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
@@ -2216,9 +1679,6 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BM01b"/>
-        </unit>
-        <unit id="129230-2" title="Gruppenarbeit zu Mathematik I" semester="1">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
@@ -2234,9 +1694,6 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BM02b"/>
-        </unit>
-        <unit id="137536-2" title="Gruppenarbeit zu Mathematik II" semester="2">
             <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
@@ -2270,10 +1727,6 @@
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BW02b"/>
-        </unit>
-        <unit id="137734-1" title="Steuerung und Risikomanagement von Banken und Versicherungsunternehmen"
-              semester="4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
@@ -2289,9 +1742,6 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BW03b"/>
-        </unit>
-        <unit id="130009-2" title="Investitions- und Finanzmanagement I (Gruppensitzung)" semester="3,4,5,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
@@ -2771,21 +2221,15 @@
             <group>
                 <session day="mon" time="6" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BS03b"/>
-        </unit>
-        <unit id="130088-1" title="Introductory Econometrics - Übung" semester="3">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BS03b"/>
         </unit>
-        <unit id="129329" title="Märkte und Preise" semester="1">
+        <unit id="129329-1" title="Märkte und Preise" semester="1">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV04a"/>
-        </unit>
-        <unit id="129329-1" title="Märkte und Preise" semester="1">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="2"/>
             </group>
@@ -2795,81 +2239,9 @@
             <group>
                 <session day="thu" time="6" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-2" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="thu" time="6" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-3" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-4" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-5" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-6" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-7" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-8" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-9" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-10" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-11" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-12" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-13" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="1"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BV04b"/>
-        </unit>
-        <unit id="129798-14" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="1"/>
             </group>
@@ -2885,9 +2257,6 @@
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV06a"/>
-        </unit>
-        <unit id="137461-1" title="Wirtschaftspolitik" semester="2">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
@@ -2897,33 +2266,18 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV06b"/>
-        </unit>
-        <unit id="138207-2" title="Übung zu Wirtschaftspolitik" semester="2">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV06b"/>
-        </unit>
-        <unit id="138207-3" title="Übung zu Wirtschaftspolitik" semester="2">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV06b"/>
-        </unit>
-        <unit id="138207-4" title="Übung zu Wirtschaftspolitik" semester="2">
             <group>
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV06b"/>
-        </unit>
-        <unit id="138207-5" title="Übung zu Wirtschaftspolitik" semester="2">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BV06b"/>
-        </unit>
-        <unit id="138207-6" title="Übung zu Wirtschaftspolitik" semester="2">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
@@ -2934,9 +2288,6 @@
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MS00a"/>
-        </unit>
-        <unit id="129142-1" title="Methoden der empirischen Wirtschaftsforschung" semester="1">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="2"/>
             </group>
@@ -2944,23 +2295,8 @@
         </unit>
         <unit id="129946_1" title="Übung zu Methoden der empirischen Wirtschaftsforschung" semester="1">
             <group>
-                <session day="wed" time="3" duration="2" rhythm="2"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-MS00b"/>
-        </unit>
-        <unit id="129946_2" title="Übung zu Methoden der empirischen Wirtschaftsforschung" semester="1">
-            <group>
-                <session day="fri" time="3" duration="2" rhythm="2"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-MS00b"/>
-        </unit>
-        <unit id="129946_3" title="Übung zu Methoden der empirischen Wirtschaftsforschung" semester="1">
-            <group>
                 <session day="wed" time="3" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MS00b"/>
-        </unit>
-        <unit id="129946_4" title="Übung zu Methoden der empirischen Wirtschaftsforschung" semester="1">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="1"/>
             </group>
@@ -3023,9 +2359,6 @@
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-M-MV01a"/>
-        </unit>
-        <unit id="129064-1" title="Einkommen, Beschäftigung und Preisniveau" semester="1">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="2"/>
             </group>
@@ -3037,11 +2370,6 @@
             <group>
                 <session day="thu" time="1" duration="2" rhythm="1"/>
             </group>
-            <abstract-unit id="W-WIWI-M-MV01b"/>
-        </unit>
-        <unit id="129795-1"
-              title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen_2"
-              semester="1">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="1"/>
             </group>
@@ -3099,9 +2427,6 @@
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW03a"/>
-        </unit>
-        <unit id="129202_2" title="Theorie Finanzintermediation" semester="2,3">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
@@ -3275,9 +2600,6 @@
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW12b"/>
-        </unit>
-        <unit id="130612-1" title="Kultur- und Kunstmanagement" semester="1,2,3,4">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
@@ -3295,9 +2617,6 @@
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW14a"/>
-        </unit>
-        <unit id="129450-1" title="Monetäre Ökonomik" semester="1,3">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
@@ -3336,9 +2655,6 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW16c"/>
-        </unit>
-        <unit id="130495-1" title="Grundlagen des Arbeitsrechts" semester="1,2,3,4">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
@@ -3437,9 +2753,6 @@
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW31a"/>
-        </unit>
-        <unit id="130371-1" title="Advanced Microeconomics" semester="3">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
@@ -3534,9 +2847,6 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW60a"/>
-        </unit>
-        <unit id="137175-1" title="Netzwerk- und Informationsgüterökonomik" semester="2,4">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
@@ -3546,9 +2856,6 @@
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW61a"/>
-        </unit>
-        <unit id="137788" title="Regulierungsökonomik: Praxis" semester="2,4">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
@@ -3570,9 +2877,6 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW64a"/>
-        </unit>
-        <unit id="135668-1" title="Advanced Econometrics I" semester="2,3">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
@@ -3599,9 +2903,6 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW65a"/>
-        </unit>
-        <unit id="137638-1" title="Advanced Econometrics II" semester="2,4">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
@@ -3623,9 +2924,6 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW66a"/>
-        </unit>
-        <unit id="130538-1" title="Advanced Empirical Economics" semester="3">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
@@ -3635,9 +2933,6 @@
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW66b"/>
-        </unit>
-        <unit id="135670-1" title="Übung zu Advanced Empirical Economics" semester="3">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
@@ -3778,17 +3073,9 @@
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MV04b"/>
-            <abstract-unit id="W-WIWI-L-MW80b"/>
-        </unit>
-        <unit id="130682_2" title="Übung zu Econometrics" semester="1">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MV04b"/>
-            <abstract-unit id="W-WIWI-L-MW80b"/>
-        </unit>
-        <unit id="130682_3" title="Übung zu Econometrics" semester="1">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
@@ -3806,9 +3093,6 @@
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MV03b"/>
-        </unit>
-        <unit id="130543_2" title="Grundlagen der Mikroökonomik - Übung" semester="1">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
@@ -3855,9 +3139,6 @@
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-PC0-WiCa"/>
-        </unit>
-        <unit id="129200-1" title="Modul Physikalische Chemie" semester="1">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
@@ -3867,9 +3148,6 @@
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-PC0-WiCb"/>
-        </unit>
-        <unit id="129359-1" title="Vorlesung Mathematik für Wirtschaftschemiker" semester="1">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
@@ -3879,9 +3157,6 @@
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-C1-WiCa"/>
-        </unit>
-        <unit id="129003-1" title="Anorganische und Allgemeine Chemie" semester="1">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
@@ -3891,33 +3166,18 @@
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-C1-WiCb"/>
-        </unit>
-        <unit id="139564" title="Übungen zur C1-Vorlesung" semester="1">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-C1-WiCb"/>
-        </unit>
-        <unit id="139565" title="Übungen zur C1-Vorlesung" semester="1">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-C1-WiCb"/>
-        </unit>
-        <unit id="139566" title="Übungen zur C1-Vorlesung" semester="1">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-C1-WiCb"/>
-        </unit>
-        <unit id="139567" title="Übungen zur C1-Vorlesung" semester="1">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-C1-WiCb"/>
-        </unit>
-        <unit id="139568" title="Übungen zur C1-Vorlesung" semester="1">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
@@ -3951,9 +3211,6 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-POCa"/>
-        </unit>
-        <unit id="137031-1" title="Prinzipien und Mechanismen der Organischen Chemie" semester="2">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
@@ -3983,9 +3240,6 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-Phy-WiCa"/>
-        </unit>
-        <unit id="129409-1" title="Physik für Chemiker, Biochemiker und Wirtschaftschemiker" semester="3">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
@@ -4002,9 +3256,6 @@
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-GPCa"/>
-        </unit>
-        <unit id="137223-1" title="Grundlagen der Physikalischen Chemie mit dem Teilmodul GPC I" semester="4">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
@@ -4038,9 +3289,6 @@
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-FPC-WiC"/>
-        </unit>
-        <unit id="129386-1" title="Fortgeschrittene Physikalische Chemie" semester="5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
