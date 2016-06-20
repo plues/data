@@ -42,7 +42,7 @@ cs-tree=raw/cs/Modulbaum.xml
 cs-data=raw/cs/Moduldaten.xml
 
 $(DATABASES): %-data.sqlite3: $(mincer) $($(flavor)-tree) $($(flavor)-data)
-	java -jar $(mincer) --output=$@ --module-tree=$($(flavor)-tree) --module-data=$($(flavor)-data)
+	time java -jar $(mincer) --output=$@ --module-tree=$($(flavor)-tree) --module-data=$($(flavor)-data)
 
 $(MACHINES): %.mch: %.sqlite3 | $(modelgenerator)
 	java -jar $(modelgenerator) --database=$< --output=$@
