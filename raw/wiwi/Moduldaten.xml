@@ -692,7 +692,7 @@
                            semester="2,4"/>
             <abstract-unit title="Seminar Management Control Systems" id="W-WIWI-L-MW41b" type="m" semester="2,4"/>
         </module>
-        <module title="Entrepreneurial Finance" id="W-WIWI-M-MW42" elective-units="2" type="e" pordnr="40564" cp="8">
+        <module title="Entrepreneurial Finance" id="W-WIWI-M-MW42" elective-units="2" type="e" pordnr="40474" cp="8">
             <abstract-unit title="Financial Management in Entrepreneurial Firms" id="W-WIWI-L-MW42a" type="m"
                            semester="2,4"/>
             <abstract-unit title="Venture Capital and Private Equity" id="W-WIWI-L-MW42b" type="m" semester="2,4"/>
@@ -953,13 +953,13 @@
                            semester="2,4"/>
             <abstract-unit title="Seminar Management Control Systems" id="W-WIWI-L-MW41b" type="m" semester="2,4"/>
         </module>
-        <module title="Entrepreneurial Finance" id="W-WIWI-M-MW42" elective-units="2" type="e" pordnr="40564" cp="8">
+        <module title="Entrepreneurial Finance" id="W-WIWI-M-MW42" elective-units="2" type="e" pordnr="40566" cp="8">
             <abstract-unit title="Financial Management in Entrepreneurial Firms" id="W-WIWI-L-MW42a" type="m"
                            semester="2,4"/>
             <abstract-unit title="Venture Capital and Private Equity" id="W-WIWI-L-MW42b" type="m" semester="2,4"/>
         </module>
         <module title="Entrepreneurial Finance: Research and Practice" id="W-WIWI-M-MW43" elective-units="2" type="e"
-                pordnr="11111" cp="8">
+                pordnr="22222" cp="8">
             <abstract-unit title="Forschungsmethoden der Entrepreneurial Finance" id="W-WIWI-L-MW43a" type="m"
                            semester="1,3"/>
             <abstract-unit title="Anwendungsfelder der Entrepreneurial Finance" id="W-WIWI-L-MW43b" type="m"
@@ -1221,7 +1221,6 @@
             <abstract-unit id="W-WIWI-L-BB01a"/>
             <abstract-unit id="W-WICHEM-L-BB01a"/>
         </unit>
-
         <unit id="129990-1" title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen" semester="1">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
@@ -1459,21 +1458,18 @@
             <group>
                 <session day="mon" time="6" duration="2" rhythm="0"/>
             </group>
-
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
             <group>
                 <session day="tue" time="6" duration="2" rhythm="0"/>
             </group>
-
             <group>
                 <session day="wed" time="6" duration="2" rhythm="0"/>
             </group>
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
@@ -1483,7 +1479,6 @@
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
-
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
@@ -2415,14 +2410,12 @@
             <abstract-unit id="W-WIWI-L-MW01d" />
         </unit>
         -->
-        <!-- missing data
-        <unit id="" title="Empirisches Studienprojekt" semester="1,2,3,4">
+        <unit id="146060" title="Empirisches Studienprojekt" semester="1,2,3,4">
             <group>
-                <session day="" time="" duration="" rhythm="" />
+                <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW01e" />
+            <abstract-unit id="W-WIWI-L-MW01e"/>
         </unit>
-        -->
         <unit id="129202_1" title="Theorie Finanzintermediation" semester="2,3">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
@@ -2700,14 +2693,12 @@
             <abstract-unit id="W-WIWI-L-MW24a" />
         </unit>
         -->
-        <!-- missing data
-        <unit id="129437" title="Experimentelles Design" semester="3">
+        <unit id="143240" title="Experimentelles Design" semester="3">
             <group>
-                <session day="" time="" duration="" rhythm="" />
+                <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW24b" />
+            <abstract-unit id="W-WIWI-L-MW24b"/>
         </unit>
-        -->
         <unit id="130424" title="Verhaltensökonomie" semester="3">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="0"/>
@@ -2758,7 +2749,6 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW31a"/>
         </unit>
-
         <!-- missing data
         <unit id="130455" title="Advanced Macroeconomics" semester="3">
             <group>
@@ -2816,7 +2806,6 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW43b"/>
         </unit>
-
         <!-- missing data
         <unit id="" title="Bankbilanzierung - Vorlesung" semester="1,2,3,4">
             <group>
@@ -2882,23 +2871,18 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW64a"/>
         </unit>
-
-        <!-- missing data
-        <unit id="" title="Übung zu Advanced Econometrics I" semester="2,3">
+        <unit id="137619" title="Übung zu Advanced Econometrics I" semester="2,3">
             <group>
-                <session day="thu" time="2" duration="2" rhythm="0" />
+                <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW64b" />
+            <abstract-unit id="W-WIWI-L-MW64b"/>
         </unit>
-        -->
-        <!-- missing data
-        <unit id="" title="Übung zu Advanced Econometrics I" semester="2,3">
+        <unit id="137619-1" title="Übung zu Advanced Econometrics I" semester="2,3">
             <group>
-                <session day="thu" time="3" duration="2" rhythm="0" />
+                <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW64b" />
+            <abstract-unit id="W-WIWI-L-MW64b"/>
         </unit>
-        -->
         <unit id="137638" title="Advanced Econometrics II" semester="2,4">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
@@ -2946,14 +2930,12 @@
             <abstract-unit id="W-WIWI-L-MW67a" />
         </unit>
         -->
-        <!-- missing data
-        <unit id="" title="Rohstoffmärkte: Entwicklung von Marktsegmenten" semester="2,4">
+        <unit id="140534" title="Rohstoffmärkte: Entwicklung von Marktsegmenten" semester="2,4">
             <group>
-                <session day="" time="" duration="" rhythm="" />
+                <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW67b" />
+            <abstract-unit id="W-WIWI-L-MW67b"/>
         </unit>
-        -->
         <unit id="137777" title="Spieltheorie" semester="2,4">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
@@ -2984,7 +2966,6 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW70a"/>
         </unit>
-
         <!-- missing data
         <unit id="137779" title="Innovation and Property Rights" semester="4">
             <group>
@@ -3306,7 +3287,7 @@
             </group>
             <abstract-unit id="W-WICHEM-L-EOCa"/>
         </unit>
-        <unit id=" 	137100" title="Übungen zur Vorlesung Elementorganische Chemie" semester="6">
+        <unit id="  137100" title="Übungen zur Vorlesung Elementorganische Chemie" semester="6">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
