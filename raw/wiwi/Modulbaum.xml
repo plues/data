@@ -65,25 +65,25 @@
                 <m cp="12" name="BW29: Europäische Integration" pordnr="40367"/>
                 <m cp="12" name="BW31: Innovationsökonomik" pordnr="40588"/>
             </l>
-        </l>
-        <l name="Wahlpflichtmodule BWL" min-cp="36" max-cp="36">
-            <m cp="12" name="BW01: Organisation und Personal" pordnr="40344"/>
-            <m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
-            <m cp="12" name="BW03: Investitions- und Finanzmanagement" pordnr="40346"/>
-            <m cp="12" name="BW05: Accounting" pordnr="40347"/>
-            <m cp="12" name="BW06: Grundlagen der Betriebswirtschaftlichen Steuerlehre I" pordnr="40348"/>
-            <m cp="12" name="BW07: Marketing" pordnr="40350"/>
-            <m cp="12" name="BW16: Betriebswirtschaftliche Steuerlehre II" pordnr="40349"/>
-            <m cp="12" name="BW17: Management" pordnr="40352"/>
-            <m cp="12" name="BW19: Gründungsmanagement und Gründungsfinanzierung" pordnr="40353"/>
-            <m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
-            <m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40374"/>
-        </l>
-        <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="12">
-            <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
-            <m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
-            <m cp="12" name="BW18: Wirtschaftsgeschichte" pordnr="40365"/>
-            <m cp="12" name="BW30: Modernes Japan" pordnr="40366"/>
+            <l name="Wahlpflichtmodule BWL" min-cp="36" max-cp="36">
+                <m cp="12" name="BW01: Organisation und Personal" pordnr="40344"/>
+                <m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
+                <m cp="12" name="BW03: Investitions- und Finanzmanagement" pordnr="40346"/>
+                <m cp="12" name="BW05: Accounting" pordnr="40347"/>
+                <m cp="12" name="BW06: Grundlagen der Betriebswirtschaftlichen Steuerlehre I" pordnr="40348"/>
+                <m cp="12" name="BW07: Marketing" pordnr="40350"/>
+                <m cp="12" name="BW16: Betriebswirtschaftliche Steuerlehre II" pordnr="40349"/>
+                <m cp="12" name="BW17: Management" pordnr="40352"/>
+                <m cp="12" name="BW19: Gründungsmanagement und Gründungsfinanzierung" pordnr="40353"/>
+                <m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
+                <m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40374"/>
+            </l>
+            <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="12">
+                <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
+                <m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
+                <m cp="12" name="BW18: Wirtschaftsgeschichte" pordnr="40365"/>
+                <m cp="12" name="BW30: Modernes Japan" pordnr="40366"/>
+            </l>
         </l>
     </b>
     <b cp="148" abschl="ba" stg="bwlaccounting" kzfa="h" pversion="2015"
