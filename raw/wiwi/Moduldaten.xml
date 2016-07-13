@@ -1582,16 +1582,7 @@
                 <session day="mon" time="2" duration="2" rhythm="1"/>
             </group>
             <group>
-                <session day="mon" time="2" duration="2" rhythm="1"/>
-            </group>
-            <group>
                 <session day="mon" time="3" duration="2" rhythm="1"/>
-            </group>
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="1"/>
-            </group>
-            <group>
-                <session day="mon" time="5" duration="2" rhythm="1"/>
             </group>
             <group>
                 <session day="mon" time="5" duration="2" rhythm="1"/>
@@ -1734,9 +1725,6 @@
             <abstract-unit id="W-WIWI-L-BW03a"/>
         </unit>
         <unit id="130009-1" title="Investitions- und Finanzmanagement I (Gruppensitzung)" semester="3,4,5,6">
-            <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
-            </group>
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
