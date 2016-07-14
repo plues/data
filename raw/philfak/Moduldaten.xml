@@ -5630,36 +5630,12 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLS1a"/>
-            <abstract-unit id="P-MKW-L-BPROb"/>
-            <abstract-unit id="P-MKW-L-BS1a"/>
-            <abstract-unit id="P-MKW-L-BS1b"/>
-            <abstract-unit id="P-MKW-L-BS1c"/>
-            <abstract-unit id="P-MKW-L-BS1d"/>
-        </unit>
-        <unit id="119685" title="Grammar I (Übung)" semester="1,3,5">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLS1a"/>
-            <abstract-unit id="P-MKW-L-BPROb"/>
-            <abstract-unit id="P-ISI-L-BS1a"/>
-            <abstract-unit id="P-ISI-L-BS1b"/>
-            <abstract-unit id="P-ISI-L-BS1c"/>
-            <abstract-unit id="P-ISI-L-BS1d"/>
-        </unit>
-        <unit id="119686" title="Grammar I (Übung)" semester="1,3,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLS1a"/>
-            <abstract-unit id="P-MKW-L-BPROb"/>
-            <abstract-unit id="P-ISI-L-BS1a"/>
-            <abstract-unit id="P-ISI-L-BS1b"/>
-            <abstract-unit id="P-ISI-L-BS1c"/>
-            <abstract-unit id="P-ISI-L-BS1d"/>
-        </unit>
-        <unit id="119675" title="Grammar I (Übung)" semester="1,3,5">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
@@ -10434,14 +10410,6 @@
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ROM-L-BASFb"/>
-            <abstract-unit id="P-ISI-LBS1a"/>
-            <abstract-unit id="P-ISI-LBS1b"/>
-            <abstract-unit id="P-ISI-LBS1c"/>
-            <abstract-unit id="P-ISI-LBS1d"/>
-        </unit>
-        <unit id="120658" title="Textproduktion in Themen- und Berufsfeldern (allemand-français II) (Seminar)"
-              semester="1,3,5">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
@@ -10456,11 +10424,6 @@
                 <session day="mon" time="3" duration="4" rhythm="0"/>
                 <session day="fri" time="2" duration="4" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ROM-L-BOI1a"/>
-            <abstract-unit id="P-ISI-L-BSKF4a"/>
-            <abstract-unit id="P-ISI-L-BSKF4b"/>
-        </unit>
-        <unit id="121182" title="Grundkurs Italienisch (Sprachkurs)" semester="1,3,5">
             <group>
                 <session day="thu" time="2" duration="4" rhythm="0"/>
                 <session day="fri" time="2" duration="4" rhythm="0"/>
@@ -10479,13 +10442,6 @@
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ROM-L-BSPIa"/>
-            <abstract-unit id="P-ISI-L-BS1a"/>
-            <abstract-unit id="P-ISI-L-BS1b"/>
-            <abstract-unit id="P-ISI-L-BS1c"/>
-            <abstract-unit id="P-ISI-L-BS1d"/>
-        </unit>
-        <unit id="121172" title="Sprachbasisseminar Italienisch A (Sprachkurs)" semester="1,3,5">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
@@ -10499,13 +10455,6 @@
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ROM-L-BSPIb"/>
-            <abstract-unit id="P-ISI-L-BS1a"/>
-            <abstract-unit id="P-ISI-L-BS1b"/>
-            <abstract-unit id="P-ISI-L-BS1c"/>
-            <abstract-unit id="P-ISI-L-BS1d"/>
-        </unit>
-        <unit id="121179" title="Sprachbasisseminar Italienisch B (Sprachkurs)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
