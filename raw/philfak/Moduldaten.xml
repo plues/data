@@ -2783,9 +2783,6 @@
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-Phil-L-BPPGa"/>
-        </unit>
-        <unit id="121221" title="Grundprobleme der Philosophie (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
