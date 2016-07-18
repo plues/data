@@ -1665,9 +1665,6 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-            </group>
             <abstract-unit id="W-WIWI-L-BM01b"/>
         </unit>
         <unit id="136930" title="Mathematik II" semester="2">
@@ -3132,15 +3129,6 @@
             <abstract-unit id="W-WICHEM-L-C1-WiCa"/>
         </unit>
         <unit id="139563" title="Übungen zur C1-Vorlesung" semester="1">
-            <group>
-                <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="thu" time="4" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="0"/>
-            </group>
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
