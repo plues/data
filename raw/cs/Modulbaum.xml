@@ -124,13 +124,13 @@
             </l>
         </l>
     </b>
-    <b abschl="bk" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik" cp="40">
+    <b abschl="bk" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik" cp="34"> <!-- 40 - 6 for "Grundpraktikum" -->
         <l name="Mathematische Methoden der Physik" min-cp="7" max-cp="7">
             <m name="Mathematische Methoden der Physik I" pflicht="j" pordnr="2100" cp="7" />
         </l>
-        <l name="Grundpraktikum I" min-cp="6" max-cp="6">
-            <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" />
-        </l>
+        <!-- <l name="Grundpraktikum I" min-cp="6" max-cp="6"> -->
+        <!--     <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" /> -->
+        <!-- </l> -->
         <l name="Experimentelle Physik" min-cp="18" max-cp="18">
             <m name="Optik" pordnr="2102" cp="6" />
             <m name="Experimentelle Mechanik" pordnr="2103" cp="6" />
