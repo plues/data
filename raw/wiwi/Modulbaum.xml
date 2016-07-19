@@ -451,7 +451,7 @@
         </l>
     </b>
     <!-- vwl -->
-    <b cp="154" abschl="ba" stg="vwl" kzfa="h" pversion="2015" name="Volkswirtschaftslehre Bachelor - ohne Schwerpunkt">
+    <b cp="154" abschl="ba" stg="vwl" kzfa="h" pversion="2015" name="Volkswirtschaftslehre Bachelor - ohne Schwerpunkt" ignored="true">
         <l name="Pflichtmodule" min-cp="94" max-cp="94">
             <l name="Pflichtmodule-vepflichtend" min-cp="88" max-cp="88">
                 <m cp="12" name="BB01: Einführung in die Betriebswirtschaftslehre" pordnr="40426"/>
@@ -1187,7 +1187,8 @@
         </l>
     </b>
     <!-- master vwl -->
-    <b cp="91" abschl="ms" stg="vwl" kzfa="h" pversion="2015" name="Volkswirtschaftslehre Master - ohne Schwerpunkt">
+    <b cp="91" abschl="ms" stg="vwl" kzfa="h" pversion="2015"
+      name="Volkswirtschaftslehre Master - ohne Schwerpunkt" ignored="true">
         <l name="Pflichtmodule" min-cp="27" max-cp="27">
             <m cp="6" name="MV01: Makroökonomik" pordnr="40553"/>
             <m cp="6" name="MV03: Mikroökonomik" pordnr="40554"/>
@@ -1359,7 +1360,7 @@
         </l>
     </b>
     <b cp="91" abschl="ms" stg="vwlwettbewerb" kzfa="h" pversion="2015"
-       name="Volkswirtschaftslehre - Schwerpunkt Wettbewerb und Regulierung">
+       name="Volkswirtschaftslehre - Schwerpunkt Wettbewerb und Regulierung" ignored="true">
         <l name="Pflichtmodule" min-cp="27" max-cp="27">
             <m cp="6" name="MV01: Makroökonomik" pordnr="40553"/>
             <m cp="6" name="MV03: Mikroökonomik" pordnr="40554"/>
