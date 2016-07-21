@@ -54,11 +54,14 @@ below a `<modules>` node.
 #### Modules
 Each module is represented by a single `<module>` node and has the following attributes:
 
-- `id`: Globally unique identifier for the module following a specific schema (XXX add a ref to the schema)
+- `id`: Globally unique identifier for the module following a specific schema 
+ - (TODO: add a ref to the schema)
 - `title`: The title of the module.
 - `pordnr` The id of the module in the module tree data.
 
 Each module is composed of several abstract units, these are generalized teaching units that are "implemented" by actual units each semester.
+
+#### Abstract Units 
 
 An abstract units is denoted by the node `<abstract-unit>` and the attributes:
 

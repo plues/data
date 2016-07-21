@@ -24,9 +24,9 @@ make data.sqlite3 flavor=wiwi
 
 ## Schema
 
-The schema of the generated databases is described in this Picture:
+The schema of the generated databases is described in this picture:
 
-![Schema](doc/schema-3.0.png)
+![Schema](doc/schema-5.0.png)
 
 ## Dependencies
 
