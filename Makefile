@@ -23,6 +23,7 @@ data.sqlite3: $(join $(flavor),-data.sqlite3)
 # Files produced by $(flavor)
 DATABASES:=$(foreach f,$(FLAVORS),$(join $(f),-data.sqlite3))
 MACHINES:=$(foreach f,$(FLAVORS),$(join $(f),-data.mch))
+MODULECOMBINATIONS:=$(foreach f,$(FLAVORS),$(join $(f),-data.xml))
 
 # flavored dist action
 DIST:=$(foreach f,$(FLAVORS),$(join $(f),-dist))
@@ -44,8 +45,11 @@ cs-data=raw/cs/Moduldaten.xml
 $(DATABASES): %-data.sqlite3: $(mincer) $($(flavor)-tree) $($(flavor)-data)
 	time java -Xmx1500M -jar $(mincer) --output=$@ --module-tree=$($(flavor)-tree) --module-data=$($(flavor)-data)
 
-$(MACHINES): %.mch: %.sqlite3 | $(modelgenerator)
+$(MACHINES): %.mch: %.sqlite3 %.xml | $(modelgenerator)
 	time java -Xmx1500M -jar $(modelgenerator) --database=$< --output=$@
+
+$(MODULECOMBINATIONS): %.xml: %.sqlite3 | $(modelgenerator)
+	time java -Xmx1500M -jar $(modelgenerator) --template=mc --database=$< --output=$@
 
 # distribution rules
 dist-setup:
