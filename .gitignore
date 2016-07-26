@@ -4,6 +4,7 @@
 *.dot
 data.mch
 *data.mch
+*data.xml
 data.pl
 slottool_env/
 dist/
