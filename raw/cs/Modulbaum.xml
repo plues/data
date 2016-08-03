@@ -2,21 +2,11 @@
 <ModulBaum short-name="cs" name="Institut für Informatik">
     <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik">
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
-            <l name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" min-cp="10" max-cp="10">
-                <m name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
-            </l>
-            <l name="Grundlagen der Technischen Informatik (Informatik II)" min-cp="10" max-cp="10">
-                <m name="Grundlagen der Technischen Informatik (Informatik II)" pflicht="j" pordnr="1101" cp="10" />
-            </l>
-            <l name="Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" min-cp="10" max-cp="10">
-                <m name="Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" pflicht="j" pordnr="1102" cp="10" />
-            </l>
-            <l name="Grundlagen der Theoretischen Informatik (Informatik IV)" min-cp="10" max-cp="10">
-                <m name="Grundlagen der Theoretischen Informatik (Informatik IV)" pflicht="j" pordnr="1103" cp="10" />
-            </l>
-            <l name="Programmierpraktikum" min-cp="10" max-cp="10">
-                <m name="Programmierpraktikum" pflicht="j" pordnr="1104" cp="10" />
-            </l>
+            <m name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
+            <m name="Grundlagen der Technischen Informatik (Informatik II)" pflicht="j" pordnr="1101" cp="10" />
+            <m name="Grundlagen der Algorithmen und Datenstrukturen (Informatik III)" pflicht="j" pordnr="1102" cp="10" />
+            <m name="Grundlagen der Theoretischen Informatik (Informatik IV)" pflicht="j" pordnr="1103" cp="10" />
+            <m name="Programmierpraktikum" pflicht="j" pordnr="1104" cp="10" />
         </l>
         <l name="Pflichtbereich Mathematik" min-cp="40" max-cp="40">
             <l name="Analysis I" min-cp="10" max-cp="10">
@@ -29,12 +19,8 @@
                 <m name="Analysis II" pflicht="j" pordnr="1202" cp="10" />
             </l>
             <l name="Angewandte Mathematik" min-cp="10" max-cp="10">
-                <l name="Numerik I" min-cp="0" max-cp="10">
-                    <m name="Numerik I" pordnr="1203" cp="10" />
-                </l>
-                <l name="Einführung in die Stochastik" min-cp="0" max-cp="10">
-                    <m name="Einführung in die Stochastik" pordnr="1204" cp="10" />
-                </l>
+                  <m name="Numerik I" pordnr="1203" cp="10" />
+                  <m name="Einführung in die Stochastik" pordnr="1204" cp="10" />
             </l>
         </l>
         <l name="Schwerpunkt" min-cp="10" max-cp="10">
