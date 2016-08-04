@@ -237,7 +237,7 @@
             <l name="Basiswahlpflichtmodule" min="5" max="7">
                 <l name="Philosophische Propädeutik" min="1" max="2">
                     <m name="Logik I" pflicht="j" pordnr="34510"/>
-                    <m name="Grundlagen" pordnr="34509"/>
+                    <m name="Grundlagen" pflicht="j" pordnr="34509"/>
                 </l>
                 <l name="Theoretische Philosophie" min="1" max="2">
                     <m name="Erkenntnistheorie" pordnr="34513"/>
