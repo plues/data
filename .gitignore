@@ -4,6 +4,7 @@
 *.dot
 data.mch
 *data.mch
+*data.xml
 data.pl
 slottool_env/
 dist/
@@ -22,3 +23,4 @@ requirements.inst
 .gradle/
 bin/modelgenerator*.jar
 __pycache__
+bin/
