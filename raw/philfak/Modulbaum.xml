@@ -711,7 +711,7 @@
             <m name="Aufbaumodul Kultur- und medienwissenschaftliche Forschungsmethoden" pordnr="37502"/>
        </l>
     </b>
-    <b abschl="bk" stg="smp" kzfa="H" pversion="2013" name="Kernfach IS Sozialwissenschaften- Medien, Politik, Gesellschaft">
+    <b abschl="ba" stg="smp" kzfa="H" pversion="2013" name="Kernfach IS Sozialwissenschaften- Medien, Politik, Gesellschaft">
         <l name="Pflichtmodule" min="8" max="8">
             <m name="Praxismodul Propädeutik" pordnr="37629"/>
             <m name="Basismodul Soziologie" pordnr="36657"/>
