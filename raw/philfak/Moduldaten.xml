@@ -6529,28 +6529,28 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM1b"/>
+            <abstract-unit id="P-IAA-L-BBM1b"/>
         </unit>
         <unit id="124976" title="Introduction to Medieval English Studies - Part II: Advanced (Basisseminar)"
               semester="2,4,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM1b"/>
+            <abstract-unit id="P-IAA-L-BBM1b"/>
         </unit>
         <unit id="124601" title="Introduction to Medieval English Studies - Part II: Advanced (Basisseminar)"
               semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM1b"/>
+            <abstract-unit id="P-IAA-L-BBM1b"/>
         </unit>
         <unit id="124980" title="Introduction to Medieval English Studies - Part II: Advanced (Basisseminar)"
               semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM1b"/>
+            <abstract-unit id="P-IAA-L-BBM1b"/>
         </unit>
         <unit id="124985" title="Introduction to Medieval English Studies - Part I: Elementary (Basisseminar)"
               semester="2,4,6">
@@ -6564,14 +6564,14 @@
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM1b"/>
+            <abstract-unit id="P-IAA-L-BBM1b"/>
         </unit>
         <unit id="124966" title="Introduction to Medieval English Studies - Part II: Advanced (Basisseminar)"
               semester="2,4,6">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM1b"/>
+            <abstract-unit id="P-IAA-L-BBM1b"/>
         </unit>
         <unit id="125688" title="Introduction to English Language and Linguistics: Part II - Use (Basisseminar)"
               semester="2,4,6">
