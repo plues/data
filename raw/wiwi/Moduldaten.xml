@@ -476,7 +476,7 @@
         </module>
         <module title="Institutionenökonomik" id="W-WIWI-M-BW21" elective-units="3" type="e" pordnr="40407" cp="12">
             <abstract-unit title="Institutionenökonomik" id="W-WIWI-L-BW21a" type="m" semester="3,5"/>
-            <abstract-unit title="Methodenkurs Institutionenökonomik" id="W-WIWI-L-BW2b" type="m" semester="3,5"/>
+            <abstract-unit title="Methodenkurs Institutionenökonomik" id="W-WIWI-L-BW21b" type="m" semester="3,5"/>
             <abstract-unit title="Sozialwissenschaftliche Verhaltensmodelle" id="W-WIWI-L-BW21c" type="m"
                            semester="3,5"/>
         </module>
