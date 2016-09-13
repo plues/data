@@ -98,6 +98,7 @@ Each `<group>` is composed of several sessions, sessions are represented planned
 	- 0: Weekly
 	- 1: Biweekly on even number calendar weeks.
 	- 2: Biweekly on odd number calendar weeks.
+	- 3: Unique event or only a small number of repetitions (e.g. Block-Seminar).
 
 ## Using the data
 
