@@ -33,7 +33,7 @@ The schema of the generated databases is described in this picture:
 * sqlite3
 * JVM
 
-This project depends on the following tools, that are part of the [PlÜS project](http://tuatara.cs.uni-duesseldorf.de/groups/slottool).
+This project depends on the following tools, that are part of the [PlÜS project](https://github.com/plues).
 
 * [model-generator](https://github.com/plues/model-generator)
 * [mincer](https://github.com/plues/mincer)
