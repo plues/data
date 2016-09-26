@@ -124,7 +124,7 @@
             <m name="Vertiefungsmodul 2" pordnr="34266"/>
         </l>
     </b>
-    <b abschl="bk" stg="ges" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik">
+    <b abschl="bk" stg="ges" kzfa="N" pversion="2013" name="Ergänzungsfach Geschichte">
         <l name="Pflichtmodule" min="3" max="3">
             <m name="Basismodul Antike und Mittelalter" pordnr="34689"/>
             <m name="Basismodul Neuzeit und Osteuropa" pordnr="34690"/>
