@@ -29,8 +29,8 @@ Below the `<b>` there are one or many `<l>` tags that represent different levels
 - `name`: Name of the level.
 - `min`: The minimum number of modules to be chosen for this level.
 - `max`: The maximum number of modules to be chosen for this level.
-- `TM`: 
-- `ART`: 
+- `TM`:
+- `ART`:
 
 The leaves of the module tree are represented by `<m>` nodes representing a module.
 
@@ -70,7 +70,7 @@ An abstract units is denoted by the node `<abstract-unit>` and the attributes:
 
 - `id`: Global ID.
 - `title`: Title of the unit
-- `type`: If the unit is mandatory ("m") or elective ("e") in the current module.
+- `type`: If the unit is mandatory (`"m"`) or elective (`"e"`) in the current module.
 - `semester`: The semesters of the curriculum this unit could/should be attended.
 
 #### Units
@@ -91,7 +91,7 @@ Each `<unit>` can have several `<group>` nodes, each group is a set of events th
 Each `<group>` can have a half-semester attribute. The attribute indicates, that all sessions in the group are only taught for half a semester. The value of the attribute represents in which half of the semester the sessions in the group take place. Possible values are "first" or "second".
 Each `<group>` is composed of several sessions, sessions are represented planned teaching events. Each session has the following attributes:
 
-- `day`: Abbreviated day of the week ("mon", "tue", etc.).
+- `day`: Abbreviated day of the week (`"mon"`, `"tue"`, etc.).
 - `time`: The time block during the day where the sessions takes place, 
  	- 1 is 8:30 - 10:00
  	- 2 is 10:30 - 12:00
