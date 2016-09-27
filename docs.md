@@ -58,6 +58,9 @@ Each module is represented by a single `<module>` node and has the following att
  - (TODO: add a ref to the schema)
 - `title`: The title of the module.
 - `pordnr` The id of the module in the module tree data.
+- `elective-units`: Represents the number of elective units (`type=m` [see
+  below]) that have to be attended in order to complete the module's
+  requirements.
 
 Each module is composed of several abstract units, these are generalized teaching units that are "implemented" by actual units each semester.
 
