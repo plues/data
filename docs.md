@@ -82,7 +82,7 @@ Each unit is represented as a `<unit>` node with the following attributes:
 Each `<unit>` can be associated to one or more abstract units. These references are expressed by `<abstract-unit>` child nodes that refer to the `id` of the actual abstract unit defined in a module.
 E.g. : `<abstract-unit id="P-Phil-L-BPPANb" />`
 
-#### Gruops and sessions
+#### Groups and sessions
 
 Each `<unit>` can have several `<group>` nodes, each group is a set of events that are considered equivalent, i.e. students have to choose one of the possible groups to complete the unit.
 Each `<group>` can have a half-semester attribute. The attribute indicates, that all sessions in the group are only taught for half a semester. The value of the attribute represents in which half of the semester the sessions in the group take place. Possible values are "first" or "second".
