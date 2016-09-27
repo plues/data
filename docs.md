@@ -102,6 +102,8 @@ Each `<group>` is composed of several sessions, sessions are represented planned
 	- 1: Biweekly on even number calendar weeks.
 	- 2: Biweekly on odd number calendar weeks.
 	- 3: Unique event or only a small number of repetitions (e.g. Block-Seminar).
+- `tentative`: ("true" or "false") Indicates if the day and time are
+  provisional, i.e. an unconfirmed event or temporary data.
 
 ## Using the data
 
