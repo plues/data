@@ -276,7 +276,7 @@
                            semester="5,6"/>
         </module>
         <module id="P-IJS-M-BA01" title="Basismodul A: Grundlagen der Wissenschaft vom Judentum" pordnr="34322"
-                elective-units="4">
+                elective-units="0">
             <abstract-unit id="P-IJS-L-BA0101" title="Einführung in die Judaistik I (Basisseminar oder Übung)"
                            type="m" semester="1,2"/>
             <abstract-unit id="P-IJS-L-BA0102" title="Einführung in die Judaistik II (Basisseminar oder Übung)"
@@ -304,7 +304,7 @@
                            semester="3,4,5,6"/>
         </module>
         <module id="P-IJS-M-BA05" title="Aufbaumodul A: Hebräische Sprache und Literatur der Gegenwart"
-                pordnr="34326" elective-units="3">
+                pordnr="34326" elective-units="0">
             <abstract-unit id="P-IJS-L-BA0501"
                            title="Hebräische Sprache und Literatur der Gegenwart I (Aufbauseminar)" type="m"
                            semester="3,4,5,6"/>
@@ -352,7 +352,7 @@
         </module>
         <module id="P-KUGE-M-BBM1"
                 title="Basismodul 1: Einführung in die spätantike und mittelalterliche Kunstgeschichte"
-                pordnr="34385" elective-units="2">
+                pordnr="34385" elective-units="0">
             <abstract-unit id="P-KUGE-L-BBM1a"
                            title="Methoden- und Formenlehre der spätantiken und mittelalterlichen Kunstgeschichte (Basisseminar)"
                            type="m" semester="1,2,3,4"/>
@@ -361,7 +361,7 @@
                            type="m" semester="1,2,3,4"/>
         </module>
         <module id="P-KUGE-M-BBM2" title="Basismodul 2: Einführung in die neuere und neueste Kunstgeschichte"
-                pordnr="34386" elective-units="2">
+                pordnr="34386" elective-units="0">
             <abstract-unit id="P-KUGE-L-BBM2a"
                            title="Methoden- und Formenlehre der neueren und neuesten Kunstgeschichte (Basisseminar)"
                            type="m" semester="1,2,3,4"/>
@@ -371,7 +371,7 @@
         </module>
         <module id="P-KUGE-M-BBM3"
                 title="Basismodul 3: Themenmodul zur spätantiken und mittelalterlichen Kunstgeschichte"
-                pordnr="34387" elective-units="3">
+                pordnr="34387" elective-units="0">
             <abstract-unit id="P-KUGE-L-BBM3a"
                            title="Vorlesung zur spätantiken und/oder mittelalterlichen Kunstgeschichte (Vorlesung)"
                            type="m" semester="1,2,3,4"/>
@@ -383,7 +383,7 @@
                            type="m" semester="1,2,3,4"/>
         </module>
         <module id="P-KUGE-M-BBM4" title="Basismodul 4: Themenmodul zur neueren und neuesten Kunstgeschichte"
-                pordnr="34388" elective-units="3">
+                pordnr="34388" elective-units="0">
             <abstract-unit id="P-KUGE-L-BBM4a"
                            title="Vorlesung zur neueren und/oder neuesten Kunstgeschichte (Vorlesung)" type="m"
                            semester="1,2,3,4"/>
@@ -405,7 +405,7 @@
         </module>
         <module id="P-KUGE-M-BAM1"
                 title="Aufbaumodul 1: Wissenschaftlich vertiefte kunstgeschichtliche Studien 1" pordnr="34390"
-                elective-units="3">
+                elective-units="0">
             <abstract-unit id="P-KUGE-L-BAM1a"
                            title="Vorlesung aus der spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Vorlesung)"
                            type="m" semester="5,6"/>
@@ -418,7 +418,7 @@
         </module>
         <module id="P-KUGE-M-BAM2"
                 title="Aufbaumodul 2: Wissenschaftlich vertiefte kunstgeschichtliche Studien 2" pordnr="34391"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-KUGE-L-BAM2a"
                            title="Vorlesung aus der spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Vorlesung mit Abschlussprüfung)"
                            type="m" semester="5,6"/>
@@ -433,7 +433,7 @@
             <abstract-unit id="P-KUGE-L-BAM3b" title="Übung vor Originalen / Praxisbezogene Übung (Übung)"
                            type="m" semester="5,6"/>
         </module>
-        <module id="P-MOJA-M-BSM1" title="Sprachmodul 1 (SM1)" pordnr="36750" elective-units="3">
+        <module id="P-MOJA-M-BSM1" title="Sprachmodul 1 (SM1)" pordnr="36750" elective-units="0">
             <abstract-unit id="P-MOJA-L-BSM1a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)"
                            type="m" semester="1"/>
             <abstract-unit id="P-MOJA-L-BSM1b" title="Schreib- und Leseübungen (Sprachkurs)" type="m"
@@ -441,7 +441,7 @@
             <abstract-unit id="P-MOJA-L-BSM1c" title="Grammatik und leichte Textlektüre (Sprachkurs)" type="m"
                            semester="1"/>
         </module>
-        <module id="P-MOJA-M-BSM2" title="Sprachmodul 2 (SM2)" pordnr="36751" elective-units="3">
+        <module id="P-MOJA-M-BSM2" title="Sprachmodul 2 (SM2)" pordnr="36751" elective-units="0">
             <abstract-unit id="P-MOJA-L-BSM2a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)"
                            type="m" semester="2"/>
             <abstract-unit id="P-MOJA-L-BSM2b" title="Schreib- und Leseübungen (Sprachkurs)" type="m"
@@ -449,7 +449,7 @@
             <abstract-unit id="P-MOJA-L-BSM2c" title="Grammatik und Lektüre leichter Texte (Sprachkurs)"
                            type="m" semester="2"/>
         </module>
-        <module id="P-MOJA-M-BSM3" title="Sprachmodul 3 (SM3)" pordnr="36752" elective-units="3">
+        <module id="P-MOJA-M-BSM3" title="Sprachmodul 3 (SM3)" pordnr="36752" elective-units="0">
             <abstract-unit id="P-MOJA-L-BSM3a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)"
                            type="m" semester="3"/>
             <abstract-unit id="P-MOJA-L-BSM3b" title="Schreib- und Leseübungen (Sprachkurs)" type="m"
@@ -457,7 +457,7 @@
             <abstract-unit id="P-MOJA-L-BSM3c" title="Grammatik und Lektüre leichter Texte (Sprachkurs)"
                            type="m" semester="3"/>
         </module>
-        <module id="P-MOJA-M-BSM4" title="Sprachmodul 4 (SM4)" pordnr="36753" elective-units="3">
+        <module id="P-MOJA-M-BSM4" title="Sprachmodul 4 (SM4)" pordnr="36753" elective-units="0">
             <abstract-unit id="P-MOJA-L-BSM4a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)"
                            type="m" semester="4"/>
             <abstract-unit id="P-MOJA-L-BSM4b" title="Kanji und Schreibübungen (Sprachkurs)" type="m"
@@ -466,7 +466,7 @@
                            type="m" semester="4"/>
         </module>
         <module id="P-MOJA-M-BMRG" title="Modul Regionalwissenschaftliche Grundlagen (MRG)" pordnr="36754"
-                elective-units="5">
+                elective-units="0">
             <abstract-unit id="P-MOJA-L-BMRGa" title="Einführung in die japanische Geschichte (Basisseminar)"
                            type="m" semester="1,2"/>
             <abstract-unit id="P-MOJA-L-BMRGb" title="Einführung in die japanische Kultur (Basisseminar)"
@@ -512,13 +512,13 @@
             <abstract-unit id="P-MOJA-L-BPMb" title="Projektkolloquium (Kolloquium)" type="m" semester="5"/>
         </module>
         <module id="P-MOJA-M-BES1" title="Bachelor Plus: Modul Erweiterte Sprachpraxis 1 (ES1)" pordnr="36809"
-                elective-units="1">
+                elective-units="0">
             <abstract-unit id="P-MOJA-L-BES1a"
                            title="Sprachkurse für Fortgeschrittene an einer der japanischen Partneruniversitäten (Sprachkurs)"
                            type="m" semester="5"/>
         </module>
         <module id="P-MOJA-M-BES2" title="Bachelor Plus: Modul Erweiterte Sprachpraxis 2 (ES2)" pordnr="36810"
-                elective-units="1">
+                elective-units="0">
             <abstract-unit id="P-MOJA-L-BES2a"
                            title="Sprachkurse für Fortgeschrittene an einer der japanischen Partneruniversitäten (Sprachkurs)"
                            type="m" semester="6"/>
@@ -532,7 +532,7 @@
             <abstract-unit id="P-MOJA-L-BEJ2a" title="Projektkolloquium (Kolloquium)" type="m" semester="6"/>
         </module>
         <module id="P-MOJA-M-BIJ" title="Bachelor Plus: Modul Interdisziplinäre Japanstudien (IJ)"
-                pordnr="36813" elective-units="2">
+                pordnr="36813" elective-units="0">
             <abstract-unit id="P-MOJA-L-BIJa"
                            title="5. Fachsemester: Thematische Lehrveranstaltungen an einer der japanischen Partneruniversitäten (Seminar)"
                            type="m" semester="5,6"/>
@@ -541,7 +541,7 @@
                            type="m" semester="5,6"/>
         </module>
         <module id="P-PHIL-M-BPPG" title="Philosophische Propädeutik: Basismodul Grundlagen" pordnr="34509"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-PHIL-L-BPPGa" title="Grundprobleme und Methoden der Philosophie (Basisseminar)"
                            type="m" semester="1,2,3,4"/>
             <abstract-unit id="P-PHIL-L-BPPGb" title="Wissenschaftliche Arbeitstechniken (Übung)" type="m"
@@ -803,7 +803,7 @@
                            semester="2,3"/>
         </module>
         <module id="P-ROM-M-BALW1" title="Aufbaumodul romanistische Literaturwissenschaft (ohne Bachelorarbeit)"
-                pordnr="34600" elective-units="2">
+                pordnr="34600" elective-units="0">
             <abstract-unit id="P-ROM-L-BALW1a"
                            title="Vorlesung oder Aufbauseminar BALW1a (Vorlesung oder Aufbauseminar)" type="m"
                            semester="3,4"/>
@@ -1063,7 +1063,7 @@
             <abstract-unit id="P-KLAS-L-BSPLÜB-G" title="1 Griechische Lektüreübung (Übung)" type="m"
                            semester="1,2,3,4"/>
         </module>
-        <module id="P-KLAS-M-BAM1" title="Aufbaumodul 1: Griechische Antike" pordnr="34671" elective-units="2">
+        <module id="P-KLAS-M-BAM1" title="Aufbaumodul 1: Griechische Antike" pordnr="34671" elective-units="0">
             <abstract-unit id="P-KLAS-L-BAM1a"
                            title="Klass. Philologie, Alte Geschichte oder antike Philosophie (Vorlesung)"
                            type="m" semester="3,4,5,6"/>
@@ -1071,7 +1071,7 @@
                            title="Klass. Philologie (Griechisch), Alte Geschichte oder antike Philosophie (Aufbauseminar)"
                            type="m" semester="1,2,3,4"/>
         </module>
-        <module id="P-KLAS-M-BAM2" title="Aufbaumodul 2: Römische Antike" pordnr="34672" elective-units="2">
+        <module id="P-KLAS-M-BAM2" title="Aufbaumodul 2: Römische Antike" pordnr="34672" elective-units="0">
             <abstract-unit id="P-KLAS-L-BAM2a"
                            title="Klass. Philologie, Alte Geschichte oder antike Philosophie (Vorlesung)"
                            type="m" semester="3,4,5,6"/>
@@ -1134,7 +1134,7 @@
             <abstract-unit id="P-HIST-L-BBMNOd" title="Neuzeit oder Osteuropa (Übung)" type="m" semester="1,2"/>
         </module>
         <module id="P-HIST-M-BAMAMEF" title="Aufbaumodul Antike und Mittelalter (Ergänzungsfach)" pordnr="34691"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-HIST-L-BAMAMEFa" title="Aufbauseminar Antike oder Mittelalter (Aufbauseminar)"
                            type="m" semester="3,4"/>
             <abstract-unit id="P-HIST-L-BAMAMEFb"
@@ -1142,7 +1142,7 @@
                            type="m" semester="3,4"/>
         </module>
         <module id="P-HIST-M-BAMNOEF" title="Aufbaumodul Neuzeit und Osteuropa (Ergänzungsfach)" pordnr="34692"
-                elective-units="3">
+                elective-units="0">
             <abstract-unit id="P-HIST-L-BAMNOEFa" title="Aufbauseminar Neuzeit oder Osteuropa (Aufbauseminar)"
                            type="m" semester="3,4"/>
             <abstract-unit id="P-HIST-L-BAMNOEFb"
@@ -1209,7 +1209,7 @@
             <abstract-unit id="P-IJS-L-BBM1c" title="Jiddisch II (Seminar)" type="m" semester="1,2"/>
         </module>
         <module id="P-IJS-M-BBM2" title="„Einführung in die Jiddistik“ (Basismodul 2)" pordnr="34701"
-                elective-units="3">
+                elective-units="0">
             <abstract-unit id="P-IJS-L-BBM2a" title="Einführung: Einführung in die Jiddistik (Vorlesung)"
                            type="m" semester="1,2,3,4"/>
             <abstract-unit id="P-IJS-L-BBM2b"
@@ -1234,7 +1234,7 @@
                            semester="5,6"/>
         </module>
         <module id="P-IJS-MBAEF01" title="Basismodul A: Grundlagen der Wissenschaft vom Judentum" pordnr="34706"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-IJS-L-BA0101" title="Einführung in die Judaistik I (Basisseminar oder Übung)"
                            type="m" semester="1,2"/>
             <abstract-unit id="P-IJS-L-BA0102" title="Einführung in die Judaistik II (Basisseminar oder Übung)"
@@ -1307,7 +1307,7 @@
                            semester="3,4,5,6"/>
         </module>
         <module id="P-SOWI-M-BBMK" title="Basismodul Kommunikations- und Medienwissenschaft" pordnr="34716"
-                elective-units="4">
+                elective-units="0">
             <abstract-unit id="P-SOWI-L-BBMKa" title="Einführung in das Mediensystem in Deutschland (Vorlesung)"
                            type="m" semester="1,2"/>
             <abstract-unit id="P-SOWI-L-BBMKb"
@@ -1328,7 +1328,7 @@
             <abstract-unit id="P-SOWI-L-BMMc" title="Begleitende Tutorien(freiwillige Teilnahme) (Tutorium)"
                            type="e" semester="1,2"/>
         </module>
-        <module id="P-SOWI-M-BTMMI" title="Themenmodul Medien + Individuum" pordnr="34718" elective-units="3">
+        <module id="P-SOWI-M-BTMMI" title="Themenmodul Medien + Individuum" pordnr="34718" elective-units="0">
             <abstract-unit id="P-SOWI-L-BTMMI-KAa"
                            title="Aufbauseminar oder Vorlesung Medien + Individuum (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)"
                            type="m" semester="3,4"/>
@@ -1339,7 +1339,7 @@
                            title="Vertiefungsseminar Medien + Individuum (Kommunikationsund Medienwissenschaft) (Vertiefungsseminar)"
                            type="m" semester="3,4"/>
         </module>
-        <module id="P-SOWI-M-BTMG" title="Themenmodul Medien + Gesellschaft" pordnr="34722" elective-units="3">
+        <module id="P-SOWI-M-BTMG" title="Themenmodul Medien + Gesellschaft" pordnr="34722" elective-units="0">
             <abstract-unit id="P-SOWI-L-BTMMG-KAa"
                            title="Aufbauseminar oder Vorlesung Medien + Gesellschaft (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)"
                            type="m" semester="3,4"/>
@@ -1351,7 +1351,7 @@
                            type="m" semester="3,4"/>
         </module>
         <module id="P-SOWI-M-BTMAP" title="Themenmodul Akteure + Prozesse professioneller Kommunikation"
-                pordnr="34725" elective-units="3">
+                pordnr="34725" elective-units="0">
             <abstract-unit id="P-SOWI-L-BTMAP-KAa"
                            title="Aufbauseminar oder Vorlesung Akteure + Prozesse professioneller Kommunikation (Kommunikations und Medienwissenschaft) (Aufbauseminar oder Vorlesung)"
                            type="m" semester="5,6"/>
@@ -1364,7 +1364,7 @@
         </module>
         <module id="P-KUGE-M-BBM1"
                 title="Basismodul 1: Einführung in die spätantike und mittelalterliche Kunstgeschichte"
-                pordnr="34728" elective-units="2">
+                pordnr="34728" elective-units="0">
             <abstract-unit id="P-KUGE-L-BBM1a"
                            title="Methoden- und Formenlehre der spätantiken und mittelalterlichen Kunstgeschichte (Basisseminar)"
                            type="m" semester="1,2,3,4"/>
@@ -1373,7 +1373,7 @@
                            type="m" semester="1,2,3,4"/>
         </module>
         <module id="P-KUGE-M-BBM2" title="Basismodul 2: Einführung in die neuere und neueste Kunstgeschichte"
-                pordnr="34729" elective-units="2">
+                pordnr="34729" elective-units="0">
             <abstract-unit id="P-KUGE-L-BBM2a"
                            title="Methoden- und Formenlehre der neueren und neuesten Kunstgeschichte (Basisseminar)"
                            type="m" semester="1,2,3,4"/>
@@ -1382,7 +1382,7 @@
                            semester="1,2,3,4"/>
         </module>
         <module id="P-KUGE-M-BEFBM3" title="Basismodul 3: Thematische und berufspraktische Spezialisierung"
-                pordnr="34730" elective-units="2">
+                pordnr="34730" elective-units="0">
             <abstract-unit id="P-KUGE-L-BEFBM3a"
                            title="Basisseminar zur spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Basisseminar)"
                            type="m" semester="1,2,3,4"/>
@@ -1391,14 +1391,14 @@
         </module>
         <module id="P-KUGE-M-BEFAM1"
                 title="Aufbaumodul 1: Wissenschaftlich vertiefte kunstgeschichtliche Studien" pordnr="34731"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-KUGE-L-BEFBM3a" title="Aufbauseminar (Aufbauseminar mit Abschlussprüfung)"
                            type="m" semester="5,6"/>
             <abstract-unit id="P-KUGE-L-BEFBM3b" title="Aufbauseminar (Aufbauseminar ohne Abschlussprüfung)"
                            type="m" semester="5,6"/>
         </module>
         <module id="P-KUGE-M-BEFAB2" title="Aufbaumodul 2: Thematische und berufspraktische Spezialisierung"
-                pordnr="34732" elective-units="2">
+                pordnr="34732" elective-units="0">
             <abstract-unit id="P-KUGE-L-BEFAB2a"
                            title="Vorlesung aus der spätantiken, mittelalterlichen, neueren oder neuesten Kunstgeschichte (Vorlesung)"
                            type="m" semester="5,6"/>
@@ -1511,7 +1511,7 @@
             <abstract-unit id="P-ISI-L-BBMb" title="Tutorium Methoden Linguistik (Tutorium)" type="e"
                            semester="3,4,5,6"/>
         </module>
-        <module id="P-MOJA-M-BSM1" title="Sprachmodul 1 (SM1)" pordnr="34747" elective-units="2">
+        <module id="P-MOJA-M-BSM1" title="Sprachmodul 1 (SM1)" pordnr="34747" elective-units="0">
             <abstract-unit id="P-MOJA-L-BSM1a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)"
                            type="m" semester="1"/>
             <abstract-unit id="P-MOJA-L-BSM1b" title="Schreib- und Leseübungen (Sprachkurs)" type="m"
@@ -1519,7 +1519,7 @@
             <abstract-unit id="P-MOJA-L-BSM1c" title="Grammatik und leichte Textlektüre (Sprachkurs)" type="m"
                            semester="1"/>
         </module>
-        <module id="P-MOJA-M-BSM1" title="Sprachmodul 2 (SM2)" pordnr="34748" elective-units="3">
+        <module id="P-MOJA-M-BSM1" title="Sprachmodul 2 (SM2)" pordnr="34748" elective-units="0">
             <abstract-unit id="P-MOJA-L-BSM2a" title="Grammatik- und Kommunikationsübungen (Sprachkurs)"
                            type="m" semester="2"/>
             <abstract-unit id="P-MOJA-L-BSM2b" title="Schreib- und Leseübungen (Sprachkurs)" type="m"
@@ -1528,7 +1528,7 @@
                            semester="2"/>
         </module>
         <module id="P-MOJA-M-BEFMRG" title="Modul Regionalwissenschaftliche Grundlagen (MRG)" pordnr="34749"
-                elective-units="3">
+                elective-units="0">
             <abstract-unit id="P-MOJA-L-BMRGa" title="Einführung in die japanische Geschichte (Basisseminar)"
                            type="m" semester="3"/>
             <abstract-unit id="P-MOJA-L-BMRGb" title="Einführung in die japanische Kultur (Basisseminar)"
@@ -1537,7 +1537,7 @@
                            type="m" semester="3"/>
         </module>
         <module id="P-MOJA-M-BEFKTM" title="Kulturwissenschaftliches Themenmodul (KTM)" pordnr="34750"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-MOJA-L-BKTMa" title="Aufbauseminar Kulturwissenschaften (Aufbauseminar)"
                            type="m" semester="4"/>
             <abstract-unit id="P-MOJA-L-BKTMb"
@@ -1545,7 +1545,7 @@
                            type="m" semester="4"/>
         </module>
         <module id="P-MOJA-M-BEFSTM" title="Sozialwissenschaftliches Themenmodul (STM)" pordnr="34751"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-MOJA-L-BSTMa" title="Aufbauseminar Sozialwissenschaften (Aufbauseminar)"
                            type="m" semester="5"/>
             <abstract-unit id="P-MOJA-L-BSTMb"
@@ -1553,7 +1553,7 @@
                            type="m" semester="5"/>
         </module>
         <module id="P-RSH-M-BBM1" title="Basismodul 1: Musikwissenschaftliche Propädeutik" pordnr="34753"
-                elective-units="3">
+                elective-units="0">
             <abstract-unit id="P-RSH-L-BBM1a"
                            title="Einführung in die Musikwissenschaft (Basisseminar oder Vorlesung)" type="m"
                            semester="1,2"/>
@@ -1579,14 +1579,14 @@
             <abstract-unit id="P-RSH-L-BBM3c" title="Formenlehre (Basisseminar oder Vorlesung)" type="m"
                            semester="3,4"/>
         </module>
-        <module id="P-RSH-M-BAM1" title="Aufbaumodul 1: Musikgeschichte" pordnr="34756" elective-units="2">
+        <module id="P-RSH-M-BAM1" title="Aufbaumodul 1: Musikgeschichte" pordnr="34756" elective-units="0">
             <abstract-unit id="P-RSH-L-BAM1a"
                            title="Musikalische Gattungs- u. Werkgeschichte oder Musikhistorische Epochen (Aufbauseminar oder Vorlesung)"
                            type="m" semester="3,4"/>
             <abstract-unit id="P-RSH-L-BAM1b" title="Repertoirekunde (Übung)" type="m" semester="3,4"/>
         </module>
         <module id="P-RSH-M-BAM2" title="Aufbaumodul 2: Musiken – Kulturen – Kontexte" pordnr="34757"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-RSH-L-BAM2a"
                            title="Musikkontexte oder Musikethnologie/Musikkulturen (Aufbauseminar oder Vorlesung)"
                            type="m" semester="4,5"/>
@@ -1607,7 +1607,7 @@
                            type="e" semester="5,6"/>
         </module>
         <module id="P-PHIL-M-BPPG" title="Philosophische Propädeutik: Basismodul Grundlagen" pordnr="36142"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-PHIL-L-BPPGa" title="Grundprobleme und Methoden der Philosophie (Basisseminar)"
                            type="m" semester="1,2,3,4"/>
             <abstract-unit id="P-PHIL-L-BPPGb" title="Wissenschaftliche Arbeitstechniken (Übung)" type="m"
@@ -1752,7 +1752,7 @@
             <abstract-unit id="P-Phil-L-BATPb" title="Rechtsphilosophie (Aufbauseminar oder Vorlesung)" type="e"
                            semester="5,6"/>
         </module>
-        <module id="P-SOWI-M-BBMP" title="Basismodul Politikwissenschaft" pordnr="34761" elective-units="4">
+        <module id="P-SOWI-M-BBMP" title="Basismodul Politikwissenschaft" pordnr="34761" elective-units="0">
             <abstract-unit id="P-SOWI-L-BBMPa" title="Einführung in die Politikwissenschaft (Vorlesung)"
                            type="m" semester="1,2"/>
             <abstract-unit id="P-SOWI-L-BBMPb"
@@ -2052,7 +2052,7 @@
             <abstract-unit id="P-ISI-L-BLb3" title="Semantik und Pragmatik (Vorlesung)" type="e"
                            semester="1,2"/>
         </module>
-        <module id="P-ISI-M-BCL1" title="CL1 Basismodul „Computerlinguistik“" pordnr="33940" elective-units="3">
+        <module id="P-ISI-M-BCL1" title="CL1 Basismodul „Computerlinguistik“" pordnr="33940" elective-units="0">
             <abstract-unit id="P-ISI-L-BCL1a" title="Einführung in die Computerlinguistik (Basisseminar)"
                            type="m" semester="2,3"/>
             <abstract-unit id="P-ISI-L-BCL1b" title="Grundkurs Prolog (Seminar)" type="m" semester="2,3"/>
@@ -2073,7 +2073,7 @@
         </module>
         <module id="N-IFO-M-BINFO1"
                 title="D1 Basismodul „Grundlagen der Softwareentwicklung und Programmierung“" pordnr="33941"
-                elective-units="3">
+                elective-units="0">
             <abstract-unit id="N-IFO-L-BINFO1a"
                            title="Grundlagen der Softwareentwicklung und Programmierung (Vorlesung)" type="m"
                            semester="1"/>
@@ -2093,7 +2093,7 @@
             <abstract-unit id="N-IFO-L-BPROGc" title="Programmierpraktikum - Praktische Übung (Übung)" type="m"
                            semester="2"/>
         </module>
-        <module id="N-IFO-M-BDBS" title="D3 Aufbaumodul „Datenbanksysteme“" pordnr="33946" elective-units="3">
+        <module id="N-IFO-M-BDBS" title="D3 Aufbaumodul „Datenbanksysteme“" pordnr="33946" elective-units="0">
             <abstract-unit id="N-IFO-L-BDBSa"
                            title="Datenbanksysteme - Vorlesung (Vorlesung mit Übung und Praktikum)" type="m"
                            semester="5"/>
@@ -2417,7 +2417,7 @@
             <abstract-unit id="P-MKW-L-BBM1d" title="Tutorien (Tutorium)" type="m" semester="1"/>
             <abstract-unit id="P-MKW-L-BBM1e" title="Filmclub (Seminar)" type="m" semester="1"/>
         </module>
-        <module id="P-MKW-M-BBM2" title="Basismodul II" pordnr="36536" elective-units="6">
+        <module id="P-MKW-M-BBM2" title="Basismodul II" pordnr="36536" elective-units="0">
             <abstract-unit id="P-MKW-L-BBM2a"
                            title="Grundlagenveranstaltung Kommunikation und Ästhetik (Seminar)" type="m"
                            semester="2"/>
@@ -2431,7 +2431,7 @@
         </module>
         <module id="P-MKW-M-BBMVIM"
                 title="Basismodul Vergleichende und interkulturelle Medienkulturwissenschaft" pordnr="36537"
-                elective-units="4">
+                elective-units="0">
             <abstract-unit id="P-MKW-L-BBMVIMa" title="Prozesse und Modelle der Interkulturalität (Seminar)"
                            type="m" semester="2"/>
             <abstract-unit id="P-MKW-L-BBMVIMb" title="Kulturgeschichte /Kulturphilosophie (Seminar)" type="m"
@@ -2441,7 +2441,7 @@
             <abstract-unit id="P-MKW-L-BBMVIMd" title="Medien und Globalisierung (Seminar)" type="m"
                            semester="2"/>
         </module>
-        <module id="P-MKW-M-BPRO" title="Propädeutikum" pordnr="36549" elective-units="3">
+        <module id="P-MKW-M-BPRO" title="Propädeutikum" pordnr="36549" elective-units="0">
             <abstract-unit id="P-MKW-L-BPROa" title="Einführung in das wissenschaftliche Arbeiten (Seminar)"
                            type="m" semester="2"/>
             <abstract-unit id="P-MKW-L-BPROb"
@@ -2480,7 +2480,7 @@
                            semester="4,5"/>
         </module>
         <module id="P-MKW-M-BAMMGE" title="Aufbaumodul Medien, Gesellschaft, Ethik" pordnr="36545"
-                elective-units="2">
+                elective-units="0">
             <abstract-unit id="P-MKW-L-BAMMGEa"
                            title="Grundlagenveranstaltung Grundlagen der Ethik / der politischen Philosophie (Seminar)"
                            type="m" semester="4,5"/>
@@ -2516,7 +2516,7 @@
                            type="m" semester="1,2"/>
             <abstract-unit id="P-SOWI-L-BBMSe" title="begleitende Tutorien (Tutorium)" type="m" semester="1,2"/>
         </module>
-        <module id="P-SOWI-M-BBMP" title="Basismodul Politikwissenschaft" pordnr="36658" elective-units="4">
+        <module id="P-SOWI-M-BBMP" title="Basismodul Politikwissenschaft" pordnr="36658" elective-units="0">
             <abstract-unit id="P-SOWI-L-BBMPa" title="Einführung in die Politikwissenschaft (Vorlesung)"
                            type="m" semester="1,2"/>
             <abstract-unit id="P-SOWI-L-BBMPb"
@@ -2529,7 +2529,7 @@
                            semester="1,2"/>
         </module>
         <module id="P-SOWI-M-BBMK" title="Basismodul Kommunikations- und Medienwissenschaft" pordnr="36659"
-                elective-units="4">
+                elective-units="0">
             <abstract-unit id="P-SOWI-L-BBMPa" title="Einführung in das Mediensystem in Deutschland (Vorlesung)"
                            type="m" semester="1,2"/>
             <abstract-unit id="P-SOWI-L-BBMPb"
