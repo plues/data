@@ -1905,7 +1905,7 @@
             <abstract-unit id="P-ROM-L-BVSSb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3"/>
         </module>
         <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft" pordnr="34782"
-                elective-units="4">
+                elective-units="2">
             <abstract-unit id="P-ROM-L-BRSWa"
                            title="Einführung in die romanistische Sprachwissenschaft (Vorlesung)" type="m"
                            semester="1"/>
@@ -1937,7 +1937,7 @@
         </module>
         <module id="P-ROM-M-BALWEF"
                 title="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergänzungsfach)"
-                pordnr="347871" elective-units="4">
+                pordnr="347871" elective-units="3">
             <abstract-unit id="P-ROM-L-BALWEF4a"
                            title="Vorlesung oder Projektseminar BALWEF4a (Vorlesung oder Projektseminar)"
                            type="e" semester="2,3"/>
@@ -3418,7 +3418,7 @@
                 <session day="thu" time="6" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-Phil-L-BPPARb"/>
-            <abstract-unit id="P-Phil-L-BP1a"/>
+            <abstract-unit id="P-Phil-L-BP1b"/>
         </unit>
         <unit id="123595" title="Wissenschaftliche Arbeitstechniken: Kommunikation für Philosophen (Übung)"
               semester="2,4,6">
@@ -6061,6 +6061,30 @@
             <abstract-unit id="P-IAA-L-BIMLb"/>
             <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
+        <unit id="120005" title="Informations- und Recherchekompetenz 1 (Methodenkurs)" semester="1,3,5">
+            <group>
+                <session day="fri" time="1" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMMc"/>
+        </unit>
+        <unit id="120004" title="Informations- und Recherchekompetenz 2 (Methodenkurs)" semester="1,3,5">
+            <group>
+                <session day="fri" time="1" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMMc"/>
+        </unit>
+        <unit id="130492" title="Informations- und Recherchekompetenz 3 (Methodenkurs)" semester="1,3,5">
+            <group>
+                <session day="fri" time="1" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMMc"/>
+        </unit>
+        <unit id="129857" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Blockseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="1" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMMd"/>
+        </unit>
         <unit id="120082" title="Corpus Linguistics (Vertiefungsseminar)" semester="1,3,5">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
@@ -6084,22 +6108,42 @@
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMMa"/>
+            <abstract-unit id="P-IAA-L-BMMd"/>
+        </unit>
+        <unit id="119683" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Methodenseminar)"
+              semester="1,3,5">
+            <group>
+                <session day="wed" time="1" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMMd"/>
         </unit>
         <unit id="119692" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Methodenseminar)"
               semester="1,3,5">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMMa"/>
-            <abstract-unit id="P-IAA-L-BPMb"/>
+            <abstract-unit id="P-IAA-L-BPMd"/>
         </unit>
         <unit id="120085" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Methodenseminar)"
               semester="1,3,5">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMMa"/>
+            <abstract-unit id="P-IAA-L-BMMd"/>
+        </unit>
+        <unit id="132576" title="Kubus Praxisforum zur Berufsorientierung (Übung)"
+              semester="1,3,5">
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BPMa"/>
+        </unit>
+        <unit id="122824" title="Shakespeare at Stratford: Text and Performance (Exkursion)"
+              semester="1,3,5">
+            <group>
+                <session day="thu" time="6" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BPMc"/>
         </unit>
         <unit id="120006" title="Internal Meta-Fiction (Vertiefungs- und Aufbauseminar)" semester="1,3,5">
             <group>
@@ -6208,6 +6252,8 @@
             <abstract-unit id="P-IAA-L-BAMLa"/>
             <abstract-unit id="P-IAA-L-BAMLb"/>
             <abstract-unit id="P-MKW-L-BPMMFc"/>
+            <abstract-unit id="P-MKW-L-BBM2e"/>
+            <abstract-unit id="P-MKW-L-BBM2f"/>
         </unit>
         <unit id="119681" title="Essay Writing (Übung a)" semester="1,3,5">
             <group>
@@ -6848,6 +6894,12 @@
             <abstract-unit id="P-IAAL-BIMLb"/>
             <abstract-unit id="P-IAAL-BPMb"/>
         </unit>
+        <unit id="123719" title="Shakespeare at Stratford: Text and Performance (15.08.2015-22.08.2015)(Exkursion)" semester="2,4,6">
+            <group>
+                <session day="thu" time="6" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAAL-BPMc"/>
+        </unit>
         <unit id="127426" title="Text and the City (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
@@ -6957,6 +7009,20 @@
             </group>
             <abstract-unit id="P-IAAL-BMMa"/>
         </unit>
+        <unit id="124749" title="Informations- und Recherchekompetenz 1 (Methodenkurs)"
+              semester="2,4,6">
+            <group>
+                <session day="fri" time="1" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAAL-BMMc"/>
+        </unit>
+        <unit id="125266" title="Informations- und Recherchekompetenz 2 (Methodenkurs)"
+              semester="2,4,6">
+            <group>
+                <session day="fri" time="1" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAAL-BMMc"/>
+        </unit>
         <unit id="127240" title="Verfassen wissenschaftlicher Arbeiten - Sprachwissenschaft (Methodenseminar)"
               semester="2,4,6">
             <group>
@@ -6991,6 +7057,13 @@
                 <session day="fri" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAAL-BPMb"/>
+        </unit>
+        <unit id="127690" title="Praxisforum Berufsorientierung (Praxisseminar)"
+              semester="2,4,6">
+            <group>
+                <session day="fri" time="1" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IAAL-BPMa"/>
         </unit>
         <unit id="123705" title="Essay writing (Übung b)" semester="2,4,6">
             <group>
@@ -8634,6 +8707,17 @@
             </group>
             <abstract-unit id="P-IJS-L-BBM3c"/>
         </unit>
+        <unit id="124193" title="Lesen jiddischer Handschriften und Drucke / Reading Yiddish Printed Books and Manuscripts (16th–20th centuries) - (Übung)"
+              semester="2,4,6">
+            <group>
+                <session day="mon" time="1" duration="8" rhythm="3"/>
+                <session day="tue" time="1" duration="8" rhythm="3"/>
+                <session day="wed" time="1" duration="8" rhythm="3"/>
+                <session day="thu" time="1" duration="8" rhythm="3"/>
+                <session day="fri" time="1" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-IJS-L-BBM3b"/>
+        </unit>
         <unit id="120173"
               title="Einführung in die römische Literaturgeschichte / Introduction into Roman literature - (Vorlesung)"
               semester="1,3,5">
@@ -9343,6 +9427,58 @@
             </group>
             <abstract-unit id="P-MKW-L-BBM2c"/>
         </unit>
+        <unit id="122211" title="Szenisches Labor (Praxisseminar)" semester="1,3,5">
+            <group>
+                <session day="fri" time="2" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="fri" time="4" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="6" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM2e"/>
+            <abstract-unit id="P-MKW-L-BBM2f"/>
+        </unit>
+        <unit id="122862" title="Das lese ich immer zuerst: Warum Kulturjournalismus so wichtig ist  (Praxisseminar)" semester="1,3,5">
+            <group>
+                <session day="fri" time="2" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="6" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM2e"/>
+            <abstract-unit id="P-MKW-L-BBM2f"/>
+        </unit>
+        <unit id="125281" title="Schreiben fürs Hören - Wie verfasst man Radiotexte? (Praxisseminar)" semester="1,3,5">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM2e"/>
+            <abstract-unit id="P-MKW-L-BBM2f"/>
+        </unit>
+        <unit id="125282" title="Text-Workshop Journalismus (Praxisseminar)" semester="1,3,5">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM2e"/>
+            <abstract-unit id="P-MKW-L-BBM2f"/>
+        </unit>
+        <unit id="125282" title="Methoden der Medien- und Kulturwissenschaft (Methodological Approaches to Media and Cultural Studies) (Propädeutikum)" semester="1,3,5">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="6" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROa"/>
+        </unit>
         <unit id="126484" title="Bildung in der Digitale (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
@@ -9408,14 +9544,40 @@
             </group>
             <abstract-unit id="P-MKW-L-BAMMd"/>
         </unit>
+        <unit id="132204" title="Europa ohne Europäer? - Mediale Vermittlung des europäischen Einigungsprozesses (Aufbauseminar)" semester="2,4,6">
+            <group>
+                <session day="fri" time="4" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFa"/>
+        </unit>
+        <unit id="132171" title="Lügenpresse und Verschwörungswahn - die veränderte Wahrnehmung der Realität" semester="2,4,6">
+            <group>
+                <session day="fri" time="4" duration="6" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFb"/>
+        </unit>
+        <unit id="132203" title="Online Campaigning" semester="2,4,6">
+            <group>
+                <session day="fri" time="4" duration="6" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFb"/>
+        </unit>
         <unit id="126495"
               title="Verschränken/Differenzieren/Problematisieren – Forschen im Anthropozän (Aufbauseminar)"
               semester="2,4,6">
             <group>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
+                <session day="wed" time="3" duration="4" rhythm="0"/>
             </group>
-            <abstract-unit id="P-MKW-L-BAMKMFb"/>
-            <abstract-unit id="P-MKW-L-BAMKMFc"/>
+            <abstract-unit id="P-MKW-L-BAMKMFa"/>
         </unit>
         <unit id="131033" title="Video und Alltagsforschung (2) (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -9423,6 +9585,18 @@
             </group>
             <abstract-unit id="P-MKW-L-BAMKMFb"/>
             <abstract-unit id="P-MKW-L-BAMKMFc"/>
+        </unit>
+        <unit id="131810" title="Alltagsökologien und öffentliche Affekträume – Dérive als intraaktionelle Forschungsmethode(Aufbauseminar)" semester="2,4,6">
+            <group>
+                <session day="tue" time="2" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="fri" time="2" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="4" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMKMFa"/>
         </unit>
         <unit id="119578" title="Einführung Ästhetik (Basisseminar)" semester="1,3,5">
             <group>
@@ -11124,6 +11298,7 @@
             <abstract-unit id="P-ISI-LBS1b"/>
             <abstract-unit id="P-ISI-LBS1c"/>
             <abstract-unit id="P-ISI-LBS1d"/>
+            <abstract-unit id="P-ROM-BASSA"/>
         </unit>
         <unit id="120829"
               title="Textproduktion in Themen und Berufsfeldern (Spanisch) / Traducción alemán-espanol II (Sprachkurs)"
@@ -11131,7 +11306,7 @@
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-ROM-L-BASPb"/>
+            <abstract-unit id="P-ROM-L-BASSb"/>
         </unit>
         <unit id="120424"
               title="Einführung in das Studium der romanistischen Sprachwissenschaft (Französisch, Italienisch, Spanisch) (Vorlesung)"
@@ -14037,6 +14212,36 @@
             </group>
             <abstract-unit id="P-ISI-L-BI4c"/>
         </unit>
+        <unit id="118077" title="I4(PO 2011)/I5b (PO 2004). Aufbauseminar II:Berufsfelder der Informationswissenschaft (mit Exkursion) - Kurs 1 (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="mon" time="1" duration="8" rhythm="3"/>
+            </group>
+            <group>
+                <session day="thu" time="3" duration="6" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="1" duration="8" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="1" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-ISI-L-BI4d"/>
+        </unit>
+        <unit id="120156" title="I4(PO 2011)/I5b (PO 2004). Aufbauseminar II:Berufsfelder der Informationswissenschaft (mit Exkursion) - Kurs 2 (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="thu" time="1" duration="8" rhythm="3"/>
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="3"/>
+            </group>
+            <group>
+                <session day="thu" time="3" duration="6" rhythm="3"/>
+            </group>
+            <group>
+                <session day="thu" time="1" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-ISI-L-BI4d"/>
+        </unit>
         <unit id="121976"
               title="Übung zur VL Informationsmarkt - Informationelle Städte - Prototypische Städte der Wissensgesellschaft (Übung)"
               semester="1,3,5">
@@ -14369,6 +14574,7 @@
             <abstract-unit id="P-ISI-L-BS2b"/>
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
+            <abstract-unit id="P-ROM-BASFA"/>
         </unit>
         <unit id="126812" title="Interkulturelle Kommunikation (Französisch) / communication orale (Sprachkurs)"
               semester="2,4,6">
@@ -14379,6 +14585,7 @@
             <abstract-unit id="P-ISI-L-BS2b"/>
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
+            <abstract-unit id="P-ROM-BASFA"/>
         </unit>
         <unit id="126807" title="Interkulturelle Kommunikation (Französisch) / communication orale (Sprachkurs)"
               semester="2,4,6">
@@ -14389,6 +14596,7 @@
             <abstract-unit id="P-ISI-L-BS2b"/>
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
+            <abstract-unit id="P-ROM-BASFA"/>
         </unit>
         <unit id="126797" title="Textproduktion in Themen- und Berufsfeldern (Deutsch-Französisch II) (Seminar)"
               semester="2,4,6">
@@ -14429,6 +14637,7 @@
             <abstract-unit id="P-ISI-L-BS2b"/>
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
+            <abstract-unit id="P-ROM-BASIA"/>
         </unit>
         <unit id="126785"
               title="Interkulturelle Kommunikation (Italienisch) (Mündlichkeit III) (Buchstaben A-M) (Sprachkurs)"
@@ -14440,6 +14649,7 @@
             <abstract-unit id="P-ISI-L-BS2b"/>
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
+            <abstract-unit id="P-ROM-BASIA"/>
         </unit>
         <unit id="126786" title="Textproduktion in Themen- und Berufsfeldern (Italienisch) (Sprachkurs)"
               semester="2,4,6">
@@ -14462,6 +14672,7 @@
             <abstract-unit id="P-ISI-L-BS2b"/>
             <abstract-unit id="P-ISI-L-BS2c"/>
             <abstract-unit id="P-ISI-L-BS2d"/>
+            <abstract-unit id="P-ROM-BASSA"/>
         </unit>
         <unit id="126758" title="Texttransfer 1 (Spanisch) (Sprachkurs)" semester="2,4,6">
             <group>
