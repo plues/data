@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+    <modules>
+        <module id="P-KUK-M-GPMA" title="Grundlagenpflichtmodul A) a) „Betriebswirtschaftslehre“" pordnr="00001" elective-units="0">
+            <abstract-unit id="P-KUK-L-GPMA1" title="Einführung in die Betriebswirtschaftslehre (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-KUK-L-GPMA2" title="Buchhaltung und Bilanzierung (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-KUK-L-GPMA3" title="Personal und Organisation (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-KUK-L-GPMA4" title="Marketing und Strategie (Vorlesung)" type="m" semester="1"/>
+        </module>
+        <module id="P-KUK-M-GPMB" title="Grundlagenpflichtmodul A) b) „Kunstgeschichte“" pordnr="00002" elective-units="0">
+            <abstract-unit id="P-KUK-M-GPMB1" title="Methoden- und Formenlehre der spätantiken und mittelalterlichen Kunstgeschichte (Seminar)" type="m" semester="1,2,3"/>
+            <abstract-unit id="P-KUK-L-GPMB2" title="Methoden- und Formenlehre der neueren und neuesten Kunstgeschichte (Seminar)" type="m" semester="1,2,3"/>
+            <abstract-unit id="P-KUK-L-GPMB3" title="Kunst im Rheinland (Seminar)" type="m" semester="1,2,3"/>
+        </module>
+        <module id="P-KUK-M-PMB" title="Pflichtmodul B) „Kunst- und Kulturmanagement (2. und 3. Semester)" pordnr="00003" elective-units="0">
+            <abstract-unit id="P-KUK-L-PMB1" title="Einführung in das Kunst- und Kulturmanagement (Vorlesung)" type="m" semester="2,3"/>
+            <abstract-unit id="P-KUK-L-PMB2" title="Betriebswirtschaftliches Praxisseminar im Kulturmanagement (Seminar)" type="m" semester="2,3"/>
+            <abstract-unit id="P-KUK-L-PMB3" title="Vorlesung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="2,3"/>
+            <abstract-unit id="P-KUK-L-PMB4" title="Vorlesung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="1"/>
+        </module>
+        <module id="P-KUK-M-PMB" title="Pflichtmodul B) „Kunst- und Kulturmanagement (3. und 4. Semester)" pordnr="00004" elective-units="0">
+            <abstract-unit id="P-KUK-L-PMB1" title="Einführung in das Kunst- und Kulturmanagement (Vorlesung)" type="m" semester="3,4"/>
+            <abstract-unit id="P-KUK-L-PMB2" title="Betriebswirtschaftliches Praxisseminar im Kulturmanagement (Seminar)" type="m" semester="3,4"/>
+            <abstract-unit id="P-KUK-L-PMB3" title="Vorlesung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="3,4"/>
+            <abstract-unit id="P-KUK-L-PMB4" title="Vorlesung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="1"/>
+        </module>
+        <module id="P-KUK-M-PMC" title="Pflichtmodul C) „Grundlagen der Kunstvermittlung“" pordnr="00005" elective-units="0">
+            <abstract-unit id="P-KUK-L-PMC1" title="Masterseminar mit methodischer Spezialisierung (Masterseminar)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-PMC2" title="Vorlesung mit methodischer Spezialisierung (Vorlesung)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-PMC3" title="Masterseminar mit methodischer Spezialisierung (Masterseminar)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-PMC4" title="Übung mit methodischer Spezialisierung (Übung)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-PMC5" title="Übung mit methodischer Spezialisierung (Übung)" type="m" semester="1,2,3,4"/>
+        </module>
+        <module id="P-KUK-M-PMD" title="Praxispflichtmodul D) „Kunstvermittlung und Kulturmanagement“" pordnr="00006" elective-units="0">
+            <abstract-unit id="P-KUK-L-PPMD1" title="Praktikum im Museum/Ausstellungshaus, Oper/Schauspielhaus oder im Kunsthandel (Galerie/Auktionswesen) (Praktikum)"
+                type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-PPMD2" title="Teamprojekt inkl. Projektbericht (Teamprojekt)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-PPMD3" title="Exkursion (Übung vor Originalen mit Exkursion im Umfang von mind. 4 Tagen)" type="m" semester="1,2,3,4"/>
+        </module>
+        <module id="P-KUK-M-WPE" title="Wahlpflichtmodul E) „Betriebswirtschaftslehre (1. und 2. Semester)“" pordnr="00007" elective-units="0">
+            <abstract-unit id="P-KUK-L-WPE1" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="1,2"/>
+            <abstract-unit id="P-KUK-L-WPE2" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="1,2"/>
+            <abstract-unit id="P-KUK-L-WPE3" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="1,2"/>
+            <abstract-unit id="P-KUK-L-WPE4" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="1,2"/>
+        </module>
+        <module id="P-KUK-M-WPE" title="Wahlpflichtmodul E) „Betriebswirtschaftslehre (2. und 3. Semester)“" pordnr="00008" elective-units="0">
+            <abstract-unit id="P-KUK-L-WPE1" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="2,3"/>
+            <abstract-unit id="P-KUK-L-WPE2" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="2,3"/>
+            <abstract-unit id="P-KUK-L-WPE3" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="2,3"/>
+            <abstract-unit id="P-KUK-L-WPE4" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="2,3"/>
+        </module>
+        <module id="P-KUK-M-WPE" title="Wahlpflichtmodul E) „Betriebswirtschaftslehre (3. und 4. Semester)“" pordnr="00009" elective-units="0">
+            <abstract-unit id="P-KUK-L-WPE1" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="3,4"/>
+            <abstract-unit id="P-KUK-L-WPE2" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="3,4"/>
+            <abstract-unit id="P-KUK-L-WPE3" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="3,4"/>
+            <abstract-unit id="P-KUK-L-WPE4" title="Veranstaltung mit inhaltlicher Spezialisierung (Vorlesung)" type="m" semester="3,4"/>
+        </module>
+        <module id="P-KUK-M-WPF" title="Wahlpflichtmodul F) „Kunstgeschichte“" pordnr="00010" elective-units="0">
+            <abstract-unit id="P-KUK-L-WPF1" title="Vorlesung mit methodischer Spezialisierung (Vorlesung)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-WPF2" title="Übung mit methodischer Spezialisierung (Übung)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-WPF3" title="Übung mit methodischer Spezialisierung (Übung)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-WPF4" title="Übung mit methodischer Spezialisierung (Übung)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-KUK-L-WPF5" title="Übung mit methodischer Spezialisierung (Übung)" type="m" semester="1,2,3,4"/>
+        </module>
+    </modules>
+
+    <units>
+        <unit id="148139" title="Grundlagenpflichtmodul BWL A) a) - Kurs 1: Einführung in die BWL (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-KUK-L-GPMA1"/>
+        </unit>
+        <unit id="148416" title="Grundlagenpflichtmodul BWL A) a) - Kurs 2: Buchhaltung und Bilanzierung (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-KUK-L-GPMA2"/>
+        </unit>
+        <unit id="148420" title="Grundlagenpflichtmodul BWL A) a) - Kurs 3: Personal und Organisation (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="tue" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-KUK-L-GPMA3"/>
+        </unit>
+        <unit id="148422" title="Grundlagenpflichtmodul BWL A) a) - Kurs 4: Marketing und Strategie (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-KUK-L-GPMA4"/>
+        </unit>
+        <unit id="142373" title="Kunst in Diktaturen. Künstlerstrategien zwischen Anpassung und Opposition (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-KUK-L-PMC2"/>
+            <abstract-unit id="P-KUK-L-WPF1"/>
+        </unit>
+        <unit id="144597" title="Theorien der Gegenwartskunst und aktuelle Vermittlungsfragen (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-KUK-L-PMC1"/>
+        </unit>
+        <unit id="147124" title="Das Lachen von Joseph Beuys wird unterbewertet - Experimente zur Vermittlung des Werkes von Joseph Beuys (Übung)" semester="1,3,5">
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="1" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-WPF2"/>
+            <abstract-unit id="P-KUK-L-WPF3"/>
+            <abstract-unit id="P-KUK-L-WPF4"/>
+            <abstract-unit id="P-KUK-L-WPF5"/>
+        </unit>
+        <unit id="148465" title="Dialogische Kunstvermittlung im Museum - Theorie und Praxis (Übung)" semester="1,3,5">
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-WPF2"/>
+            <abstract-unit id="P-KUK-L-WPF3"/>
+            <abstract-unit id="P-KUK-L-WPF4"/>
+            <abstract-unit id="P-KUK-L-WPF5"/>
+        </unit>
+        <unit id="147087" title="Praxis der journalistischen Kunstvermittlung in Museum und Kunsthandel (Übung)" semester="1,3,5">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-WPF2"/>
+            <abstract-unit id="P-KUK-L-WPF3"/>
+            <abstract-unit id="P-KUK-L-WPF4"/>
+            <abstract-unit id="P-KUK-L-WPF5"/>
+        </unit>
+        <unit id="148466" title="Privatmuseen an Rhein und Ruhr (Übung)" semester="1,3,5">
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-WPF2"/>
+            <abstract-unit id="P-KUK-L-WPF3"/>
+            <abstract-unit id="P-KUK-L-WPF4"/>
+            <abstract-unit id="P-KUK-L-WPF5"/>
+        </unit>
+        <unit id="147093" title="Proberaum - Studio für künstlerische und kuratorische Praxis (Übung)" semester="1,3,5">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-WPF2"/>
+            <abstract-unit id="P-KUK-L-WPF3"/>
+            <abstract-unit id="P-KUK-L-WPF4"/>
+            <abstract-unit id="P-KUK-L-WPF5"/>
+        </unit>
+        <unit id="147093-1" title="Refugees welcome - ein Museumsprojekt für und mit Geflüchteten (Übung)" semester="1,3,5">
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-WPF2"/>
+            <abstract-unit id="P-KUK-L-WPF3"/>
+            <abstract-unit id="P-KUK-L-WPF4"/>
+            <abstract-unit id="P-KUK-L-WPF5"/>
+        </unit>
+        <unit id="147368" title="»Vor Ort«: Zwanzig Kunstmuseen zwischen Duisburg und Hamm – zuviel oder gerade mal genug? (Übung)" semester="1,3,5">
+            <group>
+                <session day="fri" time="4" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-WPF2"/>
+            <abstract-unit id="P-KUK-L-WPF3"/>
+            <abstract-unit id="P-KUK-L-WPF4"/>
+            <abstract-unit id="P-KUK-L-WPF5"/>
+        </unit>
+        <unit id="146243" title="Die Kunst im Rheinland (Basisseminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-KUK-L-GPMB3"/>
+        </unit>
+        <unit id="148612" title="Methoden- und Formenlehre der spätantiken und mittelalterlichen Kunstgeschichte (Basisseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-KUK-L-GPMB1"/>
+        </unit>
+    </units>
+</data>

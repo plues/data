@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ModulBaum short-name="philfak" name="Philosophische Fakultät der Heinrich-Heine-Universität">
+    <b abschl="ma" stg="kuk" kzfa="H" pversion="2016" name="Kunstvermittlung und Kulturmanagement">
+        <l name="Pflichtmodule" min="7" max="7">
+          <l name="Grundlagen A)" min="2" max="2">
+            <m name="Grundlagenpflichtmodul A) a) „Betriebswirtschaftslehre“" pordnr="00001"/>
+            <m name="Grundlagenpflichtmodul A) b) „Kunstgeschichte“" pordnr="00002"/>
+          </l>
+          <l name="Pflichtmodul B)" min="1" max="1">
+            <m name="Pflichtmodul B) „Kunst- und Kulturmanagement“ (2. und 3. Semester)" pordnr="00003"/>
+            <m name="Pflichtmodul B) „Kunst- und Kulturmanagement“ (3. und 4. Semester)" pordnr="00004"/>
+          </l>
+          <l name="Pflichtmodul C)" min="1" max="1">
+            <m name="Pflichtmodul C) „Grundlagen der Kunstvermittlung“" pordnr="00005"/>
+          </l>
+          <l name="Praxispflichtmodul D)" min="1" max="1">
+            <m name="Praxispflichtmodul D) „Kunstvermittlung und Kulturmanagement“" pordnr="00006"/>
+          </l>
+          <l name="Wahlpflichtmodul E)" min="1" max="1">
+            <m name="Wahlpflichtmodul E) „Betriebswirtschaftslehre (1. und 2. Semester)“" pordnr="00007"/>
+            <m name="Wahlpflichtmodul E) „Betriebswirtschaftslehre (2. und 3. Semester)“" pordnr="00008"/>
+            <m name="Wahlpflichtmodul E) „Betriebswirtschaftslehre (3. und 4. Semester)“" pordnr="00009"/>
+          </l>
+          <l name="Wahlpflichtmodul F)" min="1" max="1">
+            <m name="Wahlpflichtmodul F) „Kunstgeschichte“" pordnr="00010"/>
+          </l>
+          <!-- <l name="Masterarbeitsmodul G)" min="1" max="1"> -->
+          <!--   <m name="Masterarbeitsmodul G)" pordnr="00011"/> -->
+          <!-- </l> -->
+        </l>
+    </b>
+</ModulBaum>
