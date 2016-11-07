@@ -1,0 +1,12 @@
+Changes for Evaluation:
+
+Filled in some missing event data
+
+Pandas excel parsing seems to fill in some fields when loading columns with the same name -> This might lead to links between coures and modules being created when there suould be none.
+
+WiWi import dropps some information, e.g. block seminars, empty event data etc. Hence we might loose information in some cases.
+
+
+Deleted WiWi:
+
+Deleted S-Modules (amongh them MQ04 / MQ05 / MQV01 - Teil 2 and MQV01) and MW33 which are all irrelevant for the validation
