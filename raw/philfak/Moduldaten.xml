@@ -1766,12 +1766,11 @@
         </module>
         <module id="P-SOWI-M-BMM" title="Modul Methoden der Sozialwissenschaften" pordnr="34762"
                 elective-units="0">
-            <abstract-unit id="P-SOWI-L-BBMPa" title="Methoden der Sozialwissenschaften I (Vorlesung)" type="m"
+            <abstract-unit id="P-SOWI-L-BMMa" title="Methoden der Sozialwissenschaften I (Vorlesung)" type="m"
                            semester="1,2"/>
-            <abstract-unit id="P-SOWI-L-BBMPb"
-                           title="Methoden der Sozialwissenschaften II Deutschlands (Vorlesung)" type="m"
+            <abstract-unit id="P-SOWI-L-BMMb" title="Methoden der Sozialwissenschaften II (Vorlesung)" type="m"
                            semester="1,2"/>
-            <abstract-unit id="P-SOWI-L-BBMPc" title="Begleitende Tutorien(freiwillige Teilnahme)(Tutorium)"
+            <abstract-unit id="P-SOWI-L-BMMc" title="Begleitende Tutorien (freiwillige Teilnahme) (Tutorium)"
                            type="m" semester="1,2"/>
         </module>
         <module id="P-SOWI-M-BTMSS-P" title="Themenmodul Systeme + Strukturen (Politikwissenschaft)"
@@ -2530,14 +2529,14 @@
         </module>
         <module id="P-SOWI-M-BBMK" title="Basismodul Kommunikations- und Medienwissenschaft" pordnr="36659"
                 elective-units="0">
-            <abstract-unit id="P-SOWI-L-BBMPa" title="Einführung in das Mediensystem in Deutschland (Vorlesung)"
+            <abstract-unit id="P-SOWI-L-BBMKa" title="Einführung in das Mediensystem in Deutschland (Vorlesung)"
                            type="m" semester="1,2"/>
-            <abstract-unit id="P-SOWI-L-BBMPb"
+            <abstract-unit id="P-SOWI-L-BBMKb"
                            title="Einführung in die Kommunikations- und Medienwissenschaft (Vorlesung)" type="m"
                            semester="1,2"/>
-            <abstract-unit id="P-SOWI-L-BBMPc" title="Das Mediensystem in Deutschland (Basisseminar)" type="m"
+            <abstract-unit id="P-SOWI-L-BBMKc" title="Das Mediensystem in Deutschland (Basisseminar)" type="m"
                            semester="1,2"/>
-            <abstract-unit id="P-SOWI-L-BBMPd"
+            <abstract-unit id="P-SOWI-L-BBMKd"
                            title="Grundbegriffe, Schwerpunkte und Modelle der Kommunikations- und Medienwissenschaft (Basisseminar)"
                            type="m" semester="1,2"/>
         </module>
