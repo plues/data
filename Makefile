@@ -1,7 +1,7 @@
-MODEL_GENERATOR_VERSION=4.0.0
+MODEL_GENERATOR_VERSION=4.1.0
 modelgenerator=bin/modelgenerator-$(MODEL_GENERATOR_VERSION).jar
 
-MINCER_VERSION=2.0.0
+MINCER_VERSION=2.1.0
 mincer=bin/mincer-$(MINCER_VERSION).jar
 
 # Available flavors for data
@@ -75,5 +75,6 @@ clean:
 very_clean: clean
 	rm -f $(modelgenerator)
 	rm -f $(mincer)
+	rm -f bin/*.jar
 
 .PHONY: clean very_clean dist-setup $(ACTIONS) $(FLAVORS)

@@ -316,9 +316,9 @@
         <module title="Empirical Economics" id="W-WIWI-M-BW23" elective-units="0"
                 pordnr="40370" cp="12">
             <abstract-unit title="Introductory Empirical Economics" id="W-WIWI-L-BW23a" type="m"
-                           semester="4,6"/>
+                           semester="3,5"/>
             <abstract-unit title="Introductory Econometrics - Übung" id="W-WIWI-L-BW23b" type="m"
-                           semester="4,6"/>
+                           semester="3,5"/>
         </module>
         <module title="Verbraucherpolitik" id="W-WIWI-M-BW24" elective-units="0"
                 pordnr="40369" cp="12">
@@ -1041,9 +1041,6 @@
                 pordnr="40492" cp="8">
             <abstract-unit title="Netzwerk- und Informationsgüterökonomik" id="W-WIWI-L-MW60a"
                            type="m" semester="2,4"/>
-            <abstract-unit title="Netzwerk- und Informationsgüterökonomik - Übung"
-                           id="W-WIWI-L-MW60b" type="m"
-                           semester="2,4"/>
         </module>
         <module title="Regulierungsökonomik" id="W-WIWI-M-MW61" elective-units="0"
                 pordnr="40489" cp="8">
@@ -1424,9 +1421,6 @@
                 pordnr="40574" cp="8">
             <abstract-unit title="Netzwerk- und Informationsgüterökonomik" id="W-WIWI-L-MW60a"
                            type="m" semester="2,4"/>
-            <abstract-unit title="Netzwerk- und Informationsgüterökonomik - Übung"
-                           id="W-WIWI-L-MW60b" type="m"
-                           semester="2,4"/>
         </module>
         <module title="Regulierungsökonomik" id="W-WIWI-M-MW61" elective-units="0"
                 pordnr="40575" cp="8">
@@ -2008,7 +2002,7 @@
             <abstract-unit id="W-WIWI-L-BB04b"/>
             <abstract-unit id="W-WICHEM-L-BB04b"/>
         </unit>
-        <unit id="131000" title="Statistische Methoden I" semester="1">
+        <unit id="131000" title="Statistische Methoden I" semester="1,3">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
                 <session day="fri" time="4" duration="2" rhythm="1"/>
@@ -2016,7 +2010,7 @@
             <abstract-unit id="W-WIWI-L-BS01a"/>
             <abstract-unit id="W-WICHEM-L-BS01a"/>
         </unit>
-        <unit id="130415-1" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1">
+        <unit id="130415-1" title="Statistische Methoden I - Gruppenveranstaltungen" semester="1,3">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
@@ -2084,7 +2078,7 @@
             </group>
             <abstract-unit id="W-WIWI-L-BS02b"/>
         </unit>
-        <unit id="129286" title="Märkte und Preise" semester="1">
+        <unit id="129286" title="Märkte und Preise" semester="1,5">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
 				<session day="tue" time="6" duration="2" rhythm="0"/>
@@ -2093,7 +2087,7 @@
             <abstract-unit id="W-WICHEM-L-BV01a"/>
         </unit>
         <unit id="129793-1" title="Übung zu Märkte und Preise - Gruppenveranstaltungen"
-              semester="1">
+              semester="1,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="1"/>
             </group>
@@ -2115,7 +2109,7 @@
             <abstract-unit id="W-WIWI-L-BV01b"/>
             <abstract-unit id="W-WICHEM-L-BV01b"/>
         </unit>
-        <unit id="137511" title="Einkommen, Beschäftigung und Preisniveau" semester="2">
+        <unit id="137511" title="Einkommen, Beschäftigung und Preisniveau" semester="2,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
                 <session day="wed" time="1" duration="2" rhythm="2"/>
@@ -2124,7 +2118,7 @@
             <abstract-unit id="W-WIWI-L-BV02a"/>
             <abstract-unit id="W-WICHEM-L-BV02a"/>
         </unit>
-        <unit id="137574" title="Einkommen, Beschäftigung und Preisniveau (englisch)" semester="2">
+        <unit id="137574" title="Einkommen, Beschäftigung und Preisniveau (englisch)" semester="2,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
                 <session day="wed" time="1" duration="2" rhythm="1"/>
@@ -2135,7 +2129,7 @@
         </unit>
         <unit id="137662-1"
               title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen"
-              semester="2">
+              semester="2,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="1"/>
             </group>
@@ -2151,7 +2145,7 @@
         </unit>
         <unit id="137559-1"
               title="Ausgewählte Fragestellungen im Bereich Einkommen, Beschäftigung und Preisniveau - Gruppenveranstaltungen (englisch)"
-              semester="2">
+              semester="2,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="2"/>
             </group>
@@ -2797,7 +2791,7 @@
 			<abstract-unit id="W-WIWI-L-BW27c"/>
 		</unit>
         <!--Bachelor Volkswirtschaftslehre-->
-        <unit id="130115" title="Introductory Empirical Economics" semester="3">
+        <unit id="130115" title="Introductory Empirical Economics" semester="3,5">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
@@ -2805,7 +2799,7 @@
             <abstract-unit id="W-WIWI-L-BS03a"/>
             <abstract-unit id="W-WIWI-L-BW23a"/>
         </unit>
-        <unit id="130088" title="Introductory Econometrics - Übung" semester="3">
+        <unit id="130088" title="Introductory Econometrics - Übung" semester="3,5">
             <group>
                 <session day="mon" time="6" duration="2" rhythm="0"/>
             </group>
@@ -3077,14 +3071,12 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW08b"/>
         </unit>
-        <!--
         <unit id="135909" title="Empirical Methods of Financial Market Analysis" semester="2,3">
             <group>
-                <session day="" time="" duration="2" rhythm="" />
+                <session day="mon" time="1" duration="2" rhythm="3" />
             </group>
             <abstract-unit id="W-WIWI-L-MW08c" />
         </unit>
-        -->
         <unit id="129061" title=" Forschungsseminar Internationale Finanzmärkte" semester="2,3">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
@@ -3439,17 +3431,15 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW66b"/>
         </unit>
-        <!-- missing data
         <unit id="140534" title="Rohstoffmärkte: Modellierung und Bewertung" semester="2,4">
             <group>
-                <session day="" time="" duration="" rhythm="" />
+                <session day="mon" time="1" duration="2" rhythm="3" />
             </group>
             <abstract-unit id="W-WIWI-L-MW67a" />
         </unit>
-        -->
-        <unit id="140534" title="Rohstoffmärkte: Entwicklung von Marktsegmenten" semester="2,4">
+        <unit id="140535" title="Rohstoffmärkte: Entwicklung von Marktsegmenten" semester="2,4">
             <group>
-                <session day="mon" time="5" duration="2" rhythm="0"/>
+                <session day="mon" time="6" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW67b"/>
         </unit>
@@ -3483,14 +3473,12 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW70a"/>
         </unit>
-        <!-- missing data
-        <unit id="137779" title="Innovation and Property Rights" semester="4">
+        <unit id="64332" title="Innovation and Property Rights" semester="4">
             <group>
-                <session day="" time="" duration="" rhythm="" />
+                <session day="fri" time="6" duration="2" rhythm="3" />
             </group>
             <abstract-unit id="W-WIWI-L-MW70b" />
         </unit>
-        -->
         <unit id="142525" title="Collusion" semester="3">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
@@ -3543,22 +3531,18 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW74b"/>
         </unit>
-        <!-- missing data
-        <unit id="137385" title="Theorie der wirtschaftspolitischen Beratung I" semester="2">
+        <unit id="42347" title="Theorie der wirtschaftspolitischen Beratung I" semester="2">
             <group>
-                <session day="" time="" duration="" rhythm="" />
+                <session day="fri" time="6" duration="2" rhythm="3" />
             </group>
             <abstract-unit id="W-WIWI-L-MW75a" />
         </unit>
-        -->
-        <!-- missing data
-        <unit id="137237" title="Ausgewählte Felder der wirtschaftspolitischen Beratung in der Praxis I" semester="2">
+        <unit id="75432" title="Ausgewählte Felder der wirtschaftspolitischen Beratung in der Praxis I" semester="2">
             <group>
-                <session day="" time="" duration="" rhythm="" />
+                <session day="fri" time="6" duration="2" rhythm="3" />
             </group>
             <abstract-unit id="W-WIWI-L-MW75b" />
         </unit>
-        -->
         <unit id="129248" title="Econometrics" semester="1">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
@@ -3621,18 +3605,24 @@
             </group>
             <abstract-unit id="W-WICHEM-M-PCMa"/>
         </unit>
-        <unit id="124270" title="Heterocyclen" semester="1,2">
+        <unit id="124270" title="Heterocyclen" semester="2">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WICHEM-M-MoPoSa"/>
         </unit>
-        <unit id="124315" title="Makromolekulare Chemie II" semester="1,2">
+        <unit id="124315" title="Makromolekulare Chemie II" semester="2">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WICHEM-M-MoPoSb"/>
         </unit>
+		<unit id="4898" title="Übungen zu den Pflichtvorlesungen" semester="2">
+			<group>
+				<session day="thu" time="4" duration="2" rhythm="0"/>
+			</group>
+			<abstract-unit id="W-WICHEM-M-MoPoSc"/>
+		</unit>
         <unit id="129200" title="Modul Physikalische Chemie" semester="1">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
@@ -3650,6 +3640,12 @@
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WICHEM-L-PC0-WiCb"/>
+		</unit>
+		<unit id="4233" title="Übung Mathematik für Wirtschaftschemiker" semester="1">
+		<group>
+			<session day="tue" time="1" duration="2" rhythm="0"/>
+		</group>
+		<abstract-unit id="W-WICHEM-L-PC0-WiCc"/>
         </unit>
         <unit id="129003" title="Anorganische und Allgemeine Chemie" semester="1">
             <group>
@@ -3661,15 +3657,6 @@
             <abstract-unit id="W-WICHEM-L-C1-WiCa"/>
         </unit>
         <unit id="139563" title="Übungen zur C1-Vorlesung" semester="1">
-            <group>
-                <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="thu" time="4" duration="2" rhythm="0"/>
-            </group>
-            <group>
-                <session day="fri" time="2" duration="2" rhythm="0"/>
-            </group>
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
@@ -3726,14 +3713,12 @@
             </group>
             <abstract-unit id="W-WICHEM-L-PMC-WiCa"/>
         </unit>
-        <!-- TODO: missing day and time
         <unit id="" title="Makromolekulare Chemie Übung" semester="4">
             <group>
-                <session day="" time="" duration="" rhythm=""/>
+                <session day="mon" time="1" duration="2" rhythm="3"/>
             </group>
             <abstract-unit id="W-WICHEM-L-PMC-WiCb"/>
         </unit>
-      -->
         <unit id="129409" title="Physik für Chemiker, Biochemiker und Wirtschaftschemiker"
               semester="3">
             <group>
@@ -3793,7 +3778,7 @@
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="W-WICHEM-L-FPC-WiC"/>
+            <abstract-unit id="W-WICHEM-L-FPC-WiCa"/>
         </unit>
         <unit id="138908" title="Übungen zur FPC" semester="5">
             <group>
