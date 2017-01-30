@@ -124,7 +124,7 @@
             <abstract-unit title="Gruppenarbeit zu Mathematik I" id="W-WIWI-L-BM01b" type="m"
                            semester="1"/>
         </module>
-        <module title="Mathematik II" id="W-WIWI-M-BM02" elective-units="0"  pordnr="40339"
+        <module title="Mathematik II" id="W-WIWI-M-BM02" elective-units="0" pordnr="40339"
                 cp="3">
             <abstract-unit title="Mathematik II" id="W-WIWI-L-BM02a" type="m" semester="2"/>
             <abstract-unit title="Gruppenarbeit zu Mathematik II" id="W-WIWI-L-BM02b" type="m"
@@ -181,13 +181,17 @@
             <abstract-unit title="Grundlagen des strategischen Marketing Managements"
                            id="W-WIWI-L-BW07c" type="m"
                            semester="3,4,5,6"/>
-			<abstract-unit title="Dienstleistungsmarketing und Marktforschung" id="W-WIWI-L-BW07d" type="m" semester="3,4,5,6"/>
+            <abstract-unit title="Dienstleistungsmarketing und Marktforschung" id="W-WIWI-L-BW07d"
+                           type="m" semester="3,4,5,6"/>
         </module>
-		<module title="Steuerrecht" id="W-WIWI-M-BW08" elective-units="0" pordnr="40540" cp="12">
-			<abstract-unit title="Abgabenordnung" id="W-WIWI-L-BW08a" type="m" semester="3,4,5,6"/>
-			<abstract-unit title="Unternehmenssteuerrecht 1" id="W-WIWI-L-BW08b" type="m" semester="3,4,5,6"/>
-			<abstract-unit title="Europäisches Steuerrecht" id="W-WIWI-L-BW08c" type="m" semester="3,4,5,6"/>
-		</module>
+        <module title="Steuerrecht Bachelor" id="W-WIWI-M-BW08" elective-units="0" pordnr="40540"
+                cp="12">
+            <abstract-unit title="Abgabenordnung" id="W-WIWI-L-BW08a" type="m" semester="3,4,5,6"/>
+            <abstract-unit title="Unternehmenssteuerrecht 1" id="W-WIWI-L-BW08b" type="m"
+                           semester="3,4,5,6"/>
+            <abstract-unit title="Europäisches Steuerrecht" id="W-WIWI-L-BW08c" type="m"
+                           semester="3,4,5,6"/>
+        </module>
         <module title="Datenanalyse" id="W-WIWI-M-BW09" elective-units="0" pordnr="40364"
                 cp="12">
             <abstract-unit title="Statistische Datengewinnung" id="W-WIWI-L-BW09a" type="m"
@@ -255,7 +259,7 @@
                            type="m"
                            semester="3,5"/>
         </module>
-        <module title="Betriebswirtschaftliche Steuerlehre II" id="W-WIWI-M-BW16" elective-units="0"              
+        <module title="Betriebswirtschaftliche Steuerlehre II" id="W-WIWI-M-BW16" elective-units="0"
                 pordnr="40349" cp="12">
             <abstract-unit title="Besteuerung mittelständischer Unternehmen" id="W-WIWI-L-BW16a"
                            type="m"
@@ -348,14 +352,12 @@
         </module>
         <module title="Europäische Integration" id="W-WIWI-M-BW29" elective-units="0"
                 pordnr="40367" cp="12">
-            <abstract-unit title="Einführung in das politische System der EU: Akteure Prozesse Inhalte"
-                           id="W-WIWI-L-BW29a"
-                           type="m" semester="4,6"/>
-            <abstract-unit title="Handelspolitische Integration" id="W-WIWI-L-BW29b" type="m"
+            <abstract-unit title="Handelspolitische Integration" id="W-WIWI-L-BW29a" type="m"
                            semester="4,6"/>
-            <abstract-unit title="Währungspolitische Integration" id="W-WIWI-L-BW29c" type="m"
+            <abstract-unit title="Währungspolitische Integration" id="W-WIWI-L-BW29b" type="m"
                            semester="4,6"/>
-			<abstract-unit title="Währungspolitische Integration-Übung" id="W-WIWI-L-BW29d" type="m" semester="4,6"/>
+            <abstract-unit title="Währungspolitische Integration-Übung" id="W-WIWI-L-BW29c" type="m"
+                           semester="4,6"/>
         </module>
         <module title="Modernes Japan" id="W-WIWI-M-BW30" elective-units="0" pordnr="40366"
                 cp="12">
@@ -401,11 +403,15 @@
             <abstract-unit title="Praxis-Projektarbeit" id="W-WIWI-L-BW41c" type="m"
                            semester="3,4,5,6"/>
         </module>
-		<module title="Recht und Ökonomie" id="W-WIWI-M-BW27" elective-units="0" pordnr="40412" cp="12">
-			<abstract-unit title="Ökonomische Analyse des Rechts" id="W-WIWI-L-BW27a" type="m" semester="4,6"/>
-			<abstract-unit title="Ökonomische Analyse des Rechts-Übung" id="W-WIWI-L-BW27b" type="m" semester="4,6"/>
-			<abstract-unit title="Literaturkurs zur ökonomischen Analyse des Rechts" id="W-WIWI-L-BW27c" type="m" semester="4,6"/>
-		</module>
+        <module title="Recht und Ökonomie" id="W-WIWI-M-BW27" elective-units="0" pordnr="40412"
+                cp="12">
+            <abstract-unit title="Ökonomische Analyse des Rechts" id="W-WIWI-L-BW27a" type="m"
+                           semester="4,6"/>
+            <abstract-unit title="Ökonomische Analyse des Rechts-Übung" id="W-WIWI-L-BW27b" type="m"
+                           semester="4,6"/>
+            <abstract-unit title="Literaturkurs zur ökonomischen Analyse des Rechts"
+                           id="W-WIWI-L-BW27c" type="m" semester="4,6"/>
+        </module>
         <!-- Bachelor Volkswirtschaftslehre-->
         <module title="Einführung in die BWL, Finanzbuchführung, Absatz und Beschaffung"
                 id="W-WIWI-M-BB01"
@@ -580,13 +586,16 @@
             <abstract-unit title="Grundlagen des strategischen Marketing Managements"
                            id="W-WIWI-L-BW07c" type="m"
                            semester="3,4,5,6"/>
-			<abstract-unit title="Dienstleistungsmarketing und Marktforschung" id="W-WIWI-L-BW07d" type="m" semester="3,4,5,6"/>
+            <abstract-unit title="Dienstleistungsmarketing und Marktforschung" id="W-WIWI-L-BW07d"
+                           type="m" semester="3,4,5,6"/>
         </module>
-		<module title="Steuerrecht" id="W-WIWI-M-BW08" elective-units="0" pordnr="40416" cp="12">
-			<abstract-unit title="Abgabenordnung" id="W-WIWI-L-BW08a" type="m" semester="3,4,5,6"/>
-			<abstract-unit title="Unternehmenssteuerrecht 1" id="W-WIWI-L-BW08b" type="m" semester="3,4,5,6"/>
-			<abstract-unit title="Europäisches Steuerrecht" id="W-WIWI-L-BW08c" type="m" semester="3,4,5,6"/>
-		</module>
+        <module title="Steuerrecht" id="W-WIWI-M-BW08" elective-units="0" pordnr="40416" cp="12">
+            <abstract-unit title="Abgabenordnung" id="W-WIWI-L-BW08a" type="m" semester="3,4,5,6"/>
+            <abstract-unit title="Unternehmenssteuerrecht 1" id="W-WIWI-L-BW08b" type="m"
+                           semester="3,4,5,6"/>
+            <abstract-unit title="Europäisches Steuerrecht" id="W-WIWI-L-BW08c" type="m"
+                           semester="3,4,5,6"/>
+        </module>
         <module title="Datenanalyse" id="W-WIWI-M-BW09" elective-units="0" pordnr="40417"
                 cp="12">
             <abstract-unit title="Statistische Datengewinnung" id="W-WIWI-L-BW09a" type="m"
@@ -740,14 +749,12 @@
         </module>
         <module title="Europäische Integration" id="W-WIWI-M-BW29" elective-units="0"
                 pordnr="40414" cp="12">
-            <abstract-unit title="Einführung in das politische System der EU: Akteure Prozesse Inhalte"
-                           id="W-WIWI-L-BW29a"
-                           type="m" semester="4,6"/>
-            <abstract-unit title="Handelspolitische Integration" id="W-WIWI-L-BW29b" type="m"
+            <abstract-unit title="Handelspolitische Integration" id="W-WIWI-L-BW29a" type="m"
                            semester="4,6"/>
-            <abstract-unit title="Währungspolitische Integration" id="W-WIWI-L-BW29c" type="m"
+            <abstract-unit title="Währungspolitische Integration" id="W-WIWI-L-BW29b" type="m"
                            semester="4,6"/>
-			<abstract-unit title="Währungspolitische Integration-Übung" id="W-WIWI-L-BW29d" type="m" semester="4,6"/>
+            <abstract-unit title="Währungspolitische Integration-Übung" id="W-WIWI-L-BW29c" type="m"
+                           semester="4,6"/>
         </module>
         <module title="Modernes Japan" id="W-WIWI-M-BW30" elective-units="0" pordnr="40419"
                 cp="12">
@@ -873,7 +880,8 @@
             <abstract-unit title="Repetitorium zur Unternehmensbesteuerung" id="W-WIWI-L-MW06g"
                            type="e"
                            semester="1,2,3,4"/>
-			<abstract-unit title="Prüfungsfälle Examen" id="W-WIWI-L-MW06h" type="m" semester="1,2,3,4"/>
+            <abstract-unit title="Prüfungsfälle Examen" id="W-WIWI-L-MW06h" type="m"
+                           semester="1,2,3,4"/>
         </module>
         <module title="Internationale Finanzmärkte" id="W-WIWI-M-MW08" elective-units="0"
                 pordnr="40482"
@@ -908,6 +916,22 @@
                            id="W-WIWI-L-MW12c" type="m"
                            semester="1,2,3,4"/>
         </module>
+        <module title="Steuerrecht Master" id="W-WIWI-M-MW13" elective-units="0" pordnr="40542"
+                cp="16">
+            <abstract-unit title="Erbschaft- und Schenkungsteuerrecht sowie Unternehmensnachfolge"
+                           id="W-WIWI-L-BMW13a" type="m" semester="1,2,3,4"/>
+            <abstract-unit title="Internationales Steuerrecht und Außensteuerrecht"
+                           id="W-WIWI-L-MW13b" type="m" semester="1,2,3,4"/>
+            <abstract-unit title="Umwandlungssteuerrecht" id="W-WIWI-L-MW13c" type="m"
+                           semester="1,2,3,4"/>
+            <abstract-unit
+                    title="Vertiefung Unternehmenssteuerrecht, insbes. Konzernsteuerrecht (Unternehmenssteuerrecht II) "
+                    id="W-WIWI-L-MW13d" type="m" semester="1,2,3,4"/>
+            <abstract-unit title="Einkommenssteuerrecht" id="W-WIWI-L-MW13e" type="m"
+                           semester="1,2,3,4"/>
+            <abstract-unit title="Umsatzsteuerrecht" id="W-WIWI-L-MW13f" type="m"
+                           semester="1,2,3,4"/>
+        </module>
         <module title="Monetäre Ökonomik" id="W-WIWI-M-MW14" elective-units="0"
                 pordnr="40483" cp="16">
             <abstract-unit title="Monetäre Ökonomik" id="W-WIWI-L-MW14a" type="m" semester="1,3"/>
@@ -919,7 +943,7 @@
         </module>
         <module title="Personalmanagement" id="W-WIWI-M-MW16" elective-units="0"
                 pordnr="40462" cp="16">
-            <abstract-unit title="Operative Funktionen des Personalmanagements" id="W-WIWI-L-MW16a"
+            <abstract-unit title="Personalführung: Theorie und Gestaltung" id="W-WIWI-L-MW16a"
                            type="m"
                            semester="1,2,3,4"/>
             <abstract-unit title="Strategische Funktionen des Personalmanagements"
@@ -1027,6 +1051,32 @@
             <abstract-unit title="Theorie Finanzintermediation" id="W-WIWI-L-MW46a" type="m"
                            semester="3"/>
         </module>
+        <module title="Bank Management and Finanacial Services" id="W-WIWI-M-MW47"
+                elective-units="0" pordnr="40467"
+                cp="8">
+            <abstract-unit title="Bank Management and Finanacial Services" id="W-WIWI-L-MW47a"
+                           type="m"
+                           semester="2,4"/>
+        </module>
+        <module title="Betriebswirtschaftliche Steuerlehre" id="W-WIWI-M-MW49" elective-units="1"
+                pordnr="404616"
+                cp="8">
+            <abstract-unit title="Repetitorium zur Unternehmensbesteuerung" id="W-WIWI-L-MW49a"
+                           type="m"
+                           semester="1,3"/>
+            <abstract-unit title=" Internationale Unternehmensbesteuerung " id="W-WIWI-L-MW49b"
+                           type="m"
+                           semester="1,3"/>
+            <abstract-unit title="Besteuerung von Konzernunternehmungen " id="W-WIWI-L-MW49c"
+                           type="m"
+                           semester="2,4"/>
+            <abstract-unit title="Seminar zur Betriebswirtschaftlichen Steuerlehre"
+                           id="W-WIWI-L-MW49d" type="e"
+                           semester="2,4"/>
+            <abstract-unit title="Ausgewählte Probleme der steuerlichen Gewinnermittlung"
+                           id="W-WIWI-L-MW49e" type="e"
+                           semester="2,4"/>
+        </module>
         <module title="Ausgewählte Probleme der Unternehmensbesteuerung" id="W-WIWI-M-MW50"
                 elective-units="0" pordnr="40478" cp="8">
             <abstract-unit title="Prüfungsfälle Examen" id="W-WIWI-L-MW50a" type="m" semester="3"/>
@@ -1110,7 +1160,7 @@
             <abstract-unit title="Vertical restraints" id="W-WIWI-L-MW71b" type="m" semester="3"/>
         </module>
         <module title="Wettbewerbspolitik und -theorie" id="W-WIWI-M-MW72" elective-units="0"
-				pordnr="40499"
+                pordnr="40499"
                 cp="8">
             <abstract-unit title="Europäische Wettbewerbspolitik" id="W-WIWI-L-MW72a" type="m"
                            semester="1,3"/>
@@ -1121,9 +1171,9 @@
                 pordnr="40500"
                 cp="8">
             <abstract-unit title="Empirische Industrieökonomik" id="W-WIWI-L-MW73a" type="m"
-                           semester="1,3"/>
+                           semester="2,4"/>
             <abstract-unit title="Empirische Industrieökonomik - Übung" id="W-WIWI-L-MW73b" type="m"
-                           semester="1,3"/>
+                           semester="2,4"/>
         </module>
         <module title="Wirtschaftspolitische Beratung und Politikevaluation" id="W-WIWI-M-MW74"
                 elective-units="0"
@@ -1140,10 +1190,10 @@
                 pordnr="40502" cp="8">
             <abstract-unit title="Theorie der wirtschaftspolitischen Beratung I" id="W-WIWI-L-MW75a"
                            type="m"
-                           semester="2"/>
+                           semester="2,4"/>
             <abstract-unit
                     title="Ausgewählte Felder der wirtschaftspolitischen Beratung in der Praxis I"
-                    id="W-WIWI-L-MW75b" type="m" semester="2"/>
+                    id="W-WIWI-L-MW75b" type="m" semester="2,4"/>
         </module>
         <module title="Experimentelle Ökonomie" id="W-WIWI-M-MW76" elective-units="0" pordnr="40503"
                 cp="8">
@@ -1176,11 +1226,15 @@
                            semester="1,2"/>
             <abstract-unit title="Projektarbeit" id="W-WIWI-L-MQ05b" type="m" semester="1,2"/>
         </module>
-		<module title="Recht und Ökonomie" id="W-WIWI-M-BW27" elective-units="0" pordnr="40421" cp="12">
-			<abstract-unit title="Ökonomische Analyse des Rechts" id="W-WIWI-L-BW27a" type="m" semester="4,6"/>
-			<abstract-unit title="Ökonomische Analyse des Rechts-Übung" id="W-WIWI-L-BW27b" type="m" semester="4,6"/>
-			<abstract-unit title="Literaturkurs zur ökonomischen Analyse des Rechts" id="W-WIWI-L-BW27c" type="m" semester="4,6"/>
-		</module>
+        <module title="Recht und Ökonomie" id="W-WIWI-M-BW27" elective-units="0" pordnr="40421"
+                cp="12">
+            <abstract-unit title="Ökonomische Analyse des Rechts" id="W-WIWI-L-BW27a" type="m"
+                           semester="4,6"/>
+            <abstract-unit title="Ökonomische Analyse des Rechts-Übung" id="W-WIWI-L-BW27b" type="m"
+                           semester="4,6"/>
+            <abstract-unit title="Literaturkurs zur ökonomischen Analyse des Rechts"
+                           id="W-WIWI-L-BW27c" type="m" semester="4,6"/>
+        </module>
         <!--Master Volkswirtschaftslehre-->
         <module title="Betriebswirtschaftliche Theorie" id="W-WIWI-M-MB03" elective-units="7"
                 pordnr="40556"
@@ -1217,7 +1271,7 @@
             <abstract-unit title="Econometrics" id="W-WIWI-L-MV04a" type="m" semester="1"/>
             <abstract-unit title="Übung zu Econometrics" id="W-WIWI-L-MV04b" type="m" semester="1"/>
         </module>
-        <module title="Marketing" id="W-WIWI-M-MW05" elective-units="0"  pordnr="40560"
+        <module title="Marketing" id="W-WIWI-M-MW05" elective-units="0" pordnr="40560"
                 cp="16">
             <abstract-unit title="Relationship Marketing und Consumer Neuroscience"
                            id="W-WIWI-L-MW05a" type="m"
@@ -1292,12 +1346,12 @@
                            semester="1,3"/>
             <abstract-unit title="Topics in International Trade and Monetary Economics"
                            id="W-WIWI-L-MW14c"
-						   type="m"
+                           type="m"
                            semester="1,3"/>
         </module>
         <module title="Personalmanagement" id="W-WIWI-M-MW16" elective-units="0"
                 pordnr="40562" cp="16">
-            <abstract-unit title="Operative Funktionen des Personalmanagements" id="W-WIWI-L-MW16a"
+            <abstract-unit title="Personalführung: Theorie und Gestaltung" id="W-WIWI-L-MW16a"
                            type="m"
                            semester="1,2,3,4"/>
             <abstract-unit title="Strategische Funktionen des Personalmanagements"
@@ -1436,7 +1490,7 @@
             <abstract-unit title="Übung Arbeitsmarktökonomik" id="W-WIWI-L-MW62b" type="m"
                            semester="1,3"/>
         </module>
-        <module title="Advanced Econometrics I" id="W-WIWI-M-MW64" elective-units="0" 
+        <module title="Advanced Econometrics I" id="W-WIWI-M-MW64" elective-units="0"
                 pordnr="40578" cp="8">
             <abstract-unit title="Advanced Econometrics I" id="W-WIWI-L-MW64a" type="m"
                            semester="2,3"/>
@@ -1501,9 +1555,9 @@
                 pordnr="40587"
                 cp="8">
             <abstract-unit title="Empirische Industrieökonomik" id="W-WIWI-L-MW73a" type="m"
-                           semester="1,3"/>
+                           semester="2,4"/>
             <abstract-unit title="Empirische Industrieökonomik - Übung" id="W-WIWI-L-MW73b" type="m"
-                           semester="1,3"/>
+                           semester="2,4"/>
         </module>
         <module title="Wirtschaftspolitische Beratung und Politikevaluation" id="W-WIWI-M-MW74"
                 elective-units="0"
@@ -1520,10 +1574,10 @@
                 pordnr="40589" cp="8">
             <abstract-unit title="Theorie der wirtschaftspolitischen Beratung I" id="W-WIWI-L-MW75a"
                            type="m"
-                           semester="2"/>
+                           semester="2,4"/>
             <abstract-unit
                     title="Ausgewählte Felder der wirtschaftspolitischen Beratung in der Praxis I"
-                    id="W-WIWI-L-MW75b" type="m" semester="2"/>
+                    id="W-WIWI-L-MW75b" type="m" semester="2,4"/>
         </module>
         <module title="Experimentelle Ökonomie" id="W-WIWI-M-MW76" elective-units="0" pordnr="40506"
                 cp="8">
@@ -1588,8 +1642,8 @@
                            type="m"
                            semester="1"/>
             <abstract-unit
-						   title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen"
-                           id="W-WICHEM-L-BB01b" semester="1" type="m"/>
+                    title="Einführung in die Betriebswirtschaftslehre - Gruppenveranstaltungen"
+                    id="W-WICHEM-L-BB01b" semester="1" type="m"/>
             <abstract-unit title="Finanzbuchführung" id="W-WICHEM-L-BB01c" type="m" semester="1"/>
             <abstract-unit title="Finanzbuchführung - Gruppenveranstaltungen" id="W-WICHEM-L-BB01d"
                            type="m"
@@ -1785,9 +1839,9 @@
                 <session day="mon" time="5" duration="2" rhythm="1"/>
             </group>
             <group>
-				<session day="mon" time="6" duration="2" rhythm="1"/>
+                <session day="mon" time="6" duration="2" rhythm="1"/>
             </group>
-			<group>
+            <group>
                 <session day="wed" time="3" duration="2" rhythm="1"/>
             </group>
             <abstract-unit id="W-WIWI-L-BB01b"/>
@@ -1810,10 +1864,10 @@
             <group>
                 <session day="mon" time="5" duration="2" rhythm="2"/>
             </group>
-			<group>
-				<session day="mon" time="6" duration="2" rhythm="2"/>
+            <group>
+                <session day="mon" time="6" duration="2" rhythm="2"/>
             </group>
-			<group>
+            <group>
                 <session day="wed" time="3" duration="2" rhythm="2"/>
             </group>
             <abstract-unit id="W-WIWI-L-BB01d"/>
@@ -1961,9 +2015,9 @@
             <group>
                 <session day="fri" time="4" duration="2" rhythm="0"/>
             </group>
-			<group> 
-				<session day="fri" time="5" duration="2" rhythm="0"/>
-			</group>
+            <group>
+                <session day="fri" time="5" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BB03d"/>
             <abstract-unit id="W-WICHEM-L-BB03d"/>
         </unit>
@@ -2006,7 +2060,7 @@
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
                 <session day="fri" time="4" duration="2" rhythm="1"/>
-			</group>
+            </group>
             <abstract-unit id="W-WIWI-L-BS01a"/>
             <abstract-unit id="W-WICHEM-L-BS01a"/>
         </unit>
@@ -2049,9 +2103,9 @@
         </unit>
         <unit id="137458" title="Statistische Methoden II" semester="2">
             <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
-				<session day="fri" time="2" duration="2" rhythm="2"/>
-			</group>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+                <session day="fri" time="2" duration="2" rhythm="2"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BS02a"/>
         </unit>
         <unit id="137676-1" title="Statistische Methoden II - Gruppenveranstaltungen" semester="2">
@@ -2081,8 +2135,8 @@
         <unit id="129286" title="Märkte und Preise" semester="1,5">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
-				<session day="tue" time="6" duration="2" rhythm="0"/>
-			</group>
+                <session day="tue" time="6" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BV01a"/>
             <abstract-unit id="W-WICHEM-L-BV01a"/>
         </unit>
@@ -2103,26 +2157,27 @@
             <group>
                 <session day="fri" time="4" duration="2" rhythm="1"/>
             </group>
-			<group>
-				<session day="fri" time="2" duration="2" rhythm="1"/>
-			</group>
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="1"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BV01b"/>
             <abstract-unit id="W-WICHEM-L-BV01b"/>
         </unit>
         <unit id="137511" title="Einkommen, Beschäftigung und Preisniveau" semester="2,6">
             <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
-                <session day="wed" time="1" duration="2" rhythm="2"/>
-			</group>
+                <session day="tue" time="1" duration="2" rhythm="2"/>
+                <session day="wed" time="1" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BV05a"/>
             <abstract-unit id="W-WIWI-L-BV02a"/>
             <abstract-unit id="W-WICHEM-L-BV02a"/>
         </unit>
-        <unit id="137574" title="Einkommen, Beschäftigung und Preisniveau (englisch)" semester="2,6">
+        <unit id="137574" title="Einkommen, Beschäftigung und Preisniveau (englisch)"
+              semester="2,6">
             <group>
+                <session day="tue" time="1" duration="2" rhythm="1"/>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
-                <session day="wed" time="1" duration="2" rhythm="1"/>
-			</group>
+            </group>
             <abstract-unit id="W-WIWI-L-BV05ba"/>
             <abstract-unit id="W-WIWI-L-BV02a"/>
             <abstract-unit id="W-WICHEM-L-BV02a"/>
@@ -2176,7 +2231,7 @@
         </unit>
         <unit id="137474" title="Bürgerliches Recht" semester="2">
             <group>
-                <session day="mon" time="3" duration="2" rhythm="0"/>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BR01a"/>
         </unit>
@@ -2212,9 +2267,9 @@
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-			<group>
-				<session day="thu" time="5" duration="2" rhythm="0"/>
-			</group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BM01a"/>
         </unit>
         <unit id="129230-1" title="Gruppenarbeit zu Mathematik I" semester="1">
@@ -2226,6 +2281,9 @@
         <unit id="136930" title="Mathematik II" semester="2">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BM02a"/>
         </unit>
@@ -2268,8 +2326,8 @@
               semester="4,6">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
-				<session day="wed" time="2" duration="2" rhythm="0"/>
-			</group>
+                <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BW02b"/>
         </unit>
         <unit id="129506" title="Einführung in die internationale Rechnungslegung nach IFRS"
@@ -2332,35 +2390,35 @@
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW07c"/>
-		</unit>
-		<unit id="3432792" title="Dienstleistungsmarketing und Marktforschung" semester="3,5">
-			<group>
-				<session day="wed" time="2" duration="6" rhythm="3"/>
-				<session day="thu" time="2" duration="6" rhythm="3"/>
-				<session day="fri" time="2" duration="6" rhythm="3"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW07d"/>
+        </unit>
+        <unit id="3432792" title="Dienstleistungsmarketing und Marktforschung" semester="3,5">
+            <group>
+                <session day="wed" time="2" duration="6" rhythm="3"/>
+                <session day="thu" time="2" duration="6" rhythm="3"/>
+                <session day="fri" time="2" duration="6" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW07d"/>
         </unit>
         <unit id="23233" title="Europäisches Steuerrecht" semester="3,5">
-			<group>
-				<session day="wed" time="4" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW08c"/>
-		</unit>
-		<unit id="242322" title="Abgabenordnung" semester="4,6">
-			<group>
-				<session day="mon" time="2" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW08a"/>
-		</unit>
-		<unit id="343232" title="Unternehmenssteuerrecht 1" semester="4,6">
-			<group>
-				<session day="wed" time="6" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW08b"/>
-		</unit>
-			
-		<unit id="137588" title="Statistische Datengewinnung" semester="4,6">
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW08c"/>
+        </unit>
+        <unit id="242322" title="Abgabenordnung" semester="4,6">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW08a"/>
+        </unit>
+        <unit id="343232" title="Unternehmenssteuerrecht 1" semester="4,6">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW08b"/>
+        </unit>
+
+        <unit id="137588" title="Statistische Datengewinnung" semester="4,6">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
@@ -2377,9 +2435,9 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="2"/>
             </group>
-			<group>
-				<session day="thu" time="3" duration="2" rhythm="2"/>
-			</group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="2"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BW09c"/>
         </unit>
         <unit id="137578" title="Einführung in die Zeitreihenanalyse" semester="4,6">
@@ -2407,11 +2465,11 @@
             </group>
             <abstract-unit id="W-WIWI-L-BW10c"/>
         </unit>
-        <unit id="129172" title="Geldtheorie und Geldpolitik" semester="3,5">
-              <group>
-                <session day="mon" time="1" duration="2" rhythm="3" />
-              </group>
-              <abstract-unit id="W-WIWI-L-BW11a" />
+        <unit id="129172" title="Geldtheorie und Geldpolitik" semester="4,6">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW11a"/>
         </unit>
         <unit id="137464" title="Internationale Währungsbeziehungen" semester="4,6">
             <group>
@@ -2424,7 +2482,7 @@
             <group>
                 <session day="wed" time="2" duration="2" rhythm="1"/>
             </group>
-			<group>
+            <group>
                 <session day="wed" time="3" duration="2" rhythm="1"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW11d"/>
@@ -2435,7 +2493,7 @@
             <group>
                 <session day="wed" time="2" duration="2" rhythm="1"/>
             </group>
-			<group>
+            <group>
                 <session day="wed" time="3" duration="2" rhythm="1"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW11c"/>
@@ -2469,27 +2527,27 @@
         </unit>
         <unit id="137493" title="Europäische Wettbewerbspolitik" semester="4,6">
             <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
+                <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW13a"/>
         </unit>
         <unit id="137518" title="Analyse aktueller Wettbewerbsfälle" semester="4,6">
             <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW13b"/>
         </unit>
         <unit id="137652" title="Kartellrechtliche Entscheidungspraxis" semester="4,6">
             <group>
-                <session day="fri" time="3" duration="2" rhythm="2"/>
+                <session day="fri" time="3" duration="4" rhythm="2"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW13c"/>
         </unit>
         <unit id="129427" title="Preis- und Wettbewerbstheorie" semester="3,5">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
-				<session day="thu" time="4" duration="2" rhythm="0"/>
-			</group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BW14a"/>
         </unit>
         <unit id="129389" title="Grundlagen der Kartellrechtspraxis" semester="3,5">
@@ -2536,24 +2594,24 @@
             </group>
             <abstract-unit id="W-WIWI-L-BW17c"/>
         </unit>
-		<unit id="2312311" title="Überblicksvorlesung zu Wirtschaftsgeschichte" semester="3,4,5,6">
-			<group>
-				<session day="mon" time="1" duration="2" rhythm="3"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW18a"/>
-		</unit>
-		<unit id="457223" title="Hauptseminar Übung" semester="3,4,5,6">
-			<group>
-				<session day="mon" time="2" duration="2" rhythm="3"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW18b"/>
-		</unit>
-		<unit id="56734" title="Hauptseminar Übung 2" semester="3,4,5,6">
-			<group> 
-				<session day="mon" time="3" duration="2" rhythm="3"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW18c"/>
-		</unit>
+        <unit id="2312311" title="Überblicksvorlesung zu Wirtschaftsgeschichte" semester="3,4,5,6">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW18a"/>
+        </unit>
+        <unit id="457223" title="Hauptseminar Übung" semester="3,4,5,6">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW18b"/>
+        </unit>
+        <unit id="56734" title="Hauptseminar Übung 2" semester="3,4,5,6">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW18c"/>
+        </unit>
         <unit id="129488" title="Grundlagen des Gründungsmanagements" semester="3,5">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
@@ -2563,8 +2621,8 @@
         <unit id="137491" title="Gründungsfinanzierung" semester="4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
-				<session day="tue" time="3" duration="2" rhythm="0"/>
-			</group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BW19b"/>
         </unit>
         <unit id="128890" title="Institutionenökonomik" semester="3,5">
@@ -2624,47 +2682,40 @@
         <unit id="137501" title="Gesundheitsmärkte und Gesundheitsökonomische Evaluation"
               semester="4,6">
             <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW26a"/>
         </unit>
         <unit id="137490" title="Übung zu Kurs 1" semester="4,6">
             <group>
-                <session day="thu" time="4" duration="2" rhythm="0"/>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW26b"/>
         </unit>
         <unit id="137773" title="Krankenversicherung" semester="4,6">
             <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
+                <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW26c"/>
-        </unit>
-        <unit id="125129" title="Einführung in das politische System der EU: Akteure, Prozesse, Inhalte"
-              semester="4,6">
-            <group>
-                <session day="wed" time="1" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="W-WIWI-L-BW29a"/>
         </unit>
         <unit id="124943" title="Handelspolitische Integration" semester="4,6">
             <group>
                 <session day="fri" time="5" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-BW29b"/>
+            <abstract-unit id="W-WIWI-L-BW29a"/>
         </unit>
         <unit id="124940" title="Währungspolitische Integration" semester="4,6">
             <group>
-                <session day="mon" time="1" duration="2" rhythm="0"/>
+                <session day="mon" time="1" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW29b"/>
+        </unit>
+        <unit id="123232" title="Währungspolitische Integration-Übung" semester="4,6">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW29c"/>
-		</unit>
-		<unit id="123232" title="Währungspolitische Integration-Übung" semester="4,6">
-			<group>
-				<session day="tue" time="1" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW29d"/>
-		 </unit>
+        </unit>
         <unit id="137469" title="Einführung in die japanische Gesellschaft" semester="4">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
@@ -2683,7 +2734,7 @@
             </group>
             <abstract-unit id="W-WIWI-L-BW30c"/>
         </unit>
-		<unit id="1373345" title="Einführung in die japanische Geschichte" semester="5">
+        <unit id="1373345" title="Einführung in die japanische Geschichte" semester="5">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
@@ -2703,7 +2754,7 @@
         </unit>
         <unit id="135899" title="Innovationsökonomik - Lehrvortrag" semester="4,6">
             <group>
-                <session day="mon" time="1" duration="2" rhythm="0"/>
+                <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-BW31a"/>
         </unit>
@@ -2749,8 +2800,8 @@
         <unit id="139831" title="Empirische Kapitalmarktforschung" semester="4,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
-				<session day="tue" time="2" duration="2" rhythm="0"/>
-			</group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BW40b"/>
         </unit>
         <unit id="137767" title="Jahresabschlussanalyse" semester="4,6">
@@ -2766,36 +2817,36 @@
             </group>
             <abstract-unit id="W-WIWI-L-BW41b"/>
         </unit>
-		<unit id="12342" title="Praxis-Projektarbeit" semester="3,5">
-			<group>
-				<session day="mon" time="1" duration="2" rhythm="3"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW41c"/>
-		</unit>
-		<unit id="234321" title="Ökonomische Analyse des Rechts" semester="4,6">
-			<group>
-				<session day="mon" time="3" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW27a"/>
-		</unit>
-		<unit id="34321" title="Ökonomische Analyse des Rechts-Übung" semester="4,6">
-			<group>
-				<session day="mon" time="4" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW27b"/>
-		</unit>
-		<unit id="343213" title="Literaturkurs zu ökonomische Analyse des Rechts" semester="4,6">
-			<group>
-				<session day="fri" time="2" duration="6" rhythm="3"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-BW27c"/>
-		</unit>
+        <unit id="12342" title="Praxis-Projektarbeit" semester="3,5">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW41c"/>
+        </unit>
+        <unit id="234321" title="Ökonomische Analyse des Rechts" semester="4,6">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW27a"/>
+        </unit>
+        <unit id="34321" title="Ökonomische Analyse des Rechts-Übung" semester="4,6">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW27b"/>
+        </unit>
+        <unit id="343213" title="Literaturkurs zu ökonomische Analyse des Rechts" semester="4,6">
+            <group>
+                <session day="fri" time="2" duration="6" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-BW27c"/>
+        </unit>
         <!--Bachelor Volkswirtschaftslehre-->
         <unit id="130115" title="Introductory Empirical Economics" semester="3,5">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
-			</group>
+            </group>
             <abstract-unit id="W-WIWI-L-BS03a"/>
             <abstract-unit id="W-WIWI-L-BW23a"/>
         </unit>
@@ -2812,8 +2863,8 @@
         <unit id="129329-1" title="Märkte und Preise" semester="1">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
-				<session day="tue" time="5" duration="2" rhythm="0"/>
-			</group>
+                <session day="tue" time="5" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BV04a"/>
         </unit>
         <unit id="129798-1" title="Märkte und Preise - Gruppenveranstaltungen" semester="1">
@@ -2837,8 +2888,8 @@
         <unit id="137461" title="Wirtschaftspolitik" semester="2">
             <group>
                 <session day="mon" time="1" duration="2" rhythm="0"/>
-				<session day="mon" time="2" duration="2" rhythm="0"/>
-			</group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-BV06a"/>
         </unit>
         <unit id="138207-1" title="Übung zu Wirtschaftspolitik" semester="2">
@@ -2886,8 +2937,8 @@
         <unit id="129142" title="Methoden der empirischen Wirtschaftsforschung" semester="1">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
-				<session day="fri" time="4" duration="2" rhythm="2"/>
-			</group>
+                <session day="fri" time="4" duration="2" rhythm="2"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MS00a"/>
         </unit>
         <unit id="129946_1" title="Übung zu Methoden der empirischen Wirtschaftsforschung"
@@ -2956,8 +3007,8 @@
         <unit id="129064" title="Einkommen, Beschäftigung und Preisniveau" semester="1">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
-				<session day="thu" time="1" duration="2" rhythm="2"/>
-			</group>
+                <session day="thu" time="1" duration="2" rhythm="2"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MV01a"/>
         </unit>
         <unit id="129795"
@@ -3009,7 +3060,7 @@
         </unit>
         <unit id="137254" title="Besteuerung von Konzernunternehmungen" semester="1,2,3,4">
             <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
+                <session day="tue" time="3" duration="4" rhythm="2"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW06a"/>
         </unit>
@@ -3022,7 +3073,7 @@
         <unit id="135913" title="Seminar zur Betriebswirtschaftlichen Steuerlehre"
               semester="1,2,3,4">
             <group>
-                <session day="mon" time="1" duration="2" rhythm="3"/>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW06c"/>
         </unit>
@@ -3049,35 +3100,35 @@
         </unit>
         <unit id="137733" title="Repetitorium zur Unternehmensbesteuerung" semester="1,2,3,4">
             <group>
-                <session day="fri" time="5" duration="2" rhythm="3" />
+                <session day="fri" time="5" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW06g" />
-		</unit>
-		<unit id="4234" title="Prüfungsfälle Examen" semester="1,2,3,4">
-			<group>
-				<session day="mon" time="5" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WIWI-L-MW06h"/>
+            <abstract-unit id="W-WIWI-L-MW06g"/>
         </unit>
-        <unit id="129096" title="Finanzmärkte und -institutionen" semester="2,3">
+        <unit id="4234" title="Prüfungsfälle Examen" semester="1,2,3,4">
+            <group>
+                <session day="mon" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW06h"/>
+        </unit>
+        <unit id="129096" title="Finanzmärkte und -institutionen" semester="2">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="3"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW08a"/>
         </unit>
-        <unit id="137433" title="Devisenmärkte" semester="2,3">
+        <unit id="137433" title="Devisenmärkte" semester="3">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW08b"/>
         </unit>
-        <unit id="135909" title="Empirical Methods of Financial Market Analysis" semester="2,3">
+        <unit id="135909" title="Empirical Methods of Financial Market Analysis" semester="3">
             <group>
-                <session day="mon" time="1" duration="2" rhythm="3" />
+                <session day="mon" time="1" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW08c" />
+            <abstract-unit id="W-WIWI-L-MW08c"/>
         </unit>
-        <unit id="129061" title=" Forschungsseminar Internationale Finanzmärkte" semester="2,3">
+        <unit id="129061" title=" Forschungsseminar Internationale Finanzmärkte" semester="2">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
@@ -3118,8 +3169,8 @@
         <unit id="130612" title="Kultur- und Kunstmanagement" semester="1,2,3,4">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
-				<session day="mon" time="5" duration="2" rhythm="0"/>
-			</group>
+                <session day="mon" time="5" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW12b"/>
         </unit>
         <!-- missing data
@@ -3130,30 +3181,70 @@
             <abstract-unit id="W-WIWI-L-MW12c" />
         </unit>
         -->
+        <unit id="42342" title="Umsatzsteuerrecht" semester="2,4">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW13f"/>
+        </unit>
+        <unit id="42343" title="Einkommensteuerrecht" semester="2,4">
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW13e"/>
+        </unit>
+        <unit id="42344" title="Erbschaft- und Schenkungsteuerrecht sowie Unternehmensnachfolge"
+              semester="1,3">
+            <group>
+                <session day="mon" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW13a"/>
+        </unit>
+        <unit id="42345" title="Internationales Steuerrecht und Außensteuerrecht" semester="1,3">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW13b"/>
+        </unit>
+        <unit id="42346" title="Umwandlungssteuerrecht" semester="1,3">
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW13c"/>
+        </unit>
+        <unit id="423471"
+              title="Vertiefung Unternehmenssteuerrecht, insbes. Konzernsteuerrecht (Unternehmenssteuerrecht II)"
+              semester="1,3">
+            <group>
+                <session day="tue" time="6" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW13d"/>
+        </unit>
         <unit id="129450" title="Monetäre Ökonomik" semester="1,3">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
-				<session day="thu" time="4" duration="2" rhythm="0"/>
-			</group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW14a"/>
         </unit>
         <unit id="23123" title="Monetäre Ökonomik - Übung" semester="1,3">
             <group>
-                <session day="mon" time="1" duration="1" rhythm="3" />
+                <session day="mon" time="1" duration="1" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW14b" />
+            <abstract-unit id="W-WIWI-L-MW14b"/>
         </unit>
 
-        <unit id="24444" title="Topics in International Trade and Monetary Economics" semester="1,3">
+        <unit id="24444" title="Topics in International Trade and Monetary Economics"
+              semester="1,3">
             <group>
-                <session day="sat" time="1" duration="10" rhythm="3" />
+                <session day="sat" time="1" duration="10" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW14c" />
-            <abstract-unit id="W-WIWI-L-MW28c" />
+            <abstract-unit id="W-WIWI-L-MW14c"/>
+            <abstract-unit id="W-WIWI-L-MW28c"/>
         </unit>
-        <unit id="125116" title="Operative Funktionen des Personalmanagements" semester="1,2,3,4">
+        <unit id="125116" title="Personalführung: Theorie und Gestaltung" semester="1,2,3,4">
             <group>
-                <session day="tue" time="1" duration="2" rhythm="0"/>
+                <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW16a"/>
         </unit>
@@ -3167,8 +3258,8 @@
         <unit id="130495" title="Grundlagen des Arbeitsrechts" semester="1,2,3,4">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
-				<session day="wed" time="3" duration="2" rhythm="0"/>
-			</group>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW16c"/>
         </unit>
         <unit id="129436" title="Personalforschung und empirisches Studienprojekt"
@@ -3188,7 +3279,7 @@
             <group>
                 <session day="tue" time="1" duration="10" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW17b" />
+            <abstract-unit id="W-WIWI-L-MW17b"/>
         </unit>
         <unit id="135860" title="Empirische Entrepreneurshipforschung" semester="2,3">
             <group>
@@ -3241,15 +3332,15 @@
         <unit id="130371" title="Advanced Microeconomics" semester="3">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
-				<session day="fri" time="2" duration="2" rhythm="0"/>
-			</group>
+                <session day="fri" time="2" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW31a"/>
         </unit>
         <unit id="130455" title="Advanced Macroeconomics" semester="3">
             <group>
-                <session day="fri" time="1" duration="10" rhythm="3" />
+                <session day="fri" time="1" duration="10" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW31b" />
+            <abstract-unit id="W-WIWI-L-MW31b"/>
         </unit>
         <unit id="130295" title="Kapitalmarktorientierte Rechnungslegung" semester="1,3">
             <group>
@@ -3277,13 +3368,13 @@
         </unit>
         <unit id="137575" title="Financial Management in Entrepreneurial Firms" semester="2,4">
             <group>
-                <session day="thu" time="2" duration="2" rhythm="0"/>
+                <session day="thu" time="2" duration="4" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW42a"/>
         </unit>
         <unit id="137581" title="Venture Capital and Private Equity" semester="2,4">
             <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
+                <session day="thu" time="2" duration="4" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW42b"/>
         </unit>
@@ -3332,6 +3423,44 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW46a"/>
         </unit>
+        <unit id="1377683" title="Bank Management and Financial Service" semester="2,4">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0"/>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW47a"/>
+        </unit>
+        <unit id="1377699" title="Repetitorium zur Unternehmensbesteuerung" semester="1,3">
+            <group>
+                <session day="fri" time="5" duration="2" rhythm="3"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW49a"/>
+        </unit>
+        <unit id="1377698" title="Internationale Unternehmensbesteuerung" semester="1,3">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW49b"/>
+        </unit>
+        <unit id="1377697" title="Besteuerung von Konzernunternehmungen" semester="2,4">
+            <group>
+                <session day="tue" time="3" duration="4" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW49c"/>
+        </unit>
+        <unit id="1377696" title="Seminar zur betriebswirtschaftlichen Steuerlehre" semester="2,4">
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW49d"/>
+        </unit>
+        <unit id="1377695" title="Ausgewählte Probleme der steuerlichen Gewinnermittlung"
+              semester="2,4">
+            <group>
+                <session day="fri" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WIWI-L-MW49e"/>
+        </unit>
         <unit id="137769" title="Prüfungsfälle Examen(fakultativ)" semester="1,3">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
@@ -3355,8 +3484,8 @@
         <unit id="137175" title="Netzwerk- und Informationsgüterökonomik" semester="2,4">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
-				<session day="thu" time="5" duration="2" rhythm="0"/>
-			</group>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW60a"/>
         </unit>
         <unit id="136854" title="Regulierungsökonomik: Theorie" semester="2,4">
@@ -3383,43 +3512,47 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW62b"/>
         </unit>
-        <unit id="135668" title="Advanced Econometrics I" semester="2,3">
+        <unit id="135668" title="Advanced Econometrics I" semester="2,3,4">
             <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
-				<session day="tue" time="3" duration="2" rhythm="0"/>
-			</group>
+                <session day="tue" time="3" duration="2" rhythm="3"/>
+                <session day="tue" time="4" duration="2" rhythm="3"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW64a"/>
         </unit>
-        <unit id="137619" title="Übung zu Advanced Econometrics I" semester="2,3">
+        <unit id="137619" title="Übung zu Advanced Econometrics I" semester="2,3,4">
             <group>
-                <session day="thu" time="4" duration="2" rhythm="0"/>
-			</group>
-			<group>
-				<session day="thu" time="3" duration="2" rhythm="0"/>
-			</group>
+                <session day="thu" time="4" duration="2" rhythm="3"/>
+            </group>
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="3"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW64b"/>
         </unit>
         <unit id="137638" title="Advanced Econometrics II" semester="2,4">
             <group>
-                <session day="tue" time="3" duration="2" rhythm="0"/>
-				<session day="thu" time="5" duration="2" rhythm="0"/>
-			</group>
+                <session day="tue" time="2" duration="2" rhythm="3"/>
+                <session day="thu" time="5" duration="2" rhythm="3"/>
+                <session day="fri" time="2" duration="2" rhythm="3"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW65a"/>
         </unit>
         <unit id="137730" title="Übung zu Advanced Econometrics II" semester="2,4">
             <group>
-                <session day="tue" time="4" duration="2" rhythm="0"/>
+                <session day="tue" time="2" duration="2" rhythm="3"/>
             </group>
-			<group>
-                <session day="thu" time="4" duration="2" rhythm="0"/>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="3"/>
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="3"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW65b"/>
         </unit>
         <unit id="130538" title="Advanced Empirical Economics" semester="3">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
-				<session day="tue" time="3" duration="2" rhythm="0"/>
-			</group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="W-WIWI-L-MW66a"/>
         </unit>
         <unit id="135670" title="Übung zu Advanced Empirical Economics" semester="3">
@@ -3433,9 +3566,9 @@
         </unit>
         <unit id="140534" title="Rohstoffmärkte: Modellierung und Bewertung" semester="2,4">
             <group>
-                <session day="mon" time="1" duration="2" rhythm="3" />
+                <session day="mon" time="1" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW67a" />
+            <abstract-unit id="W-WIWI-L-MW67a"/>
         </unit>
         <unit id="140535" title="Rohstoffmärkte: Entwicklung von Marktsegmenten" semester="2,4">
             <group>
@@ -3469,15 +3602,15 @@
         </unit>
         <unit id="137780" title="Competition Law and Policy" semester="4">
             <group>
-                <session day="tue" time="2" duration="2" rhythm="0"/>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW70a"/>
         </unit>
         <unit id="64332" title="Innovation and Property Rights" semester="4">
             <group>
-                <session day="fri" time="6" duration="2" rhythm="3" />
+                <session day="fri" time="6" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW70b" />
+            <abstract-unit id="W-WIWI-L-MW70b"/>
         </unit>
         <unit id="142525" title="Collusion" semester="3">
             <group>
@@ -3503,15 +3636,15 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW72b"/>
         </unit>
-        <unit id="129495" title="Empirische Industrieökonomik" semester="1,3">
+        <unit id="129495" title="Empirische Industrieökonomik" semester="2,4">
             <group>
-                <session day="wed" time="5" duration="2" rhythm="0"/>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW73a"/>
         </unit>
-        <unit id="129499" title="Empirische Industrieökonomik - Übung" semester="1,3">
+        <unit id="129499" title="Empirische Industrieökonomik - Übung" semester="2,4">
             <group>
-                <session day="mon" time="4" duration="2" rhythm="0"/>
+                <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WIWI-L-MW73b"/>
         </unit>
@@ -3531,17 +3664,19 @@
             </group>
             <abstract-unit id="W-WIWI-L-MW74b"/>
         </unit>
-        <unit id="42347" title="Theorie der wirtschaftspolitischen Beratung I" semester="2">
+        <unit id="42347" title="Theorie der wirtschaftspolitischen Beratung I" semester="2,4">
             <group>
-                <session day="fri" time="6" duration="2" rhythm="3" />
+                <session day="wed" time="5" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW75a" />
+            <abstract-unit id="W-WIWI-L-MW75a"/>
         </unit>
-        <unit id="75432" title="Ausgewählte Felder der wirtschaftspolitischen Beratung in der Praxis I" semester="2">
+        <unit id="75432"
+              title="Ausgewählte Felder der wirtschaftspolitischen Beratung in der Praxis I"
+              semester="2,4">
             <group>
-                <session day="fri" time="6" duration="2" rhythm="3" />
+                <session day="fri" time="6" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="W-WIWI-L-MW75b" />
+            <abstract-unit id="W-WIWI-L-MW75b"/>
         </unit>
         <unit id="129248" title="Econometrics" semester="1">
             <group>
@@ -3617,12 +3752,12 @@
             </group>
             <abstract-unit id="W-WICHEM-M-MoPoSb"/>
         </unit>
-		<unit id="4898" title="Übungen zu den Pflichtvorlesungen" semester="2">
-			<group>
-				<session day="thu" time="4" duration="2" rhythm="0"/>
-			</group>
-			<abstract-unit id="W-WICHEM-M-MoPoSc"/>
-		</unit>
+        <unit id="4898" title="Übungen zu den Pflichtvorlesungen" semester="2">
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WICHEM-M-MoPoSc"/>
+        </unit>
         <unit id="129200" title="Modul Physikalische Chemie" semester="1">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
@@ -3640,12 +3775,12 @@
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="W-WICHEM-L-PC0-WiCb"/>
-		</unit>
-		<unit id="4233" title="Übung Mathematik für Wirtschaftschemiker" semester="1">
-		<group>
-			<session day="tue" time="1" duration="2" rhythm="0"/>
-		</group>
-		<abstract-unit id="W-WICHEM-L-PC0-WiCc"/>
+        </unit>
+        <unit id="4233" title="Übung Mathematik für Wirtschaftschemiker" semester="1">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="W-WICHEM-L-PC0-WiCc"/>
         </unit>
         <unit id="129003" title="Anorganische und Allgemeine Chemie" semester="1">
             <group>

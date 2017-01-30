@@ -2,9 +2,12 @@
 <ModulBaum short-name="wiwi" name="Wirtschaftswissenschaftliche Fakultät der HHU Düsseldorf">
     <b cp="146" abschl="ba" stg="wichem" kzfa="H" pversion="2013" name="Wirtschaftschemie Bachelor">
         <l name="Pflichtmodule" min-cp="146" max-cp="146">
-            <m cp="10" name="C1-WiC: Einführung in die Allgemeine und Anorganische Chemie" pordnr="33630"/>
-            <m cp="8" name="PCO-WiC: Mathematische Methoden und Einführung in die PC" pordnr="33633"/>
-            <m cp="12" name="BB01: Einführung in die BWL, Finanzbuchführung, Absatz und Beschaffung" pordnr="33632"/>
+            <m cp="10" name="C1-WiC: Einführung in die Allgemeine und Anorganische Chemie"
+               pordnr="33630"/>
+            <m cp="8" name="PCO-WiC: Mathematische Methoden und Einführung in die PC"
+               pordnr="33633"/>
+            <m cp="12" name="BB01: Einführung in die BWL, Finanzbuchführung, Absatz und Beschaffung"
+               pordnr="33632"/>
             <m cp="10" name="C2-WiC: Chemie der Elemente" pordnr="33634"/>
             <m cp="12" name="BB02: Rechnungswesen" pordnr="33636"/>
             <m cp="8" name="POC: Prinzipien der Organischen Chemie" pordnr="33637"/>
@@ -48,24 +51,24 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-			<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
         </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
             <l name="Wahlpflichtmodule BWL" min-cp="36" max-cp="36">
-				<m cp="12" name="BW01: Organisation und Personal" pordnr="40344"/>
-				<m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
-				<m cp="12" name="BW05: Accounting" pordnr="40347"/>
-				<m cp="12" name="BW06: Grundlagen der Betriebswirtschaftlichen Steuerlehre I"
-               pordnr="40348"/>
-				<m cp="12" name="BW07: Marketing" pordnr="40350"/>
-				<m cp="12" name="BW16: Betriebswirtschaftliche Steuerlehre II" pordnr="40349"/>
-				<m cp="12" name="BW17: Management" pordnr="40352"/>
-				<m cp="12" name="BW19: Entrepreneurship und Finanzierung" pordnr="40353"/>
-				<m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
-				<m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40374"/>
-			</l>
-			
-			<l name="Wahlpflichtmodule VWL" min-cp="12" max-cp="24">
+                <m cp="12" name="BW01: Organisation und Personal" pordnr="40344"/>
+                <m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
+                <m cp="12" name="BW05: Accounting" pordnr="40347"/>
+                <m cp="12" name="BW06: Grundlagen der Betriebswirtschaftlichen Steuerlehre I"
+                   pordnr="40348"/>
+                <m cp="12" name="BW07: Marketing" pordnr="40350"/>
+                <m cp="12" name="BW16: Betriebswirtschaftliche Steuerlehre II" pordnr="40349"/>
+                <m cp="12" name="BW17: Management" pordnr="40352"/>
+                <m cp="12" name="BW19: Entrepreneurship und Finanzierung" pordnr="40353"/>
+                <m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
+                <m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40374"/>
+            </l>
+
+            <l name="Wahlpflichtmodule VWL" min-cp="12" max-cp="24">
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40351"/>
                 <m cp="12" name="BW11: Geld und Währung" pordnr="40357"/>
                 <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40361"/>
@@ -83,14 +86,14 @@
                 <m cp="12" name="BW31: Innovationsökonomik" pordnr="40385"/>
                 <m cp="12" name="BW32: Empirical Public Economics" pordnr="40600"/>
             </l>
-			<l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="12">
-				<m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
-				<m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
-				<m cp="12" name="BW18: Wirtschaftsgeschichte" pordnr="40365"/>
-				<m cp="12" name="BW30: Modernes Japan" pordnr="40366"/>
-			</l>
-		</l>
-	</b>
+            <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="12">
+                <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
+                <m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
+                <m cp="12" name="BW18: Wirtschaftsgeschichte" pordnr="40365"/>
+                <m cp="12" name="BW30: Modernes Japan" pordnr="40366"/>
+            </l>
+        </l>
+    </b>
     <b cp="154" abschl="ba" stg="bwlaccountingbwl" kzfa="h" pversion="2016"
        name="Betriebswirtschaftslehre Bachelor - Schwerpunkt Accounting and Taxation nur BWL">
         <l name="Pflichtmodule" min-cp="94" max-cp="94">
@@ -107,8 +110,8 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-        	<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-		</l>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
             <l name="Wahlpflichtmodule BWL" min-cp="36" max-cp="36">
                 <l name="Wahlpflichtmodule Schwerpunkt" min-cp="36" max-cp="36">
@@ -142,11 +145,11 @@
                 <m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
                 <m cp="12" name="BW18: Wirtschaftsgeschichte" pordnr="40365"/>
                 <m cp="12" name="BW30: Modernes Japan" pordnr="40366"/>
-				<m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
-			</l>
+                <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
+            </l>
         </l>
     </b>
-	    <b cp="154" abschl="ba" stg="bwlaccountingstr" kzfa="h" pversion="2016"
+    <b cp="154" abschl="ba" stg="bwlaccountingstr" kzfa="h" pversion="2016"
        name="Betriebswirtschaftslehre Bachelor - Schwerpunkt Accounting and Taxation mit Steuerrecht">
         <l name="Pflichtmodule" min-cp="94" max-cp="94">
             <m cp="12" name="BB01: Einführung in die Betriebswirtschaftslehre" pordnr="130069"/>
@@ -162,26 +165,26 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-        	<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-		</l>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
-           <l name="Wahlplichtmodule BWL" min-cp="36" max-cp="36">
-			<l name="Wahlpflichtmodule BWL Schwerpunkt" min-cp="24" max-cp="36">
-                <m cp="12" name="BW05: Accounting" pordnr="40347"/>
-                <m cp="12" name="BW06: Grundlagen der Betriebswirtschaftlichen Steuerlehre I"
+            <l name="Wahlplichtmodule BWL" min-cp="36" max-cp="36">
+                <l name="Wahlpflichtmodule BWL Schwerpunkt" min-cp="24" max-cp="36">
+                    <m cp="12" name="BW05: Accounting" pordnr="40347"/>
+                    <m cp="12" name="BW06: Grundlagen der Betriebswirtschaftlichen Steuerlehre I"
                        pordnr="40348"/>
-                <m cp="12" name="BW16: Betriebswirtschaftliche Steuerlehre II" pordnr="40349"/>
-                <m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40374"/>
-			</l>
-			<l name="Wahlpflichtmodule BWL Sonstige" min-cp="0" max-cp="12">
-				<m cp="12" name="BW01: Organisation und Personal" pordnr="40344"/>
-				<m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
-				<m cp="12" name="BW07: Marketing" pordnr="40350"/>
-				<m cp="12" name="BW17: Management" pordnr="40352"/>
-				<m cp="12" name="BW19: Entrepreneurship und Finanzierung" pordnr="40353"/>
-				<m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
-			</l>
-		   </l>
+                    <m cp="12" name="BW16: Betriebswirtschaftliche Steuerlehre II" pordnr="40349"/>
+                    <m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40374"/>
+                </l>
+                <l name="Wahlpflichtmodule BWL Sonstige" min-cp="0" max-cp="12">
+                    <m cp="12" name="BW01: Organisation und Personal" pordnr="40344"/>
+                    <m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
+                    <m cp="12" name="BW07: Marketing" pordnr="40350"/>
+                    <m cp="12" name="BW17: Management" pordnr="40352"/>
+                    <m cp="12" name="BW19: Entrepreneurship und Finanzierung" pordnr="40353"/>
+                    <m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
+                </l>
+            </l>
             <l name="Wahlpflichtmodule VWL" min-cp="12" max-cp="12">
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40351"/>
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40351"/>
@@ -202,14 +205,14 @@
                 <m cp="12" name="BW32: Empirical Public Economics" pordnr="40600"/>
             </l>
             <l name="Wahlpflichtmodule Sonstige Schwerpunkt" min-cp="12" max-cp="12">
-              <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>  
+                <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
 
             </l>
         </l>
     </b>
-        <b cp="154" abschl="ba" stg="bwlfinancebachelorbwl" kzfa="h" pversion="2016"
+    <b cp="154" abschl="ba" stg="bwlfinancebachelorbwl" kzfa="h" pversion="2016"
        name="Betriebswirtschaftslehre Bachelor - Schwerpunkt Finance nur BWL">
-                      <l name="Pflichtmodule" min-cp="94" max-cp="94">
+        <l name="Pflichtmodule" min-cp="94" max-cp="94">
             <m cp="12" name="BB01: Einführung in die Betriebswirtschaftslehre" pordnr="130069"/>
             <m cp="12" name="BB02: Rechnungswesen" pordnr="40331"/>
             <m cp="12" name="BB03: Finanzierung und Unternehmensführung" pordnr="40332"/>
@@ -223,15 +226,15 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-			<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-        </l>  
-			<l name="Wahlplichtmodule" min-cp="60" max-cp="60">	
-				<l name="Wahlpflichtmodule Schwerpunkt BWL" min-cp="36" max-cp="36">
-                    <m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
-                    <m cp="12" name="BW19: Entrepreneurship und Finanzierung" pordnr="40353"/>
-                    <m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
-                </l>
-	            <l name="Wahlpflichtmodule VWL" min-cp="12" max-cp="24">
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
+        <l name="Wahlplichtmodule" min-cp="60" max-cp="60">
+            <l name="Wahlpflichtmodule Schwerpunkt BWL" min-cp="36" max-cp="36">
+                <m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
+                <m cp="12" name="BW19: Entrepreneurship und Finanzierung" pordnr="40353"/>
+                <m cp="12" name="BW40: Kapitalmarkttheorie" pordnr="40373"/>
+            </l>
+            <l name="Wahlpflichtmodule VWL" min-cp="12" max-cp="24">
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40351"/>
                 <m cp="12" name="BW11: Geld und Währung" pordnr="40357"/>
                 <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40361"/>
@@ -253,12 +256,12 @@
                 <m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
                 <m cp="12" name="BW18: Wirtschaftsgeschichte" pordnr="40365"/>
                 <m cp="12" name="BW30: Modernes Japan" pordnr="40366"/>
-				<m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
-			</l>
-		</l>
-	
-	</b>
-	<b cp="154" abschl="ba" stg="bwlfinancebachelorvwl" kzfa="h" pversion="2016"
+                <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
+            </l>
+        </l>
+
+    </b>
+    <b cp="154" abschl="ba" stg="bwlfinancebachelorvwl" kzfa="h" pversion="2016"
        name="Betriebswirtschaftslehre Bachelor - Schwerpunkt Finance mit VWL">
         <l name="Pflichtmodule" min-cp="94" max-cp="94">
             <m cp="12" name="BB01: Einführung in die Betriebswirtschaftslehre" pordnr="130069"/>
@@ -274,8 +277,8 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-			<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-		</l>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
             <l name="Wahlpflichtmodule BWL" min-cp="36" max-cp="36">
                 <l name="Wahlpflichtmodule Schwerpunkt BWL" min-cp="24" max-cp="36">
@@ -298,27 +301,27 @@
                 <l name="Wahlpflichtmodule Schwerpunkt VWL" min-cp="12" max-cp="12">
                     <m cp="12" name="BW11: Geld und Währung" pordnr="40357"/>
                 </l>
-				<l name="Wahlpflichtmodule Sonstige VWL" min-cp="0" max-cp="12">
-					<m cp="12" name="BW10: Markt und Staat" pordnr="40351"/>
-					<m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40361"/>
-					<m cp="12" name="BW13: European Competition Policy" pordnr="40360"/>
-					<m cp="12" name="BW14: Wettbewerbstheorie und -politik" pordnr="40371"/>
-					<m cp="12" name="BW21: Institutionenökonomik" pordnr="40354"/>
-					<m cp="12" name="BW22: Medienökonomik" pordnr="40359"/>
-					<m cp="12" name="BW23: Empirical Economics" pordnr="40370"/>
-					<m cp="12" name="BW24: Verbraucherpolitik" pordnr="40369"/>
-					<m cp="12" name="BW25: Arbeitsmarkt" pordnr="40582"/>
-					<m cp="12" name="BW26: Gesundheitsökonomik" pordnr="40358"/>
-					<m cp="12" name="BW27: Recht und Ökonomie" pordnr="40412"/>
-					<m cp="12" name="BW28: Außenhandel" pordnr="40368"/>
-					<m cp="12" name="BW29: Europäische Integration" pordnr="40367"/>
-					<m cp="12" name="BW31: Innovationsökonomik" pordnr="40385"/>
-					<m cp="12" name="BW32: Empirical Public Economics" pordnr="40600"/>
-				</l>
-			</l>
+                <l name="Wahlpflichtmodule Sonstige VWL" min-cp="0" max-cp="12">
+                    <m cp="12" name="BW10: Markt und Staat" pordnr="40351"/>
+                    <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40361"/>
+                    <m cp="12" name="BW13: European Competition Policy" pordnr="40360"/>
+                    <m cp="12" name="BW14: Wettbewerbstheorie und -politik" pordnr="40371"/>
+                    <m cp="12" name="BW21: Institutionenökonomik" pordnr="40354"/>
+                    <m cp="12" name="BW22: Medienökonomik" pordnr="40359"/>
+                    <m cp="12" name="BW23: Empirical Economics" pordnr="40370"/>
+                    <m cp="12" name="BW24: Verbraucherpolitik" pordnr="40369"/>
+                    <m cp="12" name="BW25: Arbeitsmarkt" pordnr="40582"/>
+                    <m cp="12" name="BW26: Gesundheitsökonomik" pordnr="40358"/>
+                    <m cp="12" name="BW27: Recht und Ökonomie" pordnr="40412"/>
+                    <m cp="12" name="BW28: Außenhandel" pordnr="40368"/>
+                    <m cp="12" name="BW29: Europäische Integration" pordnr="40367"/>
+                    <m cp="12" name="BW31: Innovationsökonomik" pordnr="40385"/>
+                    <m cp="12" name="BW32: Empirical Public Economics" pordnr="40600"/>
+                </l>
+            </l>
             <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="12">
                 <m cp="12" name="BW08: Steuerrecht" pordnr="40540"/>
-				<m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
+                <m cp="12" name="BW09: Datenanalyse" pordnr="40364"/>
                 <m cp="12" name="BW18: Wirtschaftsgeschichte" pordnr="40365"/>
                 <m cp="12" name="BW30: Modernes Japan" pordnr="40366"/>
             </l>
@@ -340,8 +343,8 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-       		<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-	   </l>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
             <l name="Wahlpflichtmodule BWL" min-cp="36" max-cp="36">
                 <l name="Wahlpflichtmodule Schwerpunkt" min-cp="36" max-cp="36">
@@ -394,8 +397,8 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BM02: Mathematik II" pordnr="40339"/>
-			<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-		</l>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
             <l name="Wahlpflichtmodule VWL" min-cp="24" max-cp="24">
                 <l name="Wahlpflichtmodule Schwerpunkt" min-cp="24" max-cp="24">
@@ -424,7 +427,7 @@
                 <m cp="12" name="BW02: Bank und Versicherungsmanagement" pordnr="40345"/>
                 <m cp="12" name="BW05: Accounting" pordnr="40347"/>
                 <m cp="12" name="BW06: Grundlagen der Betriebswirtschaftlichen Steuerlehre I"
-						   pordnr="40348"/>
+                   pordnr="40348"/>
                 <m cp="12" name="BW07: Marketing" pordnr="40350"/>
                 <m cp="12" name="BW16: Betriebswirtschaftliche Steuerlehre II" pordnr="40349"/>
                 <m cp="12" name="BW17: Management" pordnr="40352"/>
@@ -450,8 +453,8 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-        	<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-		</l>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
             <l name="Wahlpflichtmodule VWL" min-cp="24" max-cp="24">
                 <l name="Wahlpflichtmodule Schwerpunkt" min-cp="24" max-cp="24">
@@ -506,8 +509,8 @@
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
             <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
-        	<m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
-		</l>
+            <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
+        </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
             <l name="Wahlpflichtmodule VWL" min-cp="24" max-cp="24">
                 <l name="Wahlpflichtmodule Schwerpunkt" min-cp="24" max-cp="24">
@@ -864,7 +867,7 @@
             </l>
         </l>
     </b>
-    	<b cp="154" abschl="ba" stg="vwlunternehmensfuehrungbachelor" kzfa="h" pversion="2015"
+    <b cp="154" abschl="ba" stg="vwlunternehmensfuehrungbachelor" kzfa="h" pversion="2015"
        name="Bachelor Volkswirtschaftslehre - Schwerpunkt Unternehmensführung">
         <l name="Pflichtmodule" min-cp="94" max-cp="94">
             <l name="Pflichtmodule-vepflichtend" min-cp="88" max-cp="88">
@@ -887,13 +890,13 @@
             </l>
         </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
-                <l name="Wahlpflichtmodule BWL Schwerpunkt" min-cp="24" max-cp="24">
-                    <m cp="12" name="BW01: Organisation und Personal" pordnr="40390"/>
-                    <m cp="12" name="BW05: Accounting" pordnr="40393"/>
-                    <m cp="12" name="BW07: Marketing" pordnr="40395"/>
-                    <m cp="12" name="BW17: Management" pordnr="40352"/>
-                    <m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40400"/>
-                </l>
+            <l name="Wahlpflichtmodule BWL Schwerpunkt" min-cp="24" max-cp="24">
+                <m cp="12" name="BW01: Organisation und Personal" pordnr="40390"/>
+                <m cp="12" name="BW05: Accounting" pordnr="40393"/>
+                <m cp="12" name="BW07: Marketing" pordnr="40395"/>
+                <m cp="12" name="BW17: Management" pordnr="40352"/>
+                <m cp="12" name="BW41: Praxisseminar Accounting" pordnr="40400"/>
+            </l>
             <l name="Wahlpflichtmodule VWL" min-cp="36" max-cp="36">
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40401"/>
                 <m cp="12" name="BW11: Geld und Währung" pordnr="40402"/>
@@ -913,7 +916,7 @@
             </l>
         </l>
     </b>
-	<b cp="154" abschl="ba" stg="vwlwettbewerb" kzfa="h" pversion="2015"
+    <b cp="154" abschl="ba" stg="vwlwettbewerb" kzfa="h" pversion="2015"
        name="Volkswirtschaftslehre - Schwerpunkt Wettbewerbsökonomie">
         <l name="Pflichtmodule" min-cp="94" max-cp="94">
             <l name="Pflichtmodule-vepflichtend" min-cp="88" max-cp="88">
@@ -1018,7 +1021,7 @@
             </l>
             <l name="Wahlpflichtmodule BWL" min-cp="32" max-cp="48">
                 <m cp="16" name="MW05: Marketing" pordnr="40460"/>
-                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                 <m cp="16" name="MW16: Personalmanagement" pordnr="40462"/>
                 <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40463"/>
                 <m cp="8" name="MW18: Organizational Behavior" pordnr="40464"/>
@@ -1036,11 +1039,12 @@
                    pordnr="11111"/>
                 <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
                 <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
+                <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="4342342"/>
             </l>
             <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
                 <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
                 <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40539"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
                 <m cp="8" name="MW80: Intermediate Econometrics" pordnr="40521"/>
             </l>
         </l>
@@ -1057,14 +1061,14 @@
         <l name="Wahlpflichtmodule" min-cp="48" max-cp="48">
             <l name="Wahlpflichtmodule BWL" min-cp="32" max-cp="48">
                 <l name="Wahlpflichtmodule Schwerpunkt" min-cp="32" max-cp="48">
-                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                     <m cp="8" name="MW40: Advanced Theories in Accounting and Control"
                        pordnr="40564"/>
                     <m cp="8" name="MW41: Accounting and Control: Research and Practice"
                        pordnr="40565"/>
                     <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
                     <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
-                    <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                    <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
                 </l>
                 <l name="Wahlpflichtmodule Sonstige BWL" min-cp="0" max-cp="16">
                     <m cp="16" name="MW05: Marketing" pordnr="40460"/>
@@ -1080,6 +1084,7 @@
                     <m cp="8" name="MW42: Advanced Entrepreneurial Finance" pordnr="40474"/>
                     <m cp="8" name="MW43: Entrepreneurial Finance: Research and Practice"
                        pordnr="11111"/>
+                    <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="4342342"/>
                 </l>
             </l>
             <l name="Wahlpflichtmodule VWL" min-cp="0" max-cp="16">
@@ -1135,7 +1140,7 @@
                 </l>
                 <l name="Wahlpflichtmodule Sonstige BWL" min-cp="0" max-cp="16">
                     <m cp="16" name="MW05: Marketing" pordnr="40460"/>
-                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                     <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40463"/>
                     <m cp="8" name="MW46: Finanzintermediation" pordnr="40466"/>
                     <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="40467"/>
@@ -1151,7 +1156,7 @@
                        pordnr="11111"/>
                     <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
                     <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
-
+                    <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="4342342"/>
                 </l>
             </l>
             <l name="Wahlpflichtmodule VWL" min-cp="0" max-cp="16">
@@ -1183,7 +1188,7 @@
             <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
                 <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40539"/>
                 <m cp="8" name="MW80: Intermediate Econometrics" pordnr="40521"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
             </l>
         </l>
     </b>
@@ -1211,7 +1216,7 @@
                     <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
                 </l>
                 <l name="Wahlpflichtmodule Sonstige BWL" min-cp="0" max-cp="16">
-                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                     <m cp="8" name="MW46: Finanzintermediation" pordnr="40466"/>
                     <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="40467"/>
                     <m cp="8" name="MW48: Fallstudienwettbewerb MBA-ICC Montreal" pordnr="40468"/>
@@ -1221,6 +1226,7 @@
                     <m cp="8" name="MW43: Entrepreneurial Finance: Research and Practice"
                        pordnr="11111"/>
                     <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
+                    <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="4342342"/>
                 </l>
             </l>
             <l name="Wahlpflichtmodule VWL" min-cp="0" max-cp="16">
@@ -1253,7 +1259,7 @@
                 <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
                 <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40539"/>
                 <m cp="8" name="MW80: Intermediate Econometrics" pordnr="40521"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
             </l>
         </l>
     </b>
@@ -1276,7 +1282,7 @@
                 </l>
                 <l name="Wahlpflichtmodule Sonstige BWL" min-cp="0" max-cp="16">
                     <m cp="16" name="MW05: Marketing" pordnr="40460"/>
-                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                    <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                     <m cp="16" name="MW16: Personalmanagement" pordnr="40462"/>
                     <m cp="8" name="MW18: Organizational Behavior" pordnr="40464"/>
                     <m cp="8" name="MW19: Personalwirtschaftliches Praxisseminar" pordnr="40465"/>
@@ -1291,6 +1297,7 @@
                        pordnr="40565"/>
                     <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
                     <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
+                    <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="4342342"/>
                 </l>
             </l>
             <l name="Wahlpflichtmodule VWL" min-cp="0" max-cp="16">
@@ -1323,7 +1330,7 @@
                 <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
                 <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40539"/>
                 <m cp="8" name="MW80: Intermediate Econometrics" pordnr="40521"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
             </l>
         </l>
     </b>
@@ -1343,17 +1350,15 @@
                     <m cp="8" name="MW65: Advanced Econometrics 2" pordnr="40490"/>
                     <m cp="8" name="MW66: Advanced Topics in Empirical Economics" pordnr="40493"/>
                 </l>
-                <l name="Wahlpflichtmodule VWL Schwerpunkt" min-cp="0" max-cp="8">
+                <l name="Wahlpflichtmodule Sonstige Schwerpunkt" min-cp="0" max-cp="8">
                     <m cp="8" name="MW67: Commodity Markets" pordnr="40494"/>
                     <m cp="8" name="MW73: Empirische Wettbewerbsökonomik" pordnr="40500"/>
-                </l>
-                <l name="Wahlpflichtmodule Sonstige Schwerpunkt" min-cp="0" max-cp="8">
                     <m cp="8" name="MW80: Intermediate Econometrics" pordnr="40521"/>
                 </l>
             </l>
             <l name="Wahlplichtmodule BWL" min-cp="32" max-cp="32">
                 <m cp="16" name="MW05: Marketing" pordnr="40460"/>
-                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                 <m cp="16" name="MW16: Personalmanagement" pordnr="40462"/>
                 <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40463"/>
                 <m cp="8" name="MW18: Organizational Behavior" pordnr="40464"/>
@@ -1371,32 +1376,7 @@
                    pordnr="11111"/>
                 <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
                 <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
-            </l>
-            <l name="Wahlpflichtmodule VWL Sonstige" min-cp="0" max-cp="0">
-                <m cp="16" name="MW08: Internationale Finanzmärkte" pordnr="40482"/>
-                <m cp="16" name="MW14: Monetäre Ökonomik" pordnr="40483"/>
-                <m cp="16" name="MW28: International Trade" pordnr="40484"/>
-                <m cp="16" name="MW31: Advanced Economic Theory" pordnr="40485"/>
-                <m cp="8" name="MW60: Netzwerk- und Informationsgüterökonomik" pordnr="40492"/>
-                <m cp="8" name="MW61: Regulierungsökonomik" pordnr="40489"/>
-                <m cp="8" name="MW62: Advanced Labour Economics" pordnr="40487"/>
-                <m cp="8" name="MW63: Ökonomie der Sozialpolitik" pordnr="40488"/>
-                <m cp="8" name="MW68: Spieltheorie" pordnr="40495"/>
-                <m cp="8" name="MW69: Industrieökonomik" pordnr="40496"/>
-                <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40497"/>
-                <m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40498"/>
-                <m cp="8" name="MW72: Competition Policy and Theory" pordnr="40499"/>
-                <m cp="8" name="MW74: Wirtschaftspolitische Beratung und Politikevaluation"
-                   pordnr="40501"/>
-                <m cp="8" name="MW75: Wirtschaftspolitische Beratung: Theorie und Praxis"
-                   pordnr="40502"/>
-                <m cp="8" name="MW76: Experimentelle Ökonomie" pordnr="40503"/>
-                <m cp="8" name="MW77: Verhaltensökonomie" pordnr="40504"/>
-            </l>
-            <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="0">
-                <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
-                <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40539"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="8" name="MW47: Bank Management and Financial Services" pordnr="4342342"/>
             </l>
         </l>
     </b>
@@ -1439,7 +1419,7 @@
             </l>
             <l name="Wahlpflichtmodule BWL" min-cp="0" max-cp="16">
                 <m cp="16" name="MW05: Marketing" pordnr="40560"/>
-                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40561"/>
+                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                 <m cp="16" name="MW16: Personalmanagement" pordnr="40562"/>
                 <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40563"/>
                 <m cp="8" name="MW40: Advanced Theories in Accounting and Control" pordnr="40591"/>
@@ -1461,7 +1441,7 @@
             <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
                 <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
                 <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40537"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
                 <m cp="8" name="MW80: Intermediate Econometrics" pordnr="40541"/>
             </l>
         </l>
@@ -1509,7 +1489,7 @@
             </l>
             <l name="Wahlpflichtmodule BWL" min-cp="0" max-cp="16">
                 <m cp="16" name="MW05: Marketing" pordnr="40460"/>
-                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                 <m cp="16" name="MW16: Personalmanagement" pordnr="40462"/>
                 <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40463"/>
                 <m cp="8" name="MW18: Organizational Behavior" pordnr="40475"/>
@@ -1531,7 +1511,7 @@
             <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
                 <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
                 <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40537"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
             </l>
         </l>
     </b>
@@ -1576,7 +1556,7 @@
             </l>
             <l name="Wahlplichtmodule BWL" min-cp="0" max-cp="16">
                 <m cp="16" name="MW05: Marketing" pordnr="40460"/>
-                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="40461"/>
+                <m cp="16" name="MW49: Betriebswirtschaftliche Steuerlehre" pordnr="404616"/>
                 <m cp="16" name="MW16: Personalmanagement" pordnr="40462"/>
                 <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40463"/>
                 <m cp="8" name="MW18: Organizational Behavior" pordnr="40475"/>
@@ -1599,12 +1579,12 @@
                 <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
                 <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40537"/>
                 <m cp="8" name="MW80: Intermediate Econometrics" pordnr="40541"/>
-                <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
             </l>
         </l>
     </b>
-	<b  cp="91" abschl="ms" stg="vwlfinancevwl" kzfa="h" pversion="2015"
-        name="Volkswirtschaftslehre - Schwerpunkt VWL Finance">
+    <b cp="91" abschl="ms" stg="vwlfinancevwl" kzfa="h" pversion="2015"
+       name="Volkswirtschaftslehre - Schwerpunkt VWL Finance">
         <l name="Pflichtmodule" min-cp="27" max-cp="27">
             <m cp="6" name="MV01: Makroökonomik" pordnr="40553"/>
             <m cp="6" name="MV03: Mikroökonomik" pordnr="40554"/>
@@ -1618,7 +1598,7 @@
                     <m cp="16" name="MW14: Monetäre Ökonomik" pordnr="40570"/>
                     <m cp="16" name="MW31: Advanced Economic Theory" pordnr="40573"/>
                 </l>
-				<l name="Wahlpflichtmodule Sonstige VWL" min-cp="0" max-cp="32">
+                <l name="Wahlpflichtmodule Sonstige VWL" min-cp="0" max-cp="32">
                     <m cp="16" name="MW24: Experimental and Behavioural Economics" pordnr="40571"/>
                     <m cp="16" name="MW28: International Trade" pordnr="40572"/>
                     <m cp="8" name="MW60: Netzwerk- und Informationsgüterökonomik" pordnr="40574"/>
@@ -1630,36 +1610,42 @@
                     <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
                     <m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40585"/>
                     <m cp="8" name="MW72: Competition Policy and Theory" pordnr="40586"/>
-                    <m cp="8" name="MW74: Wirtschaftspolitische Beratung und Politikevaluation" pordnr="40588"/>
-                    <m cp="8" name="MW75: Wirtschaftspolitische Beratung: Theorie und Praxis" pordnr="40589"/>
+                    <m cp="8" name="MW74: Wirtschaftspolitische Beratung und Politikevaluation"
+                       pordnr="40588"/>
+                    <m cp="8" name="MW75: Wirtschaftspolitische Beratung: Theorie und Praxis"
+                       pordnr="40589"/>
                 </l>
-			</l>
-			<l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
+            </l>
+            <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
                 <l name="Wahlpflichtmodule BWL" min-cp="0" max-cp="16">
-                    <m cp="16" name="MW01: Verhalten und Personalführung in Organisationen" pordnr="40557"/>
+                    <m cp="16" name="MW01: Verhalten und Personalführung in Organisationen"
+                       pordnr="40557"/>
                     <m cp="16" name="MW05: Marketing" pordnr="40560"/>
                     <m cp="16" name="MW06: Betriebswirtschaftliche Steuerlehre" pordnr="40561"/>
                     <m cp="16" name="MW16: Personalmanagement" pordnr="40562"/>
                     <m cp="16" name="MW17: Entrepreneurial Management" pordnr="40563"/>
-                    <m cp="8" name="MW40: Advanced Theories in Accounting and Control" pordnr="40564"/>
-                    <m cp="8" name="MW41: Accounting and Control: Research and Practice" pordnr="40565"/>
+                    <m cp="8" name="MW40: Advanced Theories in Accounting and Control"
+                       pordnr="40564"/>
+                    <m cp="8" name="MW41: Accounting and Control: Research and Practice"
+                       pordnr="40565"/>
                     <m cp="8" name="MW45: Praxisseminar Unternehmensbewertung" pordnr="40568"/>
                     <m cp="16" name="MW03: Theorie der Finanzdienstleistungen" pordnr="40558"/>
                     <m cp="16" name="MW04: Finanzierung und Investition" pordnr="40559"/>
                     <m cp="8" name="MW42: Advanced Entrepreneurial Finance" pordnr="40566"/>
-                    <m cp="8" name="MW43: Entrepreneurial Finance: Research and Practice" pordnr="22222"/>
+                    <m cp="8" name="MW43: Entrepreneurial Finance: Research and Practice"
+                       pordnr="22222"/>
                     <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
-				</l>
+                </l>
                 <l name="Wahlpflichtmodule Sonstige" min-cp="0" max-cp="16">
                     <m cp="16" name="MW11: Wirtschaftspsychologie" pordnr="40538"/>
                     <m cp="16" name="MW12: Kunst- und Kulturmanagement" pordnr="40539"/>
-                    <m cp="16" name="MW13: Steuerrecht" pordnr="40540"/>
+                    <m cp="16" name="MW13: Steuerrecht" pordnr="40542"/>
                 </l>
             </l>
         </l>
     </b>
-	<b cp="91" abschl="ms" stg="vwlfinancebwl" kzfa="h" pversion="2015"
-        name="Volkswirtschaftslehre - Schwerpunkt BWL Finance">
+    <b cp="91" abschl="ms" stg="vwlfinancebwl" kzfa="h" pversion="2015"
+       name="Volkswirtschaftslehre - Schwerpunkt BWL Finance">
         <l name="Pflichtmodule" min-cp="27" max-cp="27">
             <m cp="6" name="MV01: Makroökonomik" pordnr="40553"/>
             <m cp="6" name="MV03: Mikroökonomik" pordnr="40554"/>
@@ -1669,32 +1655,37 @@
         <l name="Wahlpflichtmodule" min-cp="64" max-cp="64">
             <l name="Wahlpflichtmodule VWL" min-cp="48" max-cp="48">
                 <l name="Wahlpflichtmodule VWL Schwerpunkt" min-cp="16" max-cp="48">
-					<m cp="16" name="MW08: Internationale Finanzmärkte" pordnr="40569"/>
-					<m cp="16" name="MW14: Monetäre Ökonomik" pordnr="40570"/>
-					<m cp="16" name="MW31: Advanced Economic Theory" pordnr="40573"/>
+                    <m cp="16" name="MW08: Internationale Finanzmärkte" pordnr="40569"/>
+                    <m cp="16" name="MW14: Monetäre Ökonomik" pordnr="40570"/>
+                    <m cp="16" name="MW31: Advanced Economic Theory" pordnr="40573"/>
                 </l>
-				<l name="Wahlpflichtmodule VWL Sonstige" min-cp="0" max-cp="32">
-					<m cp="16" name="MW24: Experimental and Behavioural Economics" pordnr="40571"/>
-					<m cp="16" name="MW28: International Trade" pordnr="40572"/>
-					<m cp="8" name="MW60: Netzwerk- und Informationsgüterökonomik" pordnr="40574"/>
-					<m cp="8" name="MW61: Regulierungsökonomik" pordnr="40575"/>
-					<m cp="8" name="MW62: Advanced Labour Economics" pordnr="40576"/>
-					<m cp="8" name="MW63: Ökonomie der Sozialpolitik" pordnr="40577"/>
-					<m cp="8" name="MW68: Spieltheorie" pordnr="40582"/>
-					<m cp="8" name="MW69: Industrieökonomik" pordnr="40583"/>
-					<m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
-					<m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40585"/>
-					<m cp="8" name="MW72: Competition Policy and Theory" pordnr="40586"/>
-					<m cp="8" name="MW74: Wirtschaftspolitische Beratung und Politikevaluation" pordnr="40588"/>
-					<m cp="8" name="MW75: Wirtschaftspolitische Beratung: Theorie und Praxis" pordnr="40589"/>
-				</l>
-			</l>
-			<l name="Wahlpflichtmodule Schwerpunkt" min-cp="16" max-cp="16">
+                <l name="Wahlpflichtmodule VWL Sonstige" min-cp="0" max-cp="32">
+                    <m cp="16" name="MW24: Experimental and Behavioural Economics" pordnr="40571"/>
+                    <m cp="16" name="MW28: International Trade" pordnr="40572"/>
+                    <m cp="8" name="MW60: Netzwerk- und Informationsgüterökonomik" pordnr="40574"/>
+                    <m cp="8" name="MW61: Regulierungsökonomik" pordnr="40575"/>
+                    <m cp="8" name="MW62: Advanced Labour Economics" pordnr="40576"/>
+                    <m cp="8" name="MW63: Ökonomie der Sozialpolitik" pordnr="40577"/>
+                    <m cp="8" name="MW68: Spieltheorie" pordnr="40582"/>
+                    <m cp="8" name="MW69: Industrieökonomik" pordnr="40583"/>
+                    <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
+                    <m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40585"/>
+                    <m cp="8" name="MW72: Competition Policy and Theory" pordnr="40586"/>
+                    <m cp="8" name="MW74: Wirtschaftspolitische Beratung und Politikevaluation"
+                       pordnr="40588"/>
+                    <m cp="8" name="MW75: Wirtschaftspolitische Beratung: Theorie und Praxis"
+                       pordnr="40589"/>
+                </l>
+            </l>
+            <l name="Wahlpflichtmodule Schwerpunkt" min-cp="16" max-cp="16">
                 <m cp="16" name="MW03: Theorie der Finanzdienstleistungen" pordnr="40558"/>
                 <m cp="16" name="MW04: Finanzierung und Investition" pordnr="40559"/>
                 <m cp="8" name="MW42: Advanced Entrepreneurial Finance" pordnr="40566"/>
-                <m cp="8" name="MW43: Entrepreneurial Finance: Research and Practice" pordnr="22222"/>
+                <m cp="8" name="MW43: Entrepreneurial Finance: Research and Practice"
+                   pordnr="22222"/>
                 <m cp="8" name="MW44: Bankbilanzierung" pordnr="40567"/>
+
+
             </l>
         </l>
     </b>
