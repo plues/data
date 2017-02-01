@@ -267,15 +267,15 @@
         <module id="P-PSY-M-BPSY2" title="Biologische Psychologie II" pordnr="2505" elective-units="0">
             <abstract-unit id="P-PSY-L-BPSY2" title="Biologische Psychologie II" type="m" semester="4"/>
         </module>
-        <module id="P-PSY-M-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I"
+        <module id="P-PSY-M-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I"
                 pordnr="2506" elective-units="0">
-            <abstract-unit id="P-PSY-L-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I"
+            <abstract-unit id="P-PSY-L-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I"
                            type="m" semester="3"/>
         </module>
-        <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II"
+        <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II"
                 pordnr="2507" elective-units="0">
             <abstract-unit id="P-PSY-L-EMO2"
-                           title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" type="m"
+                           title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" type="m"
                            semester="4"/>
         </module>
         <module id="P-PSY-M-SOZ" title="Sozialpsychologie I" pordnr="2508" elective-units="0">
@@ -1441,13 +1441,13 @@
             </group>
             <abstract-unit id="P-PSY-L-BPSY2"/>
         </unit>
-        <unit id="EMO1" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" semester="3,5">
+        <unit id="EMO1" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" semester="3,5">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-PSY-L-EMO1"/>
         </unit>
-        <unit id="EMO2" title="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" semester="3,5">
+        <unit id="EMO2" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" semester="3,5">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
