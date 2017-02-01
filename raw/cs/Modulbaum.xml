@@ -196,11 +196,238 @@
             <m name="Biologische Psychologie II" pflicht="j" pordnr="2505" cp="4" />
         </l>
         <l name="Modul 3: Allgemeine Psychologie II und Sozialpsychologie I" min-cp="12" max-cp="12">
-            <m name="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion I" pflicht="j" pordnr="2506" cp="4" />
-            <m name="Allgemeine Psychologie II: Lernen, Gedächnis, Motivation, Emotion II" pflicht="j" pordnr="2507" cp="4" />
+            <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" pflicht="j" pordnr="2506" cp="4" />
+            <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" pflicht="j" pordnr="2507" cp="4" />
             <m name="Sozialpsychologie I" pflicht="j" pordnr="2508" cp="4" />
         </l>
     </b>
+
+<!-- Bachelor Informatik PO2016 -->
+<b abschl="bk" stg="cs" kzfa="H" cp="180" pversion="2016" name="Bachelor Informatik">
+        <l name="Grundlagenmodule" min-cp="60" max-cp="60">
+            <l name="Informatik" min-cp="44" max-cp="44">
+                <m name="Programmierung" pflicht="j" pordnr="1100" cp="10" />
+                <m name="Algorithmen und Datenstrukturen" pflicht="j" pordnr="1101" cp="10" />
+                <m name="Einführung Rechnernetze, Datenbanken und Betriebssysteme" pflicht="j" pordnr="1102" cp="5" />
+                <l name="Rechnerarchitektur" min-cp="9" max-cp="9">
+                    <m name="Rechnerarchitektur" pflicht="j" pordnr="1103" cp="9" />
+                    <m name="Hardwarenahe Programmierung" pflicht="j" pordnr="1104" cp="0"/>
+                </l>
+            </l>
+            <m name="Theoretische Informatik" pflicht="j" pordnr="1105" cp="10" />
+            <l name="Praktikum" min-cp="16" max-cp="16">
+                <m name="Professionelle Softwareentwicklung (Programmierpraktikum I)" pflicht="j" pordnr="1106" cp="8" />
+                <m name="Softwareentwicklung im Team (Programmierpraktikum II)" pflicht="j" pordnr="1107" cp="8" />
+            </l>
+        </l>
+        <l name="Pflichtbereich Mathematik" min-cp="40" max-cp="40">
+            <l name="Lineare Algebra I" min-cp="10" max-cp="10">
+                <m name="Lineare Algebra I" pflicht="j" pordnr="1200" cp="10" />
+            </l>
+            <l name="Analysis I" min-cp="10" max-cp="10">
+                <m name="Analysis I" pflicht="j" pordnr="1201" cp="10" />
+            </l>
+            <l name="Analysis II" min-cp="10" max-cp="10">
+                <m name="Analysis II" pflicht="j" pordnr="1202" cp="10" />
+            </l>
+            <l name="Angewandte Mathematik" min-cp="10" max-cp="10">
+                  <m name="Numerik I" pordnr="1203" cp="10" />
+                  <m name="Stochastik" pordnr="1204" cp="10" />
+            </l>
+        </l>
+        <l name="Schwerpunkt" min-cp="10" max-cp="10">
+            <l name="Datenbanken und Informationssysteme" min-cp="0" max-cp="10">
+                <m name="Datenbanksysteme (für BA Informatik)" pordnr="1300" cp="10" />
+            </l>
+            <l name="Rechnernetze" min-cp="0" max-cp="10">
+                <m name="Rechnernetze" pordnr="1301" cp="10" />
+            </l>
+            <l name="Softwaretechnik und Programmiersprachen" min-cp="0" max-cp="10">
+                <l name="Einführung in die logische Programmierung" min-cp="0" max-cp="5" >
+                    <m name="Einführung in die logische Programmierung" pordnr="1302" cp="5" />
+                </l>
+                <l name="Compilerbau" min-cp="0" max-cp="5">
+                    <m name="Compilerbau" pordnr="1303" cp="5" />
+                </l>
+                <l name="From NAND to Tetris" min-cp="0" max-cp="5">
+                    <m name="From NAND to Tetris" pordnr="1304" cp="5" />
+                </l>
+                <l name="Überblick künstliche Intelligenz" min-cp="0" max-cp="5">
+                    <m name="Überblick künstliche Intelligenz" pordnr="1305" cp="5" />
+                </l>
+            </l>
+            <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
+                <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1306" cp="10" />
+                <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1307" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
+            </l>
+            <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
+                <m name="Betriebssysteme" pordnr="1308" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1309" cp="5" />
+            </l>
+            <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
+                <m name="Graphenalgorithmen I" pordnr="1310" cp="5" />
+                <m name="Algorithmische Komplextitätstheorie" pordnr="1311" cp="5" />
+                <m name="Algorithmische Geometrie" pordnr="1311" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
+            </l>
+            <l name="Bioinformatik" min-cp="0" max-cp="10">
+                <m name="Algorithmen in der Bioinformatik" pordnr="1313" cp="5" />
+                <m name="Angewandte Bioinformatik" pordnr="1314" cp="5" />
+                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1315" cp="5" />
+            </l>
+            <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
+                <m name="Machine Learning" pordnr="1316" cp="10" />
+            </l>
+            <!-- currently do not have any abstract units
+            <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
+                <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
+            </l>
+            -->
+        </l>
+        <l name="Wahlpflicht" min-cp="20" max-cp="20">
+            <l name="Datenbanken und Informationssysteme" min-cp="0" max-cp="10">
+                <m name="Datenbanksysteme (für BA Informatik)" pordnr="1300" cp="10" />
+            </l>
+            <l name="Rechnernetze" min-cp="0" max-cp="10">
+                <m name="Rechnernetze" pordnr="1301" cp="10" />
+            </l>
+            <l name="Softwaretechnik und Programmiersprachen" min-cp="0" max-cp="10">
+                <l name="Einführung in die logische Programmierung" min-cp="0" max-cp="5" >
+                    <m name="Einführung in die logische Programmierung" pordnr="1302" cp="5" />
+                </l>
+                <l name="Compilerbau" min-cp="0" max-cp="5">
+                    <m name="Compilerbau" pordnr="1303" cp="5" />
+                </l>
+                <l name="From NAND to Tetris" min-cp="0" max-cp="5">
+                    <m name="From NAND to Tetris" pordnr="1304" cp="5" />
+                </l>
+                <l name="Überblick künstliche Intelligenz" min-cp="0" max-cp="5">
+                    <m name="Überblick künstliche Intelligenz" pordnr="1305" cp="5" />
+                </l>
+            </l>
+            <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
+                <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1306" cp="10" />
+                <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1307" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
+            </l>
+            <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
+                <m name="Betriebssysteme" pordnr="1308" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1309" cp="5" />
+            </l>
+            <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
+                <m name="Graphenalgorithmen I" pordnr="1310" cp="5" />
+                <m name="Algorithmische Komplextitätstheorie" pordnr="1311" cp="5" />
+                <m name="Algorithmische Geometrie" pordnr="1311" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
+            </l>
+            <l name="Bioinformatik" min-cp="0" max-cp="10">
+                <m name="Algorithmen in der Bioinformatik" pordnr="1313" cp="5" />
+                <m name="Angewandte Bioinformatik" pordnr="1314" cp="5" />
+                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1315" cp="5" />
+            </l>
+            <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
+                <m name="Machine Learning" pordnr="1316" cp="10" />
+            </l>
+        </l>
+    </b>
+    <b abschl="bk" stg="phy" kzfa="N" pversion="2016" name="Nebenfach Physik" cp="30">
+        <l name="Pflicht" min-cp="12" min-cp="12">
+            <m name="Mathematische Methoden der Physik" pflicht="j" pordnr="2100" cp="6" />
+            <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" />
+        </l>
+        <l name="Wahlpflicht" min-cp="18" min-cp="18">
+            <m name="Experimentelle Mechanik" pordnr="2102" cp="6" />
+            <m name="Optik" pordnr="2103" cp="6" />
+            <m name="Elektrizität und Magnetismus" pordnr="2104" cp="6" />
+            <m name="Theoretische Mechanik" pordnr="2105" cp="8" />
+            <m name="Mathematische Methoden II" pordnr="2106" cp="4" />
+            <m name="Grundpraktikum II" pordnr="2107" cp="7" />
+            <m name="Orientierung" pordnr="2108" cp="6" />
+            <m name="Elektrodynamik" pordnr="2109" cp="8" />
+            <m name="Atomphysik" pordnr="2110" cp="6" />
+            <m name="Thermodynamik" pordnr="2111" cp="6" />
+            <m name="Quantenmechanik" pordnr="2112" cp="8" />
+        </l>
+    </b>
+
+    <b abschl="bk" stg="bio" kzfa="N" pversion="2016" name="Nebenfach Biologie" cp="30">
+        <l name="Allgemeine Biologie" min-cp="10" max-cp="10">
+            <m name="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" pflicht="j" pordnr="2200" cp="5" />
+            <m name="Bio110: Zell- und Molekularbiologie" pflicht="j" pordnr="2201" cp="5" />
+        </l>
+        <l name="Genetik" min-cp="5" max-cp="5">
+            <m name="Bio250: Genetik" pflicht="j" pordnr="2202" cp="5" />
+        </l>
+        <l name="Ökologie und Evolution" min-cp="5" max-cp="5">
+            <m name="Bio260: Ökologie und Evolution" pflicht="j" pordnr="2203" cp="5" />
+        </l>
+        <l name="Mikrobiologie" min-cp="5" max-cp="5">
+            <m name="Bio240: Mikrobiologie" pflicht="j" pordnr="2204" cp="5" />
+        </l>
+        <l name="Wahlpflicht" min-cp="5" max-cp="5">
+            <m name="Bio210: Biochemie" pordnr="2206" cp="5" />
+            <m name="Bio230: Biophysik" pordnr="2207" cp="5" />
+        </l>
+    </b>
+
+    <b abschl="bk" stg="che" kzfa="N" pversion="2016" name="Nebenfach Chemie" cp="30">
+        <l name="Einführung in die Allgemeine und Anorganische Chemie (C1)" min-cp="8" max-cp="8">
+            <m name="Einführung in die Allgemeine und Anorganische Chemie (C1)" pflicht="j" pordnr="2300" cp="8" />
+        </l>
+        <l name="Organische Chemie für Studierende der Biologie und Nebenfächler" min-cp="6" max-cp="6">
+            <m name="Organische Chemie für Studierende der Biologie und Nebenfächler" pflicht="j" pordnr="2301" cp="6" />
+        </l>
+        <l name="Grundlagen der physikalischen Chemie" min-cp="8" max-cp="8">
+            <m name="PC II: Thermodynamik und chemische Kinetik" pflicht="j" pordnr="2302" cp="8" />
+        </l>
+        <l name="Einführung in die Quanten- und Computerchemie (QCCC)" min-cp="8" max-cp="8">
+            <m name="Einführung in die Quanten- und Computerchemie (QCCC)" pflicht="j" pordnr="2303" cp="8" />
+        </l>
+    </b>
+    
+    <b abschl="bk" stg="mat" kzfa="N" pversion="2016" name="Nebenfach Mathematik" cp="30">
+        <l name="Module" min-cp="30" max-cp="30">
+            <m name="Analysis III" pordnr="2400" cp="10" />
+            <m name="Lineare Algebra II" pordnr="2401" cp="10" />
+            <m name="Computergestützte Analysis" pordnr="2402" cp="5" />
+            <m name="Computergestützte Lineare Algebra" pordnr="2403" cp="5" />
+            <m name="Numerik I" pordnr="1203" cp="10" />
+            <m name="Stochastik" pordnr="1204" cp="10" />
+            <m name="Numerik II" pordnr="2404" cp="10" />
+            <m name="Wahrscheinlichkeitstheorie" pordnr="2405" cp="10" />
+        </l>
+    </b>
+
+    <b abschl="bk" stg="psy" kzfa="N" pversion="2016" name="Nebenfach Psychologie" cp="30">
+        <l name="Modul 1" min-cp="14" max-cp="14">
+            <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
+            <m name="Grundlagen der Diagnostik I: Diagnostik" pflicht="j" pordnr="2501" cp="4" />
+            <m name="Grundlagen der Diagnostik II: Testtheorie" pflicht="j" pordnr="2502" cp="4" />
+        </l>
+        <l name="Modul 2" min-cp="16" max-cp="16">
+            <m name="Differentielle Psychologie I" pflicht="j" pordnr="2503" cp="4" />
+            <m name="Differentielle Psychologie II" pflicht="j" pordnr="2504" cp="4" />
+            <l name="Biologische Psychologie" min-cp="8" max-cp="8">
+                <m name="Biologische Psychologie I" pordnr="2505" cp="4" />
+                <m name="Biologische Psychologie II" pordnr="2506" cp="4" />
+            </l>
+            <l name="Allgemeine Psychologie I" min-cp="8" max-cp="8">
+                <m name="Allgemeine Psychologie I: Wahrnehmung und Denken I" pordnr="2507" cp="4" />
+                <m name="Allgemeine Psychologie I: Wahrnehmung und Denken II" pordnr="2508" cp="4" />
+            </l>
+            <l name="Allgemeine Psychologie II" min-cp="8" max-cp="8">
+                <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" pordnr="2509" cp="4" />
+                <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" pordnr="2510" cp="4" />
+            </l>
+            <l name="Physiologische Grundlagen" min-cp="8" max-cp="8">
+                <m name="Physiologische Grundlagen des Verhaltens I" pordnr="2511" cp="4" />
+                <m name="Physiologische Grundlagen des Verhaltens II" pordnr="2512" cp="4" />
+            </l>
+        </l>
+    </b>
+    
+    <!-- Master Informatik PO2015 -->
     <b ignored="true" abschl="msc" stg="cs" kzfa="H" pversion="2015" name="Master Informatik" cp="60">
         <l name="Schwerpunkt 2" min-cp="30" max-cp="30">
             <m name="Einführung in die Geoinformatik" pordnr="3000" cp="5" />
