@@ -135,8 +135,8 @@
         <module id="P-CS-M-BS" title="Betriebssysteme" pordnr="1307" elective-units="0">
             <abstract-unit id="P-CS-L-BS" title="Betriebssysteme" type="m" semester="5"/>
         </module>
-        <module id="P-CS-MvS" title="Grundlagen verteilter Systeme" pordnr="1308" elective-units="0">
-            <abstract-unit id="P-CS-LvS" title="Grundlagen verteilter Systeme" type="m" semester="5"/>
+        <module id="P-CS-M-VS" title="Grundlagen verteilter Systeme" pordnr="1308" elective-units="0">
+            <abstract-unit id="P-CS-L-VS" title="Grundlagen verteilter Systeme" type="m" semester="5"/>
         </module>
         <module id="P-CS-M-GALGO1" title="Graphenalgorithmen I" pordnr="1309" elective-units="0">
             <abstract-unit id="P-CS-L-GALGO1" title="Graphenalgorithmen I" type="m" semester="5"/>
@@ -165,9 +165,14 @@
             <abstract-unit id="P-PHY-L-MAME1b" title="Übungen zu Mathematische Methoden der Physik I" type="m"
                            semester="3,5"/>
         </module>
-        <!-- Ignored in module-tree, since it does not have any units -->
-        <module id="P-PHY-M-GP1" title="Grundpraktikum I" pordnr="2101" elective-units="0"> <!--In der Vl-freien Zeit-->
-            <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum I" type="m" semester="2,4"/>
+        <module id="P-PHY-M-MAME2" title="Mathematische Methoden der Physik II" pordnr="2108" elective-units="0">
+            <abstract-unit id="P-PHY-L-MAME2a" title="Mathematische Methoden der Physik II" type="m" semester="3,5"/>
+            <abstract-unit id="P-PHY-L-MAME2b" title="Übungen zu Mathematische Methoden der Physik II" type="m"
+                           semester="3,5"/>
+            <abstract-unit id="P-PHY-L-MAME2c" title="Ergänzungen zu Mathematische Methoden der Physik II" type="m" semester="3,5"/>
+        </module>
+        <module id="P-PHY-M-GP1" title="Grundpraktikum I" pordnr="2101" elective-units="0"> 
+            <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum I" type="m" semester="3,5"/>
         </module>
         <module id="P-PHY-M-OPT" title="Optik" pordnr="2102" elective-units="0">
             <abstract-unit id="P-PHY-L-OPTa" title="Optik" type="m" semester="3,5"/>
@@ -193,6 +198,12 @@
         <module id="P-PHY-M-EDYN" title="Theoretische Elektrodynamik" pordnr="2107" elective-units="0">
             <abstract-unit id="P-PHY-L-EDYNa" title="Theoretische Elektrodynamik" type="m" semester="3,5"/>
             <abstract-unit id="P-PHY-L-EDYNb" title="Übungen zu Theoretische Elektrodynamik" type="m" semester="3,5"/>
+        </module>
+        <module id="P-PHY-M-THERMO" title="Thermodynamik" pordnr="2111" elective-units="0">
+            <abstract-unit id="P-PHY-L-THERMO" title="Thermodynamik" type="m" semester="3,5"/>
+        </module>
+        <module id="P-PHY-L-QUANT" title="Quantenmechanik" pordnr="2112" elective-units="0">
+            <abstract-unit id="P-PHY-L-QUANT" title="Quantenmechanik" type="m" semester="3,5"/>
         </module>
         <module id="P-BIO-M-BOZOO" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker"
                 pordnr="2200"
@@ -1147,7 +1158,7 @@
                 <session day="mon" time="2" duration="2" rhythm="0"/>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-CS-LvS"/>
+            <abstract-unit id="P-CS-L-VS"/>
         </unit>
         <unit id="GALG1" title="Graphenalgorithmen I" semester="4,6">
             <group>
@@ -1166,6 +1177,12 @@
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-CS-L-BIOINF"/>
+        </unit>
+        <unit id="GP1" title="Grundpraktikum I" semester="3,5">
+            <group>
+                <session day="tue" time="1" duration="4" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHY-L-GP1"/>
         </unit>
         <unit id="MAMEv" title="Mathematische Methoden der Physik I" semester="3,5">
             <group>
@@ -1189,9 +1206,35 @@
             </group>
             <abstract-unit id="P-PHY-L-MAME1b"/>
         </unit>
-        <unit id="OPTv" title="Optik" semester="3,5">
+        <unit id="MAME2v" title="Mathematische Methoden der Physik II" semester="3,5">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHY-L-MAME2a"/>
+        </unit>
+        <unit id="MAME2u" title="Übungen zu Mathematische Methoden der Physik II" semester="3,5">
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHY-L-MAME2b"/>
+        </unit>
+        <unit id="MAME2t" title="Ergänzungen zu Mathematische Methoden der Physik II" semester="3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHY-L-MAME2c"/>
+        </unit>
+        <unit id="OPTv" title="Optik" semester="3,5">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0"/>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-PHY-L-OPTa"/>
@@ -1206,6 +1249,12 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="1"/>
             </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="1"/>
+            </group>
+            <group>
+                <session day="fri" time="1" duration="2" rhythm="1"/>
+            </group>
             <abstract-unit id="P-PHY-L-OPTb"/>
         </unit>
         <unit id="EXMv" title="Experimentelle Mechanik" semester="3,5">
@@ -1214,6 +1263,20 @@
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-PHY-L-EXMa"/>
+        </unit>
+        <unit id="THERMO" title="Thermodynamik" semester="3,5">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHY-L-THERMO"/>
+        </unit>
+        <unit id="QUANT" title="Quantenmechanik" semester="3,5">
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHY-L-QUANT"/>
         </unit>
         <unit id="EXMu" title="Übungen zur Experimentellen Mechanik" semester="3,5">
             <group>

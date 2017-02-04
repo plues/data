@@ -114,9 +114,9 @@
         <l name="Mathematische Methoden der Physik" min-cp="7" max-cp="7">
             <m name="Mathematische Methoden der Physik I" pflicht="j" pordnr="2100" cp="7" />
         </l>
-        <!-- <l name="Grundpraktikum I" min-cp="6" max-cp="6"> -->
-        <!--     <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" /> -->
-        <!-- </l> -->
+        <!--<l name="Grundpraktikum I" min-cp="6" max-cp="6">
+            <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" />
+        </l>-->
         <l name="Experimentelle Physik" min-cp="18" max-cp="18">
             <m name="Optik" pordnr="2102" cp="6" />
             <m name="Experimentelle Mechanik" pordnr="2103" cp="6" />
@@ -341,21 +341,22 @@
     </b>
     <b abschl="bk" stg="phy" kzfa="N" pversion="2016" name="Nebenfach Physik PO2016" cp="30">
         <l name="Pflicht" min-cp="12" max-cp="12">
-            <m name="Mathematische Methoden der Physik" pflicht="j" pordnr="2100" cp="6" />
+            <m name="Mathematische Methoden der Physik I" pflicht="j" pordnr="2100" cp="6" />
             <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" />
         </l>
         <l name="Wahlpflicht" min-cp="18" max-cp="18">
-            <m name="Experimentelle Mechanik" pordnr="2102" cp="6" />
-            <m name="Optik" pordnr="2103" cp="6" />
+            <m name="Optik" pordnr="2102" cp="6" />
+            <m name="Experimentelle Mechanik" pordnr="2103" cp="6" />
             <m name="Elektrizität und Magnetismus" pordnr="2104" cp="6" />
-            <m name="Theoretische Mechanik" pordnr="2105" cp="8" />
-            <m name="Mathematische Methoden II" pordnr="2106" cp="4" />
-            <m name="Grundpraktikum II" pordnr="2107" cp="7" />
-            <m name="Orientierung" pordnr="2108" cp="6" />
-            <m name="Elektrodynamik" pordnr="2109" cp="8" />
-            <m name="Atomphysik" pordnr="2110" cp="6" />
+            <m name="Atomphysik" pordnr="2105" cp="6" />
+            <m name="Theoretische Mechanik" pordnr="2106" cp="8" />
+            <m name="Elektrodynamik" pordnr="2107" cp="8" />
+            <m name="Mathematische Methoden der Physik II" pordnr="2108" cp="4" />
             <m name="Thermodynamik" pordnr="2111" cp="6" />
             <m name="Quantenmechanik" pordnr="2112" cp="8" />
+            <!-- no (abstract) unit -->
+            <m name="Grundpraktikum II" pordnr="2109" cp="7" />
+            <m name="Orientierung" pordnr="2110" cp="6" />
         </l>
     </b>
 
