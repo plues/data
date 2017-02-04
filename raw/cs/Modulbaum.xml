@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModulBaum short-name="cs" name="Institut für Informatik">
-    <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik">
+    <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik PO2013">
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
             <m name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
             <m name="Grundlagen der Technischen Informatik (Informatik II)" pflicht="j" pordnr="1101" cp="10" />
@@ -110,7 +110,7 @@
             </l>
         </l>
     </b>
-    <b abschl="bk" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik" cp="34"> <!-- 40 - 6 for "Grundpraktikum" -->
+    <b abschl="bk" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik PO2013" cp="34"> <!-- 40 - 6 for "Grundpraktikum" -->
         <l name="Mathematische Methoden der Physik" min-cp="7" max-cp="7">
             <m name="Mathematische Methoden der Physik I" pflicht="j" pordnr="2100" cp="7" />
         </l>
@@ -128,7 +128,7 @@
             <m name="Theoretische Elektrodynamik" pordnr="2107" cp="9" />
         </l>
     </b>
-    <b abschl="bk" stg="bio" kzfa="N" pversion="2015" name="Nebenfach Biologie" cp="40">
+    <b abschl="bk" stg="bio" kzfa="N" pversion="2015" name="Nebenfach Biologie PO2013" cp="40">
         <l name="Allgemeine Biologie" min-cp="10" max-cp="10">
             <m name="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" pflicht="j" pordnr="2200" cp="5" />
             <m name="Bio110: Zell- und Molekularbiologie" pflicht="j" pordnr="2201" cp="5" />
@@ -152,7 +152,7 @@
             <m name="Bio230: Biophysik" pflicht="j" pordnr="2207" cp="5" />
         </l>
     </b>
-    <b abschl="bk" stg="che" kzfa="N" pversion="2013" name="Nebenfach Chemie" cp="40">
+    <b abschl="bk" stg="che" kzfa="N" pversion="2013" name="Nebenfach Chemie PO2013" cp="40">
         <l name="Einführung in die Allgemeine und Anorganische Chemie (C1)" min-cp="8" max-cp="8">
             <m name="Einführung in die Allgemeine und Anorganische Chemie (C1)" pflicht="j" pordnr="2300" cp="8" />
         </l>
@@ -171,7 +171,7 @@
             <m name="Biophysik für Biologen (Bio 230)" pordnr="2306" cp="4" />
         </l>2
     </b>
-    <b abschl="bk" stg="mat" kzfa="N" pversion="2008" name="Nebenfach Mathematik" cp="40">
+    <b abschl="bk" stg="mat" kzfa="N" pversion="2008" name="Nebenfach Mathematik PO2013" cp="40">
         <l name="Module" min-cp="40" max-cp="40">
             <m name="Analysis III" pordnr="2400" cp="10" />
             <m name="Lineare Algebra II" pordnr="2401" cp="10" />
@@ -183,7 +183,7 @@
             <m name="Wahrscheinlichkeitstheorie" pordnr="2409" cp="10" />
         </l>
     </b>
-    <b abschl="bk" stg="psy" kzfa="N" pversion="2013" name="Nebenfach Psychologie" cp="40">
+    <b abschl="bk" stg="psy" kzfa="N" pversion="2013" name="Nebenfach Psychologie PO2013" cp="40">
         <!-- http://www.cs.hhu.de/studium-lehre-informatik/studiengang-informatik-bachelor-und-master/bachelor/nebenfaecher/psychologie.html -->
         <l name="Modul 1: Quantitative Methoden" min-cp="12" max-cp="12">
             <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
@@ -203,21 +203,29 @@
     </b>
 
 <!-- Bachelor Informatik PO2016 -->
-<b abschl="bk" stg="cs" kzfa="H" cp="180" pversion="2016" name="Bachelor Informatik">
+<b abschl="bk" stg="cs" kzfa="H" cp="130" pversion="2016" name="Bachelor Informatik PO2016">
         <l name="Grundlagenmodule" min-cp="60" max-cp="60">
             <l name="Informatik" min-cp="44" max-cp="44">
-                <m name="Programmierung" pflicht="j" pordnr="1100" cp="10" />
-                <m name="Algorithmen und Datenstrukturen" pflicht="j" pordnr="1101" cp="10" />
-                <m name="Einführung Rechnernetze, Datenbanken und Betriebssysteme" pflicht="j" pordnr="1102" cp="5" />
+                <l name="Programmierung" min-cp="10" max-cp="10">
+                    <m name="Programmierung" pflicht="j" pordnr="1110" cp="10" />
+                </l>
+                <l name="Algorithmen und Datenstrukturen" min-cp="10" max-cp="10">
+                    <m name="Algorithmen und Datenstrukturen" pflicht="j" pordnr="1111" cp="10" />
+                </l>
+                <l name="Einführung Rechnernetze, Datenbanken und Betriebssysteme" min-cp="5" max-cp="5">
+                    <m name="Einführung Rechnernetze, Datenbanken und Betriebssysteme" pflicht="j" pordnr="1112" cp="5" />
+                </l>
                 <l name="Rechnerarchitektur" min-cp="9" max-cp="9">
-                    <m name="Rechnerarchitektur" pflicht="j" pordnr="1103" cp="9" />
-                    <m name="Hardwarenahe Programmierung" pflicht="j" pordnr="1104" cp="0"/>
+                    <m name="Rechnerarchitektur" pflicht="j" pordnr="1113" cp="5" />
+                    <m name="Hardwarenahe Programmierung" pflicht="j" pordnr="1114" cp="4" />
+                </l>
+                <l name="Theoretische Informatik" min-cp="10" max-cp="10">
+                    <m name="Theoretische Informatik" pflicht="j" pordnr="1115" cp="10" />
                 </l>
             </l>
-            <m name="Theoretische Informatik" pflicht="j" pordnr="1105" cp="10" />
             <l name="Praktikum" min-cp="16" max-cp="16">
-                <m name="Professionelle Softwareentwicklung (Programmierpraktikum I)" pflicht="j" pordnr="1106" cp="8" />
-                <m name="Softwareentwicklung im Team (Programmierpraktikum II)" pflicht="j" pordnr="1107" cp="8" />
+                <m name="Professionelle Softwareentwicklung (Programmierpraktikum I)" pflicht="j" pordnr="1116" cp="8" />
+                <m name="Softwareentwicklung im Team (Programmierpraktikum II)" pflicht="j" pordnr="1117" cp="8" />
             </l>
         </l>
         <l name="Pflichtbereich Mathematik" min-cp="40" max-cp="40">
@@ -279,7 +287,7 @@
             <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
                 <m name="Machine Learning" pordnr="1316" cp="10" />
             </l>
-            <!-- currently do not have any abstract units
+            <!-- currently do not have any abstract bachelor units
             <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
                 <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
             </l>
@@ -331,12 +339,12 @@
             </l>
         </l>
     </b>
-    <b abschl="bk" stg="phy" kzfa="N" pversion="2016" name="Nebenfach Physik" cp="30">
-        <l name="Pflicht" min-cp="12" min-cp="12">
+    <b abschl="bk" stg="phy" kzfa="N" pversion="2016" name="Nebenfach Physik PO2016" cp="30">
+        <l name="Pflicht" min-cp="12" max-cp="12">
             <m name="Mathematische Methoden der Physik" pflicht="j" pordnr="2100" cp="6" />
             <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" />
         </l>
-        <l name="Wahlpflicht" min-cp="18" min-cp="18">
+        <l name="Wahlpflicht" min-cp="18" max-cp="18">
             <m name="Experimentelle Mechanik" pordnr="2102" cp="6" />
             <m name="Optik" pordnr="2103" cp="6" />
             <m name="Elektrizität und Magnetismus" pordnr="2104" cp="6" />
@@ -351,7 +359,7 @@
         </l>
     </b>
 
-    <b abschl="bk" stg="bio" kzfa="N" pversion="2016" name="Nebenfach Biologie" cp="30">
+    <b abschl="bk" stg="bio" kzfa="N" pversion="2016" name="Nebenfach Biologie PO2016" cp="30">
         <l name="Allgemeine Biologie" min-cp="10" max-cp="10">
             <m name="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker" pflicht="j" pordnr="2200" cp="5" />
             <m name="Bio110: Zell- und Molekularbiologie" pflicht="j" pordnr="2201" cp="5" />
@@ -371,7 +379,7 @@
         </l>
     </b>
 
-    <b abschl="bk" stg="che" kzfa="N" pversion="2016" name="Nebenfach Chemie" cp="30">
+    <b abschl="bk" stg="che" kzfa="N" pversion="2016" name="Nebenfach Chemie PO2016" cp="30">
         <l name="Einführung in die Allgemeine und Anorganische Chemie (C1)" min-cp="8" max-cp="8">
             <m name="Einführung in die Allgemeine und Anorganische Chemie (C1)" pflicht="j" pordnr="2300" cp="8" />
         </l>
@@ -386,7 +394,7 @@
         </l>
     </b>
     
-    <b abschl="bk" stg="mat" kzfa="N" pversion="2016" name="Nebenfach Mathematik" cp="30">
+    <b abschl="bk" stg="mat" kzfa="N" pversion="2016" name="Nebenfach Mathematik PO2016" cp="30">
         <l name="Module" min-cp="30" max-cp="30">
             <m name="Analysis III" pordnr="2400" cp="10" />
             <m name="Lineare Algebra II" pordnr="2401" cp="10" />
@@ -399,15 +407,17 @@
         </l>
     </b>
 
-    <b abschl="bk" stg="psy" kzfa="N" pversion="2016" name="Nebenfach Psychologie" cp="30">
+    <b abschl="bk" stg="psy" kzfa="N" pversion="2016" name="Nebenfach Psychologie PO2016" cp="30">
         <l name="Modul 1" min-cp="14" max-cp="14">
             <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
             <m name="Grundlagen der Diagnostik I: Diagnostik" pflicht="j" pordnr="2501" cp="4" />
             <m name="Grundlagen der Diagnostik II: Testtheorie" pflicht="j" pordnr="2502" cp="4" />
         </l>
         <l name="Modul 2" min-cp="16" max-cp="16">
-            <m name="Differentielle Psychologie I" pflicht="j" pordnr="2503" cp="4" />
-            <m name="Differentielle Psychologie II" pflicht="j" pordnr="2504" cp="4" />
+            <l name="Differentielle Psychologie" min-cp="8" max-cp="8">
+                <m name="Differentielle Psychologie I" pflicht="j" pordnr="2503" cp="4" />
+                <m name="Differentielle Psychologie II" pflicht="j" pordnr="2504" cp="4" />
+            </l>
             <l name="Biologische Psychologie" min-cp="8" max-cp="8">
                 <m name="Biologische Psychologie I" pordnr="2505" cp="4" />
                 <m name="Biologische Psychologie II" pordnr="2506" cp="4" />
