@@ -139,7 +139,7 @@
             <abstract-unit id="P-CS-L-VS" title="Grundlagen verteilter Systeme" type="m" semester="5"/>
         </module>
         <module id="P-CS-M-GALGO1" title="Graphenalgorithmen I" pordnr="1309" elective-units="0">
-            <abstract-unit id="P-CS-L-GALGO1" title="Graphenalgorithmen I" type="m" semester="5"/>
+            <abstract-unit id="P-CS-L-GALGO1" title="Graphenalgorithmen I" type="m" semester="4,6"/>
         </module>
         <module id="P-CS-M-BIOINF" title="Algorithmen in der Bioinformatik" pordnr="1310" elective-units="0">
             <abstract-unit id="P-CS-L-BIOINF" title="Algorithmen in der Bioinformatik" type="m" semester="4,6"/>
@@ -202,7 +202,7 @@
         <module id="P-PHY-M-THERMO" title="Thermodynamik" pordnr="2111" elective-units="0">
             <abstract-unit id="P-PHY-L-THERMO" title="Thermodynamik" type="m" semester="3,5"/>
         </module>
-        <module id="P-PHY-L-QUANT" title="Quantenmechanik" pordnr="2112" elective-units="0">
+        <module id="P-PHY-M-QUANT" title="Quantenmechanik" pordnr="2112" elective-units="0">
             <abstract-unit id="P-PHY-L-QUANT" title="Quantenmechanik" type="m" semester="3,5"/>
         </module>
         <module id="P-BIO-M-BOZOO" title="Allgemeine Botanik und Zoologie für Biochemiker und Informatiker"
@@ -313,16 +313,19 @@
         <module id="P-PSY-M-BPSY2" title="Biologische Psychologie II" pordnr="2505" elective-units="0">
             <abstract-unit id="P-PSY-L-BPSY2" title="Biologische Psychologie II" type="m" semester="4"/>
         </module>
-        <module id="P-PSY-M-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I"
-                pordnr="2506" elective-units="0">
-            <abstract-unit id="P-PSY-L-EMO1" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I"
-                           type="m" semester="3"/>
+        <module id="P-PSY-M-APSY1a" title="Allgemeine Psychologie I: Wahrnehmung und Denken I" pordnr="2509" elective-units="0">
+            <abstract-unit id="P-PSY-L-APSY1a" title="Allgemeine Psychologie I: Wahrnehmung und Denken I" type="m" semester="3,5"/>
         </module>
-        <module id="P-PSY-M-EMO2" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II"
+        <module id="P-PSY-M-APSY1b" title="Allgemeine Psychologie I: Wahrnehmung und Denken II" pordnr="2510" elective-units="0">
+            <abstract-unit id="P-PSY-L-APSY1b" title="Allgemeine Psychologie I: Wahrnehmung und Denken II" type="m" semester="2,4"/>
+        </module>
+        <module id="P-PSY-M-APSY2a" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I"
+                pordnr="2506" elective-units="0">
+            <abstract-unit id="P-PSY-L-APSY2a" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" type="m" semester="3,5"/>
+        </module>
+        <module id="P-PSY-M-APSY2b" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II"
                 pordnr="2507" elective-units="0">
-            <abstract-unit id="P-PSY-L-EMO2"
-                           title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" type="m"
-                           semester="4"/>
+            <abstract-unit id="P-PSY-L-APSY2b" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" type="m" semester="2,4"/>
         </module>
         <module id="P-PSY-M-SOZ" title="Sozialpsychologie I" pordnr="2508" elective-units="0">
             <abstract-unit id="P-PSY-L-SOZ" title="Sozialpsychologie I" type="m" semester="3"/>
@@ -1667,7 +1670,7 @@
             </group>
             <abstract-unit id="P-PSY-L-QM2"/>
         </unit>
-        <unit id="VER1" title="Physiologiesche Grundlagen des Verhaltens I" semester="3,5">
+        <unit id="VER1" title="Physiologische Grundlagen des Verhaltens I" semester="3,5">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
@@ -1691,17 +1694,30 @@
             </group>
             <abstract-unit id="P-PSY-L-BPSY2"/>
         </unit>
-        <unit id="EMO1" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" semester="3,5">
+        <unit id="APSY1a" title="Allgemeine Psychologie I: Wahrnehmung und Denken I" semester="3,5">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-PSY-L-EMO1"/>
+            <abstract-unit id="P-PSY-L-APSY1a"/>
         </unit>
-        <unit id="EMO2" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" semester="3,5">
+        <unit id="APSY1b" title="Allgemeine Psychologie I: Wahrnehmung und Denken II" semester="2,4">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-PSY-L-EMO2"/>
+            <abstract-unit id="P-PSY-L-APSY1b"/>
+        </unit>
+        <unit id="APSY2a" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" semester="3,5">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PSY-L-APSY2a"/>
+        </unit>
+        <unit id="APSY2b" title="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" semester="2,4">
+            <group>
+                <session day="tue" time="1" duration="2" rhythm="0"/>
+                <session day="wed" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PSY-L-APSY2b"/>
         </unit>
         <unit id="SOZ" title="Sozialpsychologie I" semester="3,5">
             <group>

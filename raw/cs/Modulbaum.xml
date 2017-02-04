@@ -420,16 +420,16 @@
                 <m name="Differentielle Psychologie II" pflicht="j" pordnr="2504" cp="4" />
             </l>
             <l name="Biologische Psychologie" min-cp="8" max-cp="8">
-                <m name="Biologische Psychologie I" pordnr="2505" cp="4" />
-                <m name="Biologische Psychologie II" pordnr="2506" cp="4" />
+                <m name="Biologische Psychologie I" pordnr="2504" cp="4" />
+                <m name="Biologische Psychologie II" pordnr="2505" cp="4" />
             </l>
             <l name="Allgemeine Psychologie I" min-cp="8" max-cp="8">
-                <m name="Allgemeine Psychologie I: Wahrnehmung und Denken I" pordnr="2507" cp="4" />
-                <m name="Allgemeine Psychologie I: Wahrnehmung und Denken II" pordnr="2508" cp="4" />
+                <m name="Allgemeine Psychologie I: Wahrnehmung und Denken I" pordnr="2509" cp="4" />
+                <m name="Allgemeine Psychologie I: Wahrnehmung und Denken II" pordnr="2510" cp="4" />
             </l>
             <l name="Allgemeine Psychologie II" min-cp="8" max-cp="8">
-                <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" pordnr="2509" cp="4" />
-                <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" pordnr="2510" cp="4" />
+                <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" pordnr="2506" cp="4" />
+                <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" pordnr="2507" cp="4" />
             </l>
             <l name="Physiologische Grundlagen" min-cp="8" max-cp="8">
                 <m name="Physiologische Grundlagen des Verhaltens I" pordnr="2511" cp="4" />
