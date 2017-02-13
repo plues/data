@@ -420,8 +420,8 @@
                 <m name="Physiologische Grundlagen des Verhaltens II" pordnr="2503" cp="4" />
             </l>
             <l name="Differentielle Psychologie" min-cp="8" max-cp="8">
-                <m name="Differentielle Psychologie I" pflicht="j" pordnr="2514" cp="4" />
-                <m name="Differentielle Psychologie II" pflicht="j" pordnr="2515" cp="4" />
+                <m name="Differentielle Psychologie I" pordnr="2514" cp="4" />
+                <m name="Differentielle Psychologie II" pordnr="2515" cp="4" />
             </l>
             <l name="Biologische Psychologie" min-cp="8" max-cp="8">
                 <m name="Biologische Psychologie I" pordnr="2504" cp="4" />
