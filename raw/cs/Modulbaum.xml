@@ -411,13 +411,17 @@
     <b abschl="bk" stg="psy" kzfa="N" pversion="2016" name="Nebenfach Psychologie PO2016" cp="30">
         <l name="Modul 1" min-cp="14" max-cp="14">
             <m name="Quantitative Methoden I" pflicht="j" pordnr="2500" cp="6" />
-            <m name="Grundlagen der Diagnostik I: Diagnostik" pflicht="j" pordnr="2501" cp="4" />
-            <m name="Grundlagen der Diagnostik II: Testtheorie" pflicht="j" pordnr="2502" cp="4" />
+            <m name="Grundlagen der Diagnostik I: Diagnostik" pflicht="j" pordnr="2512" cp="4" />
+            <m name="Grundlagen der Diagnostik II: Testtheorie" pflicht="j" pordnr="2513" cp="4" />
         </l>
         <l name="Modul 2" min-cp="16" max-cp="16">
+            <l name="Physiologische Grundlagen" min-cp="8" max-cp="8">
+                <m name="Physiologische Grundlagen des Verhaltens I" pordnr="2502" cp="4" />
+                <m name="Physiologische Grundlagen des Verhaltens II" pordnr="2503" cp="4" />
+            </l>
             <l name="Differentielle Psychologie" min-cp="8" max-cp="8">
-                <m name="Differentielle Psychologie I" pflicht="j" pordnr="2503" cp="4" />
-                <m name="Differentielle Psychologie II" pflicht="j" pordnr="2504" cp="4" />
+                <m name="Differentielle Psychologie I" pflicht="j" pordnr="2514" cp="4" />
+                <m name="Differentielle Psychologie II" pflicht="j" pordnr="2515" cp="4" />
             </l>
             <l name="Biologische Psychologie" min-cp="8" max-cp="8">
                 <m name="Biologische Psychologie I" pordnr="2504" cp="4" />
@@ -430,10 +434,6 @@
             <l name="Allgemeine Psychologie II" min-cp="8" max-cp="8">
                 <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion I" pordnr="2506" cp="4" />
                 <m name="Allgemeine Psychologie II: Lernen, Gedächtnis, Motivation, Emotion II" pordnr="2507" cp="4" />
-            </l>
-            <l name="Physiologische Grundlagen" min-cp="8" max-cp="8">
-                <m name="Physiologische Grundlagen des Verhaltens I" pordnr="2511" cp="4" />
-                <m name="Physiologische Grundlagen des Verhaltens II" pordnr="2512" cp="4" />
             </l>
         </l>
     </b>
