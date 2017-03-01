@@ -40,28 +40,32 @@
                 <l name="From NAND to Tetris" min-cp="0" max-cp="5">
                     <m name="From NAND to Tetris" pordnr="1304" cp="5" />
                 </l>
+                <l name="Überblick künstliche Intelligenz" min-cp="0" max-cp="5">
+                    <m name="Überblick künstliche Intelligenz" pordnr="1305" cp="5" />
+                </l>
             </l>
-            <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
-                <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" cp="10" />
-                <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
-                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
+            <l name="Komplexitätstheorie und Kryptologie" min-cp="0" max-cp="10">
+                <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1306" cp="10" />
+                <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1307" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1308" cp="10" />
             </l>
             <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
-                <m name="Betriebssysteme" pordnr="1307" cp="5" />
-                <m name="Grundlagen verteilter Systeme" pordnr="1308" cp="5" />
+                <m name="Betriebssysteme" pordnr="1309" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1310" cp="5" />
             </l>
             <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
-                <m name="Graphenalgorithmen I" pordnr="1309" cp="5" />
-                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
+                <m name="Graphenalgorithmen I" pordnr="1311" cp="5" />
+                <m name="Algorithmische Komplexitätstheorie" pordnr="1312" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1313" cp="10" />
             </l>
             <l name="Bioinformatik" min-cp="0" max-cp="10">
-                <m name="Algorithmen in der Bioinformatik" pordnr="1310" cp="5" />
-                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1313" cp="5" />
+                <m name="Algorithmen in der Bioinformatik" pordnr="1314" cp="5" />
+                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1315" cp="5" />
+            </l>
+            <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
+                <m name="Machine Learning" pordnr="1316" cp="10" />
             </l>
             <!-- these currently do not have any abstract units
-            <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
-                <m name="Machine Learning" pordnr="1314" cp="5" />
-            </l>
             <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
                 <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
             </l>
@@ -84,30 +88,36 @@
                 <l name="From NAND to Tetris" min-cp="0" max-cp="5">
                     <m name="From NAND to Tetris" pordnr="1304" cp="5" />
                 </l>
+                <l name="Überblick künstliche Intelligenz" min-cp="0" max-cp="5">
+                    <m name="Überblick künstliche Intelligenz" pordnr="1305" cp="5" />
+                </l>
             </l>
-            <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
-                <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1305" cp="10" />
-                <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1306" cp="10" />
-                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
+            <l name="Komplexitätstheorie und Kryptologie" min-cp="0" max-cp="10">
+                <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1306" cp="10" />
+                <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1307" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1308" cp="10" />
             </l>
             <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
-                <m name="Betriebssysteme" pordnr="1307" cp="5" />
-                <m name="Grundlagen verteilter Systeme" pordnr="1308" cp="5" />
+                <m name="Betriebssysteme" pordnr="1309" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1310" cp="5" />
             </l>
             <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
-                <m name="Graphenalgorithmen I" pordnr="1309" cp="5" />
-                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
+                <m name="Graphenalgorithmen I" pordnr="1311" cp="5" />
+                <m name="Algorithmische Komplexitätstheorie" pordnr="1312" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1313" cp="10" />
             </l>
             <l name="Bioinformatik" min-cp="0" max-cp="10">
-                <m name="Algorithmen in der Bioinformatik" pordnr="1310" cp="5" />
-                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1313" cp="5" />
+                <m name="Algorithmen in der Bioinformatik" pordnr="1314" cp="5" />
+                <m name="Human-Genomik und biologische Datenanalyse" pordnr="1315" cp="5" />
             </l>
             <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
-                <m name="Machine Learning" pordnr="1314" cp="5" />
+                <m name="Machine Learning" pordnr="1316" cp="10" />
             </l>
+            <!-- these currently do not have any abstract units
             <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
-                <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
+                <m name="Networks, Crowds and Markets" pordnr="1317" cp="5" />
             </l>
+            -->
         </l>
     </b>
     <b abschl="bk" stg="phy" kzfa="N" pversion="2013" name="Nebenfach Physik PO2013" cp="34"> <!-- 40 - 6 for "Grundpraktikum" -->
@@ -121,11 +131,11 @@
             <m name="Optik" pordnr="2102" cp="6" />
             <m name="Experimentelle Mechanik" pordnr="2103" cp="6" />
             <m name="Elektrizität und Magnetismus" pordnr="2104" cp="6" />
-            <m name="Experimentelle Atomphysik" pordnr="2105" cp="6" />
+            <m name="Atomphysik" pordnr="2105" cp="6" />
         </l>
         <l name="Theoretische Physik" min-cp="9" max-cp="9">
             <m name="Theoretische Mechanik" pordnr="2106" cp="9" />
-            <m name="Theoretische Elektrodynamik" pordnr="2107" cp="9" />
+            <m name="Elektrodynamik" pordnr="2107" cp="9" />
         </l>
     </b>
     <b abschl="bk" stg="bio" kzfa="N" pversion="2015" name="Nebenfach Biologie PO2013" cp="40">
@@ -156,8 +166,8 @@
         <l name="Einführung in die Allgemeine und Anorganische Chemie (C1)" min-cp="8" max-cp="8">
             <m name="Einführung in die Allgemeine und Anorganische Chemie (C1)" pflicht="j" pordnr="2300" cp="8" />
         </l>
-        <l name="Organische Chemie für Studierende der Biologie" min-cp="6" max-cp="6">
-            <m name="Organische Chemie für Studierende der Biologie" pflicht="j" pordnr="2301" cp="6" />
+        <l name="Organische Chemie für Studierende der Biologie und Nebenfächler" min-cp="6" max-cp="6">
+            <m name="Organische Chemie für Studierende der Biologie und Nebenfächler" pflicht="j" pordnr="2301" cp="6" />
         </l>
         <l name="Grundlagen der physikalischen Chemie" min-cp="10" max-cp="10">
             <m name="PC II: Thermodynamik und chemische Kinetik" pflicht="j" pordnr="2302" cp="10" />
@@ -267,21 +277,19 @@
             <l name="Komplexitätstheorie und Kryptologie" min-cp="0" max-cp="10">
                 <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1306" cp="10" />
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1307" cp="10" />
-                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1308" cp="10" />
             </l>
             <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
-                <m name="Betriebssysteme" pordnr="1308" cp="5" />
-                <m name="Grundlagen verteilter Systeme" pordnr="1309" cp="5" />
+                <m name="Betriebssysteme" pordnr="1309" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1310" cp="5" />
             </l>
             <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
-                <m name="Graphenalgorithmen I" pordnr="1310" cp="5" />
-                <m name="Algorithmische Komplextitätstheorie" pordnr="1311" cp="5" />
-                <m name="Algorithmische Geometrie" pordnr="1311" cp="5" />
-                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
+                <m name="Graphenalgorithmen I" pordnr="1311" cp="5" />
+                <m name="Algorithmische Komplexitätstheorie" pordnr="1312" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1313" cp="10" />
             </l>
             <l name="Bioinformatik" min-cp="0" max-cp="10">
-                <m name="Algorithmen in der Bioinformatik" pordnr="1313" cp="5" />
-                <m name="Angewandte Bioinformatik" pordnr="1314" cp="5" />
+                <m name="Algorithmen in der Bioinformatik" pordnr="1314" cp="5" />
                 <m name="Human-Genomik und biologische Datenanalyse" pordnr="1315" cp="5" />
             </l>
             <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
@@ -289,7 +297,7 @@
             </l>
             <!-- currently do not have any abstract bachelor units
             <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
-                <m name="Networks, Crowds and Markets" pordnr="1315" cp="5" />
+                <m name="Networks, Crowds and Markets" pordnr="1317" cp="5" />
             </l>
             -->
         </l>
@@ -314,29 +322,32 @@
                     <m name="Überblick künstliche Intelligenz" pordnr="1305" cp="5" />
                 </l>
             </l>
-            <l name="Komplextitätstheorie und Kryptologie" min-cp="0" max-cp="10">
+            <l name="Komplexitätstheorie und Kryptologie" min-cp="0" max-cp="10">
                 <m name="Verfahren zur kollektiven Entscheidungsfindung" pordnr="1306" cp="10" />
                 <m name="Präferenzaggregation durch Wählen: Algorithmik und Komplexität" pordnr="1307" cp="10" />
-                <m name="Kryptokomplexität I" pordnr="1311" cp="10" />
+                <m name="Kryptokomplexität I" pordnr="1308" cp="10" />
             </l>
             <l name="Betriebssysteme / Grundlagen verteilter Systeme" min-cp="0" max-cp="10">
-                <m name="Betriebssysteme" pordnr="1308" cp="5" />
-                <m name="Grundlagen verteilter Systeme" pordnr="1309" cp="5" />
+                <m name="Betriebssysteme" pordnr="1309" cp="5" />
+                <m name="Grundlagen verteilter Systeme" pordnr="1310" cp="5" />
             </l>
             <l name="Graphenalgorithmen" min-cp="0" max-cp="10">
-                <m name="Graphenalgorithmen I" pordnr="1310" cp="5" />
-                <m name="Algorithmische Komplexitätstheorie" pordnr="1311" cp="5" />
-                <m name="Algorithmische Geometrie" pordnr="1311" cp="5" />
-                <m name="Algorithmentheorie I" pordnr="1312" cp="10" />
+                <m name="Graphenalgorithmen I" pordnr="1311" cp="5" />
+                <m name="Algorithmische Komplexitätstheorie" pordnr="1312" cp="5" />
+                <m name="Algorithmentheorie I" pordnr="1313" cp="10" />
             </l>
             <l name="Bioinformatik" min-cp="0" max-cp="10">
-                <m name="Algorithmen in der Bioinformatik" pordnr="1313" cp="5" />
-                <m name="Angewandte Bioinformatik" pordnr="1314" cp="5" />
+                <m name="Algorithmen in der Bioinformatik" pordnr="1314" cp="5" />
                 <m name="Human-Genomik und biologische Datenanalyse" pordnr="1315" cp="5" />
             </l>
             <l name="Computer Vision, Computer Graphics and Pattern Recognition" min-cp="0" max-cp="10">
                 <m name="Machine Learning" pordnr="1316" cp="10" />
             </l>
+            <!-- currently do not have any abstract bachelor units
+            <l name="Algorithmen für schwere Probleme" min-cp="0" max-cp="10">
+                <m name="Networks, Crowds and Markets" pordnr="1317" cp="5" />
+            </l>
+            -->
         </l>
     </b>
     <b abschl="bk" stg="phy" kzfa="N" pversion="2016" name="Nebenfach Physik PO2016" cp="30">
