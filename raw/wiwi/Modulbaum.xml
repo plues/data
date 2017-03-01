@@ -396,7 +396,7 @@
             <m cp="6" name="BR01: Bürgerliches Recht " pordnr="40336"/>
             <m cp="6" name="BR02: Wirtschaftsprivatrecht und Öffentliches Recht" pordnr="40337"/>
             <m cp="3" name="BM01: Mathematik I" pordnr="40330"/>
-            <m cp="3" name="BM02: Mathematik II" pordnr="40339"/>
+            <m cp="3" name="BR02: Mathematik II" pordnr="40339"/>
             <m cp="6" name="BQ01: Einführung in die Wirtschaftsinformatik" pordnr="40340"/>
         </l>
         <l name="Wahlpflichtmodule" min-cp="60" max-cp="60">
@@ -583,7 +583,7 @@
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40401"/>
                 <m cp="12" name="BW11: Geld und Währung" pordnr="40402"/>
                 <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40403"/>
-                <m cp="12" name="BW13: European competition Policy" pordnr="40405"/>
+                <m cp="12" name="BW13: European Competition Policy" pordnr="40405"/>
                 <m cp="12" name="BW14: Wettbewerbstheorie und -politik" pordnr="40406"/>
                 <m cp="12" name="BW21: Institutionenökonomik" pordnr="40407"/>
                 <m cp="12" name="BW22: Medienökonomik" pordnr="40408"/>
@@ -654,7 +654,7 @@
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40401"/>
                 <m cp="12" name="BW11: Geld und Währung" pordnr="40402"/>
                 <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40403"/>
-                <m cp="12" name="BW13: European competition Policy" pordnr="40405"/>
+                <m cp="12" name="BW13: European Competition Policy" pordnr="40405"/>
                 <m cp="12" name="BW14: Wettbewerbstheorie und -politik" pordnr="40406"/>
                 <m cp="12" name="BW21: Institutionenökonomik" pordnr="40407"/>
                 <m cp="12" name="BW22: Medienökonomik" pordnr="40408"/>
@@ -715,7 +715,7 @@
             <l name="Wahlpflichtmodule VWL" min-cp="24" max-cp="36">
                 <m cp="12" name="BW10: Markt und Staat" pordnr="40401"/>
                 <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40403"/>
-                <m cp="12" name="BW13: European competition Policy" pordnr="40405"/>
+                <m cp="12" name="BW13: European Competition Policy" pordnr="40405"/>
                 <m cp="12" name="BW14: Wettbewerbstheorie und -politik" pordnr="40406"/>
                 <m cp="12" name="BW21: Institutionenökonomik" pordnr="40407"/>
                 <m cp="12" name="BW22: Medienökonomik" pordnr="40408"/>
@@ -834,7 +834,7 @@
                 <l name="Wahlpflichtmodule Sonstige VWL" min-cp="12" max-cp="36">
                     <m cp="12" name="BW10: Markt und Staat" pordnr="40401"/>
                     <m cp="12" name="BW11: Geld und Währung" pordnr="40402"/>
-                    <m cp="12" name="BW13: European competition Policy" pordnr="40405"/>
+                    <m cp="12" name="BW13: European Competition Policy" pordnr="40405"/>
                     <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40403"/>
                     <m cp="12" name="BW14: Wettbewerbstheorie und -politik" pordnr="40406"/>
                     <m cp="12" name="BW22: Medienökonomik" pordnr="40408"/>
@@ -948,7 +948,7 @@
                 <l name="Wahlpflichtmodule Sonstige VWL" min-cp="12" max-cp="36">
                     <m cp="12" name="BW10: Markt und Staat" pordnr="40401"/>
                     <m cp="12" name="BW11: Geld und Währung" pordnr="40402"/>
-                    <m cp="12" name="BW12: Internationale wirtschaftsbeziehungen" pordnr="40403"/>
+                    <m cp="12" name="BW12: Internationale Wirtschaftsbeziehungen" pordnr="40403"/>
                     <m cp="12" name="BW21: Institutionenökonomik" pordnr="40407"/>
                     <m cp="12" name="BW22: Medienökonomik" pordnr="40408"/>
                     <m cp="12" name="BW24: Verbraucherpolitik" pordnr="40409"/>
@@ -1402,7 +1402,7 @@
                 <m cp="8" name="MW64: Advanced Econometrics 1" pordnr="40578"/>
                 <m cp="8" name="MW65: Advanced Econometrics 2" pordnr="40579"/>
                 <m cp="8" name="MW66: Advanced Topics in Empirical Economics" pordnr="40580"/>
-                <m cp="8" name="MW68: Spieltheorie" pordnr="40582"/>
+                <m cp="8" name="MW68: Spieltheorie" pordnr="405821"/>
                 <m cp="8" name="MW67: Commodity Markets" pordnr="40581"/>
                 <m cp="8" name="MW69: Industrieökonomik" pordnr="40583"/>
                 <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
@@ -1474,7 +1474,7 @@
                     <m cp="8" name="MW61: Regulierungsökonomik" pordnr="40575"/>
                     <m cp="8" name="MW62: Advanced Labour Economics" pordnr="40576"/>
                     <m cp="8" name="MW63: Ökonomie der Sozialpolitik" pordnr="40577"/>
-                    <m cp="8" name="MW68: Spieltheorie" pordnr="40582"/>
+                    <m cp="8" name="MW68: Spieltheorie" pordnr="405821"/>
                     <m cp="8" name="MW69: Industrieökonomik" pordnr="40583"/>
                     <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
                     <m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40585"/>
@@ -1605,7 +1605,7 @@
                     <m cp="8" name="MW61: Regulierungsökonomik" pordnr="40575"/>
                     <m cp="8" name="MW62: Advanced Labour Economics" pordnr="40576"/>
                     <m cp="8" name="MW63: Ökonomie der Sozialpolitik" pordnr="40577"/>
-                    <m cp="8" name="MW68: Spieltheorie" pordnr="40582"/>
+                    <m cp="8" name="MW68: Spieltheorie" pordnr="405821"/>
                     <m cp="8" name="MW69: Industrieökonomik" pordnr="40583"/>
                     <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
                     <m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40585"/>
@@ -1666,7 +1666,7 @@
                     <m cp="8" name="MW61: Regulierungsökonomik" pordnr="40575"/>
                     <m cp="8" name="MW62: Advanced Labour Economics" pordnr="40576"/>
                     <m cp="8" name="MW63: Ökonomie der Sozialpolitik" pordnr="40577"/>
-                    <m cp="8" name="MW68: Spieltheorie" pordnr="40582"/>
+                    <m cp="8" name="MW68: Spieltheorie" pordnr="405821"/>
                     <m cp="8" name="MW69: Industrieökonomik" pordnr="40583"/>
                     <m cp="8" name="MW70: Competition Policy: Advanced Topics" pordnr="40584"/>
                     <m cp="8" name="MW71: Competition Economics: Advanced Topics" pordnr="40585"/>
