@@ -351,10 +351,11 @@
         </l>
     </b>
     <b abschl="bk" stg="phy" kzfa="N" pversion="2016" name="Nebenfach Physik PO2016" cp="30">
-        <l name="Pflicht" min-cp="12" max-cp="12">
-            <!-- Todo -->
+        <l name="Mathematische Methoden der Physik" min-cp="6" max-cp="6">
             <m name="Mathematische Methoden der Physik I" pordnr="2100" cp="6" />
             <m name="Mathematische Methoden der Physik I" pordnr="2120" cp="6" />
+        </l>
+        <l name="Grundpraktikum" min-cp="6" max-cp="6">
             <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" />
         </l>
         <l name="Optik" min-cp="0" max-cp="6">
@@ -453,10 +454,12 @@
             <m name="Computergestützte Lineare Algebra" pordnr="2403" cp="5" />
             <m name="Computergestützte Lineare Algebra" pordnr="2413" cp="5" />
         </l>
-           <!--
+        <l name="Numerik I" min-cp="0" max-cp="10">
             <m name="Numerik I" pordnr="1203" cp="10" />
+        </l>
+        <l name="Stochastik" min-cp="0" max-cp="10">
             <m name="Stochastik" pordnr="1204" cp="10" />
-            -->
+        </l>
         <l name="Numerik" min-cp="0" max-cp="10">
             <m name="Numerik II" pordnr="2404" cp="10" />
             <m name="Numerik II" pordnr="2414" cp="10" />
