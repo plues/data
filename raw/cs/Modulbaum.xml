@@ -458,7 +458,7 @@
             <m name="Numerik I" pordnr="1203" cp="10" />
         </l>
         <l name="Stochastik" min-cp="0" max-cp="10">
-            <m name="Stochastik" pordnr="1204" cp="10" />
+            <m name="Einführung in die Stochastik" pordnr="1204" cp="10" />
         </l>
         <l name="Numerik" min-cp="0" max-cp="10">
             <m name="Numerik II" pordnr="2404" cp="10" />
