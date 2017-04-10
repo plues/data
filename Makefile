@@ -1,7 +1,7 @@
-MODEL_GENERATOR_VERSION=4.7.0-SNAPSHOT
+MODEL_GENERATOR_VERSION=4.7.0
 modelgenerator=bin/modelgenerator-$(MODEL_GENERATOR_VERSION).jar
 
-MINCER_VERSION=2.3.0-SNAPSHOT
+MINCER_VERSION=2.3.0
 mincer=bin/mincer-$(MINCER_VERSION).jar
 
 # Available flavors for data
