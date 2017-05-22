@@ -2,11 +2,11 @@
 <ModulBaum short-name="cs" name="Institut für Informatik">
     <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik PO2013">
         <minors>
-            <minor stg="phy" kzfa="N" pversion="2013" /> 
-            <minor stg="bio" kzfa="N" pversion="2015" /> 
-            <minor stg="che" kzfa="N" pversion="2013" /> 
-            <minor stg="mat" kzfa="N" pversion="2008" /> 
-            <minor stg="psy" kzfa="N" pversion="2013" /> 
+            <minor stg="phy" pversion="2013" /> 
+            <minor stg="bio" pversion="2015" /> 
+            <minor stg="che" pversion="2013" /> 
+            <minor stg="mat" pversion="2008" /> 
+            <minor stg="psy" pversion="2013" /> 
         </minors>
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
             <m name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
@@ -222,11 +222,11 @@
     <!-- Bachelor Informatik PO2016 -->
     <b abschl="bk" stg="cs" kzfa="H" cp="130" pversion="2016" name="Bachelor Informatik PO2016">        
         <minors>
-            <minor stg="phy" kzfa="N" pversion="2016" /> 
-            <minor stg="bio" kzfa="N" pversion="2016" /> 
-            <minor stg="che" kzfa="N" pversion="2016" /> 
-            <minor stg="mat" kzfa="N" pversion="2016" /> 
-            <minor stg="psy" kzfa="N" pversion="2016" /> 
+            <minor stg="phy" pversion="2016" /> 
+            <minor stg="bio" pversion="2016" /> 
+            <minor stg="che" pversion="2016" /> 
+            <minor stg="mat" pversion="2016" /> 
+            <minor stg="psy" pversion="2016" /> 
         </minors>
         <l name="Grundlagenmodule" min-cp="60" max-cp="60">
             <l name="Informatik" min-cp="44" max-cp="44">
