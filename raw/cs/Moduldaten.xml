@@ -91,12 +91,8 @@
             <abstract-unit id="P-CS-L-NUM1c" title="Numerik I - Praktische Übungen" type="m" semester="4"/>
         </module>
         <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1204" elective-units="0" bundled="true">
-            <abstract-unit id="P-CS-L-STOa" title="Einführung in die Stochastik" type="m" semester="3"/>
-            <abstract-unit id="P-CS-L-STOb" title="Übungen zu Einführung in die Stochastik" type="m" semester="3"/>
-        </module>
-        <module id="P-CS-M-STO" title="Einführung in die Stochastik" pordnr="1214" elective-units="0" bundled="true">
-            <abstract-unit id="P-CS-L-STOa" title="Einführung in die Stochastik" type="m" semester="5"/>
-            <abstract-unit id="P-CS-L-STOb" title="Übungen zu Einführung in die Stochastik" type="m" semester="5"/>
+            <abstract-unit id="P-CS-L-STOa" title="Einführung in die Stochastik" type="m" semester="3,5"/>
+            <abstract-unit id="P-CS-L-STOb" title="Übungen zu Einführung in die Stochastik" type="m" semester="3,5"/>
         </module>
         <module id="P-CS-M-DBS" title="Datenbanksysteme (für BA Informatik)" pordnr="1300" elective-units="0" bundled="true">
             <abstract-unit id="P-CS-L-DBSa" title="Datenbanksysteme (für BA Informatik)" type="m" semester="5"/>
@@ -161,73 +157,40 @@
             <abstract-unit id="P-CS-L-NETW" title="Networks, Crowds and Markets" type="m" semester="5"/>
         </module>
         <module id="P-PHY-M-MAME1" title="Mathematische Methoden der Physik I" pordnr="2100" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-MAME1a" title="Mathematische Methoden der Physik I" type="m" semester="3"/>
-            <abstract-unit id="P-PHY-L-MAME1b" title="Übungen zu Mathematische Methoden der Physik I" type="m" semester="3"/>
-        </module>
-        <module id="P-PHY-M-MAME1" title="Mathematische Methoden der Physik I" pordnr="2120" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-MAME1a" title="Mathematische Methoden der Physik I" type="m" semester="5"/>
-            <abstract-unit id="P-PHY-L-MAME1b" title="Übungen zu Mathematische Methoden der Physik I" type="m" semester="5"/>
+            <abstract-unit id="P-PHY-L-MAME1a" title="Mathematische Methoden der Physik I" type="m" semester="3,5"/>
+            <abstract-unit id="P-PHY-L-MAME1b" title="Übungen zu Mathematische Methoden der Physik I" type="m" semester="3,5"/>
         </module>
         <module id="P-PHY-M-MAME2" title="Mathematische Methoden der Physik II" pordnr="2108" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-MAME2a" title="Mathematische Methoden der Physik II" type="m" semester="3"/>
-            <abstract-unit id="P-PHY-L-MAME2b" title="Übungen zu Mathematische Methoden der Physik II" type="m" semester="3"/>
-            <abstract-unit id="P-PHY-L-MAME2c" title="Ergänzungen zu Mathematische Methoden der Physik II" type="m" semester="3"/>
-        </module>
-        <module id="P-PHY-M-MAME2" title="Mathematische Methoden der Physik II" pordnr="2128" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-MAME2a" title="Mathematische Methoden der Physik II" type="m" semester="5"/>
-            <abstract-unit id="P-PHY-L-MAME2b" title="Übungen zu Mathematische Methoden der Physik II" type="m" semester="5"/>
-            <abstract-unit id="P-PHY-L-MAME2c" title="Ergänzungen zu Mathematische Methoden der Physik II" type="m" semester="5"/>
+            <abstract-unit id="P-PHY-L-MAME2a" title="Mathematische Methoden der Physik II" type="m" semester="3,5"/>
+            <abstract-unit id="P-PHY-L-MAME2b" title="Übungen zu Mathematische Methoden der Physik II" type="m" semester="3,5"/>
+            <abstract-unit id="P-PHY-L-MAME2c" title="Ergänzungen zu Mathematische Methoden der Physik II" type="m" semester="3,5"/>
         </module>
         <module id="P-PHY-M-GP1" title="Grundpraktikum I" pordnr="2101" elective-units="0" bundled="true"> 
             <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum I" type="m" semester="4,6"/>
         </module>
         <module id="P-PHY-M-OPT" title="Optik" pordnr="2102" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-OPTa" title="Optik" type="m" semester="3"/>
-            <abstract-unit id="P-PHY-L-OPTb" title="Theoretsische Übungen - Optik" type="m" semester="3"/>
-        </module>
-        <module id="P-PHY-M-OPT" title="Optik" pordnr="2122" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-OPTa" title="Optik" type="m" semester="5"/>
-            <abstract-unit id="P-PHY-L-OPTb" title="Theoretsische Übungen - Optik" type="m" semester="5"/>
+            <abstract-unit id="P-PHY-L-OPTa" title="Optik" type="m" semester="3,5"/>
+            <abstract-unit id="P-PHY-L-OPTb" title="Theoretsische Übungen - Optik" type="m" semester="3,5"/>
         </module>
         <module id="P-PHY-M-EXM" title="Experimentelle Mechanik" pordnr="2103" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-EXMa" title="Experimentelle Mechanik" type="m" semester="3"/>
-            <abstract-unit id="P-PHY-L-EXMb" title="Übungen zu Experimentelle Mechanik" type="m" semester="3"/>
-        </module>
-        <module id="P-PHY-M-EXM" title="Experimentelle Mechanik" pordnr="2123" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-EXMa" title="Experimentelle Mechanik" type="m" semester="5"/>
-            <abstract-unit id="P-PHY-L-EXMb" title="Übungen zu Experimentelle Mechanik" type="m" semester="5"/>
+            <abstract-unit id="P-PHY-L-EXMa" title="Experimentelle Mechanik" type="m" semester="3,5"/>
+            <abstract-unit id="P-PHY-L-EXMb" title="Übungen zu Experimentelle Mechanik" type="m" semester="3,5"/>
         </module>
         <module id="P-PHY-M-ELMA" title="Elektrizität und Magnetismus" pordnr="2104" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-ELMAa" title="Elektrizität und Magnetismus" type="m" semester="4"/>
-            <abstract-unit id="P-PHY-L-ELMAb" title="Übungen zu Vorlesung Elektrizität und Magnetismus" type="m" semester="4"/>
-        </module>
-        <module id="P-PHY-M-ELMA" title="Elektrizität und Magnetismus" pordnr="2124" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-ELMAa" title="Elektrizität und Magnetismus" type="m" semester="6"/>
-            <abstract-unit id="P-PHY-L-ELMAb" title="Übungen zu Vorlesung Elektrizität und Magnetismus" type="m" semester="6"/>
+            <abstract-unit id="P-PHY-L-ELMAa" title="Elektrizität und Magnetismus" type="m" semester="4,6"/>
+            <abstract-unit id="P-PHY-L-ELMAb" title="Übungen zu Vorlesung Elektrizität und Magnetismus" type="m" semester="4,6"/>
         </module>
         <module id="P-PHY-M-ATOM" title="Experimentelle Atomphysik" pordnr="2105" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-ATOMa" title="Experimentelle Atomphysik" type="m" semester="4"/>
-            <abstract-unit id="P-PHY-L-ATOMb" title="Übungen zu Experimentelle Atomphysik" type="m" semester="4"/>
-        </module>
-        <module id="P-PHY-M-ATOM" title="Experimentelle Atomphysik" pordnr="2125" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-ATOMa" title="Experimentelle Atomphysik" type="m" semester="6"/>
-            <abstract-unit id="P-PHY-L-ATOMb" title="Übungen zu Experimentelle Atomphysik" type="m" semester="6"/>
+            <abstract-unit id="P-PHY-L-ATOMa" title="Experimentelle Atomphysik" type="m" semester="4,6"/>
+            <abstract-unit id="P-PHY-L-ATOMb" title="Übungen zu Experimentelle Atomphysik" type="m" semester="4,6"/>
         </module>
         <module id="P-PHY-M-THEOM" title="Theoretische Mechanik" pordnr="2106" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-THEOMa" title="Theoretische Mechanik" type="m" semester="4"/>
-            <abstract-unit id="P-PHY-L-THEOMb" title="Übungen zu Theoretische Mechanik" type="m" semester="4"/>
-        </module>
-        <module id="P-PHY-M-THEOM" title="Theoretische Mechanik" pordnr="2126" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-THEOMa" title="Theoretische Mechanik" type="m" semester="6"/>
-            <abstract-unit id="P-PHY-L-THEOMb" title="Übungen zu Theoretische Mechanik" type="m" semester="6"/>
+            <abstract-unit id="P-PHY-L-THEOMa" title="Theoretische Mechanik" type="m" semester="4,6"/>
+            <abstract-unit id="P-PHY-L-THEOMb" title="Übungen zu Theoretische Mechanik" type="m" semester="4,6"/>
         </module>
         <module id="P-PHY-M-EDYN" title="Theoretische Elektrodynamik" pordnr="2107" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-EDYNa" title="Theoretische Elektrodynamik" type="m" semester="3"/>
-            <abstract-unit id="P-PHY-L-EDYNb" title="Übungen zu Theoretische Elektrodynamik" type="m" semester="3"/>
-        </module>
-        <module id="P-PHY-M-EDYN" title="Theoretische Elektrodynamik" pordnr="2127" elective-units="0" bundled="true">
-            <abstract-unit id="P-PHY-L-EDYNa" title="Theoretische Elektrodynamik" type="m" semester="5"/>
-            <abstract-unit id="P-PHY-L-EDYNb" title="Übungen zu Theoretische Elektrodynamik" type="m" semester="5"/>
+            <abstract-unit id="P-PHY-L-EDYNa" title="Theoretische Elektrodynamik" type="m" semester="3,5"/>
+            <abstract-unit id="P-PHY-L-EDYNb" title="Übungen zu Theoretische Elektrodynamik" type="m" semester="3,5"/>
         </module>
         <module id="P-PHY-M-THERMO" title="Thermodynamik" pordnr="2111" elective-units="0" bundled="true">
             <abstract-unit id="P-PHY-L-THERMO" title="Thermodynamik" type="m" semester="3,5"/>
@@ -269,12 +232,8 @@
             <abstract-unit id="P-CHE-L-PC2" title="PC II: Thermodynamik und chemische Kinetik Vorlesung und Übung" type="m" semester="4,6"/>
         </module>
         <module id="P-CHE-M-QCCC" title="Einführung in die Quanten- und Computerchemie (QCCC)" pordnr="2303" elective-units="0" bundled="true">
-            <abstract-unit id="P-CHE-L-QCCCa" title="Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3"/>
-            <abstract-unit id="P-CHE-L-QCCCb" title="Computerpraktikum: Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3"/>
-        </module>
-        <module id="P-CHE-M-QCCC" title="Einführung in die Quanten- und Computerchemie (QCCC)" pordnr="2313" elective-units="0" bundled="true">
-            <abstract-unit id="P-CHE-L-QCCCa" title="Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="5"/>
-            <abstract-unit id="P-CHE-L-QCCCb" title="Computerpraktikum: Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="5"/>
+            <abstract-unit id="P-CHE-L-QCCCa" title="Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3,5"/>
+            <abstract-unit id="P-CHE-L-QCCCb" title="Computerpraktikum: Einführung in die Quanten- und Computerchemie (QCCC)" type="m" semester="3,5"/>
         </module>
         <module id="P-CHE-M-AnQCCC" title="Angewandte Quantenchemie und Computerchemie (AnQCCC)" pordnr="2304" elective-units="0" bundled="true">
             <abstract-unit id="P-CHE-L-AnQCCC" title="Angewandte Quantenchemie und Computerchemie (AnQCCC)" type="m" semester="4,6"/>
@@ -286,56 +245,30 @@
             <abstract-unit id="P-CHE-L-BIOP" title="Biophysik für Biologen (Bio 230)" type="m" semester="3,5"/>
         </module>
         <module id="P-MAT-M-ANA3a" title="Analysis III" pordnr="2400" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-ANA3a" title="Analysis III" type="m" semester="3"/>
-            <abstract-unit id="P-MAT-L-ANA3b" title="Analysis III - Übungen" type="m" semester="3"/>
-            <abstract-unit id="P-MAT-L-ANA3c" title="Analysis III - Tutorium" type="m" semester="3"/>
-        </module>
-        <module id="P-MAT-M-ANA3b" title="Analysis III" pordnr="2410" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-ANA3a" title="Analysis III" type="m" semester="5"/>
-            <abstract-unit id="P-MAT-L-ANA3b" title="Analysis III - Übungen" type="m" semester="5"/>
-            <abstract-unit id="P-MAT-L-ANA3c" title="Analysis III - Tutorium" type="m" semester="5"/>
+            <abstract-unit id="P-MAT-L-ANA3a" title="Analysis III" type="m" semester="3,5"/>
+            <abstract-unit id="P-MAT-L-ANA3b" title="Analysis III - Übungen" type="m" semester="3,5"/>
+            <abstract-unit id="P-MAT-L-ANA3c" title="Analysis III - Tutorium" type="m" semester="3,5"/>
         </module>
         <module id="P-MAT-M-LA2" title="Lineare Algebra II" pordnr="2401" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-LA2a" title="Lineare Algebra II" type="m" semester="4"/>
-            <abstract-unit id="P-MAT-L-LA2b" title="Lineare Algebra II - Übungen" type="m" semester="4"/>
-            <abstract-unit id="P-MAT-L-LA2c" title="Lineare Algebra II - Tutorium" type="m" semester="4"/>
-        </module>
-        <module id="P-MAT-M-LA2" title="Lineare Algebra II" pordnr="2411" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-LA2a" title="Lineare Algebra II" type="m" semester="6"/>
-            <abstract-unit id="P-MAT-L-LA2b" title="Lineare Algebra II - Übungen" type="m" semester="6"/>
-            <abstract-unit id="P-MAT-L-LA2c" title="Lineare Algebra II - Tutorium" type="m" semester="6"/>
+            <abstract-unit id="P-MAT-L-LA2a" title="Lineare Algebra II" type="m" semester="4,6"/>
+            <abstract-unit id="P-MAT-L-LA2b" title="Lineare Algebra II - Übungen" type="m" semester="4,6"/>
+            <abstract-unit id="P-MAT-L-LA2c" title="Lineare Algebra II - Tutorium" type="m" semester="4,6"/>
         </module>
         <module id="P-MAT-M-CANA" title="Computergestützte Analysis" pordnr="2402" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-COMPv" title="Computergestützte Analysis / Lineare Algebra" type="m" semester="3"/>
-            <abstract-unit id="P-MAT-L-CANAu" title="Übungen zu Computergestützte Analysis" type="m" semester="3"/>
-        </module>
-        <module id="P-MAT-M-CANA" title="Computergestützte Analysis" pordnr="2412" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-COMPv" title="Computergestützte Analysis / Lineare Algebra" type="m" semester="5"/>
-            <abstract-unit id="P-MAT-L-CANAu" title="Übungen zu Computergestützte Analysis" type="m" semester="5"/>
+            <abstract-unit id="P-MAT-L-COMPv" title="Computergestützte Analysis / Lineare Algebra" type="m" semester="3,5"/>
+            <abstract-unit id="P-MAT-L-CANAu" title="Übungen zu Computergestützte Analysis" type="m" semester="3,5"/>
         </module>
         <module id="P-MAT-M-CLA" title="Computergestützte Lineare Algebra" pordnr="2403" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-COMPv" title="Computergestützte Analysis / Lineare Algebra" type="m" semester="3"/>
-            <abstract-unit id="P-MAT-L-CLAu" title="Übungen zu Computergestützte Lineare Algebra" type="m" semester="3"/>
-        </module>
-        <module id="P-MAT-M-CLA" title="Computergestützte Lineare Algebra" pordnr="2413" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-COMPv" title="Computergestützte Analysis / Lineare Algebra" type="m" semester="5"/>
-            <abstract-unit id="P-MAT-L-CLAu" title="Übungen zu Computergestützte Lineare Algebra" type="m" semester="5"/>
+            <abstract-unit id="P-MAT-L-COMPv" title="Computergestützte Analysis / Lineare Algebra" type="m" semester="3,5"/>
+            <abstract-unit id="P-MAT-L-CLAu" title="Übungen zu Computergestützte Lineare Algebra" type="m" semester="3,5"/>
         </module>
         <module id="P-MAT-M-NUM2" title="Numerik II" pordnr="2408" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-NUM2a" title="Numerik II" type="m" semester="3"/>
-            <abstract-unit id="P-MAT-L-NUM2b" title="Übungen zu Numerik II" type="m" semester="3"/>
-        </module>
-        <module id="P-MAT-M-NUM2" title="Numerik II" pordnr="2418" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-NUM2a" title="Numerik II" type="m" semester="5"/>
-            <abstract-unit id="P-MAT-L-NUM2b" title="Übungen zu Numerik II" type="m" semester="5"/>
+            <abstract-unit id="P-MAT-L-NUM2a" title="Numerik II" type="m" semester="3,5"/>
+            <abstract-unit id="P-MAT-L-NUM2b" title="Übungen zu Numerik II" type="m" semester="3,5"/>
         </module>
         <module id="P-MAT-M-WAHR" title="Wahrscheinlichkeitstheorie" pordnr="2409" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-WAHRa" title="Wahrscheinlichkeitstheorie" type="m" semester="3"/>
-            <abstract-unit id="P-MAT-L-WAHRb" title="Übungen zu Wahrscheinlichkeitstheorie" type="m" semester="3"/>
-        </module>
-        <module id="P-MAT-M-WAHR" title="Wahrscheinlichkeitstheorie" pordnr="2419" elective-units="0" bundled="true">
-            <abstract-unit id="P-MAT-L-WAHRa" title="Wahrscheinlichkeitstheorie" type="m" semester="5"/>
-            <abstract-unit id="P-MAT-L-WAHRb" title="Übungen zu Wahrscheinlichkeitstheorie" type="m" semester="5"/>
+            <abstract-unit id="P-MAT-L-WAHRa" title="Wahrscheinlichkeitstheorie" type="m" semester="3,5"/>
+            <abstract-unit id="P-MAT-L-WAHRb" title="Übungen zu Wahrscheinlichkeitstheorie" type="m" semester="3,5"/>
         </module>
         <!-- http://www.cs.hhu.de/studium-lehre-informatik/studiengang-informatik-bachelorund-master/bachelor/nebenfaecher/psychologie.html -->
         <module id="P-PSY-M-QM1" title="Quantitative Methoden I" pordnr="2500" elective-units="0" bundled="true">
