@@ -19,9 +19,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Pflichtmodule" min="7" max="7">
@@ -80,6 +80,26 @@
     </b>
         <!-- Kernfach Germanistik Modulzuordnung korrigiert! -->
     <b abschl="bk" stg="ger" kzfa="H" pversion="2013" name="Kernfach Germanistik">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="lin-ger" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="4" max="4">
             <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34190"/>
             <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34191"/>
@@ -98,25 +118,6 @@
     </b>
     <!-- Ergänzungsfach Germanistik! -->
     <b abschl="bk" stg="ger-lang" kzfa="N" pversion="2013" name="Ergänzungsfach Germanistik Schwerpunkt Sprachwissenschaft">
-        <minors>
-            <minor stg="aua" pversion="2013" />
-            <minor stg="ant" pversion="2013" />
-            <minor stg="ges" pversion="2013" />
-            <minor stg="inf" pversion="2013" />
-            <minor stg="jid" pversion="2013" />
-            <minor stg="jued" pversion="2013" />
-            <minor stg="kom" pversion="2013" />
-            <minor stg="kun" pversion="2013" />
-            <minor stg="lin" pversion="2013" />
-            <minor stg="mod" pversion="2013" />
-            <minor stg="RSH" pversion="2013" />
-            <minor stg="phi" pversion="2013" />
-            <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
-            <minor stg="soz" pversion="2013" />
-        </minors>
         <l name="Schwerpunktmodul" min="1" max="1">
             <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34684"/>
         </l>
@@ -175,9 +176,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Pflichtmodule" min="8" max="8">
@@ -223,9 +224,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Basispflichtmodule" min="3" max="3">
@@ -279,9 +280,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Basispflichtmodule" min="3" max="3">
@@ -330,9 +331,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Pflichtmodule" min="8" max="8">
@@ -365,9 +366,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Pflichtmodule" min="8" max="8">
@@ -415,9 +416,9 @@
             <minor stg="mod" pversion="2013" />
             <minor stg="RSH" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Basismodule" min="7" max="7">
@@ -849,9 +850,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Basispflichtmodule" min="6" max="6">
@@ -891,9 +892,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Pflichtmodule" min="8" max="13">
@@ -1011,9 +1012,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Pflichtmodule" min="9" max="9">
@@ -1047,9 +1048,9 @@
             <minor stg="RSH" pversion="2013" />
             <minor stg="phi" pversion="2013" />
             <minor stg="pol" pversion="2013" />
-            <minor stg="romrom-fra" pversion="2013" />
-            <minor stg="romrom-ita" pversion="2013" />
-            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
             <minor stg="soz" pversion="2013" />
         </minors>
         <l name="Pflichtmodule" min="8" max="8">
