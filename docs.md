@@ -24,7 +24,7 @@ Attributes of the `<b>` provide the details about each course:
 - `pversion`: Curriculum version.
 - `name`: name of the course.
 
-Below the `<b>` there is one or none `<minors>` tag containing the possible minor courses this major course is combinable with. These are stated as `<minor>` tags annotated with the following attributes:
+Below the `<b>` there is one or none `<minors>` tag describing the possible minor courses a major course is combinable with. These are stated as `<minor>` tags annotated with the following attributes:
 
 - `stg`: Short name of the course.
 - `pversion`: Curriculum version. 
