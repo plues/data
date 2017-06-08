@@ -19,12 +19,17 @@ The root element is `<ModulBaum>`. Below the root element there are several `<b>
 Attributes of the `<b>` provide the details about each course:
 
 - `abschl`: Degree or part of degree represented by this course (bk, ba, ...)
-- `std`: Short name of the course.
+- `stg`: Short name of the course.
 - `kzfa`: `H` for major (Hauptfach) or `N` for minor (Nebenfach or Ergänzungsfach), ...
 - `pversion`: Curriculum version.
 - `name`: name of the course.
 
-Below the `<b>` there are one or many `<l>` tags that represent different levels in the structure of the course. Each level is annotated with the following attributes:
+Below the `<b>` there is one or none `<minors>` tag describing the possible minor courses a major course is combinable with. These are stated as `<minor>` tags annotated with the following attributes:
+
+- `stg`: Short name of the course.
+- `pversion`: Curriculum version. 
+
+Additionally, the course tag can contain one or many `<l>` tags that represent different levels in the structure of the course. Each level is annotated with the following attributes:
 
 - `name`: Name of the level.
 - `min`: The minimum number of modules to be chosen for this level.
@@ -57,10 +62,11 @@ Each module is represented by a single `<module>` node and has the following att
 - `id`: Globally unique identifier for the module following a specific schema 
  - (TODO: add a ref to the schema)
 - `title`: The title of the module.
-- `pordnr` The id of the module in the module tree data.
+- `pordnr`: The id of the module in the module tree data.
 - `elective-units`: Represents the number of elective units (`type=m` [see
   below]) that have to be attended in order to complete the module's
   requirements.
+- `bundled`: A boolean value that is true if all abstract-units of the module have to be graduated in the same semester, otherwise false.
 
 Each module is composed of several abstract units, these are generalized teaching units that are "implemented" by actual units each semester.
 

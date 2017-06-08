@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ModulBaum short-name="cs" name="Institut für Informatik">
     <b abschl="bk" stg="cs" kzfa="H" cp="120" pversion="2013" name="Bachelor Informatik PO2013">
+        <minors>
+            <minor stg="phy" pversion="2013" /> 
+            <minor stg="bio" pversion="2015" /> 
+            <minor stg="che" pversion="2013" /> 
+            <minor stg="mat" pversion="2008" /> 
+            <minor stg="psy" pversion="2013" /> 
+        </minors>
         <l name="Grundlagenmodule" min-cp="50" max-cp="50">
             <m name="Grundlagen der Softwareentwicklung und Programmierung (Informatik I)" pflicht="j" pordnr="1100" cp="10" />
             <m name="Grundlagen der Technischen Informatik (Informatik II)" pflicht="j" pordnr="1101" cp="10" />
@@ -212,8 +219,15 @@
         </l>
     </b>
 
-<!-- Bachelor Informatik PO2016 -->
-<b abschl="bk" stg="cs" kzfa="H" cp="130" pversion="2016" name="Bachelor Informatik PO2016">
+    <!-- Bachelor Informatik PO2016 -->
+    <b abschl="bk" stg="cs" kzfa="H" cp="130" pversion="2016" name="Bachelor Informatik PO2016">        
+        <minors>
+            <minor stg="phy" pversion="2016" /> 
+            <minor stg="bio" pversion="2016" /> 
+            <minor stg="che" pversion="2016" /> 
+            <minor stg="mat" pversion="2016" /> 
+            <minor stg="psy" pversion="2016" /> 
+        </minors>
         <l name="Grundlagenmodule" min-cp="60" max-cp="60">
             <l name="Informatik" min-cp="44" max-cp="44">
                 <l name="Programmierung" min-cp="10" max-cp="10">
@@ -353,38 +367,30 @@
     <b abschl="bk" stg="phy" kzfa="N" pversion="2016" name="Nebenfach Physik PO2016" cp="30">
         <l name="Mathematische Methoden der Physik" min-cp="6" max-cp="6">
             <m name="Mathematische Methoden der Physik I" pordnr="2100" cp="6" />
-            <m name="Mathematische Methoden der Physik I" pordnr="2120" cp="6" />
         </l>
         <l name="Grundpraktikum" min-cp="6" max-cp="6">
             <m name="Grundpraktikum I" pflicht="j" pordnr="2101" cp="6" />
         </l>
         <l name="Optik" min-cp="0" max-cp="6">
             <m name="Optik" pordnr="2102" cp="6" />
-            <m name="Optik" pordnr="2122" cp="6" />
         </l>
         <l name="Experimentelle Mechanik" min-cp="0" max-cp="6">
             <m name="Experimentelle Mechanik" pordnr="2103" cp="6" />
-            <m name="Experimentelle Mechanik" pordnr="2123" cp="6" />
         </l>
         <l name="Elektrizität und Magnetismus" min-cp="0" max-cp="6">
             <m name="Elektrizität und Magnetismus" pordnr="2104" cp="6" />
-            <m name="Elektrizität und Magnetismus" pordnr="2124" cp="6" />
         </l>
         <l name="Atomphysik" min-cp="0" max-cp="6">
             <m name="Atomphysik" pordnr="2105" cp="6" />
-            <m name="Atomphysik" pordnr="2125" cp="6" />
         </l>
         <l name="Theoretische Mechanik" min-cp="0" max-cp="8">
             <m name="Theoretische Mechanik" pordnr="2106" cp="8" />
-            <m name="Theoretische Mechanik" pordnr="2126" cp="8" />
         </l>
         <l name="Elektrodynamik" min-cp="0" max-cp="8">
             <m name="Elektrodynamik" pordnr="2107" cp="8" />
-            <m name="Elektrodynamik" pordnr="2127" cp="8" />
         </l>
         <l name="Mathematische Methoden der Physik II" min-cp="0" max-cp="4">
             <m name="Mathematische Methoden der Physik II" pordnr="2108" cp="4" />
-            <m name="Mathematische Methoden der Physik II" pordnr="2128" cp="4" />
         </l>
         <l name="Thermodynamik" min-cp="0" max-cp="6">
             <m name="Thermodynamik" pordnr="2111" cp="6" />
@@ -417,7 +423,6 @@
         </l>
         <l name="Wahlpflicht" min-cp="5" max-cp="5">
             <m name="Bio210: Biochemie" pordnr="2206" cp="5" />
-            <m name="Bio230: Biophysik" pordnr="2207" cp="5" />
         </l>
     </b>
 
@@ -433,26 +438,21 @@
         </l>
         <l name="Einführung in die Quanten- und Computerchemie (QCCC)" min-cp="8" max-cp="8">
             <m name="Einführung in die Quanten- und Computerchemie (QCCC)" pordnr="2303" cp="8" />
-            <m name="Einführung in die Quanten- und Computerchemie (QCCC)" pordnr="2313" cp="8" />
         </l>
     </b>
     
     <b abschl="bk" stg="mat" kzfa="N" pversion="2016" name="Nebenfach Mathematik PO2016" cp="30">
         <l name="Analysis" min-cp="0" max-cp="10">
             <m name="Analysis III" pordnr="2400" cp="10" />
-            <m name="Analysis III" pordnr="2410" cp="10" />
         </l>
         <l name="Lineare Algebra" min-cp="0" max-cp="10">
             <m name="Lineare Algebra II" pordnr="2401" cp="10" />
-            <m name="Lineare Algebra II" pordnr="2411" cp="10" />
         </l>
         <l name="Computergestützte Analysis" min-cp="0" max-cp="5">
             <m name="Computergestützte Analysis" pordnr="2402" cp="5" />
-            <m name="Computergestützte Analysis" pordnr="2412" cp="5" />
         </l>
         <l name="Computergestützte Lineare Algebra" min-cp="0" max-cp="5">
             <m name="Computergestützte Lineare Algebra" pordnr="2403" cp="5" />
-            <m name="Computergestützte Lineare Algebra" pordnr="2413" cp="5" />
         </l>
         <l name="Numerik I" min-cp="0" max-cp="10">
             <m name="Numerik I" pordnr="1203" cp="10" />
@@ -462,11 +462,9 @@
         </l>
         <l name="Numerik" min-cp="0" max-cp="10">
             <m name="Numerik II" pordnr="2404" cp="10" />
-            <m name="Numerik II" pordnr="2414" cp="10" />
         </l>
         <l name="Wahrscheinlichkeitstheorie" min-cp="0" max-cp="10">
             <m name="Wahrscheinlichkeitstheorie" pordnr="2405" cp="10" />
-            <m name="Wahrscheinlichkeitstheorie" pordnr="2415" cp="10" />
         </l>
     </b>
 

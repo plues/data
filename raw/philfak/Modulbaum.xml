@@ -2,6 +2,28 @@
 <ModulBaum short-name="philfak" name="Philosophische Fakultät der Heinrich-Heine-Universität">
     <!-- Kernfach Anglistik und Amerikanistik! -->
     <b abschl="bk" stg="aua" kzfa="H" pversion="2013" name="Kernfach Anglistik und Amerikanistik">
+        <minors>
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="7" max="7">
             <m name="Language Skills I" pordnr="34125"/>
             <m name="Basic Module I - Ältere Anglistik" pordnr="34127"/>
@@ -58,6 +80,26 @@
     </b>
         <!-- Kernfach Germanistik Modulzuordnung korrigiert! -->
     <b abschl="bk" stg="ger" kzfa="H" pversion="2013" name="Kernfach Germanistik">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="lin-ger" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="4" max="4">
             <m name="Basismodul 1: Germanistische Sprachwissenschaft" pordnr="34190"/>
             <m name="Basismodul 2: Neuere Deutsche Literaturwissenschaft" pordnr="34191"/>
@@ -117,6 +159,28 @@
     </b>
         <!-- Kernfach Geschichte! -->
     <b abschl="bk" stg="ges" kzfa="H" pversion="2013" name="Kernfach Geschichte">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="8" max="8">
             <m name="Basismodul Antike und Mittelalter" pordnr="34259"/>
             <m name="Basismodul Neuzeit und Osteuropa" pordnr="34260"/>
@@ -143,6 +207,28 @@
     </b>
        <!-- Kernfach Jüdische Studien! -->
     <b abschl="bk" stg="jued" kzfa="H" pversion="2013" name="Kernfach Jüdische Studien">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Basispflichtmodule" min="3" max="3">
             <m name="Basismodul A: Grundlagen der Wissenschaft vom Judentum" pordnr="34322"/>
             <m name="Basismodul B: Bibelhebräisch" pordnr="34323"/>
@@ -177,6 +263,28 @@
     </b>
         <!-- Kernfach Kunstgeschichte! -->
     <b abschl="bk" stg="kun" kzfa="H" pversion="2013" name="Kernfach Kunstgeschichte">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Basispflichtmodule" min="3" max="3">
             <m name="Basismodul 1: Einführung in die spätantike und mittelalterliche Kunstgeschichte" pordnr="34385"/>
             <m name="Basismodul 2: Einführung in die neuere und neueste Kunstgeschichte" pordnr="34386"/>
@@ -206,6 +314,28 @@
     </b>
         <!-- Kernfach Modernes Japan! -->
     <b abschl="bk" stg="mod" kzfa="H" pversion="2013" name="Kernfach Modernes Japan">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="8" max="8">
             <m name="Sprachmodul 1 (SM1)" pordnr="36750"/>
             <m name="Sprachmodul 2 (SM2)" pordnr="36751"/>
@@ -219,6 +349,28 @@
     </b>
         <!-- Modernes Japan Bachelor Plus! -->
     <b abschl="bk" stg="mod-plu" kzfa="H" pversion="2013" name="Kernfach Modernes Japan Bachelor Plus">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="8" max="8">
             <m name="Sprachmodul 1 (SM1)" pordnr="36750"/>
             <m name="Sprachmodul 2 (SM2)" pordnr="36751"/>
@@ -247,6 +399,28 @@
     </b>
         <!-- Kernfach Philosophie! -->
     <b abschl="bk" stg="phi" kzfa="H" pversion="2013" name="Kernfach Philosophie">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Basismodule" min="7" max="7">
             <l name="Basiswahlpflichtmodule" min="5" max="7">
                 <l name="Philosophische Propädeutik" min="1" max="2">
@@ -325,6 +499,28 @@
     </b>
         <!-- Romanistik Kernfach und Ergänzungsfach - korrigiert! -->
     <b abschl="bk" stg="rom-fra" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Franzoesisch">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="romrom-ita" pversion="2013" />
+            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Franzoesisch" pordnr="34586"/>
             <m name="Vertiefungsmodul Sprachpraxis Franzoesisch" pordnr="34589"/>
@@ -353,6 +549,28 @@
         </l>
     </b>
     <b abschl="bk" stg="rom-ita" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Italienisch">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="romrom-fra" pversion="2013" />
+            <minor stg="romrom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34587"/>
             <m name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34590"/>
@@ -381,6 +599,28 @@
         </l>
     </b>
     <b abschl="bk" stg="rom-spa" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Spanisch">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="romrom-fra" pversion="2013" />
+            <minor stg="romrom-ita" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Sprachpflichtmodule" min="3" max="3">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34588"/>
             <m name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34591"/>
@@ -592,6 +832,29 @@
     </b>
         <!-- IS Infowiss und Sprachtechnologie korrigiert! -->
     <b abschl="ba" stg="iws" kzfa="H" pversion="2013" name="Kernfach IS Informationswissenschaft und Sprachtechnologie">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Basispflichtmodule" min="6" max="6">
             <m name="I1 Basismodul „Information Retrieval“" pordnr="33937"/>
             <m name="I2 Basismodul „Wissensrepräsentation“" pordnr="33938"/>
@@ -611,6 +874,29 @@
     </b>
         <!-- IS LInguistik korrigiert! -->
     <b abschl="ba" stg="lin-spr" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Sprachen">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="8" max="13">
             <m name="BB1 Basismodul „Phonetik und Phonologie“" pordnr="36556"/>
             <m name="BB2 Basismodul „Morphologie und Syntax“" pordnr="36557"/>
@@ -708,6 +994,29 @@
     </b>
         <!-- Kernfach IS Medien- und Kulturwissenschaft! -->
     <b abschl="ba" stg="kul" kzfa="H" pversion="2013" name="Kernfach IS Medien- und Kulturwissenschaft">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="9" max="9">
             <m name="Basismodul I" pordnr="36535"/>
             <m name="Basismodul II" pordnr="36536"/>
@@ -721,6 +1030,29 @@
        </l>
     </b>
     <b abschl="ba" stg="smp" kzfa="H" pversion="2013" name="Kernfach IS Sozialwissenschaften- Medien, Politik, Gesellschaft">
+        <minors>
+            <minor stg="aua" pversion="2013" />
+            <minor stg="ant" pversion="2013" />
+            <minor stg="ger-lang" pversion="2013" />
+            <minor stg="ger-lit" pversion="2013" />
+            <minor stg="ger-med" pversion="2013" />
+            <minor stg="ger-kom" pversion="2013" />
+            <minor stg="ges" pversion="2013" />
+            <minor stg="inf" pversion="2013" />
+            <minor stg="jid" pversion="2013" />
+            <minor stg="jued" pversion="2013" />
+            <minor stg="kom" pversion="2013" />
+            <minor stg="kun" pversion="2013" />
+            <minor stg="lin" pversion="2013" />
+            <minor stg="mod" pversion="2013" />
+            <minor stg="RSH" pversion="2013" />
+            <minor stg="phi" pversion="2013" />
+            <minor stg="pol" pversion="2013" />
+            <minor stg="rom-fra" pversion="2013" />
+            <minor stg="rom-ita" pversion="2013" />
+            <minor stg="rom-spa" pversion="2013" />
+            <minor stg="soz" pversion="2013" />
+        </minors>
         <l name="Pflichtmodule" min="8" max="8">
             <m name="Praxismodul Propädeutik" pordnr="37629"/>
             <m name="Basismodul Soziologie" pordnr="36657"/>
