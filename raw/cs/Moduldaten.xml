@@ -165,7 +165,7 @@
             <abstract-unit id="P-PHY-L-MAME2b" title="Übungen zu Mathematische Methoden der Physik II" type="m" semester="3,5"/>
             <abstract-unit id="P-PHY-L-MAME2c" title="Ergänzungen zu Mathematische Methoden der Physik II" type="m" semester="3,5"/>
         </module>
-        <module id="P-PHY-M-GP1" title="Grundpraktikum I" pordnr="2101" elective-units="0" bundled="true"> 
+        <module id="P-PHY-M-GP1" title="Grundpraktikum I" pordnr="2101" elective-units="0" bundled="true">
             <abstract-unit id="P-PHY-L-GP1" title="Grundpraktikum I" type="m" semester="4,6"/>
         </module>
         <module id="P-PHY-M-OPT" title="Optik" pordnr="2102" elective-units="0" bundled="true">
@@ -1260,12 +1260,8 @@
         <unit id="MAME2u" title="Übungen zu Mathematische Methoden der Physik II" semester="3,5">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
-                <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <group>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
-                <session day="wed" time="4" duration="2" rhythm="0"/>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-PHY-L-MAME2b"/>
