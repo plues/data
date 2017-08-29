@@ -4449,7 +4449,7 @@
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1c"/>
-            <abstract-unit id="P-P-MKW-L-BPROb"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
             <abstract-unit id="P-ISI-L-BS1a"/>
             <abstract-unit id="P-ISI-L-BS1b"/>
             <abstract-unit id="P-ISI-L-BS1c"/>
@@ -4460,7 +4460,7 @@
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1c"/>
-            <abstract-unit id="P-P-MKW-L-BPROb"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
             <abstract-unit id="P-ISI-L-BS1a"/>
             <abstract-unit id="P-ISI-L-BS1b"/>
             <abstract-unit id="P-ISI-L-BS1c"/>
@@ -4471,7 +4471,7 @@
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1c"/>
-            <abstract-unit id="P-P-MKW-L-BPROb"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
             <abstract-unit id="P-ISI-L-BS1a"/>
             <abstract-unit id="P-ISI-L-BS1b"/>
             <abstract-unit id="P-ISI-L-BS1c"/>
@@ -4795,7 +4795,7 @@
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BPMd"/>
+            <abstract-unit id="P-IAA-L-BMMd"/>
         </unit>
         <unit id="120085" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Methodenseminar)" semester="1,3,5">
             <group>
@@ -5247,7 +5247,7 @@
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM1a"/>
+            <abstract-unit id="P-IAA-L-BBM1a"/>
         </unit>
         <unit id="124512" title="Introduction to Medieval English Studies - Part II: Advanced (Basisseminar)" semester="2,4,6">
             <group>
@@ -5265,247 +5265,247 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM2b"/>
+            <abstract-unit id="P-IAA-L-BBM2b"/>
         </unit>
         <unit id="123714" title="Introduction to English Language and Linguistics: Part II - Use (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM2b"/>
+            <abstract-unit id="P-IAA-L-BBM2b"/>
         </unit>
         <unit id="123715" title="Introduction to English Language and Linguistics: Part II - Use (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM2b"/>
+            <abstract-unit id="P-IAA-L-BBM2b"/>
         </unit>
         <unit id="124958" title="Introduction to English Language and Linguistics: Part II - Use (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM2b"/>
+            <abstract-unit id="P-IAA-L-BBM2b"/>
         </unit>
         <unit id="125065" title="Introduction to English Language and Linguistics: Part II - Use (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM2b"/>
+            <abstract-unit id="P-IAA-L-BBM2b"/>
         </unit>
         <unit id="124957" title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)" semester="2,4,6">
             <group half-semester="first">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3b"/>
+            <abstract-unit id="P-IAA-L-BBM3b"/>
         </unit>
         <unit id="123713" title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)" semester="2,4,6">
             <group half-semester="second">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3b"/>
+            <abstract-unit id="P-IAA-L-BBM3b"/>
         </unit>
         <unit id="123745" title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3b"/>
+            <abstract-unit id="P-IAA-L-BBM3b"/>
         </unit>
         <unit id="123241" title="Introduction to English and American Literary Studies: Literary and Cultural Theory (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3b"/>
+            <abstract-unit id="P-IAA-L-BBM3b"/>
         </unit>
         <unit id="124726" title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)" semester="2,4,6">
             <group half-semester="first">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3a"/>
+            <abstract-unit id="P-IAA-L-BBM3a"/>
         </unit>
         <unit id="124893" title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)" semester="2,4,6">
             <group half-semester="second">
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3a"/>
+            <abstract-unit id="P-IAA-L-BBM3a"/>
         </unit>
         <unit id="123623" title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3a"/>
+            <abstract-unit id="P-IAA-L-BBM3a"/>
         </unit>
         <unit id="124900" title="Introduction to English and American Literary Studies: Overview English Literature (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3a"/>
+            <abstract-unit id="P-IAA-L-BBM3a"/>
         </unit>
         <unit id="124725" title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)" semester="2,4,6">
             <group half-semester="first">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3c"/>
+            <abstract-unit id="P-IAA-L-BBM3c"/>
         </unit>
         <unit id="123591" title="Introduction to English and American Literary Studies: Overview American Literature (Basisseminar)" semester="2,4,6">
             <group half-semester="second">
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3c"/>
+            <abstract-unit id="P-IAA-L-BBM3c"/>
         </unit>
         <unit id="124955" title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)" semester="2,4,6">
             <group half-semester="first">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3d"/>
+            <abstract-unit id="P-IAA-L-BBM3d"/>
         </unit>
         <unit id="124956" title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)" semester="2,4,6">
             <group half-semester="second">
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3d"/>
+            <abstract-unit id="P-IAA-L-BBM3d"/>
         </unit>
         <unit id="124731" title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3d"/>
+            <abstract-unit id="P-IAA-L-BBM3d"/>
         </unit>
         <unit id="124901" title="Introduction to English and American Literary Studies: Methods of Literary Analysis (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAA-L-BMLM3d"/>
+            <abstract-unit id="P-IAA-L-BBM3d"/>
         </unit>
         <unit id="123628" title="Revolution in Literature – ‘Revolutioning’ Literature (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMb"/>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
         </unit>
         <unit id="123600" title="The Way We War: American Representations of War and Trauma (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
             <abstract-unit id="P-MKW-L-BBMVIMb"/>
         </unit>
         <unit id="124714" title="History of the Ballad (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="124764" title="The Suburbs in American Fiction and Popular Culture (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
         </unit>
         <unit id="127778" title="American Childhoods (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
         </unit>
         <unit id="124827" title="Art or the Market? Bad Sellers or Bestsellers? (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="124876" title="American Economic, Cultural and Literary History (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
         </unit>
         <unit id="123666" title="Shakespeare's Competitors: Jonson, Marlowe and the Rest of the Gang  (Vertiefungs- und Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="127427" title="Shakespeare on Toast - Demystifying Shakespeare (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
         </unit>
         <unit id="126867" title="Anglophone Rewritings -The Empire Writes Back (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="128302" title="Polyphony in Anglophone Literature (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="124992" title="Milton's 'Paradise Lost' (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="123668" title="Modes and Worlds of the Fantastic (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
         </unit>
         <unit id="127202" title="Negotiating Scottish Identities (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="128657" title="Old English Elegies (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="123719" title="Editing and Translating Old English Riddles (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BPMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BPMb"/>
         </unit>
         <unit id="123719-1" title="Shakespeare at Stratford: Text and Performance (15.08.2015-22.08.2015)(Exkursion)" semester="2,4,6">
             <group>
                 <session day="thu" time="6" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="P-IAAL-BPMc"/>
+            <abstract-unit id="P-IAA-L-BPMc"/>
         </unit>
         <unit id="122824" title="Shakespeare at Stratford: Text and Performance (Exkursion)" semester="1,3,5">
             <group>
@@ -5517,154 +5517,155 @@
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
         </unit>
         <unit id="127965" title="The Contemporary Novel (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
         </unit>
         <unit id="124843" title="The President's Two Bodies and Other Political Myths (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
             <abstract-unit id="P-MKW-L-BBMVIMb"/>
         </unit>
         <unit id="124717" title="The Universal Life? - Immigration in American Autobiography (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
         </unit>
         <unit id="131306" title="Writings from the Margin: An Introduction to Indian English Literature (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMLa"/>
-            <abstract-unit id="P-IAAL-BIMLb"/>
-            <abstract-unit id="P-IAAL-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIMLa"/>
+            <abstract-unit id="P-IAA-L-BIMLb"/>
+            <abstract-unit id="P-IAA-L-BMMb"/>
         </unit>
         <unit id="123676" title="Introduction to Old English (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSD"/>
+            <abstract-unit id="P-IAA-L-BIMSD"/>
         </unit>
         <unit id="123720" title="Introduction to Middle English (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSD"/>
+            <abstract-unit id="P-IAA-L-BIMSD"/>
         </unit>
         <unit id="124853" title="Roots of English (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSD"/>
+            <abstract-unit id="P-IAA-L-BIMSD"/>
         </unit>
         <unit id="124760" title="Roots of English (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSD"/>
+            <abstract-unit id="P-IAA-L-BIMSD"/>
         </unit>
         <unit id="127235" title="Semantics (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSS"/>
+            <abstract-unit id="P-IAA-L-BIMSS"/>
         </unit>
         <unit id="127248" title="Syntax (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSS"/>
+            <abstract-unit id="P-IAA-L-BIMSS"/>
         </unit>
         <unit id="127233" title="Syntax (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSS"/>
+            <abstract-unit id="P-IAA-L-BIMSS"/>
         </unit>
         <unit id="127252" title="Grammaticalization (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BIMSD"/>
+            <abstract-unit id="P-IAA-L-BIMSD"/>
         </unit>
         <unit id="127238" title="Syntax (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
+            <abstract-unit id="P-IAA-L-BIMSS"/>  
         </unit>
         <unit id="127251" title="Phonetics (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMa"/>
+            <abstract-unit id="P-IAA-L-BMMa"/>
         </unit>
         <unit id="127234" title="Corpus Linguistics (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMa"/>
+            <abstract-unit id="P-IAA-L-BMMa"/>
         </unit>
         <unit id="124749" title="Informations- und Recherchekompetenz 1 (Methodenkurs)" semester="2,4,6">
             <group>
                 <session day="fri" time="1" duration="4" rhythm="3"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMc"/>
+            <abstract-unit id="P-IAA-L-BMMc"/>
         </unit>
         <unit id="125266" title="Informations- und Recherchekompetenz 2 (Methodenkurs)" semester="2,4,6">
             <group>
                 <session day="fri" time="1" duration="4" rhythm="3"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMc"/>
+            <abstract-unit id="P-IAA-L-BMMc"/>
         </unit>
         <unit id="127240" title="Verfassen wissenschaftlicher Arbeiten - Sprachwissenschaft (Methodenseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMd"/>
+            <abstract-unit id="P-IAA-L-BMMd"/>
         </unit>
         <unit id="128269" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Methodenseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMd"/>
+            <abstract-unit id="P-IAA-L-BMMd"/>
         </unit>
         <unit id="128267" title="Wissenschaftliches Schreiben: Literaturwissenschaft (Methodenseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BMMd"/>
+            <abstract-unit id="P-IAA-L-BMMd"/>
         </unit>
         <unit id="131213" title="Culture at Work: Issues in the Arts and Entertainment Sector (Praxisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BPMb"/>
+            <abstract-unit id="P-IAA-L-BPMb"/>
         </unit>
         <unit id="127704" title="English/ American Drama - A Workshop on Theory and Performance (Praxisseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BPMb"/>
+            <abstract-unit id="P-IAA-L-BPMb"/>
         </unit>
         <unit id="127690" title="Praxisforum Berufsorientierung (Praxisseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="1" duration="2" rhythm="3"/>
             </group>
-            <abstract-unit id="P-IAAL-BPMa"/>
+            <abstract-unit id="P-IAA-L-BPMa"/>
         </unit>
         <unit id="123705" title="Essay writing (Übung b)" semester="2,4,6">
             <group>
@@ -5737,112 +5738,112 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
             <abstract-unit id="P-MKW-L-BAMAGd"/>
         </unit>
         <unit id="123602" title="American Art and Literature After 1945 (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="127182" title="Caribbean Literatures: Postcolonial Ecologies (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="124602" title="Middle English Allegorical Writings (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="125169" title="Protest, Rebellion, and Liberation – Where African American and Feminist Poetry Intersect (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
             <abstract-unit id="P-MKW-L-BBMVIMd"/>
         </unit>
         <unit id="127187" title="The Ethical Turn: Taboos and Transgressions in Postcolonial Literature (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="124886" title="Introduction to English Poetry (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
             <abstract-unit id="P-MKW-L-BAMMa"/>
         </unit>
         <unit id="124855" title="Knowledge and Perception in Old and Middle English Dreams and Visions (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="123723" title="On Edge: Individual and National Crises in American Literature From James Fennimore Cooper to David Ignatius (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="124728" title="Southern Accents From Kate Chopin to Dorothy Allison (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
             <abstract-unit id="P-MKW-L-BBMVIMb"/>
         </unit>
         <unit id="124715" title="The Metaphorics of the Desert in American Literature and Culture - From the Early Beginnings to the Present (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
         </unit>
         <unit id="124875" title="Manifestations of Cultural Concepts in Medieval English Literature (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="124727" title="Sexual Revolutions: Origins and Genres of Libertine Literature (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
         </unit>
         <unit id="124883" title="The Self in Philosophy and Literature (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMLa"/>
-            <abstract-unit id="P-IAAL-BAMLb"/>
+            <abstract-unit id="P-IAA-L-BAMLa"/>
+            <abstract-unit id="P-IAA-L-BAMLb"/>
             <abstract-unit id="P-MKW-L-BBMVIMb"/>
         </unit>
         <unit id="127232" title="Complex Clauses (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5850,8 +5851,8 @@
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5859,8 +5860,8 @@
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5868,8 +5869,8 @@
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5877,8 +5878,8 @@
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5886,8 +5887,8 @@
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5895,8 +5896,8 @@
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5904,8 +5905,8 @@
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5913,8 +5914,8 @@
             <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5922,8 +5923,8 @@
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
@@ -5931,8 +5932,8 @@
             <group>
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
-            <abstract-unit id="P-IAAL-BAMSa"/>
-            <abstract-unit id="P-IAAL-BAMSb"/>
+            <abstract-unit id="P-IAA-L-BAMSa"/>
+            <abstract-unit id="P-IAA-L-BAMSb"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
         </unit>
