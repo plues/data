@@ -190,9 +190,10 @@
             <m name="Praxismodul" pordnr="34264"/>
             <m name="Vertiefungsmodul 1" pordnr="34265"/>
             <m name="Vertiefungsmodul 2" pordnr="34266"/>
+            <m name="Vertiefungsmodul 3" pordnr="34267"/>
         </l>
     </b>
-        <!-- Ergänzungsfach Geschichte! -->
+        <!-- Ergänzungsfach Geschichte!  WS16/17-->
     <b abschl="bk" stg="ges" kzfa="N" pversion="2013" name="Ergänzungsfach Geschichte">
         <l name="Pflichtmodule" min="3" max="3">
             <m name="Basismodul Antike und Mittelalter" pordnr="34689"/>
@@ -202,7 +203,6 @@
         </l>
         <l name="Wahlpflichtmodule" min="1" max="1">
             <m name="Vertiefungsmodul 1" pordnr="34265"/>
-            <m name="Vertiefungsmodul 2" pordnr="34266"/>
         </l>
     </b>
        <!-- Kernfach Jüdische Studien! -->
@@ -498,6 +498,7 @@
         </l>
     </b>
         <!-- Romanistik Kernfach und Ergänzungsfach - korrigiert! -->
+        <!-- Romanistik Kernfach mit Schwerpunkt Französisch! -->
     <b abschl="bk" stg="rom-fra" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Franzoesisch">
         <minors>
             <minor stg="aua" pversion="2013" />
@@ -548,6 +549,7 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
+        <!-- Romanistik Kernfach mit Schwerpunkt Italienisch! -->
     <b abschl="bk" stg="rom-ita" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Italienisch">
         <minors>
             <minor stg="aua" pversion="2013" />
@@ -598,6 +600,7 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
+        <!-- Romanistik Kernfach mit Schwerpunkt Spanisch! -->
     <b abschl="bk" stg="rom-spa" kzfa="H" pversion="2013" name="Kernfach Romanistik mit Schwerpunkt Spanisch">
         <minors>
             <minor stg="aua" pversion="2013" />
@@ -648,6 +651,8 @@
             <m name="Optionsmodul: Translation" pordnr="34610"/>
         </l>
     </b>
+        <!-- EF Romanistik mit Kernfach Romanistik! -->
+        <!-- Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit KF ROM! -->
     <b abschl="bk" stg="romrom-fra" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
@@ -661,6 +666,7 @@
             <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
         </l>
     </b>
+        <!-- Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit KF ROM! -->
     <b abschl="bk" stg="romrom-ita" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
@@ -674,6 +680,7 @@
             <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
         </l>
     </b>
+        <!-- Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit KF ROM! -->
     <b abschl="bk" stg="romrom-spa" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
@@ -687,6 +694,8 @@
             <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
         </l>
     </b>
+        <!-- Ergänzungsfach Romanistik mit anderem KF (nicht ROM)! -->
+        <!-- Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF (nicht ROM)! -->
     <b abschl="bk" stg="rom-fra" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
@@ -701,6 +710,7 @@
             <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="34783"/>
         </l>
     </b>
+        <!-- Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF (nicht ROM)! -->
     <b abschl="bk" stg="rom-ita" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
@@ -715,6 +725,7 @@
             <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="34794"/>
         </l>
     </b>
+        <!-- Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF (nicht ROM)! -->
     <b abschl="bk" stg="rom-spa" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF">
         <l name="Pflichtmodule" min="5" max="5">
             <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
@@ -790,6 +801,7 @@
             </l>
         </l>
     </b>
+        <!-- Ergänzungsfach Linguistik mit KF Germanistik -->    
     <b abschl="bk" stg="lin-ger" kzfa="N" pversion="2013" name="Ergaenzungsfach Linguistik mit KF Germanistik">
         <l name="Basispflichtmodule" min="2" max="2">
             <m name="BBM „Basismodul Methoden Linguistik“ (anstelle des Moduls BG fuer Studierende mit dem Kernfach Germanistik)" pordnr="34735"/>
@@ -831,31 +843,21 @@
             <m name="Themenmodul Bereiche + Prozesse (Spezielle Soziologien)" pordnr="36729"/>
         </l>
     </b>
+        <!-- Ergänzungsfach Musikwissenschaft -->
+    <b abschl="bk" stg="RSH" kzfa="N" pversion="2013" name="Ergaenzungsfach Musikwissenschaft">        
+    <l name="Pflichtmodule" min="6" max="6">
+            <m name="Basismodul 1: Musikwissenschaftliche Propädeutik" pordnr="34753"/>
+            <m name="Basismodul 2: Musiktheorie I: Grundlagen" pordnr="34754"/>
+            <m name="Basismodul 3: Musiktheorie II: Modelle" pordnr="34755"/>
+            <m name="Aufbaumodul 1: Musikgeschichte" pordnr="34756"/>
+            <m name="Aufbaumodul 2: Musiken - Kulturen - Kontexte" pordnr="34757"/>
+            <m name="Vertiefungsmodul 1: Musikhistorie" pordnr="34758"/>
+            <m name="Vertiefungsmodul 2: Musik und Wirklichkeit" pordnr="34759"/>
+        </l>
+    </b>
+        <!-- Integrierte Studiengänge IS -->
         <!-- IS Infowiss und Sprachtechnologie korrigiert! -->
     <b abschl="ba" stg="iws" kzfa="H" pversion="2013" name="Kernfach IS Informationswissenschaft und Sprachtechnologie">
-        <minors>
-            <minor stg="aua" pversion="2013" />
-            <minor stg="ant" pversion="2013" />
-            <minor stg="ger-lang" pversion="2013" />
-            <minor stg="ger-lit" pversion="2013" />
-            <minor stg="ger-med" pversion="2013" />
-            <minor stg="ger-kom" pversion="2013" />
-            <minor stg="ges" pversion="2013" />
-            <minor stg="inf" pversion="2013" />
-            <minor stg="jid" pversion="2013" />
-            <minor stg="jued" pversion="2013" />
-            <minor stg="kom" pversion="2013" />
-            <minor stg="kun" pversion="2013" />
-            <minor stg="lin" pversion="2013" />
-            <minor stg="mod" pversion="2013" />
-            <minor stg="RSH" pversion="2013" />
-            <minor stg="phi" pversion="2013" />
-            <minor stg="pol" pversion="2013" />
-            <minor stg="rom-fra" pversion="2013" />
-            <minor stg="rom-ita" pversion="2013" />
-            <minor stg="rom-spa" pversion="2013" />
-            <minor stg="soz" pversion="2013" />
-        </minors>
         <l name="Basispflichtmodule" min="6" max="6">
             <m name="I1 Basismodul „Information Retrieval“" pordnr="33937"/>
             <m name="I2 Basismodul „Wissensrepräsentation“" pordnr="33938"/>
@@ -873,31 +875,8 @@
             <m name="D3 Aufbaumodul „Datenbanksysteme“" pordnr="33946"/>
         </l>
     </b>
-        <!-- IS LInguistik korrigiert! -->
+        <!-- IS LInguistik ! -->
     <b abschl="ba" stg="lin-spr" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Sprachen">
-        <minors>
-            <minor stg="aua" pversion="2013" />
-            <minor stg="ant" pversion="2013" />
-            <minor stg="ger-lang" pversion="2013" />
-            <minor stg="ger-lit" pversion="2013" />
-            <minor stg="ger-med" pversion="2013" />
-            <minor stg="ger-kom" pversion="2013" />
-            <minor stg="ges" pversion="2013" />
-            <minor stg="inf" pversion="2013" />
-            <minor stg="jid" pversion="2013" />
-            <minor stg="jued" pversion="2013" />
-            <minor stg="kom" pversion="2013" />
-            <minor stg="kun" pversion="2013" />
-            <minor stg="lin" pversion="2013" />
-            <minor stg="mod" pversion="2013" />
-            <minor stg="RSH" pversion="2013" />
-            <minor stg="phi" pversion="2013" />
-            <minor stg="pol" pversion="2013" />
-            <minor stg="rom-fra" pversion="2013" />
-            <minor stg="rom-ita" pversion="2013" />
-            <minor stg="rom-spa" pversion="2013" />
-            <minor stg="soz" pversion="2013" />
-        </minors>
         <l name="Pflichtmodule" min="8" max="13">
             <m name="BB1 Basismodul „Phonetik und Phonologie“" pordnr="36556"/>
             <m name="BB2 Basismodul „Morphologie und Syntax“" pordnr="36557"/>
@@ -924,6 +903,7 @@
             <m name="BSG4 Aufbaumodul „Historische Linguistik“" pordnr="36565"/>
         </l>
       </b>
+        <!-- IS Linguistik mit Schwerpunkt Grundlagen! -->
     <b abschl="ba" stg="lin-gru" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Grundlagen">
         <l name="Pflichtmodule" min="8" max="11">
             <m name="BG „Grundkurs Linguistik“" pordnr="38985"/>
@@ -949,6 +929,7 @@
             <m name="BSG4 Aufbaumodul „Historische Linguistik“" pordnr="36565"/>
         </l>
       </b>
+        <!-- IS Linguistik mit Schwerpunkt Psycholinguistik -->
     <b abschl="ba" stg="lin-psy" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Psycholinguistik">
         <l name="Pflichtmodule" min="8" max="11">
             <m name="BG „Grundkurs Linguistik“" pordnr="38985"/>
@@ -971,6 +952,7 @@
             <m name="BSG4 Aufbaumodul „Historische Linguistik“" pordnr="36565"/>
         </l>
     </b>
+        <!-- IS Linguistik mit Schwerpunkt Computerlinguistik! -->
     <b abschl="ba" stg="lin-com" kzfa="H" pversion="2013" name="Kernfach IS Linguistik mit Schwerpunkt Computerlinguistik">
         <l name="Pflichtmodule" min="10" max="10">
             <m name="BG „Grundkurs Linguistik“" pordnr="38985"/>
@@ -995,29 +977,6 @@
     </b>
         <!-- Kernfach IS Medien- und Kulturwissenschaft! -->
     <b abschl="ba" stg="kul" kzfa="H" pversion="2013" name="Kernfach IS Medien- und Kulturwissenschaft">
-        <minors>
-            <minor stg="aua" pversion="2013" />
-            <minor stg="ant" pversion="2013" />
-            <minor stg="ger-lang" pversion="2013" />
-            <minor stg="ger-lit" pversion="2013" />
-            <minor stg="ger-med" pversion="2013" />
-            <minor stg="ger-kom" pversion="2013" />
-            <minor stg="ges" pversion="2013" />
-            <minor stg="inf" pversion="2013" />
-            <minor stg="jid" pversion="2013" />
-            <minor stg="jued" pversion="2013" />
-            <minor stg="kom" pversion="2013" />
-            <minor stg="kun" pversion="2013" />
-            <minor stg="lin" pversion="2013" />
-            <minor stg="mod" pversion="2013" />
-            <minor stg="RSH" pversion="2013" />
-            <minor stg="phi" pversion="2013" />
-            <minor stg="pol" pversion="2013" />
-            <minor stg="rom-fra" pversion="2013" />
-            <minor stg="rom-ita" pversion="2013" />
-            <minor stg="rom-spa" pversion="2013" />
-            <minor stg="soz" pversion="2013" />
-        </minors>
         <l name="Pflichtmodule" min="9" max="9">
             <m name="Basismodul I" pordnr="36535"/>
             <m name="Basismodul II" pordnr="36536"/>
@@ -1030,30 +989,8 @@
             <m name="Aufbaumodul Kultur- und medienwissenschaftliche Forschungsmethoden" pordnr="37502"/>
        </l>
     </b>
+        <!-- IS SoWi Sozialwissenschaften! -->
     <b abschl="ba" stg="smp" kzfa="H" pversion="2013" name="Kernfach IS Sozialwissenschaften- Medien, Politik, Gesellschaft">
-        <minors>
-            <minor stg="aua" pversion="2013" />
-            <minor stg="ant" pversion="2013" />
-            <minor stg="ger-lang" pversion="2013" />
-            <minor stg="ger-lit" pversion="2013" />
-            <minor stg="ger-med" pversion="2013" />
-            <minor stg="ger-kom" pversion="2013" />
-            <minor stg="ges" pversion="2013" />
-            <minor stg="inf" pversion="2013" />
-            <minor stg="jid" pversion="2013" />
-            <minor stg="jued" pversion="2013" />
-            <minor stg="kom" pversion="2013" />
-            <minor stg="kun" pversion="2013" />
-            <minor stg="lin" pversion="2013" />
-            <minor stg="mod" pversion="2013" />
-            <minor stg="RSH" pversion="2013" />
-            <minor stg="phi" pversion="2013" />
-            <minor stg="pol" pversion="2013" />
-            <minor stg="rom-fra" pversion="2013" />
-            <minor stg="rom-ita" pversion="2013" />
-            <minor stg="rom-spa" pversion="2013" />
-            <minor stg="soz" pversion="2013" />
-        </minors>
         <l name="Pflichtmodule" min="8" max="8">
             <m name="Praxismodul Propädeutik" pordnr="37629"/>
             <m name="Basismodul Soziologie" pordnr="36657"/>
@@ -1063,25 +1000,11 @@
             <m name="Methodenmodul Analyseverfahren" pordnr="36661"/>
             <m name="Methodenmodul Lehrforschungsprojekt" pordnr="36665"/>
             <m name="Praxismodul Praktikum" pordnr="37630"/>
-
-        <!-- JO FRAGEN BEZÜGLICH PFLICHT UND WAHLPFLICHT! GGF ÜBER CPs-->
             <m name="Themenmodul Individuum + Gesellschaft" pordnr="36666"/>
             <m name="Themenmodul Systeme + Strukturen" pordnr="37566"/>
             <m name="Themenmodul Bereiche + Prozesse" pordnr="37567"/>
             <m name="Themenmodul Medien + Kommunikation" pordnr="37568"/>
             <m name="Themenmodul Europa + Internationale Studien" pordnr="37569"/>
        </l>
-    </b>
-        <!-- Ergänzungsfach Musikwissenschaft neu integriert; fehlte vollständig! -->
-    <b abschl="bk" stg="RSH" kzfa="N" pversion="2013" name="Ergaenzungsfach Musikwissenschaft">        
-    <l name="Pflichtmodule" min="6" max="6">
-            <m name="Basismodul 1: Musikwissenschaftliche Propädeutik" pordnr="34753"/>
-            <m name="Basismodul 2: Musiktheorie I: Grundlagen" pordnr="34754"/>
-            <m name="Basismodul 3: Musiktheorie II: Modelle" pordnr="34755"/>
-            <m name="Aufbaumodul 1: Musikgeschichte" pordnr="34756"/>
-            <m name="Aufbaumodul 2: Musiken - Kulturen - Kontexte" pordnr="34757"/>
-            <m name="Vertiefungsmodul 1: Musikhistorie" pordnr="34758"/>
-            <m name="Vertiefungsmodul 2: Musik und Wirklichkeit" pordnr="34759"/>
-        </l>
     </b>
 </ModulBaum>
