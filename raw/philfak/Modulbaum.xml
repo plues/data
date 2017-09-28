@@ -655,89 +655,92 @@
         <!-- Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit KF ROM! -->
     <b abschl="bk" stg="romrom-fra" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
-            <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
-            <m name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776"/>
-            <m name="Aufbaumodul Sprachpraxis Französisch" pordnr="34779"/>
-            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785"/>
-            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784"/>
+            <m name="Basismodul Sprachpraxis Französisch" pordnr="40101"/>
+            <m name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="40102"/>
+            <m name="Aufbaumodul Sprachpraxis Französisch" pordnr="40103"/>
+            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="40104"/>
+            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="40105"/>
         </l>
         <l name="Wahlpflichtmodule" min="1" max="1">
-            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34786"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
+            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="40106"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="40107"/>
         </l>
     </b>
         <!-- Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit KF ROM! -->
     <b abschl="bk" stg="romrom-ita" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
-            <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
-            <m name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777"/>
-            <m name="Aufbaumodul Sprachpraxis Italienisch" pordnr="34780"/>
-            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785"/>
-            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784"/>
+            <m name="Basismodul Sprachpraxis Italienisch" pordnr="40201"/>
+            <m name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="40202"/>
+            <m name="Aufbaumodul Sprachpraxis Italienisch" pordnr="40203"/>
+            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="40204"/>
+            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="40205"/>
         </l>
         <l name="Wahlpflichtmodule" min="1" max="1">
-            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34786"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
+            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="40206"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="40207"/>
         </l>
     </b>
         <!-- Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit KF ROM! -->
     <b abschl="bk" stg="romrom-spa" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit KF ROM">
         <l name="Pflichtmodule" min="5" max="5">
-            <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
-            <m name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778"/>
-            <m name="Aufbaumodul Sprachpraxis Spanisch" pordnr="34781"/>
-            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785"/>
-            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784"/>
+            <m name="Basismodul Sprachpraxis Spanisch" pordnr="40301"/>
+            <m name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="40302"/>
+            <m name="Aufbaumodul Sprachpraxis Spanisch" pordnr="40303"/>
+            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="40304"/>
+            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="40305"/>
         </l>
         <l name="Wahlpflichtmodule" min="1" max="1">
-            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34786"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="34787"/>
+            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="40306"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach mit Kernfach Romanistik)" pordnr="40307"/>
         </l>
     </b>
         <!-- Ergänzungsfach Romanistik mit anderem KF (nicht ROM)! -->
         <!-- Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF (nicht ROM)! -->
     <b abschl="bk" stg="rom-fra" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF">
-        <l name="Pflichtmodule" min="5" max="5">
-            <m name="Basismodul Sprachpraxis Französisch" pordnr="34773"/>
-            <m name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="34776"/>
-            <m name="Aufbaumodul Sprachpraxis Französisch" pordnr="34779"/>
-            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785"/>
-            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784"/>
+        <l name="Pflichtmodule" min="6" max="6">
+            <m name="Basismodul romanistische Sprachwissenschaft FR" pordnr="40121"/>
+            <m name="Basismodul Sprachpraxis Französisch" pordnr="40101"/>
+            <m name="Vertiefungsmodul Sprachpraxis Französisch" pordnr="40102"/>
+            <m name="Aufbaumodul Sprachpraxis Französisch" pordnr="40103"/>
+            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="40104"/>
+            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="40105"/>
         </l>
         <l name="Wahlpflichtmodule" min="1" max="1">
-            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF)" pordnr="34788"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF)" pordnr="34795"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="34783"/>
+            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF)" pordnr="40108"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF)" pordnr="40109"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Französisch mit anderem KF)" pordnr="40110"/>
         </l>
     </b>
         <!-- Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF (nicht ROM)! -->
     <b abschl="bk" stg="rom-ita" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF">
-        <l name="Pflichtmodule" min="5" max="5">
-            <m name="Basismodul Sprachpraxis Italienisch" pordnr="34774"/>
-            <m name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777"/>
-            <m name="Aufbaumodul Sprachpraxis Italienisch" pordnr="34780"/>
-            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785"/>
-            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784"/>
+        <l name="Pflichtmodule" min="6" max="6">
+            <m name="Basismodul romanistische Sprachwissenschaft IT" pordnr="40221"/>
+            <m name="Basismodul Sprachpraxis Italienisch" pordnr="40201"/>
+            <m name="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="40202"/>
+            <m name="Aufbaumodul Sprachpraxis Italienisch" pordnr="40203"/>
+            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="40204"/>
+            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="40205"/>
         </l>
         <l name="Wahlpflichtmodule" min="1" max="1">
-            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF)" pordnr="34792"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF)" pordnr="34793"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="34794"/>
+            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF)" pordnr="40208"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF)" pordnr="40209"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Italienisch mit anderem KF)" pordnr="40210"/>
         </l>
     </b>
         <!-- Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF (nicht ROM)! -->
     <b abschl="bk" stg="rom-spa" kzfa="N" pversion="2013" name="Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF">
-        <l name="Pflichtmodule" min="5" max="5">
-            <m name="Basismodul Sprachpraxis Spanisch" pordnr="34775"/>
-            <m name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778"/>
-            <m name="Aufbaumodul Sprachpraxis Spanisch" pordnr="34781"/>
-            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785"/>
-            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784"/>
+        <l name="Pflichtmodule" min="6" max="6">
+            <m name="Basismodul romanistische Sprachwissenschaft SPA" pordnr="40321"/>
+            <m name="Basismodul Sprachpraxis Spanisch" pordnr="40301"/>
+            <m name="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="40302"/>
+            <m name="Aufbaumodul Sprachpraxis Spanisch" pordnr="40303"/>
+            <m name="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="40304"/>
+            <m name="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="40305"/>
         </l>
         <l name="Wahlpflichtmodule" min="1" max="1">
-            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="34789"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="34791"/>
-            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="34790"/>
+            <m name="Aufbaumodul romanistische Sprachwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="40308"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="40309"/>
+            <m name="Aufbaumodul romanistische Literaturwissenschaft (Ergänzungsfach Romanistik mit Schwerpunkt Spanisch mit anderem KF)" pordnr="40310"/>
         </l>
     </b>    
         <!-- Ergänzungsfach Antike Kultur! -->

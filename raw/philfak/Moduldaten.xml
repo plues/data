@@ -1034,117 +1034,164 @@
             <abstract-unit id="P-SOWI-L-BTMEI-PVc" title="Vertiefungsseminar E+I (Politikwissenschaft) (Vertiefungsseminar)" type="e" semester="5,6"/>
         </module>
       <!-- KF und Ergänzungsfach Romanistik! -->
-        <module id="P-ROM-M-BSPF" title="Basismodul Sprachpraxis Franzoesisch" pordnr="34773" elective-units="4">
+        <module id="P-ROM-M-BSPF" title="Basismodul Sprachpraxis Franzoesisch" pordnr="40101" elective-units="4">
             <abstract-unit id="P-ROM-L-BSPFa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPFb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPFc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPFd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2"/>
         </module>
-        <module id="P-ROM-M-BSPI" title="Basismodul Sprachpraxis Italienisch" pordnr="34774" elective-units="4">
+        <module id="P-ROM-M-BSPI" title="Basismodul Sprachpraxis Italienisch" pordnr="40201" elective-units="4">
             <abstract-unit id="P-ROM-L-BSPIa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPIb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPIc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPId" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2"/>
         </module>
-        <module id="P-ROM-M-BSPS" title="Basismodul Sprachpraxis Spanisch" pordnr="34775" elective-units="4">
+        <module id="P-ROM-M-BSPS" title="Basismodul Sprachpraxis Spanisch" pordnr="40301" elective-units="4">
             <abstract-unit id="P-ROM-L-BSPSa" title="Sprachbasisseminar A (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPSb" title="Sprachbasisseminar B (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPSc" title="Sprachaufbauseminar A (Sprachkurs)" type="e" semester="1,2"/>
             <abstract-unit id="P-ROM-L-BSPSd" title="Sprachaufbauseminar B (Sprachkurs)" type="e" semester="1,2"/>
         </module>
-        <module id="P-ROM-M-BVSF" title="Vertiefungsmodul Sprachpraxis Franzoesisch" pordnr="34776" elective-units="2">
+        <module id="P-ROM-M-BVSF" title="Vertiefungsmodul Sprachpraxis Franzoesisch" pordnr="40102" elective-units="2">
             <abstract-unit id="P-ROM-L-BVSFa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3"/>
             <abstract-unit id="P-ROM-L-BVSFb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3"/>
         </module>
-        <module id="P-ROM-M-BVSI" title="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="34777" elective-units="2">
+        <module id="P-ROM-M-BVSI" title="Vertiefungsmodul Sprachpraxis Italienisch" pordnr="40202" elective-units="2">
             <abstract-unit id="P-ROM-L-BVSIa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3"/>
             <abstract-unit id="P-ROM-L-BVSIb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3"/>
         </module>
-        <module id="P-ROM-M-BVSS" title="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="34778" elective-units="2">
+        <module id="P-ROM-M-BVSS" title="Vertiefungsmodul Sprachpraxis Spanisch" pordnr="40302" elective-units="2">
             <abstract-unit id="P-ROM-L-BVSSa" title="Texttransfer 1 (Sprachkurs)" type="e" semester="3"/>
             <abstract-unit id="P-ROM-L-BVSSb" title="Texttransfer 2 (Sprachkurs)" type="e" semester="3"/>
         </module>
-        <module id="P-ROM-M-BASF" title="Aufbaumodul Sprachpraxis Franzoesisch" pordnr="34779" elective-units="2">
+        <module id="P-ROM-M-BASF" title="Aufbaumodul Sprachpraxis Franzoesisch" pordnr="40103" elective-units="2">
             <abstract-unit id="P-ROM-L-BASFa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5"/>
             <abstract-unit id="P-ROM-L-BASFb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5"/>
         </module>
-        <module id="P-ROM-M-BASI" title="Aufbaumodul Sprachpraxis Italienisch" pordnr="34780" elective-units="2">
+        <module id="P-ROM-M-BASI" title="Aufbaumodul Sprachpraxis Italienisch" pordnr="40203" elective-units="2">
             <abstract-unit id="P-ROM-L-BASIa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5"/>
             <abstract-unit id="P-ROM-L-BASIb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5"/>
         </module>
-        <module id="P-ROM-M-BASP" title="Aufbaumodul Sprachpraxis Spanisch" pordnr="34781" elective-units="2">
+        <module id="P-ROM-M-BASP" title="Aufbaumodul Sprachpraxis Spanisch" pordnr="40303" elective-units="2">
             <abstract-unit id="P-ROM-L-BASPa" title="Interkulturelle Kommunikation (Sprachkurs)" type="e" semester="4,5"/>
             <abstract-unit id="P-ROM-L-BASPb" title="Textproduktion in Themen- und Berufsfeldern (Sprachkurs)" type="e" semester="4,5"/>
         </module>
-        <module id="P-ROM-M-BVSW" title="Vertiefungsmodul romanistische Sprachwissenschaft" pordnr="34784" elective-units="0">
-            <abstract-unit id="P-ROM-L-BVSWa" title="Basisseminar (Basisseminar)" type="m" semester="2"/>
-            <abstract-unit id="P-ROM-L-BVSWb" title="Projektseminar (Seminar)" type="m" semester="2"/>
-            <abstract-unit id="P-ROM-L-BVSWc" title="Tutorium zum Projektseminar (Tutorium)" type="m" semester="2"/>
+      <!-- Modulaufteilung FUNKTIONIERT! -->
+        <module id="P-ROM-M-BVSW" title="Vertiefungsmodul romanistische Sprachwissenschaft FRA" pordnr="40105" elective-units="0">
+            <abstract-unit id="P-ROM-L-BVSWaF" title="Basisseminar (Basisseminar)" type="m" semester="2"/>
+            <abstract-unit id="P-ROM-L-BVSWbF" title="Projektseminar (Seminar)" type="m" semester="2"/>
+            <abstract-unit id="P-ROM-L-BVSWcF" title="Tutorium zum Projektseminar (Tutorium)" type="m" semester="2"/>
         </module>
-        <module id="P-ROM-M-BARS3" title="Aufbaumodul romanistische Sprachwissenschaft (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="34786" elective-units="2">
-            <abstract-unit id="P-ROM-L-BARS1a" title="Vorlesung BARS1a (Vorlesung)" type="e" semester="4,5"/>
-            <abstract-unit id="P-ROM-L-BARS1b" title="Aufbauseminar BARS1b (Aufbauseminar)" type="e" semester="4,5"/>
+        <module id="P-ROM-M-BVSW" title="Vertiefungsmodul romanistische Sprachwissenschaft ITA" pordnr="40205" elective-units="0">
+            <abstract-unit id="P-ROM-L-BVSWaI" title="Basisseminar (Basisseminar)" type="m" semester="2"/>
+            <abstract-unit id="P-ROM-L-BVSWbI" title="Projektseminar (Seminar)" type="m" semester="2"/>
+            <abstract-unit id="P-ROM-L-BVSWcI" title="Tutorium zum Projektseminar (Tutorium)" type="m" semester="2"/>
         </module>
-        <module id="P-ROM-M-BVLW" title="Vertiefungsmodul romanistische Literaturwissenschaft" pordnr="34785" elective-units="0">
-            <abstract-unit id="P-ROM-L-BVLWa" title="Projektseminar BVLWa (Seminar)" type="m" semester="2,3"/>
-            <abstract-unit id="P-ROM-L-BVLWb" title="Basisseminar BVLWb (Basisseminar)" type="m" semester="2,3"/>
+        <module id="P-ROM-M-BVSW" title="Vertiefungsmodul romanistische Sprachwissenschaft SPA" pordnr="40305" elective-units="0">
+            <abstract-unit id="P-ROM-L-BVSWaS" title="Basisseminar (Basisseminar)" type="m" semester="2"/>
+            <abstract-unit id="P-ROM-L-BVSWbS" title="Projektseminar (Seminar)" type="m" semester="2"/>
+            <abstract-unit id="P-ROM-L-BVSWcS" title="Tutorium zum Projektseminar (Tutorium)" type="m" semester="2"/>
         </module>
-        <module id="P-ROM-M-BALWE" title="Aufbaumodul romanistische Literaturwissenschaft (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="34787" elective-units="2">
-            <abstract-unit id="P-ROM-L-BALW1a" title="Vorlesung oder Aufbauseminar BALWE3a (Vorlesung oder Aufbauseminar)" type="e" semester="2,3"/>
-            <abstract-unit id="P-ROM-L-BALW1b" title="Aufbauseminar BALWE3b (Aufbauseminar)" type="e" semester="2,3"/>
+        <module id="P-ROM-M-BARS3" title="Aufbaumodul romanistische Sprachwissenschaft FRA (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="40106" elective-units="2">
+            <abstract-unit id="P-ROM-L-BARS1aF" title="Vorlesung BARS1a (Vorlesung)" type="e" semester="4,5"/>
+            <abstract-unit id="P-ROM-L-BARS1bF" title="Aufbauseminar BARS1b (Aufbauseminar)" type="e" semester="4,5"/>
         </module>
+        <module id="P-ROM-M-BARS3" title="Aufbaumodul romanistische Sprachwissenschaft ITA (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="40206" elective-units="2">
+            <abstract-unit id="P-ROM-L-BARS1aI" title="Vorlesung BARS1a (Vorlesung)" type="e" semester="4,5"/>
+            <abstract-unit id="P-ROM-L-BARS1bI" title="Aufbauseminar BARS1b (Aufbauseminar)" type="e" semester="4,5"/>
+        </module>
+        <module id="P-ROM-M-BARS3" title="Aufbaumodul romanistische Sprachwissenschaft SPA (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="40306" elective-units="2">
+            <abstract-unit id="P-ROM-L-BARS1aS" title="Vorlesung BARS1a (Vorlesung)" type="e" semester="4,5"/>
+            <abstract-unit id="P-ROM-L-BARS1bS" title="Aufbauseminar BARS1b (Aufbauseminar)" type="e" semester="4,5"/>
+        </module>
+        <module id="P-ROM-M-BVLW" title="Vertiefungsmodul romanistische Literaturwissenschaft FRA" pordnr="40104" elective-units="0">
+            <abstract-unit id="P-ROM-L-BVLWaF" title="Projektseminar BVLWa (Seminar)" type="m" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BVLWbF" title="Basisseminar BVLWb (Basisseminar)" type="m" semester="2,3"/>
+        </module>
+        <module id="P-ROM-M-BVLW" title="Vertiefungsmodul romanistische Literaturwissenschaft ITA" pordnr="40204" elective-units="0">
+            <abstract-unit id="P-ROM-L-BVLWaI" title="Projektseminar BVLWa (Seminar)" type="m" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BVLWbI" title="Basisseminar BVLWb (Basisseminar)" type="m" semester="2,3"/>
+        </module>
+        <module id="P-ROM-M-BVLW" title="Vertiefungsmodul romanistische Literaturwissenschaft SPA" pordnr="40304" elective-units="0">
+            <abstract-unit id="P-ROM-L-BVLWaS" title="Projektseminar BVLWa (Seminar)" type="m" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BVLWbS" title="Basisseminar BVLWb (Basisseminar)" type="m" semester="2,3"/>
+        </module>
+        <module id="P-ROM-M-BALWE" title="Aufbaumodul romanistische Literaturwissenschaft FRA (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="40107" elective-units="2">
+            <abstract-unit id="P-ROM-L-BALW1aF" title="Vorlesung oder Aufbauseminar BALWE3a (Vorlesung oder Aufbauseminar)" type="e" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BALW1bF" title="Aufbauseminar BALWE3b (Aufbauseminar)" type="e" semester="2,3"/>
+        </module>
+        <module id="P-ROM-M-BALWE" title="Aufbaumodul romanistische Literaturwissenschaft ITA (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="40207" elective-units="2">
+            <abstract-unit id="P-ROM-L-BALW1aI" title="Vorlesung oder Aufbauseminar BALWE3a (Vorlesung oder Aufbauseminar)" type="e" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BALW1bI" title="Aufbauseminar BALWE3b (Aufbauseminar)" type="e" semester="2,3"/>
+        </module>
+        <module id="P-ROM-M-BALWE" title="Aufbaumodul romanistische Literaturwissenschaft SPA (Ergaenzungsfach mit Kernfach Romanistik)" pordnr="40307" elective-units="2">
+            <abstract-unit id="P-ROM-L-BALW1aS" title="Vorlesung oder Aufbauseminar BALWE3a (Vorlesung oder Aufbauseminar)" type="e" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BALW1bS" title="Aufbauseminar BALWE3b (Aufbauseminar)" type="e" semester="2,3"/>
+        </module>
+
       <!-- Ergänzungsfach Romanistik als alleiniges Ergänzungsfach! -->
-        <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft" pordnr="34782" elective-units="2">
-            <abstract-unit id="P-ROM-L-BRSWa" title="Einführung in die romanistische Sprachwissenschaft (Vorlesung)" type="m" semester="1"/>
-            <abstract-unit id="P-ROM-L-BRSWbF" title="Einführung in das Studium der franzoesischen Sprachwissenschaft (Seminar)" type="e" semester="1"/>
-            <abstract-unit id="P-ROM-L-BRSWbI" title="Einführung in das Studium der italienischen Sprachwissenschaft (Seminar)" type="e" semester="1"/>
-            <abstract-unit id="P-ROM-L-BRSWbS" title="Einführung in das Studium der spanischen Sprachwissenschaft (Seminar)" type="e" semester="1"/>
+      <!-- nicht studierbar! -->
+
+      <!-- AB HIER Module EF! -->  
+        <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft FRA" pordnr="40121" elective-units="0">
+            <abstract-unit id="P-ROM-L-BRSWaF" title="Einführung in die romanistische Sprachwissenschaft (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-ROM-L-BRSWbF" title="Einführung in das Studium der franzoesischen Sprachwissenschaft (Seminar)" type="m" semester="1"/>
         </module>
-        <module id="P-ROM-M-BARSF4" title="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergaenzungsfach)" pordnr="34788" elective-units="4">
+        <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft ITA" pordnr="40221" elective-units="0">
+            <abstract-unit id="P-ROM-L-BRSWaI" title="Einführung in die romanistische Sprachwissenschaft (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-ROM-L-BRSWbI" title="Einführung in das Studium der italienischen Sprachwissenschaft (Seminar)" type="m" semester="1"/>
+        </module>
+        <module id="P-ROM-M-BRSW" title="Basismodul romanistische Sprachwissenschaft SPA" pordnr="40321" elective-units="0">
+            <abstract-unit id="P-ROM-L-BRSWaS" title="Einführung in die romanistische Sprachwissenschaft (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-ROM-L-BRSWbS" title="Einführung in das Studium der spanischen Sprachwissenschaft (Seminar)" type="m" semester="1"/>
+        </module>
+        <module id="P-ROM-M-BARSF4" title="Aufbaumodul romanistische Sprachwissenschaft FRA (alleiniges Ergaenzungsfach)" pordnr="40108" elective-units="4">
             <abstract-unit id="P-ROM-L-BARSF4a" title="Basisseminar BARS4a (Basisseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BARSF4b" title="Projektseminar BARS4b (Seminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BARSF4c" title="Tutorium (zum Projektseminar) BARS4c (Tutorium)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BARSF4d" title="Aufbauseminar BARS4d (Aufbauseminar)" type="e" semester="2,3"/>
         </module>
-        <module id="P-ROM-M-BARSS4" title="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergaenzungsfach)" pordnr="34789" elective-units="4">
-            <abstract-unit id="P-ROM-L-BARSS4a" title="Basisseminar BARS4a (Basisseminar)" type="e" semester="2,3"/>
-            <abstract-unit id="P-ROM-L-BARSS4b" title="Projektseminar BARS4b (Seminar)" type="e" semester="2,3"/>
-            <abstract-unit id="P-ROM-L-BARSS4c" title="Tutorium (zum Projektseminar) BARS4c (Tutorium)" type="e" semester="2,3"/>
-            <abstract-unit id="P-ROM-L-BARSS4d" title="Aufbauseminar BARS4d (Aufbauseminar)" type="e" semester="2,3"/>
-        </module>
-        <module id="P-ROM-M-BARSI4" title="Aufbaumodul romanistische Sprachwissenschaft (alleiniges Ergaenzungsfach)" pordnr="34792" elective-units="4">
+        <module id="P-ROM-M-BARSI4" title="Aufbaumodul romanistische Sprachwissenschaft ITA (alleiniges Ergaenzungsfach)" pordnr="40208" elective-units="4">
             <abstract-unit id="P-ROM-L-BARSI4a" title="Basisseminar BARS4a (Basisseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BARSI4b" title="Projektseminar BARS4b (Seminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BARSI4c" title="Tutorium (zum Projektseminar) BARS4c (Tutorium)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BARSI4d" title="Aufbauseminar BARS4d (Aufbauseminar)" type="e" semester="2,3"/>
         </module>
-        <module id="P-ROM-M-BRLWI" title="Basismodul romanistische Literaturwissenschaft" pordnr="34794" elective-units="0">
-            <abstract-unit id="P-ROM-L-BRLWIa" title="Vorlesung BRLWa (Vorlesung)" type="m" semester="1"/>
-            <abstract-unit id="P-ROM-L-BRLWIb" title="Einführungsseminar BRLWb (Seminar)" type="m" semester="1"/>
+        <module id="P-ROM-M-BARSS4" title="Aufbaumodul romanistische Sprachwissenschaft SPA (alleiniges Ergaenzungsfach)" pordnr="40308" elective-units="4">
+            <abstract-unit id="P-ROM-L-BARSS4a" title="Basisseminar BARS4a (Basisseminar)" type="e" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BARSS4b" title="Projektseminar BARS4b (Seminar)" type="e" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BARSS4c" title="Tutorium (zum Projektseminar) BARS4c (Tutorium)" type="e" semester="2,3"/>
+            <abstract-unit id="P-ROM-L-BARSS4d" title="Aufbauseminar BARS4d (Aufbauseminar)" type="e" semester="2,3"/>
         </module>
-        <module id="P-ROM-M-BRLWS" title="Basismodul romanistische Literaturwissenschaft" pordnr="34791" elective-units="0">
-            <abstract-unit id="P-ROM-L-BRLWSa" title="Vorlesung BRLWa (Vorlesung)" type="m" semester="1"/>
-            <abstract-unit id="P-ROM-L-BRLWSb" title="Einführungsseminar BRLWb (Seminar)" type="m" semester="1"/>
-        </module>
-        <module id="P-ROM-M-BRLWF" title="Basismodul romanistische Literaturwissenschaft" pordnr="34783" elective-units="0">
+        <module id="P-ROM-M-BRLWF" title="Basismodul romanistische Literaturwissenschaft FRA" pordnr="40110" elective-units="0">
             <abstract-unit id="P-ROM-L-BRLWFa" title="Vorlesung BRLWa (Vorlesung)" type="m" semester="1"/>
             <abstract-unit id="P-ROM-L-BRLWFb" title="Einführungsseminar BRLWb (Seminar)" type="m" semester="1"/>
         </module>
-        <module id="P-ROM-M-BALWFEF" title="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergaenzungsfach)" pordnr="34795" elective-units="3">
+        <module id="P-ROM-M-BRLWI" title="Basismodul romanistische Literaturwissenschaft ITA" pordnr="40210" elective-units="0">
+            <abstract-unit id="P-ROM-L-BRLWIa" title="Vorlesung BRLWa (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-ROM-L-BRLWIb" title="Einführungsseminar BRLWb (Seminar)" type="m" semester="1"/>
+        </module>
+        <module id="P-ROM-M-BRLWS" title="Basismodul romanistische Literaturwissenschaft SPA" pordnr="40310" elective-units="0">
+            <abstract-unit id="P-ROM-L-BRLWSa" title="Vorlesung BRLWa (Vorlesung)" type="m" semester="1"/>
+            <abstract-unit id="P-ROM-L-BRLWSb" title="Einführungsseminar BRLWb (Seminar)" type="m" semester="1"/>
+        </module>
+        <module id="P-ROM-M-BALWFEF" title="Aufbaumodul romanistische Literaturwissenschaft FRA (alleiniges Ergaenzungsfach)" pordnr="40109" elective-units="3">
             <abstract-unit id="P-ROM-L-BALWFEF4a" title="Vorlesung oder Projektseminar BALWEF4a (Vorlesung oder Projektseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BALWFEF4b" title="Basisseminar BALWEF4b (Basisseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c" title="Aufbauseminar BALWEF4c (Aufbauseminar)" type="e" semester="2,3"/>
         </module>
-        <module id="P-ROM-M-BALWIEF" title="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergaenzungsfach)" pordnr="34793" elective-units="3">
+        <module id="P-ROM-M-BALWIEF" title="Aufbaumodul romanistische Literaturwissenschaft ITA (alleiniges Ergaenzungsfach)" pordnr="40209" elective-units="3">
             <abstract-unit id="P-ROM-L-BALWIEF4a" title="Vorlesung oder Projektseminar BALWEF4a (Vorlesung oder Projektseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BALWIEF4b" title="Basisseminar BALWEF4b (Basisseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BALWIEF4c" title="Aufbauseminar BALWEF4c (Aufbauseminar)" type="e" semester="2,3"/>
         </module>
-        <module id="P-ROM-M-BALWSEF" title="Aufbaumodul romanistische Literaturwissenschaft (alleiniges Ergaenzungsfach)" pordnr="34790" elective-units="3">
+        <module id="P-ROM-M-BALWSEF" title="Aufbaumodul romanistische Literaturwissenschaft SPA (alleiniges Ergaenzungsfach)" pordnr="40309" elective-units="3">
             <abstract-unit id="P-ROM-L-BALWSEF4a" title="Vorlesung oder Projektseminar BALWEF4a (Vorlesung oder Projektseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BALWSEF4b" title="Basisseminar BALWEF4b (Basisseminar)" type="e" semester="2,3"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c" title="Aufbauseminar BALWEF4c (Aufbauseminar)" type="e" semester="2,3"/>
         </module>
+
+
       <!-- Ergänzungsfach Soziologie! -->
         <module id="P-SOWI-M-BBMS" title="Basismodul Soziologie" pordnr="36725" elective-units="0">
             <abstract-unit id="P-SOWI-L-BBMSa" title="Grundlagen der Soziologie (Vorlesung)" type="m" semester="1,2"/>
@@ -1410,15 +1457,15 @@
         </module>
       <!-- Integrierter Studiengang Mekuwi Medien- und Kulturwissenschaft! -->
         <module id="P-MKW-M-BBM1" title="Basismodul I" pordnr="36535" elective-units="0">
-            <abstract-unit id="P-MKW-L-BBM1a" title="Themenbereich Aesthetik (Seminar)" type="m" semester="1,2,3,4"/>
-            <abstract-unit id="P-MKW-L-BBM1b" title="Themenbereich Kultur (Seminar)" type="m" semester="1,2,3,4"/>
-            <abstract-unit id="P-MKW-L-BBM1c" title="Themenbereich Medien (Seminar)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-MKW-L-BBM1a" title="Themenbereich Aesthetik (Seminar)" type="m" semester="1,3"/>
+            <abstract-unit id="P-MKW-L-BBM1b" title="Themenbereich Kultur (Seminar)" type="m" semester="1,3"/>
+            <abstract-unit id="P-MKW-L-BBM1c" title="Themenbereich Medien (Seminar)" type="m" semester="1,3"/>
             <abstract-unit id="P-MKW-L-BBM1d" title="Tutorien (Tutorium)" type="m" semester="1,2,3,4"/>
-            <abstract-unit id="P-MKW-L-BBM1e" title="Filmclub (Seminar)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-MKW-L-BBM1e" title="Filmclub (Seminar)" type="m" semester="1,3"/>
             <abstract-unit id="P-MKW-L-BBM1f" title="Einführung in das wissenschaftliche Arbeiten" type="m" semester="1,2,3,4"/>
         </module>
         <module id="P-MKW-M-BBM2" title="Basismodul II" pordnr="36536" elective-units="0">
-            <abstract-unit id="P-MKW-L-BBM2a" title="Grundlagenveranstaltung Kommunikation und Aesthetik (Seminar)" type="m" semester="1,2,3,4"/>
+            <abstract-unit id="P-MKW-L-BBM2a" title="Grundlagenveranstaltung Kommunikation und Aesthetik (Seminar)" type="m" semester="2,4"/>
             <abstract-unit id="P-MKW-L-BBM2b" title="Grundlagenveranstaltung Performativitaet /Theater (Seminar)" type="m" semester="1,2,3,4"/>
             <abstract-unit id="P-MKW-L-BBM2c" title="Grundlagenveranstaltung Audiovisuelle Medien (Seminar)" type="m" semester="1,2,3,4"/>
             <abstract-unit id="P-MKW-L-BBM2d" title="Praxisprojekte (Seminar)" type="m" semester="1,2,3,4"/>
@@ -2195,6 +2242,12 @@
             <abstract-unit id="P-PHIL-L-BAKSbEF"/>
             <abstract-unit id="P-MKW-L-BAMAGc"/>
         </unit>
+        <unit id="157092" title="Relationierungen: Fernsehen und das 'Zuschauersubjekt' in Theorie und Empirie (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGc"/>
+        </unit>
       <unit id="121982" title="Ruth Millikan's biological approach to language (Aufbauseminar)" semester="1,3,5">
             <group>
                 <session day="mon" time="5" duration="2" rhythm="0"/>
@@ -2253,6 +2306,14 @@
             <abstract-unit id="P-PHIL-L-BGPAb"/>
             <abstract-unit id="P-PHIL-L-BGPAbEF"/>
             <abstract-unit id="P-KLAS-L-BGPAb"/>
+            <abstract-unit id="P-MKW-L-BAMMGEa"/>
+        </unit>
+        <unit id="157786" title="Recht und Moral (Vorlesung)" semester="1,3,5">
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHIL-L-BPPSa"/>
+            <abstract-unit id="P-PHIL-L-BPPSaEF"/>
             <abstract-unit id="P-MKW-L-BAMMGEa"/>
         </unit>
         <unit id="124081" title="David Humes Moralphilosophie (Basisseminar)" semester="2,4,6">
@@ -2354,6 +2415,20 @@
         <unit id="125749" title="Kant, Zum ewigen Frieden (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-PHIL-L-BGPNb"/>
+            <abstract-unit id="P-PHIL-L-BGPNbEF"/>
+            <abstract-unit id="P-PHIL-L-BPPBEb"/>
+            <abstract-unit id="P-PHIL-L-BPPBEbEF"/>
+            <abstract-unit id="P-PHIL-L-BPPANb"/>
+            <abstract-unit id="P-PHIL-L-BPPANbEF"/>
+            <abstract-unit id="P-PHIL-L-BPPSb"/>
+            <abstract-unit id="P-PHIL-L-BPPSbEF"/>
+            <abstract-unit id="P-MKW-L-BAMMGEa"/>
+        </unit>
+        <unit id="157374" title="Kelsen: Vom wesen und Wert der Demokratie (Basisseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-PHIL-L-BGPNb"/>
             <abstract-unit id="P-PHIL-L-BGPNbEF"/>
@@ -2636,15 +2711,8 @@
             <abstract-unit id="P-PHIL-L-BPPSa"/>
             <abstract-unit id="P-PHIL-L-BPPSaEF"/>
             <abstract-unit id="P-MKW-L-BAMMGEa"/>
-        </unit>
-        <unit id="157786" title="Recht und Moral (Vorlesung)" semester="1,3,5">
-            <group>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
-            </group>
-            <abstract-unit id="P-PHIL-L-BPPSa"/>
-            <abstract-unit id="P-PHIL-L-BPPSaEF"/>
-            <abstract-unit id="P-MKW-L-BAMMGEa"/>
-        </unit>
+            <abstract-unit id="P-MKW-L-BAMMGEb"/>
+            </unit>
         <unit id="124095" title="Introduction Philosophy of Science (Vorlesung)" semester="2,4,6">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
@@ -4963,6 +5031,9 @@
         </unit>
         <unit id="119680" title="Grammar I (Übung)" semester="1,3,5">
             <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <group>
@@ -4973,6 +5044,9 @@
             </group>
             <group>
                 <session day="fri" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1a"/>
             <abstract-unit id="P-MKW-L-BPROb"/>
@@ -5025,6 +5099,23 @@
             <abstract-unit id="P-ISI-L-BS1c"/>
             <abstract-unit id="P-ISI-L-BS1d"/>
         </unit>
+        <unit id="155232" title="Grammar II (Übung)" semester="1,3,5">
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMLS1b"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
+            <abstract-unit id="P-ISI-L-BS1a"/>
+            <abstract-unit id="P-ISI-L-BS1b"/>
+            <abstract-unit id="P-ISI-L-BS1c"/>
+            <abstract-unit id="P-ISI-L-BS1d"/>
+        </unit>
         <unit id="119676" title="Translation for Beginners (Übung)" semester="1,3,5">
             <group>
                 <session day="tue" time="1" duration="2" rhythm="0"/>
@@ -5050,6 +5141,20 @@
         <unit id="119690" title="Translation for Beginners (Übung)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMLS1d"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
+            <abstract-unit id="P-ISI-L-BS1a"/>
+            <abstract-unit id="P-ISI-L-BS1b"/>
+            <abstract-unit id="P-ISI-L-BS1c"/>
+            <abstract-unit id="P-ISI-L-BS1d"/>
+        </unit>
+        <unit id="155005" title="Translation for Beginners (Übung)" semester="1,3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1d"/>
             <abstract-unit id="P-MKW-L-BPROb"/>
@@ -5094,6 +5199,23 @@
         <unit id="119688" title="Vocabulary and Translation (Übung)" semester="1,3,5">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMLS1c"/>
+            <abstract-unit id="P-MKW-L-BPROb"/>
+            <abstract-unit id="P-ISI-L-BS1a"/>
+            <abstract-unit id="P-ISI-L-BS1b"/>
+            <abstract-unit id="P-ISI-L-BS1c"/>
+            <abstract-unit id="P-ISI-L-BS1d"/>
+        </unit> 
+        <unit id="155223" title="Vocabulary and Translation (Übung)" semester="1,3,5">
+            <group>
+                <session day="tue" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-IAA-L-BMLS1c"/>
             <abstract-unit id="P-MKW-L-BPROb"/>
@@ -5351,6 +5473,25 @@
             <abstract-unit id="P-IAA-L-BIML2b"/>
             <abstract-unit id="P-MKW-L-BAMAGb"/>
         </unit>
+        <unit id="158899" title="Debating Gender - Analyzing Difference (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGb"/>
+        </unit>
+        <unit id="157284" title="Geschlechterkonstellationen der Neuzeit (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGb"/>
+        </unit>
+        <unit id="154988" title="Please, make me real! (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="mon" time="3" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGb"/>
+        </unit>
+
         <unit id="119827" title="The (Re-)Written Self: Memory and Identity as Narrative (Vertiefungsseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
@@ -5675,6 +5816,18 @@
             <abstract-unit id="P-IAA-L-BAML1b"/>
             <abstract-unit id="P-IAA-L-BAML2b"/>
             <abstract-unit id="P-IAA-L-BAML3b"/>
+            <abstract-unit id="P-MKW-L-BAMMa"/>
+        </unit>
+        <unit id="158939" title="Technologien des Performativen (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="fri" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMMa"/>
+        </unit>
+        <unit id="156034" title="'There's an app for that': a multi-textual/multi-medial introduction to the Waste Land  (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="3" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="P-MKW-L-BAMMa"/>
         </unit>
         <unit id="120793" title="Crisis in Masculinity in Anglophone Literatures (Aufbauseminar)" semester="1,3,5">
@@ -6161,6 +6314,17 @@
             <abstract-unit id="P-IAA-L-BIML2b"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
         </unit>
+        <unit id="155065" title="Remembering the Future" semester="1,2,3,4,5,6">
+            <group>
+                <session day="mon" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BMMb"/>
+            <abstract-unit id="P-IAA-L-BIML1a"/>
+            <abstract-unit id="P-IAA-L-BIML2a"/>
+            <abstract-unit id="P-IAA-L-BIML1b"/>
+            <abstract-unit id="P-IAA-L-BIML2b"/>
+            <abstract-unit id="P-MKW-L-BBMVIMc"/>
+        </unit>
         <unit id="123600" title="The Way We War: American Representations of War and Trauma (Vertiefungsseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="4" duration="2" rhythm="0"/>
@@ -6324,7 +6488,7 @@
             </group>
             <abstract-unit id="P-IAA-L-BPMc"/>
         </unit>
-        <unit id="127426" title="Text and the City (Vertiefungsseminar)" semester="2,4,6">
+        <unit id="158886" title="Violent Borders. Politiken in Bewegung (Vertiefungsseminar)" semester="1,2,3,4,5,6">
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
@@ -6605,6 +6769,30 @@
             <abstract-unit id="P-IAA-L-BAML3b"/>
         </unit>
         <unit id="125169" title="Protest, Rebellion, and Liberation – Where African American and Feminist Poetry Intersect (Aufbauseminar)" semester="2,4,6">
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BAML1a"/>
+            <abstract-unit id="P-IAA-L-BAML2a"/>
+            <abstract-unit id="P-IAA-L-BAML3a"/>
+            <abstract-unit id="P-IAA-L-BAML1b"/>
+            <abstract-unit id="P-IAA-L-BAML2b"/>
+            <abstract-unit id="P-IAA-L-BAML3b"/>
+            <abstract-unit id="P-MKW-L-BBMVIMd"/>
+        </unit>
+        <unit id="159488" title="Einführung in die transkulturelle Geschichte. Deutsch-afrikanische Beziehungen im 20. Jahrhundert (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-IAA-L-BAML1a"/>
+            <abstract-unit id="P-IAA-L-BAML2a"/>
+            <abstract-unit id="P-IAA-L-BAML3a"/>
+            <abstract-unit id="P-IAA-L-BAML1b"/>
+            <abstract-unit id="P-IAA-L-BAML2b"/>
+            <abstract-unit id="P-IAA-L-BAML3b"/>
+            <abstract-unit id="P-MKW-L-BBMVIMd"/>
+        </unit>
+        <unit id="158890" title="Von der ersten zur zweiten Globalisierung. (Aufbauseminar)" semester="1,3,5">
             <group>
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
@@ -7693,6 +7881,45 @@
             </group>
             <abstract-unit id="P-GERM-L-BBM4d"/>
             <abstract-unit id="P-MKW-L-BBM2d"/>
+        </unit>
+        <unit id="160690" title="Das Interview (Seminar)" semester="1,2,3,4,5,6">
+            <group>
+                <session day="fri" time="4" duration="4" rhythm="0"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="6" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-GERM-L-BBM4d"/>
+            <abstract-unit id="P-MKW-L-BBM2d"/>
+            <abstract-unit id="P-MKW-L-BPMMFa"/>
+        </unit>
+        <unit id="160669-1" title="Szenisches Forschen (Seminar)" semester="2,4,6">
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-GERM-L-BBM4d"/>
+            <abstract-unit id="P-MKW-L-BBM2d"/>
+        </unit>
+        <unit id="160669-2" title="Szenisches Forschen (Seminar)" semester="2,4,6">
+            <group>
+                <session day="sun" time="2" duration="6" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-GERM-L-BBM4d"/>
+            <abstract-unit id="P-MKW-L-BBM2d"/>
+        </unit>
+        <unit id="161073" title="Der goldene Schnitt - Praxis AVID-Postproduction (Seminar)" semester="2,4,6">
+            <group>
+                <session day="sat" time="2" duration="6" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM2d"/>
+            <abstract-unit id="P-MKW-L-BBM2e"/>
+        </unit>
+        <unit id="160883" title="Einführung in die Videobearbeitung mit Adobe Premiere (Seminar)" semester="2,4,6">
+            <group>
+                <session day="sat" time="2" duration="6" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM2e"/>
+            <abstract-unit id="P-MKW-L-BBM2f"/>
         </unit>
         <unit id="126305" title="Wissenschaftliches Schreiben: Formen, Stile und Strukturen (Seminar)" semester="2,4,6">
             <group>
@@ -8822,6 +9049,19 @@
             <abstract-unit id="P-MKW-L-BAMMb"/>
             <abstract-unit id="P-MKW-L-BAMMd"/>
         </unit>
+        <unit id="160642" title="Hinter dem Bild ist nicht immer die Wand. Einführung in die Bildwissenschaften(Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="mon" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMMb"/>
+            <abstract-unit id="P-MKW-L-BAMMd"/>
+        </unit>
+        <unit id="160285" title="Musikvideo/-theater: Mozarts Zauberflöte als Live-Action-Cartoon (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="sun" time="2" duration="6" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMMd"/>
+        </unit>
         <unit id="128338" title="Welche Moderne? Aspekte der Architektur in Deutschland von 1890 bis 1933 (Aufbauseminar)" semester="2,4,6">
             <group>
                 <session day="tue" time="4" duration="4" rhythm="0"/>
@@ -9002,9 +9242,27 @@
             </group>
             <abstract-unit id="P-MKW-L-BBM1f"/>
         </unit>
+        <unit id="160471-1" title="Einführung in die Techniken wissenschaftlichen Arbeitens I" semester="1,3,5">
+            <group>
+                <session day="fri" time="5" duration="2" rhythm="1"/>
+            </group>
+            <group>
+                <session day="fri" time="6" duration="2" rhythm="1"/>
+            </group>
+            <group>
+                <session day="fri" time="3" duration="2" rhythm="1"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BBM1f"/>
+        </unit>
         <unit id="126484" title="Bildung in der Digitale (Aufbauseminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="1" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGa"/>
+        </unit>
+        <unit id="158904" title="Imagination des Überlebens (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-MKW-L-BAMAGa"/>
         </unit>
@@ -9026,6 +9284,18 @@
             </group>
             <abstract-unit id="P-MKW-L-BAMAGd"/>
             <abstract-unit id="P-MKW-L-BAMMd"/>
+        </unit>
+        <unit id="157227" title="Augustinus: Erinnern und Vergesssen (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGd"/>
+        </unit>
+        <unit id="157173" title="Ökologie und Poetik (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGd"/>
         </unit>
         <unit id="126485" title="Spielen in virtuellen Welten (Aufbauseminar)" semester="2,4,6">
             <group>
@@ -9061,6 +9331,12 @@
             </group>
             <abstract-unit id="P-MKW-L-BAMMc"/>
         </unit>
+        <unit id="158887" title="Mit den Ohren sehen. Kulturen und Techniken des Hörens (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMMc"/>
+        </unit>
         <unit id="126472" title="Ästhetik des Haesslichen (Aufbauseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="2" duration="2" rhythm="0"/>
@@ -9068,6 +9344,24 @@
             <abstract-unit id="P-MKW-L-BAMMd"/>
         </unit>
         <unit id="132204" title="Europa ohne Europaeer? - Mediale Vermittlung des europaeischen Einigungsprozesses (Aufbauseminar)" semester="1,2,3,4,5,6">
+            <group>
+                <session day="fri" time="4" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFa"/>
+        </unit>
+        <unit id="160692" title="Audiovisuelle Medien in Museen und Ausstellungen (Aufbauseminar)" semester="1,2,3,4,5,6">
+            <group>
+                <session day="fri" time="4" duration="4" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFa"/>
+        </unit>
+        <unit id="160691" title="Moderation auf der Bühne und im TB - Eloquenter Umgang mit Wirtschaftsbossen und Hollywoodstars (Aufbauseminar)" semester="1,2,3,4,5,6">
             <group>
                 <session day="fri" time="4" duration="4" rhythm="3"/>
             </group>
@@ -9094,12 +9388,52 @@
                 <session day="sat" time="2" duration="8" rhythm="3"/>
             </group>
             <abstract-unit id="P-MKW-L-BPMMFb"/>
+            <abstract-unit id="P-MKW-L-BPMMFc"/>
+        </unit>
+        <unit id="160718" title="Journalisten und öffentliche Meinung in unsicheren Zeiten - Wer beeinflusst hier eigentlich wen?" semester="1,2,3,4,5,6">
+            <group>
+                <session day="fri" time="4" duration="6" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFc"/>
+        </unit>
+        <unit id="164152" title="Es begann mit einer Lüge - Recherche" semester="1,2,3,4,5,6">
+            <group>
+                <session day="fri" time="4" duration="6" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFb"/>
+        </unit>
+        <unit id="160689" title="Einführung Hörfunk" semester="1,2,3,4,5,6">
+            <group>
+                <session day="fri" time="4" duration="6" rhythm="3"/>
+            </group>
+            <group>
+                <session day="sat" time="2" duration="8" rhythm="3"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPMMFb"/>
         </unit>
         <unit id="126495" title="Verschraenken/Differenzieren/Problematisieren – Forschen im Anthropozaen (Aufbauseminar)" semester="4,5">
             <group>
                 <session day="wed" time="3" duration="4" rhythm="0"/>
             </group>
             <abstract-unit id="P-MKW-L-BAMKMFa"/>
+        </unit>
+        <unit id="154999" title="Sonic Fiction: Methoden und Projekte auditiver Forschung (Vertiefungsseminar)" semester="3,4,5,6">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMKMFb"/>
+        </unit>
+        <unit id="160894" title="Thinking about exhibitions – Kuratieren/ Ausstellungstheorie und Praxis (Aufbauseminar)" semester="3,4,5,6">
+            <group>
+                <session day="thu" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMKMFc"/>
         </unit>
         <unit id="131033" title="Video und Alltagsforschung (2) (Aufbauseminar)" semester="4,5">
             <group>
@@ -9120,25 +9454,25 @@
             </group>
             <abstract-unit id="P-MKW-L-BAMKMFa"/>
         </unit>
-        <unit id="119578" title="Einführung Ästhetik (Basisseminar)" semester="1,3,5">
+        <unit id="155991" title="Einführung Ästhetik (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="wed" time="4" duration="4" rhythm="0"/>
             </group>
             <abstract-unit id="P-MKW-L-BBM1a"/>
         </unit>
-        <unit id="118204" title="Einführung Kultur (Basisseminar)" semester="1,3,5">
+        <unit id="155634" title="Einführung Kultur (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="mon" time="2" duration="4" rhythm="1"/>
             </group>
             <abstract-unit id="P-MKW-L-BBM1b"/>
         </unit>
-        <unit id="117981" title="Einführung Medien (Basisseminar)" semester="1,3,5">
+        <unit id="157450" title="Einführung Medien (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="mon" time="2" duration="4" rhythm="2"/>
             </group>
             <abstract-unit id="P-MKW-L-BBM1c"/>
         </unit>
-        <unit id="117830" title="Das Denken des Films (Filmclub) (Basisseminar)" semester="1,3,5">
+        <unit id="155441" title="Das Denken des Films (Filmclub) (Basisseminar)" semester="1,3,5">
             <group>
                 <session day="tue" time="4" duration="4" rhythm="0"/>
             </group>
@@ -9211,6 +9545,15 @@
             </group>
             <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
+        <unit id="157569" title="Franzoesisch A1.2 (Medien- und Kulturwissenschaft) (French A1.2 MekuWi only) (Sprachkurs)" semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROb"/>
+        </unit>
         <unit id="121123" title="Kulturtheorie und Kulturgeschichte in globalgeschichtlichen Kontexten (Basisseminar)" semester="1,2,3,4,5,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
@@ -9221,12 +9564,23 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
             <abstract-unit id="P-MKW-L-BPROc"/>
         </unit>
-        <unit id="119952" title="Italienisch A1 (Medien- und Kulturwissenschaft) (Italian A1 Mekuwi only) (Sprachkurs)" semester="1,3,5">
+        <unit id="157567" title="Franzoesisch A2.2 (Medien- und Kulturwissenschaft) (French A2.2 MekuWi only) (Sprachkurs)" semester="1,3,5">
+            <group>
+                <session day="thu" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROc"/>
+        </unit>
+        <unit id="157577" title="Italienisch A1 (Medien- und Kulturwissenschaft) (Italian A1 Mekuwi only) (Sprachkurs)" semester="1,3,5">
             <group>
                 <session day="tue" time="2" duration="2" rhythm="0"/>
-                <session day="thu" time="3" duration="2" rhythm="0"/>
+            </group>
+            <group>
+               <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-MKW-L-BPROb"/>
         </unit>
@@ -9236,6 +9590,12 @@
             </group>
             <group>
                 <session day="thu" time="6" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-MKW-L-BPROb"/>
             <abstract-unit id="P-MKW-L-BS1a"/>
@@ -9263,12 +9623,27 @@
             </group>
             <abstract-unit id="P-MKW-L-BPROc"/>
         </unit>
+        <unit id="156780" title="Spanisch A2 Parallelkurs (Medien- und Kulturwissenschaft)(Sprachkurs)" semester="1,3,5">
+            <group>
+                <session day="tue" time="2" duration="2" rhythm="0"/>
+            </group>
+            <group>
+                <session day="wed" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BPROc"/>
+        </unit>
         <unit id="119579" title="Heimat, die Stadt und das Selbst: Eine Geschichte des deutschen Films (Heimat, the City and the Self: A History of German Film)(Aufbauseminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-MKW-L-BAMAGa"/>
             <abstract-unit id="P-MKW-L-BAMAGc"/>
+        </unit>
+        <unit id="160620" title="Subjektivität und Stimme (Aufbauseminar)" semester="1,3,5">
+            <group>
+                <session day="thu" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMAGa"/>
         </unit>
         <unit id="121090" title="New Materialisms (Aufbauseminar)" semester="1,3,5">
             <group>
@@ -9893,6 +10268,7 @@
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaF"/>
             <abstract-unit id="P-ROM-L-BARSF4a"/>
             <abstract-unit id="P-ROM-L-BARSF4b"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
@@ -9904,7 +10280,7 @@
                 <session day="mon" time="1" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVSWa"/>
-            <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaF"/>
             <abstract-unit id="P-ROM-L-BOAS4a"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -9915,6 +10291,7 @@
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaI"/>
             <abstract-unit id="P-ROM-L-BOAS4a"/>
             <abstract-unit id="P-ROM-L-BOT6b"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
@@ -9925,21 +10302,29 @@
             <group>
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
+            <abstract-unit id="P-ROM-L-BVSWaS"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaS"/>
             <abstract-unit id="P-ROM-L-BVSWb"/>
+            <abstract-unit id="P-ROM-L-BVSWbS"/>
         </unit>
         <unit id="132455" title="Varietaetenlinguistik (Spanisch) (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="wed" time="6" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaS"/>
             <abstract-unit id="P-ROM-L-BVSWb"/>
+            <abstract-unit id="P-ROM-L-BVSWbS"/>
         </unit>
         <unit id="126588" title="Projektseminar Sprachwissenschaft (Franzoesisch, Italienisch, Spanisch) (Projektseminar)" semester="2,4,6">
             <group>
                 <session day="fri" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVSWb"/>
+            <abstract-unit id="P-ROM-L-BVSWbF"/>
+            <abstract-unit id="P-ROM-L-BVSWbI"/>
+            <abstract-unit id="P-ROM-L-BVSWbS"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
             <abstract-unit id="P-ROM-L-BOF1a"/>
@@ -9951,7 +10336,13 @@
                 <session day="wed" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aF"/>
+            <abstract-unit id="P-ROM-L-BARS1aI"/>
+            <abstract-unit id="P-ROM-L-BARS1aS"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaF"/>
+            <abstract-unit id="P-ROM-L-BVSWaI"/>
+            <abstract-unit id="P-ROM-L-BVSWaS"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
             <abstract-unit id="P-ROM-L-BOF1a"/>
@@ -9963,8 +10354,11 @@
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bF"/>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aF"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaF"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
             <abstract-unit id="P-ROM-L-BOF1a"/>
@@ -9974,8 +10368,11 @@
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bI"/>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aI"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaI"/>
             <abstract-unit id="P-ROM-L-BOAS4b"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -9986,8 +10383,11 @@
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bS"/>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aS"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaS"/>
             <abstract-unit id="P-ROM-L-BOAS4b"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -9998,8 +10398,11 @@
                 <session day="wed" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bS"/>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aS"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaS"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
             <abstract-unit id="P-ISI-BOS1b"/>
@@ -10029,13 +10432,15 @@
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
-            <abstract-unit id="P-ROM-L-BALWFEF4b"/>
+             <abstract-unit id="P-ROM-L-BVLWbF"/>
+           <abstract-unit id="P-ROM-L-BALWFEF4b"/>
         </unit>
         <unit id="126582" title="Erzaehlweisen des franzoesischen Realismus - von Flaubert bis Houellebecq (Basisseminar)" semester="2,4,6">
             <group>
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4b"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
             <abstract-unit id="P-MKW-L-BOKR3a"/>
@@ -10047,6 +10452,7 @@
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbI"/>
             <abstract-unit id="P-ROM-L-BALWIEF4b"/>
         </unit>
         <unit id="126576" title="La figura del dictador en la literatura latinoamericana (Basisseminar)" semester="2,4,6">
@@ -10054,6 +10460,7 @@
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4b"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
         </unit>
@@ -10062,6 +10469,7 @@
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbF"/>
             <abstract-unit id="P-ROM-L-BALWSEF4b"/>
             <abstract-unit id="P-MKW-L-BBMVIMc"/>
         </unit>
@@ -10070,6 +10478,7 @@
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWa"/>
+            <abstract-unit id="P-ROM-L-BVLWaF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4a"/>
         </unit>
         <unit id="126579" title="Projektseminar Literaturwissenschaft (Franzoesisch) (Seminar)" semester="2,4,6">
@@ -10077,6 +10486,7 @@
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWa"/>
+            <abstract-unit id="P-ROM-L-BVLWaF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4a"/>
         </unit>
         <unit id="128354" title="Projektseminar Literaturwissenschaft (Italienisch) (Seminar)" semester="2,4,6">
@@ -10084,6 +10494,7 @@
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWa"/>
+            <abstract-unit id="P-ROM-L-BVLWaI"/>
             <abstract-unit id="P-ROM-L-BALWIEF4a"/>
         </unit>
         <unit id="128480" title="Projektseminar Literaturwissenschaft (Spanisch) (Seminar)" semester="2,4,6">
@@ -10094,6 +10505,7 @@
                 <session day="tue" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWa"/>
+            <abstract-unit id="P-ROM-L-BVLWaS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4a"/>
         </unit>
         <unit id="126637" title="Kulturwissenschaftliche Gedächtnistheorie am Beispiel des 11-M (Aufbauseminar)" semester="2,4,6">
@@ -10103,7 +10515,13 @@
             <abstract-unit id="P-ROM-L-BOKR3b"/>
             <abstract-unit id="P-MKW-L-BAMMa"/>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aF"/>
+            <abstract-unit id="P-ROM-L-BALW1aI"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bF"/>
+            <abstract-unit id="P-ROM-L-BALW1bI"/>
+            <abstract-unit id="P-ROM-L-BALW1bS"/>
             <abstract-unit id="P-ROM-L-BOKR3b"/>
         </unit>
         <unit id="126636" title="Heuchler, Schmeichler, Simulanten: Molières Komoedien (Aufbauseminar)" semester="2,4,6">
@@ -10111,7 +10529,9 @@
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aF"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
             <abstract-unit id="P-ROM-L-BOMK5b"/>
         </unit>
@@ -10120,7 +10540,9 @@
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aI"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bI"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
         </unit>
         <unit id="126581" title="Javier Cercas y la memoria histórica (Aufbauseminar)" semester="2,4,6">
@@ -10128,7 +10550,9 @@
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bS"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
             <abstract-unit id="P-ROM-L-BOT6b"/>
         </unit>
@@ -10955,6 +11379,9 @@
                 <session day="wed" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BRSWa"/>
+            <abstract-unit id="P-ROM-L-BRSWaF"/>
+            <abstract-unit id="P-ROM-L-BRSWaI"/>
+            <abstract-unit id="P-ROM-L-BRSWaS"/>
         </unit>
         <unit id="120422" title="Einführung in das Studium der romanistischen Sprachwissenschaft (Franzoesisch) (Seminar)" semester="1,3,5">
             <group>
@@ -10979,6 +11406,7 @@
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaF"/>
             <abstract-unit id="P-ROM-L-BARSF4a"/>
             <abstract-unit id="P-ROM-L-BARSF4b"/>
             <abstract-unit id="P-ROM-L-BOAS4a"/>
@@ -11008,7 +11436,9 @@
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aF"/>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bF"/>
             <abstract-unit id="P-ROM-L-BARSF4d"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -11018,7 +11448,9 @@
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aF"/>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bF"/>
             <abstract-unit id="P-ROM-L-BARSF4d"/>
             <abstract-unit id="P-ROM-L-BOAS4b"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
@@ -11033,7 +11465,9 @@
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aI"/>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bI"/>
             <abstract-unit id="P-ROM-L-BARSI4d"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -11044,8 +11478,10 @@
             <group>
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
+            <abstract-unit id="P-ROM-L-BARS1aS"/>
             <abstract-unit id="P-ROM-L-BARS1a"/>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bS"/>
             <abstract-unit id="P-ROM-L-BARSS4d"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
             <abstract-unit id="P-ROM-L-BOMK5b"/>
@@ -11061,7 +11497,9 @@
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aS"/>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bS"/>
             <abstract-unit id="P-ROM-L-BARSS4d"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -11073,7 +11511,11 @@
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aF"/>
+            <abstract-unit id="P-ROM-L-BARS1aS"/>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bS"/>
+            <abstract-unit id="P-ROM-L-BARS1bF"/>
             <abstract-unit id="P-ROM-L-BARSF4d"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -11101,6 +11543,7 @@
             <abstract-unit id="P-ROM-L-BRLWa"/>
             <abstract-unit id="P-ROM-L-BRLWFa"/>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
         </unit>
         <unit id="120425" title="Das italienische Rinascimento (Vorlesung)" semester="1,3,5">
@@ -11110,6 +11553,7 @@
             <abstract-unit id="P-ROM-L-BRLWa"/>
             <abstract-unit id="P-ROM-L-BRLWIa"/>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aI"/>
             <abstract-unit id="P-ROM-L-BALWIEF4c"/>
         </unit>
         <unit id="120426" title="Grundzuege der spanischen Literatur- und Kulturgeschichte vom 17. zum 20. Jahrhundert (Vorlesung)" semester="1,3,5">
@@ -11119,6 +11563,7 @@
             <abstract-unit id="P-ROM-L-BRLWa"/>
             <abstract-unit id="P-ROM-L-BRLWSa"/>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
         </unit>
         <unit id="120419" title="Einführung in das Studium der romanistischen Literaturwissenschaft (Franzoesisch) (Seminar)" semester="1,3,5">
@@ -11150,6 +11595,7 @@
                 <session day="tue" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
             <abstract-unit id="P-ROM-L-BOMK5b"/>
@@ -11159,6 +11605,7 @@
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
             <abstract-unit id="P-ROM-L-BOMK5b"/>
@@ -11169,6 +11616,7 @@
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
         </unit>
         <unit id="121170" title="Exilio y migración en México a través de la literatura (siglo XX) (Basisseminar)" semester="1,3,5">
@@ -11176,6 +11624,7 @@
                 <session day="tue" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
         </unit>
         <unit id="122963" title="Neutrales pero beligerantes. Aspectos de la cultura española en torno a 1914 (Basis- und Aufbauseminar)" semester="1,3,5">
@@ -11183,8 +11632,11 @@
                 <session day="thu" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVLWb"/>
+            <abstract-unit id="P-ROM-L-BVLWbS"/>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
         </unit>
@@ -11193,7 +11645,9 @@
                 <session day="thu" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aF"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
             <abstract-unit id="P-ROM-L-BOMK5b"/>
         </unit>
@@ -11202,7 +11656,11 @@
                 <session day="mon" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aF"/>
+            <abstract-unit id="P-ROM-L-BALW1aI"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bS"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
             <abstract-unit id="P-ROM-L-BALWIEF4c"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
@@ -11212,7 +11670,9 @@
                 <session day="mon" time="2" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aF"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
             <abstract-unit id="P-ROM-L-BOT6b"/>
         </unit>
@@ -11221,7 +11681,9 @@
                 <session day="wed" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aF"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bF"/>
             <abstract-unit id="P-ROM-L-BALWFEF4c"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
             <abstract-unit id="P-ROM-L-BOMK5b"/>
@@ -11231,7 +11693,9 @@
                 <session day="fri" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
         </unit>
         <unit id="120747" title="Goza el fresco paisaje de mi herida - Das spanischsprachige Sonett als intertextuelles Phaenomen von Luis de Góngora bis Federico García Lorca(Aufbauseminar)" semester="1,3,5">
@@ -11239,7 +11703,9 @@
                 <session day="fri" time="4" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
             <abstract-unit id="P-ROM-L-BOT6b"/>
@@ -11249,7 +11715,9 @@
                 <session day="mon" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BALW1a"/>
+            <abstract-unit id="P-ROM-L-BALW1aS"/>
             <abstract-unit id="P-ROM-L-BALW1b"/>
+            <abstract-unit id="P-ROM-L-BALW1bS"/>
             <abstract-unit id="P-ROM-L-BALWSEF4c"/>
             <abstract-unit id="P-ROM-L-BOKR3a"/>
         </unit>
@@ -14887,6 +15355,9 @@
                 <session day="fri" time="5" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BVSWc"/>
+            <abstract-unit id="P-ROM-L-BVSWcF"/>
+            <abstract-unit id="P-ROM-L-BVSWcI"/>
+            <abstract-unit id="P-ROM-L-BVSWcS"/>
             <abstract-unit id="P-ROM-L-BARSF4c"/>
             <abstract-unit id="P-ROM-L-BARSS4c"/>
             <abstract-unit id="P-ROM-L-BARSI4c"/>
@@ -15080,6 +15551,7 @@
             </group>
             <abstract-unit id="P-PHIL-L-BPPBEa"/>
             <abstract-unit id="P-PHIL-L-BPPBEaEF"/>
+            <abstract-unit id="P-MKW-L-BAMMGEa"/>
         </unit>
          <unit id="150242" title="Veranstaltung Vorlesung Mittelalter (Vorlesung)" semester="2,4,6">
             <group>
@@ -15302,14 +15774,35 @@
             </group>
             <abstract-unit id="P-MKW-L-BAMMGEb"/>
         </unit>
+          <unit id="156684" title="Ethik der Migration" semester="1,3,5">
+            <group>
+                <session day="mon" time="2" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMMGEb"/>
+        </unit>
+          <unit id="157771" title="Ethik digitaler Medien" semester="1,3,5">
+            <group>
+                <session day="tue" time="4" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMMGEb"/>
+        </unit>
+          <unit id="156678" title="Legalisierung des Cannabiskonsums?" semester="1,3,5">
+            <group>
+                <session day="wed" time="5" duration="2" rhythm="0"/>
+            </group>
+            <abstract-unit id="P-MKW-L-BAMMGEb"/>
+        </unit>
         <!-- zusätzliche Veranstaltungen Rom-ITA! --> 
           <unit id="163894-1" title="Aufbaukurs Italienisch (Aufbauseminar)" semester="1,3,5">
             <group>
                 <session day="thu" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bI"/>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aI"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaI"/>
             <abstract-unit id="P-ROM-L-BOAS4b"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
@@ -15320,8 +15813,11 @@
                 <session day="fri" time="3" duration="2" rhythm="0"/>
             </group>
             <abstract-unit id="P-ROM-L-BARS1b"/>
+            <abstract-unit id="P-ROM-L-BARS1bI"/>
             <abstract-unit id="P-ROM-L-BARS1a"/>
+            <abstract-unit id="P-ROM-L-BARS1aI"/>
             <abstract-unit id="P-ROM-L-BVSWa"/>
+            <abstract-unit id="P-ROM-L-BVSWaI"/>
             <abstract-unit id="P-ROM-L-BOAS4b"/>
             <abstract-unit id="P-ISI-L-BS3a"/>
             <abstract-unit id="P-ISI-L-BS3b"/>
